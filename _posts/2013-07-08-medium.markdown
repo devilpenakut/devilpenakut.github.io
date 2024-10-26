@@ -1,0 +1,54 @@
+---
+layout: post
+title: Medium - Minimalist Blog
+date: '2013-07-08 12:48:15'
+tags:
+- blog
+- medium
+- menulis
+- minimalis
+- review
+- tulis
+- write
+- hash-import-2024-05-05-07-58
+---
+
+ ![](https://i1.wp.com/104.199.202.96/wp-content/uploads/2013/07/0-PAD_s3-o3o2yhsUR.jpeg?resize=699%2C293)
+
+https://medium.com/about/9e53ca408c48
+
+## Apa Ini?
+
+Medium? Apa itu Medium? Layanan blog yang baru atau berbeda? Saya belajar disini untuk tahu apa Medium itu. Walau telah [dijelaskan](https://medium.com/about/9e53ca408c48) oleh Medium sendiri.
+
+> Medium is a new place on the Internet where people share ideas and stories that are longer than 140 characters and not just for friends.
+
+<!--more-->
+
+Saya rasa mungkin bagi sebagian orang penjelasan itu mewakili, tapi belum untuk saya. Tidak ada formatting bar disini, tidak ada Markdown, tidak ada widget, tidak ada bahasa HTML, hanya menulis dan menulis. Bahkan disarankan untuk menggunakan sedikit gambar.
+
+> Medium is a beautiful space for reading and writing — and little else. The words are central. They can be accompanied by images to help illustrate your point. But there are no gratuitous sidebars, plug-ins, or widgets. There is nothing to set up or customize.
+
+Menggunakan format tulisan tetap bisa digunakan dengan menggunakan “selecting toolbar” yang muncul ketika kita memilih text yang ingin kita format.
+
+ ![](https://i0.wp.com/dl.dropboxusercontent.com/u/15623890/Blog/0-YHJ5LgVLEOzfSXNY.png?resize=322%2C110&ssl=1)
+
+The in-context Medium editor toolbar [https://medium.com/about/df8eac9f4a5e]
+
+## Prospeknya?
+
+Format “blog” yang ditujukan hanya menulis dan menulis, atau bisa disebut minimalis blogging (entah dari mana kata itu) bisa juga menarik orang. Ada penjelasan dari [Justin Jackson](http://justinjackson.ca/words.html) yang mengatakan:
+
+> At its heart, web design should be about words. Words don’t come after the design is done. Words are the beginning, the core, the focus.
+
+Lain lagi dengan blog [Minimally Minimal](http://www.minimallyminimal.com/) dari Andrew Kim. Dia menciptakan blog yang minimalis dengan tulisan yang sedikit tapi menggunakan gambar-gambar yang ditampilkan begitu bagus. Berlawanan dengan Justin bukan?
+
+Dijaman yang serba rumit ini memang kadang melihat sesuatu yang minimalis menjadi lebih mudah dibandingkan dengan sesuatu yang terasa “berat”. Minimalis dalam arti disini berarti desain web dan bahasan yang tidak terlalu berat dan menggunakan konten-konten pendukung yang secukupnya.
+
+Baik penuh tulisan dengan sedikit gambar atau penuh gambar dengan sedikit tulisan, pada dasarnya minimalis blogging membuat orang memahami atas apa yang ingin kita sampaikan.
+
+> **Just start with one page** , with a single focus. Write it and publish it, and then iterate on that. Every time you’re about to add something, ask yourself: does this help me communicate better? Will that additional styling, image, or hyperlink give my audience more understanding? If the answer’s “no”, don’t add it.
+
+Jadi, menulislah.
+
+<!--kg-card-end: html-->
