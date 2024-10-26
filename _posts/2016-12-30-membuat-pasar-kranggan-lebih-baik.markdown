@@ -14,6 +14,7 @@ _Portal kota terlengkap yang menyediakan informasi terbaru hotel restauran unive
 
 Pasar ini masih baru saja direnovasi untuk lebih memberikan kenyamanan bagi pedagang dan pengunjung. Namun sayang. Tanpa pengelolaan yang benar dan disiplin, kelakuan pedagang dan pengunjung yang semena-mena membuat pasar ini kembali kumuh.
 
+* * *
 
 Pasar Kranggan, Yogyakarta. Pasar yang cukup besar terletak ditengah kota. Dekat dengan Tugu, dekat dengan Malioboro. Sebagai salah satu pasar utama untuk _kulakan_ menjadikan pasar ini selalu ramai dipagi hari.
 
