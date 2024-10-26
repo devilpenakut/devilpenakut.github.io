@@ -11,7 +11,7 @@ tags:
 
 Mari ngobrol [Netflix]( __GHOST_URL__ /2017/04/saya-bayar-tapi-kenapa-tidak-boleh-akses/) lagi. Beberapa lalu saya pernah cerita, kalau Indihome sampai dengan sekarang masih melakukan blokir akses ke [Netflix]( __GHOST_URL__ /2016/01/bukan-netflix-atau-kontennya-yang-salah-tapi-penggunanya/). Salah satu cara menembusnya adalah dengan menggunakan VPN.
 
-Saya rasa penggunaan VPN ini bukan sesuatu yang salah dari sisi konsumen, konsumen bayar akses ke Telkom, konsumen bayar akses ke [Netflix](https://www.netflix.com/id/n/2b438b29-cdb1-424e-bfb6-23edb20c4f90)secara legal. Namun apa daya kekuatan konsumen terhadap ISP tidak kuat di negeri ini. Pilihannya ganti ISP atau pakai cara lain, dengan VPN.
+Saya rasa penggunaan VPN ini bukan sesuatu yang salah dari sisi konsumen, konsumen bayar akses ke Telkom, konsumen bayar akses ke [Netflix](https://www.netflix.com/id/n/2b438b29-cdb1-424e-bfb6-23edb20c4f90) secara legal. Namun apa daya kekuatan konsumen terhadap ISP tidak kuat di negeri ini. Pilihannya ganti ISP atau pakai cara lain, dengan VPN.
 
 Pakai VPN juga bukan sembarang VPN, VPN nya harus mempunyai fitur _unblock_ Netflix, dan mempunyai server di Indonesia (agar konsumen dari sisi Netflix tetap legal).
 
