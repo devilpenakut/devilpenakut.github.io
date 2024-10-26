@@ -151,23 +151,21 @@ img {
 //
 
 .wrapper-masthead {
-  background-color: #f8f8f8; /* atau warna yang Anda inginkan */
+  margin-bottom: 50px;
   width: 100%;
-  padding: 20px 0;
+  background-color: #f8f8f8;
 }
 
 .masthead {
+  padding: 20px 0;
+  border: none;
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
 
-.site-info {
-  flex-grow: 1;
-}
-
-nav {
-  margin-left: 20px;
+  @include mobile {
+    text-align: center;
+  }
 }
 
 .site-avatar {
@@ -188,8 +186,9 @@ nav {
 }
 
 .site-info {
-  float: left;
-
+  flex-grow: 1;
+  margin: 0;
+  
   @include mobile {
     float: none;
     display: block;
@@ -218,11 +217,10 @@ nav {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
+  margin-left: 20px;
+  float: none;
+  margin-top: 0;
+  
   @include mobile {
     float: none;
     margin-top: 9px;
