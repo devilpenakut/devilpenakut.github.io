@@ -9,6 +9,10 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
+<iframe
+  src="https://gudeg.net/direktori/1362/pasar-kranggan-yogyakarta.html"
+  style="width:100%; height:300px;"
+></iframe>
 [**Pasar Kranggan Yogyakarta**  
 _Portal kota terlengkap yang menyediakan informasi terbaru hotel restauran universitas tempat wisata serta objek menarik…_gudeg.net](https://gudeg.net/direktori/1362/pasar-kranggan-yogyakarta.html "https://gudeg.net/direktori/1362/pasar-kranggan-yogyakarta.html")
 
