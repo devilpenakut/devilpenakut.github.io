@@ -11,8 +11,7 @@ CloudMAX Telkomsel](**GHOST_URL**/2018/12/telkomsel-apa-sih-maumu-dengan-cloudma
 Setelah ditelusuri ternyata banyak orang mencari mengenai paket CloudX
 Telkomsel dimana ada promo Paket CloudX 30GB seharga Rp10,-.
 
-![Aplikasi
-MyTelkomsel](https://i0.wp.com/www.tagar.id/Asset/uploads2019/1585795503413-aplikasi-mytelkomsel.jpg?w=1200&ssl=1)Promo paket CloudX
+Promo paket CloudX
 
 Sebelum masuk di permasalahannya. Apa sih CloudX ini sebenarnya?
 

@@ -12,8 +12,6 @@ tags:
 
 Seperti yang saya janjikan setelah berhasil membuat [Ubuntu saya menjadi Mac dengan Mac4Lin](http://devilpenakut.wordpress.com/2008/06/28/ubuntu-804-mac4lin-indosatm2/), maka akan saya sharingkan tata cara nya. Tatacara ini semuanya dijelaskan dalam Mac4Lin Documentation. (karena keterbatasan waktu saya hanya menjelaskan untuk Gnome 2.20, untuk versi sebelumnya dapat dilihat di documentationnya)
 
-[![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-22.jpg?resize=300%2C225)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-22.jpg)
-
 <!--more-->
 
 Pertama-tama pastinya download semua file yang dibutuhkan di bagian download dari website [mac4lin](http://sourceforge.net/projects/mac4lin).dan ekstraklah.
@@ -23,26 +21,18 @@ Pertama-tama pastinya download semua file yang dibutuhkan di bagian download dar
 Pilih System \> Preferences \> Appearance. Klik Install. Browse dan pilih Mac4Lin GTK Metacity  
 Theme.tar.gz file (ditempat tadi ekstrak file Mac4Lin).
 
-[![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-3.jpg?resize=300%2C263)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-3.jpg)
-
 Setelah instalasi selesai klik di ‘Apply new theme’ atau pilih mac4lin theme jika pilihan&nbsp; ‘Apply new theme’ tidak keluar. Pilih costumize dan pastikan controls dan windows border terpilih mac4lin GTK theme.
-
-[![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-4.jpg?resize=300%2C186)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-4.jpg)
 
 2. Merubah ikon dengan GTK Icon Theme
 {: start="2"}
 
 Pilih System \> Preferences \> Appearance. Klik Install. Browse dan pilih the Mac4Lin Icon Theme .tar.gz file (ditempat tadi ekstrak file Mac4Lin).
 
-[![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-5.jpg?resize=300%2C263)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-5.jpg)
-
 Setelah instalasi selesai klik di ‘Apply new theme’ atau pilih mac4lin theme jika pilihan&nbsp; ‘Apply new theme’ tidak keluar. Pilih costumize dan pastikan pada bagian icon terpilih mac4lin icon theme.
 
 Untuk Search/Network/Wi-Fi icon untuk bekerja baik, perlu untuk add applets yang relevan. Klik kanan di tempat kosong pada panel bagian atas, dan klik ‘add to panel’ gulir kebawah dan pilih ‘search for files’ applet.
 
 Lalu ulangi bagian pertama tadi namun sekarang pilih ‘network monitor’ applet.
-
-[![](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-8.jpg?resize=300%2C225)](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-8.jpg)
 
 3. Emerald Theme untuk Beryl & Compiz
 {: start="3"}
@@ -52,14 +42,10 @@ Pertama perlu diinstall Beryl/Compiz dan emerald theme manager. Beryl/Compiz/Fus
 Untuk install Mac4Lin Emerald theme: Pilih System \> Preferences \> Emerald Theme  
 Manager. Klik ‘Import…’ Pilih file dari Emerald folder klik open dan pilih Mac4Lin Emerald theme.
 
-[![](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-9.jpg?resize=300%2C219)](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-9.jpg)
-
 4. Merubah Cursors
 {: start="4"}
 
 Pilih System \> Preferences \> Appearance. Klik Install. Browse dan pilih the Mac4Lin Cursor Theme .tar.gz file (ditempat tadi ekstrak file Mac4Lin).
-
-[![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-10.jpg?resize=300%2C263)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-10.jpg)
 
 Setelah instalasi selesai klik di ‘Apply new theme’ atau pilih mac4lin theme jika pilihan&nbsp; ‘Apply new theme’ tidak keluar. Pilih costumize dan pastikan pointers terpilih mac4lin Cursor Theme.
 
@@ -68,11 +54,7 @@ Setelah instalasi selesai klik di ‘Apply new theme’ atau pilih mac4lin theme
 
 Pilih System \> Administration \> Login Window \> Local Tab. Masukkan Admin password jika ditanyakan. Pilih Mac4Lin GDM theme dengan meng-klik Add. Lalu akan ada preview-pilih apply.
 
-[![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-12.jpg?resize=228%2C300)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-12.jpg)
-
 Screenshot dr GDM
-
-[![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-13.jpg?resize=200%2C150)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-13.jpg)
 
 6.GTK Splash  
 Merubah splash screen paling mudah menggunakan GtweakUI. Dapat di unduh di Homepage: http://sourceforge.net/projects/gtweakui untuk yang sudah mempunyai repo ketik
@@ -84,8 +66,6 @@ sudo apt-get install gtweakui
 di terminal.  
 Setelah instalasi copy semua splash images files dari GTK Splash ke `/usr/share/pixmaps/splash/` sebagai root.  
 Lalu pilih System \> Preferences \> gtweakui-session. Klik gambar yang dipilih.Apply.
-
-[![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-14.jpg?resize=235%2C300)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-14.jpg)
 
 7. USplash Screen (Boot splash)  
 {: start="7"}
@@ -99,8 +79,6 @@ Penting!Backup Grub untuk menghindari hal-hal yang tidak diinginkan.
 Lalu pilih System \> Administration \> Startup-Manager ,dan masukkan Admin password. di halaman  
 ‘Boot options’ , Check ‘Show bootsplash’ . Lalu ke halaman ‘Appearance’.  
 Klik di Usplash theme&nbsp; menu dropdown dan pilih theme yang dimaksud. Jika theme tidak keluar klik ‘Manage usplash themes’, cari dimana .so files ditempatkan pilih dan add.
-
-[![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-16.jpg?resize=246%2C300)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-16.jpg)
 
 8. Docks
 {: start="8"}

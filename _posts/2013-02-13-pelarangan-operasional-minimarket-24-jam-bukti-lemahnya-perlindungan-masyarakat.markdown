@@ -14,8 +14,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![24 jam](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2013/02/24-jam.jpg?resize=300%2C225)
-
 Oke, pertama saya pastikan bahwa saya TIDAK (belum) memiliki minimarket dan tidak berniat menyudutkan siapapun. Saya hanya ingin melihat dari sisi pendapat saya menganai hal pelarangan operasional minimarket 24 Jam.
 
 <!--more-->

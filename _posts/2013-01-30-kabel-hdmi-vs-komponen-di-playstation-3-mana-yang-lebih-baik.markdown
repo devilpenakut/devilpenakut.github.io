@@ -18,8 +18,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![http://walyou.com/component-video-cables-hdmi/](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2013/01/hdmi-vs-component.png?resize=510%2C233)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2013/01/hdmi-vs-component.png)
-
 http://walyou.com/component-video-cables-hdmi/
 
 Permasalahan dimulai ketika tiba-tiba Playstation 3 yang menjadi teman bermain (terutama buat saya yg tdk mungkin masuk ranah dugem) tidak mau menampilkan gambar. Hitam. Kelam. \*halah
@@ -36,11 +34,7 @@ Mulai curiga pada port hardware HDMI PS3 maka saya beli kembali kabel karena kab
 
 Dalam keadaan hampir pasrah memainkan PS3 dengan menggunakan kabel RCA yang ancur itu baru sadar ada satu kabel lagi yang belum dicoba yaitu kabel [Komponen](http://en.wikipedia.org/wiki/Component_video "Component Wikipedia"). Mencari kabel komponen untuk PS3 didaerah Yogyakarta pun bukan merupakan hal yang mudah, dan ternyata memang TIDAK ADA. \*sigh\*. Jalan satu-satunya adalah pesan online. Saya memesannya di [Xionzz](http://www.kaskus.co.id/thread/000000000000000006713492/onestop-gaming-cornerjual-consoleamphandheldbd-ps3acc-dll-harga-bersaing/ "Xionzz")&nbsp;seharga 70ribu. Penampakannya seperti gambar berikut.&nbsp;Ya..ya.. tau harusnya pakai kabel Komponen asli tapi harganya ga masuk akal demi sebuah kabel. \*hehe
 
-[![PS3 COMPONENT VIDEO CABLE](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2013/01/ps3-component-video-cable.jpg?resize=259%2C300)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2013/01/ps3-component-video-cable.jpg)
-
 Kabel Komponen Ekonomis (http://www.lygotech.com/products.php?category=Games&action=view&subcat\_code=PS3)
-
- ![PS3-Cable-Component-AV-2](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2013/01/ps3-cable-component-av-2.jpg?resize=300%2C199)
 
 Kabel Komponen Asli Playstation (http://www.gtplanet.net/forum/showthread.php?t=271372)
 

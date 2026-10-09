@@ -16,8 +16,6 @@ Parkir Jolie terletak di tepi jalan dan diatas trotoar. Ya diatas trotoar salah,
 
 Saya naik motor, sesuai dengan Perda No 19 Tahun 2009 tentang Retribusi Parkir di Tepi Jalan Umum yang dikeluarkan oleh Pemerintah Daerah Kota Yogyakarta tarif yang berlaku adalah Rp. 1.000,-
 
-![Screen Shot 2016-06-03 at 12.59.31 PM](https://i2.wp.com/devilpenakut.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-03-at-12.59.31-PM.png?resize=674%2C499)
-
 Namun yang terjadi adalah saya ditagih Rp. 2.000,-. Tanpa bukti karcis parkir pula. Saya tidak masalah apabila itu bukan merupakan parkir tepi jalan umum.
 
 Sebenarnya apakah sanksi bila menagih tidak sesuai peraturan? Tidak ada di Perda-nya. Nah bingung kan. Kalau wajib bayar tidak membayar memang kena sanksi. Ini mulai banyak terjadi dibeberapa tempat di Yogyakarta.

@@ -14,6 +14,4 @@ Yes akhirnya behasil juga install semuanya, bisa internetan di ubuntu, tampilan 
 
 Ni skrinsut nya..he..
 
-[![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/06/screenshot.png?resize=300%2C225)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/06/screenshot.png)
-
 <!--kg-card-end: html-->

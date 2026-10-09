@@ -14,8 +14,6 @@ Telegram baru aja mengeluarkan beberapa fitur baru di aplikasi Telegram nya. Tap
 
 > a publishing tool that lets you create rich posts with markdown, photos, and all sorts of embedded stuff.
 
-
-
 Intinya di Telegraph ini adalah kita bisa _posting_ tulisan yang didalamnya ada foto, link _embed_ tanpa harus mendaftar sesuatu. Mirip tulisan di blog namun anonim. Oh iya jangan lupa ini juga gratis.
 
 ## Menurut saya ada beberapa kegunaan dari Telegraph ini

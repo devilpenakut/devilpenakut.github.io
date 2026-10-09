@@ -10,8 +10,6 @@ tags:
 
 Beberapa waktu lalu Smartfren pernah mengeluarkan modem router yang tersambung ke listrik, kalau tidak salah tipenya adalah RE-251.
 
-
-
 Modem router RE251  
 ([https://modem-techno.blogspot.com/2010/08/re251-cdma-evdo-router-modem.html](https://modem-techno.blogspot.com/2010/08/re251-cdma-evdo-router-modem.html))
 

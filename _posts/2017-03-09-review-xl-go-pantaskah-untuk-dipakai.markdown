@@ -68,8 +68,6 @@ Setelah baterai terpasang langsung bisa dinyalakan dengan menekan tombol
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-3.jpg)
 
-![20170308_125926-768x1024 (1)](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2017/03/20170308_125926-768x1024-1.jpg?resize=1024%2C768)
-
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-4.jpg)
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-5.jpg)
@@ -119,8 +117,6 @@ Karena XL tidak memblokir akses Netflix seperti di indihome maka saya bisa
 mengetes menggunakan fast.com. Pada pengujian menggunakan website fast.com
 mendapatkan *download* 20 mbps, jauh lebih tinggi dari pengujian menggunakan
 Speedtest.
-
-![Screenshot (1)](https://i2.wp.com/devilpenakut.com/wp-content/uploads/2017/03/Screenshot-1-1.png?resize=721%2C573)
 
 Kalau menggunakan ponsel ternyata koneksinya berkurang menjadi sekitar 12
 mbps, namun menyenangkannya dari beberapa pengujian selalu diatas 10 BPS

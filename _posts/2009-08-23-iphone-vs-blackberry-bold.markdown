@@ -17,7 +17,7 @@ tags:
 
 Setelah sebelumnya di informasikan perbandingan antara iPhone dan Nokia 5800, saya akan mencoba menginformasikan kembali perbandingan iPhone dengan kali ini Blackberry Bold. Artikel ini berasal dari theiphoneblog dan beberapa sumber lainnya.
 
-![](https://i0.wp.com/www.theiphoneblog.com/images/stories/2008/05/iphone-vs-blackberry-bold-24-400x261.png?resize=400%2C261)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/iphone-vs-blackberry-bold-w1.png)
 
 <!--more-->
 

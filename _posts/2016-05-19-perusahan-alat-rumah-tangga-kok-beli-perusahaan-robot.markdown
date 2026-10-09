@@ -11,8 +11,6 @@ tags:
 
 Tau Midea? Saya pakai Midea sebagai mesin cuci dirumah. [Midea](http://www.midea.com/global/) adalah penyedia peralatan rumah tangga seperti mesin cuci, AC, lemari es dll. Midea berasal dari Tiongkok.
 
-![midea-logo](https://i0.wp.com/devilpenakut.com/wp-content/uploads/2016/05/midea-logo.png?resize=601%2C239)
-
 Baru baru ini ada kabar Midea akan membeli produsen robot industri dari Jerman bernama [Kuka](http://www.kuka-robotics.com). Midea, perusahaan alat rumah tangga beli robot? Buat apa?
 
 Ternyata bukan hanya di Indonesia, permasalahan tenaga kerja juga dialami perusahaan di Tiongkok. Tenaga kerja disana terkenal murah, namun Midea menganggap akan lebih efisien bila menggunakan robot. _Plus_ tidak akan ada pemogokan karena permintaan untuk naik gaji dan permasalahan tenaga kerja lainnya.

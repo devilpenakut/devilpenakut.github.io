@@ -12,8 +12,6 @@ Pernah liat iklan rokok di Billboard pinggir jalan? Tau ngga kalau ada peringata
 
 Contohnya seperti ini:
 
-![](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2016/11/110416_0442_Peringatank1.jpg?w=1200)
-
 Oke, sekarang kita liat di Peraturan Pemerintah No 109 Tahun 2012 tentang Pengamanan Bahan Yang Mengandung Zat Adiktif Berupa Produk Tembakau Bagi Kesehatan, Pasal 27 Poin C:
 
 > tidak memperagakan, menggunakan, dan/atau menampilkan wujud atau bentuk Rokok atau sebutan lain yang dapat diasosiasikan dengan merek Produk Tembakau;

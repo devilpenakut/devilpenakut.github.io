@@ -96,8 +96,6 @@ Chrome 5.0.375.55 77,8
 
 ![memory](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-13.jpg)]
 
-![activity](https://i1.wp.com/lh5.ggpht.com/_Vbt_CWpQ5ZU/TAI4cabt7NI/AAAAAAAAAZQ/JTrBPT0MKXA/s800/activity.jpg?w=1200)
-
 Chrome terlihat unggul disini dengan memory yang terpakai paling sedikit, namun dilihat lebih teliti lagi di screenshot nya ada komponen “Google Chrome Worker” dan “Google Chrome Worker” yang juga bekerja ketika Chrome bekerja. Jika dijumlah semuanya menjadi 209,7 mb, dan itu menjadi yang terbesar. Saat ini saya tetap mengatakan Chrome menjadi pemenang, mohon masukan.
 
 **5. Acid Test**
@@ -126,8 +124,5 @@ Total keunggulan yang didapat adalah:
 Chrome menjadi pemenang di tes kecil ini, namun saya memberi catatan pada test memory yang masih menjadi pertanyaan komponen pengikut dari Chrome tersebut.
 
 Demikian tes kecil ini, mohon masukan dan pendapatnya.
-
-[  
- ![](https://i2.wp.com/www.lintasberita.com/buttons_lb/lintasberita-32x32-2.gif?w=1200) ](http://www.lintasberita.com/kirimmedia/url:http://devilpenakut.wordpress.com/2010/05/31/mac-browser-test/)
 
 <!--kg-card-end: html-->

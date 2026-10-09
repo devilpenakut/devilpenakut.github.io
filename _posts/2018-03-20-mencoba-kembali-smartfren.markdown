@@ -37,8 +37,6 @@ Smartfren secara umum memuaskan. Koneksi terus berjalan tanpa ada gangguan yg
 berarti. Kecepatan juga termasuk masuk akal, Youtube masih bisa jalan,
 browsing juga lancar.
 
-![Screenshot_20180316-154431](https://i0.wp.com/devilpenakut.com/wp-content/uploads/2018/03/Screenshot_20180316-154431.jpg?resize=251%2C90)
-
 Percobaan menggunakan Smartfren akan saya lanjutkan untuk komuter saya
 Yogyakarta-Solo dimana XL kalau sudah setengah perjalanan pasti sudah tidak
 ada koneksi.

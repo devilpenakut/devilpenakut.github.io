@@ -9,7 +9,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-
 Berdasarkan penjualan yang diperkirakan ebook akan mengalahkan edisi cetak ternyata mempunyai fakta yang berbeda. Penjualan ebook ternyata terjadi perlambatan dan penjualan buku cetak jauh dari kata punah.
 
 Bagi saya memang lebih enak membaca edisi cetak karena tidak membuat mata lelah dan tidak ada gangguan media sosial jika membaca melalui eReader atau tablet.

@@ -13,8 +13,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![mf622](https://i0.wp.com/satriadarma.webwae.com/wp-content/uploads/2008/11/indosat-m2-35g-new.jpg?w=1200)
-
 Tinggal 2 bulan lagi kontrak IM2 saya habis. Semakin lama juga kecepatan IM2 semakin melambat. Saatnya mencari cara agar modem bawaan IM2 ini bisa digunakan/dicoba menggunakan operator lain, dengan arti lain modem ini harus di unlock.
 
 Setelah browsing saya menemukan sofware unlocker bernama [Dc-Unlocker](http://www.anonym.to/?http://www.dc-unlocker.com/). Apakah DC-Unlocker ini?

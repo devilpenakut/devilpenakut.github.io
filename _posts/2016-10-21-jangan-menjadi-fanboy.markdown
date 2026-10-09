@@ -8,8 +8,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![pasted image 0](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2016/10/pasted-image-0.png?w=1200)
-
 Fanboy menurut Merriam-Webster (n.d. Web. 21 Oct. 2016) adalah ‘a boy or man who is an extremely or overly enthusiastic fan of someone or something’. Terjemahannya kira-kira begini &nbsp;‘laki-laki atau pria yang merupakan penggemar sangat atau terlalu antusias dari seseorang atau sesuatu’.
 
 Menjadi fanboy bakal bikin susah sendiri. Bener. Ketika produk yang kamu puja-puji ternyata tidak sesuai dengan ekspektasi dan orang lain menganggap itu kelemahan maka kamu akan berusaha untuk menutupi hal itu.

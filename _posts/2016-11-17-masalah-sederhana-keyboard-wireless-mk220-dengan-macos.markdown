@@ -16,8 +16,6 @@ Saya berencana mencoba menyambungkan<u><a href="https://support.apple.com/kb/sp6
 
 Saya sudah punya _keyboard_ dan _mouse wireless,_&nbsp;sebelumnya saya pakai di PC, <u><a href="http://www.logitech.com/en-roeu/product/wireless-combo-mk220" target="_blank">Logitech MK220</a></u>. Produk yang cukup simpel dan enak digunakan, kecuali terkait baterai _keyboard_-nya. Saya sambungkan dongle-nya ke Macbook, ternyata mouse langsung terbaca namun keyboard-nya tidak.
 
- ![](https://i2.wp.com/devilpenakut.com/wp-content/uploads/2016/11/pasted-image-0.png?resize=503%2C432)
-
 MK220
 
 Saya cari permasalahan di internet. Tidak ada yang mengalami masalah serupa. Saya coba cari dukungan kemungkinan ada update driver atau software yang harus di-install. Ternyata tidak ada untuk <u><a href="http://www.apple.com/macos/sierra/" target="_blank">MacOS</a></u>. Wah, saya berpikiran ini produk tidak bisa untuk MacOS. Saya sempat untuk mencari keyboard bluetooth lain karena berpikir ini pasti masalah dongle yang tidak cocok. Kalau langsung pakai bluetooth pasti cocok. Namun kemudian saya ingat masalah yang sering saya alami di PC.

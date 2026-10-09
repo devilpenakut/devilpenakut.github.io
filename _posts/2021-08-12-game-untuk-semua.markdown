@@ -32,8 +32,6 @@ game itu begitu buruk dan banyak bug. Namun bagi saya game itu masih nyaman
 untuk dimainkan dan seru. Bug memang ada tapi masih bisa dinikmati sampai
 akhirnya saya bisa menamatkannya.
 
-![](https://live.staticflickr.com/65535/51134095256_8602ab6a5a_z.jpg)
-
 Teman saya [@FajarIkhwanul](https://x.com/FajarIkhwanul) sangat suka
 bermain game-game yang tingkat kesulitan yang tinggi seperti [Sekiro: Shadows
 Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice),

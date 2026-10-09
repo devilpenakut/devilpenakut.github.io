@@ -33,7 +33,7 @@ Setelah menulis, seperti di layanan cloud lain seperti Google Doc, tulisan di Cl
 
 Atau jika tulisan tersebut merupakan tulisan bersama atau butuh di edit oleh orang lain Classeur juga bisa melakukan kolaborasi
 
-![Kolaboarsi](https://i0.wp.com/classeur.io/img/collaborate.gif?w=1200)
+![Kolaboarsi](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-w1.gif)
 
 #### 4. Ekspor File ke Format Lain
 
@@ -47,7 +47,7 @@ Selain bisa di share lain, dari Classeur bisa juga disimpan dengan format lain y
 
 Bila kita suka menulis blog, Classeur ini juga bisa melakukan langsung posting ke blog milik kita. Tentunya dengan di setting terlebih dulu
 
-![Upload ke Blog](https://i1.wp.com/classeur.io/img/blog.png?w=1200)
+![Upload ke Blog](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-w2.png)
 
 Bila kamu suka menulis dan kadang bingung mau menulis disana mungkin layanan web app ini bisa dicoba, gratis untuk batasan tertentu. Lengkapnya bisa dilihat dibawah
 

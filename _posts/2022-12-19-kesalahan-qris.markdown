@@ -17,7 +17,6 @@ Ini akan memudahkan proses pembayaran bagi pelanggan dan merchant, serta meminim
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/harmanwardani/status/1437404728263016450">https://twitter.com/harmanwardani/status/1437404728263016450</a></blockquote>
 
-
 ## 2. Sudah ada EDC tapi menggunakan papan terpisah buat menampikan kode QRIS
 
 Dengan menggunakan EDC yang sudah terintegrasi dengan fitur QRIS, merchant tidak perlu lagi menggunakan papan terpisah atau perangkat tambahan untuk menampilkan kode QRIS. Cukup dengan menampilkan kode QRIS di layar EDC, pelanggan dapat membayar dengan menggunakan pengakuisisi atau dompet digital yang mendukung QRIS.
@@ -25,7 +24,6 @@ Dengan menggunakan EDC yang sudah terintegrasi dengan fitur QRIS, merchant tidak
 Selain lebih praktis, penggunaan EDC yang sudah terintegrasi dengan QRIS juga akan mempermudah proses transaksi bagi pelanggan dan merchant, karena transaksi dapat diproses secara otomatis sesuai dengan approval dari EDC.
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/esb_indonesia/status/1565525244713938944">https://twitter.com/esb_indonesia/status/1565525244713938944</a></blockquote>
-
 
 ## 3. Pakai papan kode QRIS manual tapi ponsel untuk notifikasi transaksi tidak dipegang kasir Pernah transaksi QRIS tapi minta buktinya di foto atau kirim WA?
 

@@ -66,7 +66,7 @@ Walau sekarang Nintendo sudah punya Nintendo Switch tapi kayanya support buat
 3DS dan 2DS masih ada. Karena 2DS XL saja baru keluar resmi 28 Juli 2017
 nanti. Masa iya keluar sistem baru tapi game nya lama semua.
 
-![](https://i2.wp.com/media.nintendo.com/nintendo/cocoon/switch-static-pages/switch/etRgxnAu0zRX4bmWnt9K628wG7YQUI6t/images/switch/home/bundle1.jpg?w=1200)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tentang-nintendo-3ds-w1.jpg)
 
 Jadi, kamu sudah punya 3DS atau malah ingin beli 3DS? Share di kolom komentar
 ya.

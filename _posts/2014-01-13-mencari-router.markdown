@@ -10,8 +10,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![iPad vs Router](https://i1.wp.com/104.199.202.96/wp-content/uploads/2014/01/Photo-13-01-14-13.07.43.jpg?resize=819%2C546)
-
 ## Kebutuhan
 
 Akhir-akhir ini saya lebih sering menggunakan iPad saya untuk kegiatan menulis dan bermain (Clash of Clans!!). Nah kekurangannya adalah, iPad 1 saya yang sudah hampir berumur 4 tahun ini hanya mempunyai akses wifi untuk berhubungan dengan internet. Saat ini akses bisa didapatkan dari iPhone menggunakan fitur “Personal Hotspot” nya. Namun akibat dari itu, si iPhone menjadi boros baterai dan panas.
@@ -27,7 +25,7 @@ Nah keduanya mempunyai keunggulan masing-masing mari kita lihat.
 
 ## 3G/4G Wireless Router
 
-![3G/4g Wireless Router](https://i2.wp.com/dl.dropboxusercontent.com/u/15623890/Blog/20140113-Router/2.jpg?resize=768%2C515&ssl=1)
+![3G/4g Wireless Router](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencari-router-w1.jpg)
 
 ### Kelebihan
 
@@ -43,7 +41,7 @@ Nah keduanya mempunyai keunggulan masing-masing mari kita lihat.
 
 ## Modem Router MiFi
 
-![Modem Router MiFi](https://i2.wp.com/dl.dropboxusercontent.com/u/15623890/Blog/20140113-Router/1.jpg?w=1200&ssl=1)
+![Modem Router MiFi](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencari-router-w2.jpg)
 
 ### Kelebihan
 

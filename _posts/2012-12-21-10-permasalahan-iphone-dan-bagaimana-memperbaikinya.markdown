@@ -34,8 +34,6 @@ Jika iPhone Anda menolak untuk dihidupkan, langkah pertama adalah di charge, ata
 
 Perhatikan bahwa jika iPhone Anda sangat rendah daya, layar seperti tadi mungkin memakan waktu beberapa menit untuk muncul. Jika bagian merah dari gambar baterai berkedip tiga kali dan kemudian muncul layar hitam, iPhone Anda tidak melakukan pengisian. Jika iPhone Anda masih tidak akan menyala, terdapat masalah pada baterai, selanjutnya bisa dibaca.
 
-
-
 ## 3. iPhone Saya Tidak Mau Mengisi Daya
 
 Jika iPhone Anda tidak mau mengisi daya sama sekali, hubungkan ke komputer Anda melalui USB, dan lihat apakah bisa mengisi daya. Jangan menggunakan port USB pada keyboard atau monitor, selalu menggunakan port USB yang ada di komputer, karena terdapat perbedaan daya untuk mengisi.
@@ -58,8 +56,6 @@ Jika iPhone Anda gagal untuk terhubung ke Internet melalui jaringan data selular
 
 Jika itu tidak memecahkan masalah koneksi, coba ulang pengaturan jaringan iPhone. Pergi ke _Pengaturan, Umum_ , _ulang_ , dan kemudian pilih _Reset_–_Network Setting_. Perhatikan bahwa Anda mungkin perlu masuk kembali password jaringan apapun yang Anda telah disimpan dalam telepon. Jika itu masih tidak memperbaiki masalah Anda, Anda mungkin perlu menghubungi operator selular. Jadi kemungkinan kesalah bukan pada iPhone Anda.
 
-
-
 ## 5. iPhone Saya Tidak Mau Connect ke Wifi/Hotspot
 
 Jika iPhone Anda terhubung ke jaringan data seluler Anda, tetapi tidak untuk setiap jaringan Wi-Fi, Anda dapat mencoba ulang telepon dan pengaturan jaringan, seperti dijelaskan di atas. Anda juga dapat mencoba menghubungkan iPhone ke iTunes dan memperbarui perangkat lunak, atau restore iPhone.
@@ -78,8 +74,6 @@ Selain itu, Apple menyarankan menyalakan telepon dan mematikan, jika itu tidak b
 
 Jika tidak ada perbaikan yang bekerja, Anda mungkin harus mengambil iPhone ke toko Apple untuk perbaikan. Pengguna umumnya melaporkan keberhasilan ketika mereka telah melakukan ini.
 
-
-
 ## 7. Home Button iPhone saya Tidak Bekerja
 
 Tombol Home iPhone diperlukan untuk reboot atau me-reset telepon, keduanya merupakan perbaikan yang cepat dan mudah untuk masalah iPhone. Tapi apa yang Anda lakukan ketika tombol Home iPhone Anda tidak bekerja? Dua saran umum adalah untuk memperbarui perangkat lunak iOS atau untuk restore iPhone melalui iTunes. Jika Anda restore, pilih opsi untuk mengatur perangkat sebagai sebuah iPhone baru, sehingga Anda tidak mengembalikan pengaturan bermasalah ke ponsel. (Dan pastikan untuk sync terlebih dahulu) Perbaikan ini dapat mengatasi gangguan perangkat lunak yang dapat menyebabkan masalah Anda, tapi masalah dengan tombol Home bisa hanya mungkin merupakan hasil dari masalah hardware.
@@ -95,8 +89,6 @@ Ada cara lain yaitu melakukan mengencangkan kembali posisi dari tombol Home itu 
 Jika layar sentuh iPhone Anda tidak merespons, menonaktifkan ponsel dan kemudian kembali. Jika itu tidak berhasil, ulang. &nbsp;Kami tahu ini diulang-ulang, tetapi kedua langkah benar-benar dapat memecahkan berbagai masalah iPhone. Jika mereka tidak memperbaiki masalah Anda, Anda akan ingin memperbarui perangkat lunak iOS di iTunes, dan kemudian Anda dapat mencoba restore di iTunes, pilih opsi untuk mengatur perangkat sebagai sebuah iPhone baru sehingga Anda tidak mengembalikan pengaturan buruk untuk telepon, dan ingat untuk melakukan sinkronisasi terlebih dahulu.
 
 Jika layar tersebut masih tidak bekerja, masalahnya mungkin dengan perangkat keras, bukan perangkat lunak iPhone. Jika Anda menjatuhkan iPhone Anda, bagian dalam konektor mungkin perlu diperbaiki atau reseated. Anda dapat menemukan petunjuk tentang cara untuk melakukan itu secara online, tetapi memperingatkan bahwa prosedur mengharuskan Anda untuk membuka iPhone Anda dan menggali sekitar di dalam. Jika iPhone Anda masih dalam garansi, Anda tentu lebih baik membawanya ke sebuah toko Apple sebagai gantinya.
-
-
 
 ## 9. Layar iPhone Saya Pecah \*duh\*
 

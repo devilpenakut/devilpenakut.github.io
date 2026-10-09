@@ -37,7 +37,4 @@ Menyenangkan bukan menggunakan Original? Oh iya, plus update dari konsol itu sen
 
 Maka, pakai original, dan rasakan sensasinya.
 
-[![](https://i2.wp.com/www.lintasberita.com/buttons_lb/lintasberita-80x15.gif?resize=80%2C15)  
-](http://www.lintasberita.com/kirimmedia/url:http://devilpenakut.wordpress.com/2011/03/06/playstation-original/)
-
 <!--kg-card-end: html-->

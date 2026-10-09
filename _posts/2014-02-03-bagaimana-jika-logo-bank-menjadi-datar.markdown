@@ -8,8 +8,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![Logo Bank Datar](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2014/02/Mainan-Logo-Bank.png?w=500)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2014/02/Mainan-Logo-Bank.png)
-
 Logo Bank Datar
 
 &nbsp;

@@ -17,7 +17,7 @@ Apabila hal itu terjadi pelanggan mau tidak mau harus menghubungi penyedia layan
 
 Koneksi fiber permasalahannya adalah kehilangan koneksi seperti itu. Entah itu dari kabel di pinggir jalan atau kabel dari tiang menuju ke rumah pelanggan. Untuk melakukan analisis juga tidak semudah kabel tembaga. Harus menggunakan alat khusus yang katanya teknisi Indihome yang pernah saya tanyakan berharga jutaan rupiah.
 
-![](https://i1.wp.com/www.indihome.co.id/uploads/image/internet-on-fiber-tabel(1).png?resize=848%2C232)
+.png?resize=848%2C232)
 
 http://www.indihome.co.id/internet-fiber
 

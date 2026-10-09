@@ -27,7 +27,7 @@ Whatsapp, namun beda dengan WA, Telegram bisa menggunakan bot seperti halnya
 Facebook Messenger. Fitur itu yang bisa digunakan pengembang untuk menanamkan
 aplikasi di dalam aplikasi Telegram.
 
-![Screenshot-2018-1-9 Telegram Web](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2018/01/Screenshot-2018-1-9-Telegram-Web.png?resize=466%2C229)
+![Screenshot-2018-1-9 Telegram Web](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/pocket-bot-w1.png)
 
 Untuk menyimpan link ke Pocket menggunakan Telegram dengan bot itu, cukup
 untuk mengirimkan pesan ke Pocket Bot seperti kita share link ke WA. Nanti

@@ -12,7 +12,6 @@ tags:
 Bukan laptop gaming atau laptop yang mempunyai grafik dedicated. Keputusan
 beli laptop tahun 2023 ini jatuh kepada Asus ZenBook 14 Flip OLED (UN5401QA).
 
-
 ## Kenapa saya tertarik dengan laptop ini?
 
 Pertama, sebenarnya karena saya memang mencari laptop tipis ringan 2in1.
@@ -36,7 +35,6 @@ mengorbankan daya baterai, jangan memilih laptop dengan prosesor seri U.
 Laptop ini diotaki oleh prosesor seri tinggi Zen 3 untuk laptop yaitu Ryzen 9
 5900HX. Di dalamnya ada 8 core, 16 thread. Itu uda prosesor keren ketika
 keluar 2021 lalu, dan saat ini sih masih dirasa kuat.
-
 
 Prosesor AMD saat ini semuanya menggunakan performance core, tidak seperti
 Intel yang dibagi _performance core_ dan _efficiency core_. Berarti adalah,
@@ -73,17 +71,13 @@ menggoda.
 - Warna Jade Black/Hitam-nya keren. Sebenarnya dari _seller_ -nya cuma tersedia warna Grey, tapi entah kenapa yang dikirim malah warna hitam ini. Dan memang sebenarnya yang dicari ya warna hitam ini.
 - Layar OLED emang ngga ada obat. Keren banget. Kalau kalian sudah terbiasa pakai layar OLED di ponsel, maka punya layar OLED di ukuran yang lebih besar itu sangat memanjakan mata sekali. Mungkin next OLED di TV kali ya. Apalagi layar OLED ini sudah mendukung _refresh rate_ 90hz. Makin mulus dah itu pergerakan dilayar.
 
-
 - Fan keluar berada di samping kanan kiri. Sehingga ketika laptop di pangkuan tidak akan terasa panas.
-
 
 ## Minus
 
 - Menurut saya, tombol home, page up, dan page down yang terpisah di sebelah kanan dari tombol lainnya tidaklah berguna. Tombol-tombol tersebut biasanya difungsikan dengan menggunakan shortcut FN, tetapi sekarang memiliki tombol tersendiri seperti keyboard full keys. Tombol home yang dekat dengan backspace juga sering tertekan tanpa sengaja.
 
-
 - Membuka hinge laptop ini cukup sulit, mungkin karena tidak ada tonjolan di bagian layar untuk membukanya, atau mungkin cekungan di bagian _keyboard-_ nya tidak cukup dalam.
-
 
 - Klik kiri pada touchpad sering tertekan sendiri jika kita mengangkat laptop pada bagian kiri touchpad atau jika digunakan sebagai tatakan ketika mengetik dengan laptop dipangku. Saya sudah menanyakan hal ini ke layanan ASUS, namun belum mendapat jawaban.
 

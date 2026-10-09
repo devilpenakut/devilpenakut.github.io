@@ -75,15 +75,15 @@ Jadi pembagian konten Netflix sudah sesuai dengan penggolongan di LSF kan?
 
 Di dalam Netflix sendiri pengaturan konten ini sangat mudah. Tinggal masuk ke bagian ‘Pengaturan Akun - Profil & Kontrol Orang Tua’.
 
-<figure class="kg-card kg-image-card"><img src="https://cdn.statically.io/img/devilpenakut.com/content/images/size/w1000/2022/01/image.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/bukan-netflix-atau-kontennya-yang-salah-tapi-penggunanya-w1.png" class="kg-image" alt loading="lazy"></figure>
 
 Kontrol lebih bisa diterapkan dengan penggunaan akun masing-masing. Untuk pengguna dewasa dan anak-anak/remaja.
 
-<figure class="kg-card kg-image-card"><img src="https://cdn.statically.io/img/devilpenakut.com/content/images/size/w1000/2022/01/image-2.png" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://cdn.statically.io/img/devilpenakut.com/content/images/size/w1000/2022/01/image-1.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/bukan-netflix-atau-kontennya-yang-salah-tapi-penggunanya-w2.png" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/bukan-netflix-atau-kontennya-yang-salah-tapi-penggunanya-w3.png" class="kg-image" alt loading="lazy"></figure>
 
 Disini bila salah masuk _user_ pun akan memerlukan PIN yang tadi di-set pada _parental control_. Jadi walaupun salah akun tetap tidak bisa akses film atau konten yang tidak sesuai.
 
-<figure class="kg-card kg-image-card"><img src="https://cdn.statically.io/img/devilpenakut.com/content/images/2022/01/image-4.png" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://cdn.statically.io/img/devilpenakut.com/content/images/2022/01/image-3.png" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/bukan-netflix-atau-kontennya-yang-salah-tapi-penggunanya-w4.png" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/bukan-netflix-atau-kontennya-yang-salah-tapi-penggunanya-w5.png" class="kg-image" alt loading="lazy"></figure>
 
 Sampai disini Netflix terlihat cukup aman kan? Bagaimana dibandingkan dengan konten di televisi yang bisa dilihat oleh siapa saja, atau di Youtube yang juga bisa diakses dengan mudahnya.
 

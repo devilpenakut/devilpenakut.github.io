@@ -20,7 +20,7 @@ Tim dibalik Bold ini adalah tim yang membuat Secret, aplikasi sosial untuk berba
 <figure class="DraftPost-block-atomic">
 <div class="ImageBlock">
 <figure class="Image">
-<div class="DraftImage"><img class="DraftImage-image" src="https://i2.wp.com/s3-us-west-2.amazonaws.com/bold-inc/bold/ugc/cebq/5481a948-d1e2-43a1-b96a-1b4063de74ae/d7bc883853d25549a97bf7656f4123f7.gif?w=1200&amp;ssl=1" data-recalc-dims="1"></div>
+<div class="DraftImage"></div>
 </figure>
 </div>
 </figure>

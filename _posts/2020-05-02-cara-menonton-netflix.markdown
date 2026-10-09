@@ -20,7 +20,7 @@ maksimal untuk melihat serial atau film yang sayang untuk dilewatkan. Namun
 melihat melalui ponsel juga merupakan salah satu pilihan karena ada paket
 Rp49.000 dari Netflix yang hanya bisa digunakan melalui ponsel.
 
-![](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2020/04/image-2.png?fit=940%2C109)netflix.com
+netflix.com
 
 ## 2. Menonton melalui laptop atau iPad
 
@@ -50,7 +50,7 @@ menghubungkan ke *Chromecast* ke TV.  Ketika memilih serial atau film untuk di
 *play* , film atau serial akan diputar ke *chromecast* di TV bukan di ponsel
 walaupun navigasi menggunakan ponsel.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chromecast-2015.jpg/978px-Chromecast-2015.jpg)Chromecast
+Chromecast
 
 ## 4. Menggunakan Android TV box
 

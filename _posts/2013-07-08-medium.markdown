@@ -13,8 +13,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
- ![](https://i1.wp.com/104.199.202.96/wp-content/uploads/2013/07/0-PAD_s3-o3o2yhsUR.jpeg?resize=699%2C293)
-
 https://medium.com/about/9e53ca408c48
 
 ## Apa Ini?
@@ -30,8 +28,6 @@ Saya rasa mungkin bagi sebagian orang penjelasan itu mewakili, tapi belum untuk 
 > Medium is a beautiful space for reading and writing — and little else. The words are central. They can be accompanied by images to help illustrate your point. But there are no gratuitous sidebars, plug-ins, or widgets. There is nothing to set up or customize.
 
 Menggunakan format tulisan tetap bisa digunakan dengan menggunakan “selecting toolbar” yang muncul ketika kita memilih text yang ingin kita format.
-
- ![](https://i0.wp.com/dl.dropboxusercontent.com/u/15623890/Blog/0-YHJ5LgVLEOzfSXNY.png?resize=322%2C110&ssl=1)
 
 The in-context Medium editor toolbar [https://medium.com/about/df8eac9f4a5e]
 

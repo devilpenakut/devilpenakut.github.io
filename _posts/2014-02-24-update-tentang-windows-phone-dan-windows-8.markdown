@@ -9,8 +9,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![](https://i0.wp.com/www.evernote.com/shard/s109/nl/11463786/7c5de752-525f-46a1-a076-1c40fab07779//res/f0cc4a6e-eaeb-4864-97e5-14e3b30d4c48/Joe-Belfiore-says-hes-flattered-cos-iOS-5-nicked-ideas-from-Windows-Phone-7.jpg?resize=600%2C500&ssl=1)
-
 Si&nbsp;[Joe Belfiore](http://blogs.windows.com/members/Joe-Belfiore/default.aspx)&nbsp;kemarin nulis update tentang Windows Phone dan Windows 8. Ini beberapa quote yang di kemukakan:
 
 <!--more-->

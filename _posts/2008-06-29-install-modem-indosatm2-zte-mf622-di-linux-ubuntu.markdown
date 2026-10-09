@@ -11,8 +11,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/06/logo-indosatm2.gif?resize=200%2C44)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/06/logo-indosatm2.gif)
-
 Saya memakai modem indosatm2 ini sebelumnya di Windows XP dan Vista berjalan dengan instalasi yang mudah karena modem berjalan secara autorun, setelah selesai modem sudah dapat digunakan. Nah, kemudian saya ingin mencoba di Ubuntu 8.04 saya, dan ternyata tidak semudah itu.he.
 
 Di ubuntu modem ini dideteksi sebagai usb device, yang seharusnya di detect sebagai modem, karena instalasi didalam modem merupakan instalasi untuk windows. Jadi tujuan instalasi ini adalah membuat ubuntu mengidentifikasi MF622 ini sebagai modem, sedangkan untuk dial modemnya merupakan langkah yang biasa dilakuakann ketika dial connection manual.

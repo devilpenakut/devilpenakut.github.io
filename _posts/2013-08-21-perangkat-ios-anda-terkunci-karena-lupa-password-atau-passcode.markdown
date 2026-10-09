@@ -16,8 +16,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![](https://i2.wp.com/104.199.202.96/wp-content/uploads/2013/08/iphone-passcode.png?resize=320%2C480)
-
 Apa yang harus dilakukan jika Anda lupa atau tidak dapat mengingat kode sandi / password / passcode pada perangkat iOS ( iPhone / iPad / iPod ).
 
 Beberapa saat lalu saya menerima komentar mengenai bagaimana bila perangkat iOS terkunci karena lupa password/passcode. Sebenarnya ini sudah di jelaskan oleh&nbsp;[Apple](http://support.apple.com/kb/HT1212?viewlocale=id_ID), namun tidak salahnya saya tulis kembali disini.
@@ -34,11 +32,11 @@ Jika Anda memasukkan kode yang salah sebanyak enam kali atau lebih, Anda akan me
 
 Pesan menyatakan untuk mencoba lagi nanti:
 
-![](https://i0.wp.com/km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT1212/id_ID/HT1212--disabled_delay-001-id.png?resize=240%2C345)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/perangkat-ios-anda-terkunci-karena-lupa-password-atau-passco-w1.png)
 
 Setelah terlalu sering mencoba, perangkat Anda akan menampilkan, “[Perangkat] dimatikan, hubungkan ke iTunes”.
 
-![](https://i2.wp.com/km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT1212/id_ID/HT1212--disabled_connect-001-id.png?resize=240%2C345)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/perangkat-ios-anda-terkunci-karena-lupa-password-atau-passco-w2.png)
 
 ## Jika Anda sebelumnya telah menyelaraskan perangkat dengan iTunes
 
@@ -55,7 +53,7 @@ Anda akan dapat mengatur ulang kode sandi dengan memulihkan perangkat.
 
 Dengan menghubungkan perangkat, pesan kesalahan ini akan muncul: “iTunes tidak dapat terhubung ke [perangkat] karena perangkat dikunci dengan kode sandi. Anda harus memasukkan kode sandi di [perangkat] sebelum dapat digunakan dengan iTunes.”
 
-![](https://i2.wp.com/km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT1212/id_ID/HT1212--itunes_alert-001-id.png?resize=381%2C184)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/perangkat-ios-anda-terkunci-karena-lupa-password-atau-passco-w3.png)
 
 1. Putuskan sambungan kabel USB dari perangkat, tetapi biarkan ujung lain kabel tersambung ke port USB komputer.
 2. Mematikan perangkat: Tekan terus tombol Tidur/Bangun(sleep/wake) selama beberapa detik hingga penggeser berwarna merah muncul, kemudian geser penggeser tersebut. Tunggu perangkat hingga mati.

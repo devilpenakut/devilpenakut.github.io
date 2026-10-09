@@ -18,8 +18,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
- ![](https://i2.wp.com/104.199.202.96/wp-content/uploads/2013/02/cover.jpg?w=500)
-
 Lima Smartphone Terbaik Saat Ini
 
 [&nbsp;](http://104.199.202.96/wp-content/uploads/2013/02/cover.jpg)
@@ -34,8 +32,6 @@ Kami menguji kemampuan masing-masing kamera di bawah beberapa situasi yang palin
 
 ## Cahaya rendah
 
-![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/xlarge.jpg)
-
 Pertama dalam kondisi yang sangat gelap dengan tidak ada flash, Lumia 920 mengambil foto terbaik.&nbsp;Seperti yang dapat Anda lihat di atas, stabilisasi gambar optik Lumia ini membantu kamera mencapai foto yang cukup baik bahkan dalam situasi yang paling sulit.&nbsp;Ada tidak graininess, dan patung mempunyai bidang terang dan gelap yang sesuai meskipun kurangnya cahaya. iPhone juga mengambil cahaya yang layak, tapi terlalu banyak noise. Ponsel yang lain tampil hampir sama satu sama lain, dengan Nexus 4 merupakan yang terburuk. Z10 melakukan lebih baik kali ini daripada yang terakhir, tapi hasilnya sangat jauh dengan 2 peringkat atas.
 
 **Pemenang:** &nbsp;Lumia 920
@@ -43,8 +39,6 @@ Pertama dalam kondisi yang sangat gelap dengan tidak ada flash, Lumia 920 mengam
 * * *
 
 ## Cahaya rendah dengan Flash
-
-![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/low%20light%2Bflash.jpg)
 
 Anda harus menghindari menggunakan flash Anda dalam kondisi apapun, tetapi kita tahu bahwa kebanyakan orang kadang-kadang harus menggunakannya.&nbsp;Jadi kami mengambil foto yang sama di atas, kecuali dengan flash untuk melihat apakah salah satu dari mereka bisa menerangi tanpa merusak foto.
 
@@ -56,8 +50,6 @@ Flash Z10 benar-benar bersinar dalam tes ini.&nbsp;Foto di atas adalah akurat, d
 
 ## Siang hari
 
-![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/daylight.jpg)
-
 Berdasarkan feed Instagram, paling tidak 93 persen-foto smartphone adalah dari langit yang indah di siang hari.&nbsp;Karena matahari adalah suatu sumber cahaya yang indah, kebanyakan kamera harus tampil cukup baik dalam situasi ini.&nbsp;Dalam tes ini, kami sedang mencari kamera yang dapat mengekspose highlights&nbsp;dan bayangan seluruh gambar.&nbsp;Kami juga ingin memastikan kamera bisa memfoto di siang hari tanpa menangkap flare lensa.
 
 Lumia menjadi yang terbaik.&nbsp;Pada gambar di atas, Anda dapat kita lihat bahwa ada bayangan untuk bangunan dan langit.&nbsp;Wide-angle lensa kamera menyediakan pandangan luas dan tidak memiliki masalah menyelesaikan matahari tanpa menciptakan flare lensa.&nbsp;IPhone 5 adalah yang kedua, bahkan dengan eksposur sedikit mempengaruhi kontras gambar. GSIII menangani matahari dengan baik tapi gambar terlihat karena tidak wajar untuk kontras dan saturasi yang berlebihan.&nbsp;Seperti tes flash, foto Z10 memiliki detail tajam, tetapi lensa tidak menangani matahari dengan baik, dan sedikit flare pada gambar. Nexus 4 benar-benar kalah dengan flare lensa mengerikan dan benar-benar dengan eksposur berlebihan.
@@ -67,8 +59,6 @@ Lumia menjadi yang terbaik.&nbsp;Pada gambar di atas, Anda dapat kita lihat bahw
 * * *
 
 ## Indoor Portrait
-
-![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/indor%20potrait.jpg)
 
 Akhirnya, kami melakukan potret dalam ruangan kecil.&nbsp;Idenya di sini adalah untuk melihat mana kamera bisa menangani keseimbangan warna untuk benar-benar menangkap warna skin tone yang tepat saat memotret seseorang.Kami memfoto dengan latar belakang putih sehingga kamera memiliki titik acuan yang jelas untuk kesempurnaan white balance.&nbsp;Kegagalan dalam situasi seperti ini tidak dapat dimaafkan.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 Hai, topik yg diangkat ini bukan merupakan topik baru, tp sudah lama sekali. Muali dari persaingan ps2 dan xbox classic. Tapi, setelah saya sudah merasakan kedua konsol tersebut, saya jadi ingin menerjemahkan satu [artikel dari IGN](http://gear.ign.com/articles/111/1116182p1.html) diselingi dengan pendapat saya sendiri tentang dua konsol ini.  
- ![ps 3 slim vs xbox 360 slim](https://i0.wp.com/www.gamepur.com/files/images/2010/xbox_360_slim_vs_playstation_3_slim.jpg?w=1200)  
+ ![ps 3 slim vs xbox 360 slim](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/playstation-3-vs-xbox-360-w1.jpg)  
 Selamat Menikmati.  
 <!--more-->  
 Perang konsol terus berjalan sejak PlayStation 3 tiba di pasar untuk menantang Xbox 360 di tahun 2006, gamer berpendapat tentang manfaat dari setiap konsol. Bahkan ketika judul game eksplusif masing-masing konsol telah berkurang (kebanyakan multi konsol), para gamer tetap yakin bahwa konsol pilihan mereka adalah yang paling unggul.

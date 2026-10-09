@@ -105,12 +105,7 @@ bandingkan dengan Xbox Series S sebesar 4 TFLOPS.
 Kemampuan menampilkan grafis halus, cahaya dan bayangan saya rasa cukup
 memuaskan, khas next-gen.
 
-
-
-
-
 **3. Bentuk konsolnya kecil, ringkas**
-
 
 Ukuran Xbox Series S ini sangat ringkas dibanding dengan konsol terbaru
 lainnya, bahkan lebih kecil dari PS4 reguler. Dengan ukuran 6.5cm x 15.1cm x
@@ -227,7 +222,6 @@ merupakan barang impor dari negara lain seperti Singapura, Jepang dan US.
 Beberapa penjual di _marketplace_ memberikan garansi untuk pembelian selama
 satu minggu dan opsi untuk membantu klaim garansi. Jadi ketika beli bisa
 ditanyakan kepada penjualnya.
-
 
 ## Kesimpulan
 

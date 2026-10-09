@@ -7,7 +7,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![](https://i2.wp.com/devilpenakut.com/wp-content/uploads/2016/01/DSC_4099_575px.jpg?w=1200)](http://www.anandtech.com/show/9766/the-apple-ipad-pro-review/13)Source: _[The Apple iPad Pro Review](http://www.anandtech.com/show/9766/the-apple-ipad-pro-review/13)_
+Source: _[The Apple iPad Pro Review](http://www.anandtech.com/show/9766/the-apple-ipad-pro-review/13)_
 
 Anandtech:
 

@@ -14,7 +14,6 @@ Memang beberapa ada yang one hit wonder, ada yang bisa bertahan beberapa album, 
 
 [https://music.youtube.com/playlist?list=RDCLAK5uy_n8TF7zJYjsxhmtGa7h_YcxUgIdta4ruxE](https://music.youtube.com/playlist?list=RDCLAK5uy_n8TF7zJYjsxhmtGa7h_YcxUgIdta4ruxE)
 
-
 Tapi sepertinya dimasa itu untuk membuat group band pop dan mengeluarkan album ngga perlu harus punya suara bagus atau lagu-lagu berbahasa Inggris.
 
 Cukup dengan melodi yang enak, terutama pop mendayu, cukup untuk menarik pendengar.

@@ -7,8 +7,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![](https://i0.wp.com/104.199.202.96/wp-content/uploads/2014/01/2824638011_d3e590becf_o_d.jpg?w=800)](http://www.flickr.com/photos/jeromespov/2824638011/sizes/o/)
-
 By JeromesPOV (Flickr)
 
 Naga mulai besar. 15 bulan usianya. Pandai, salah satunya pandai meniru. Kami sebagai orang tua mulai berhati-hati atas tindakan yg kami lakukan, karena setelah kami perhatikan beberapa tindakan kami di fotokopi oleh Naga. Untuk beberapa tindakan yang bagus tentunya itu bagus, namun ada pula beberapa tindakan yang tidak sepantasnya dilakukan oleh anak.

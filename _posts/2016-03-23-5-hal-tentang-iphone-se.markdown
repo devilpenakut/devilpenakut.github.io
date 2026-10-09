@@ -19,8 +19,6 @@ Performa yang mirip dengan iPhone 6s bisa dianggap masih sangat bagus untuk saat
 
 Layar 4 inch untuk saat ini menurut saya bukan pilihan pertama untuk pembelian ponsel. 4.7 inch yang dimiliki oleh iPhone 6/6S sebenarnya sudah pas untuk ukuran layarnya. Namun kata Apple masih banyak penggunanya di iPhone 5/5s yang belum beralih ke iPhone 6/6s karena layarnya. Menurut data sih oke, tapi ada kemungkinan juga terkait dengan harga iPhone 6/6s yang tinggi. Jadi iPhone SE ini cocok buat kamu yang suka ponsel kecil tapi tetap powerful atau buat cewek yang tidak suka bawa ponsel besar. Subjektif sih ukuran ponsel itu. Kalau saya sih suka minimal 5 inch.
 
- ![wK8lUDr](https://i1.wp.com/104.199.202.96/wp-content/uploads/2016/03/wK8lUDr.jpg?resize=528%2C260)
-
 Pilihan warna iPhone SE (apple.com)
 
 ## Kamera

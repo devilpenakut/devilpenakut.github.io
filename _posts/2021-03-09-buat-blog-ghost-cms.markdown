@@ -130,7 +130,6 @@ dalam direktori Ghost:
 
     ghost config url https://my-domain.com
 
-
 * * *
 
 Bila fitur perintah `ghost config` tidak mau muncul mungkin Ghost CLI belum
@@ -144,7 +143,6 @@ terinstal. Karenanya perlu _install_ dengan perintah, lewati perintah ini bila
 Lalu pastikan SSL berjalan jika kamu pakai SSL
 
     ghost setup nginx ssl
-
 
 Selanjutnya _restart_ Ghost agar bisa mengadopsi menggunakan domain yang sudah
 di _setting_

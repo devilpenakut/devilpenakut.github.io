@@ -6,8 +6,6 @@ date: '2019-03-26 11:53:42'
 
 ## Buat siapa jam pintar ini?
 
-![20190326_073847.jpg](https://i2.wp.com/devilpenakut.com/wp-content/uploads/2019/03/20190326_073847.jpg?resize=1200%2C900&ssl=1)
-
 Jam ini saya dapatkan dari bonus pembelian ponsel Samsung Galaxy S10 Plus
 beberapa waktu lalu. Sebelumnya saya sudah dua kali memakai jam pintar, yaitu
 Pebble dan Moto 360.
@@ -21,18 +19,12 @@ rusak tidak mampu untuk menyalakan jam nya.
 
 ## Tampilan
 
-![](https://lh3.googleusercontent.com/vG0MGJ6trkD4kx12Vrl6I2O1A1AjHO1vUXtAvrRQPbxBG06aHGc5sCjWt7vkGWC7fHwyebAzV-kUFPJC1NKop-gnIwe6M6CPubDfVdl-_mBim9al7dkhKRA2ro1820lqF8vgjG9cJmipt_jhgPGl3nFq0oTC7DktxB1y50ICC5qVyWz3NUfunzr-cjBqqmxQ9KdqSTw0LEtGJyoqFiwHDpXj3ajrvNriOZoyLJhB76cKfAL13ZiEOIEKPk7XxABE1mbxmT8uegevUv16vVwUHcFUo_lCAdLmZHyEjcZLBHovEMRCj91g7L4okwDeIybWrOLdlDoOnwgXSeP8mquhEvlib9HEXPb3wOAc0h5vM43Wt6msy8iwCY-fAL_OHwBOfmezvUuWiZT0wNj6xrjC0kKt0R8VegJMkKQNrnoYBEjeniyrpalDF336VMqqVypTOIQv4fTlfrcG_NPnuolBS46B_t_Q08ZKRzEn_WKdw2PXkpnXcDzyljf1lzSJHhvMI7ZPCgKoB6JXwnS4sw6fjki_BzU1gAZ3BEELT8hlgTWSh0hLWyXh9FT_9YtO9ZIjO4UHloB4I5vU7stmTRCs_DRIq8KH7FxTKOqSFpN0CBhHq2DJ6GWPhTN7EKSZFvxfiYxlOoGig73wcQQSthLNRY8sOab9ICGy=w895-h671-no)![20190326_073924.jpg](https://i0.wp.com/devilpenakut.com/wp-content/uploads/2019/03/20190326_073924.jpg?resize=1200%2C900&ssl=1)
-
 Tampilan jam ini seperti tampilan jam sport pada umumnya. Bukan jam klasik.
 Mungkin mengingatkan saya dengan tampilan Casio G-Shock. Bagai penyuka jam
 klasik sepertinya tidak cocok dengan jam ini. Walaupun berencana dengan
 mengganti watch-face dan strap-nya pun masih belum masuk.
 
-![](https://lh3.googleusercontent.com/LKK7GmRKimD22ac8QnXICeGTMivfyLJrd4aMTKyVgtuWTxtgKmcv4bfF_ErnmGCDVn-V_x206zSgvNr5pYQdw7PJaSgMGrq5B08Q9agSTU5qqU9K_yX_zN7ACLSW0Tf1YwQoP0vhzuGHUNGPQVA-tb1Q9VVfzg2XDG0oawvoeEN5IxusvloiG9YrpVe2bSn6g3zUtwjwh-_cC0DxezVQLGV3M4WS_yAMBVQz_qL1IvxW2blyVBw0GdxGAuZrr2IHhOh3L5sokpYye-cDzf4jsBXDXmuxcIAYIAJHU7I1UYQSoiv86u87WCDRqIC-Qa5mt6BDHDT7-DOKY_QiEpBZ8T*AeRPx7Zri3q-7Ca58h3Ss2pDD5WmRnkZgu1IMuLF0QHQQNu0S-2gmFXCGjILzUIQc0pgYsHl*-Tq_HZh8gAAR0unj3ySXnJFemNMfwqExthSNDDQnelP9Ssm_X76U7HHCuYTH2FnNMi04K2qolWVUgINb5A_AjA2rLFzlPNJE4DyGGNzrHJD8DvL66Pxy4KShmnc7s4F7H7E1-urqTexKPlyQLF2xoPYaCHt-bv424lQTKqxQ_RET9B5TfN4PsO0dmreJYJW4Od_dgZ85XkHGyL6P_u9ecnrufmgYf4BS4OJXDBnjpux_pSit_E8v0tdZJ4EQzaDg=w504-h671-no)![20190326_110746.jpg](https://i2.wp.com/devilpenakut.com/wp-content/uploads/2019/03/20190326_110746.jpg?resize=1200%2C900&ssl=1)
-
 ## Layar
-
-![](https://lh3.googleusercontent.com/qdyBlpQztgWsNoYPA6G1V0chuuHh6CJKojtTFL3IcywNrRaWD9o4wIiXaL6tgQVeBIPLRwD9juy5qZuPsQKZPMiXHRm4909fWj6y0ohLXywBsI2Pb8ANZiTjCXm75zpp9rqhEFZJvQswB7jErpIt-64fR7x6Koyujg19qtpKy6R_wxfbFetRL88ewaoKfdoqSIBDm4VAKdC0-42Ze2NnM9JAcpYWrhoZGLgxe0CkyGDfTFGB0mqy2kJ85bhoYbfvdrWvQCEiFG6k2oK9qZ8X5nHJi_elLijsokVhlrH1YoRmSKKKlGD6RlVJku058m8biaPViC_nWvCZPeFB7Iho798jR03fI80osr5TwX-Kd73H_uJ7Orib6oYmUCSNCNvwVBZzUEaqMKVjIFIq5dTXg18HMQwG1ZvSclaT82R6NjJQWm-Re_t6WZmZkqYB9s0PXSvs0kWOTuQjyxXbA5fTrmZWlg0h5Yvmm1SyDiH9qauln7-mTzakoANZ0lk5yY0owcMx0kRV77l860lCfNlUrGtzbEVyf0BtHjE-2ygITlkQTCrqqQOTSDoMmrWKVJ3JbWrqUOkBr9PqDggwW8lJpeojm_rG0Cs8g4eaX86ZmfDvkAz-UtU329ZhvUrPmWjYZqKHPN76Lii2S6fm294QqUTf1QSNGH--=w504-h671-no)![20190326_074840.jpg](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2019/03/20190326_074840.jpg?resize=1200%2C900&ssl=1)
 
 Layar Galaxy Watch ini menggunakan layar AMOLED Samsung dengan resolusi 360 x
 

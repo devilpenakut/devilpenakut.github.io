@@ -31,7 +31,7 @@ Karenanya tulislah kenangan itu. Seperti yang yang dikatakan oleh William Zinsse
 
 Media menulis bisa dimana saja, seperti saya ini sekarang menulis di app bernama ‘Day One’ sebuah app untuk menulis jurnal. Kadang saya tidak menulis langsung banyak. Tapi sedikit demi sedikit. Tulislah apa saja yang terlintas dipikiran kamu yang kami anggap menarik untuk dibagikan atau dikenang untuk pribadi. Beberapa tulisan saya di Day One tidak (belum) semuanya dipublikasikan. Ada yang masih belum lengkap, ada yang memang saya anggap pribadi. Karena tidak semuanya harus diceritakan ke umum bukan?
 
-[![](https://i1.wp.com/dayoneapp.com/images/screens/1200/screens04-1200.jpg?resize=800%2C500)](http://dayoneapp.com)
+[![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/penjaga-kenangan-w1.jpg)](http://dayoneapp.com)
 
 by Day One
 
