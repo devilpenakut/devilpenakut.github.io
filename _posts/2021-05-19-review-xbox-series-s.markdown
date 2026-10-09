@@ -243,7 +243,7 @@ Jadi apakah Xbox Series S ini adalah konsol yang cocok buat kamu? kirim
 komentar atau masukan lewat [Discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
 [Twitter](https://twitter.com/devilpenakut).
 
-**Link Pembelian:**
+### Link Pembelian
 
 [Tokopedia](https://invol.co/cl42mvh)
 

@@ -115,7 +115,7 @@ Chrome 5.0.375.55 98
 
 Safari unggul disini. Angka sempurna untuk cara merender halaman terbaik, salah satu hal yang dibanggakan oleh Apple. Chrome memang dapat skor 98 namun lihatlah hasil rendernya, kacau, perlu perbaikan dari Google.
 
-**Kesimpulan**
+## Kesimpulan
 
 Total keunggulan yang didapat adalah:  
 

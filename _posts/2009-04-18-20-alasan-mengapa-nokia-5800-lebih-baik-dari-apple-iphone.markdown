@@ -126,7 +126,7 @@ Nokia: Penuh pengalaman di dunia ponsel, ratusan kisah sukses dan puluhan smartp
 
 Apple: Ponsel pertama yang pernah diluncurkan oleh Apple adalah Iphone, tidak ada sebelum pengalaman di pasar ponsel sebelumnya. Pangsa pasar masih rendah walau jutaan iPhone terjual.
 
-**Kesimpulan**
+## Kesimpulan
 
 Semua kembali ke pembeli, semuanya ada plus minus nya. Saran dan kritik dapat di sampaikan di comment.
 

@@ -122,7 +122,7 @@ Akhir kata, pesan, saran, kritik dipersilahkan
 
 <figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/10-permasalahan-iphone-dan-bagaimana-memperbaikinya-1.gif" class="kg-image" alt loading="lazy"></figure>
 
-**Sumber**
+## Sumber
 
 http://www.pcworld.com/article/210480/iphone\_annoyances.html
 
