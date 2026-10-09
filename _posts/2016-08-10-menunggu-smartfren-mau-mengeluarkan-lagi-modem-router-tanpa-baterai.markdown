@@ -24,7 +24,7 @@ Jangkauan memang menjadi kunci Smartfren sekarang. Ketika saya ke Blora Jawa Ten
 
 Namun juga demikian di kota. Memang seperti saya di Jogja ini 4G bisa ditemukan hampir di semua operator. Telkomsel, XL, Indosat sudah berjalan di 4G. Namun untuk di rumah yang juga membutuhkan jaringan kecepatan tinggi sebetulnya lebih cocok untuk menggunakan jaringan fixed line seperti fiber. Nah, untuk fiber ini jaringan masih menjadi kendala. Telkom dan Biznet sudah menjalankan bisnis fibernya di Jogja, namun pengembangan jaringan fiber tentu butuh modal besar karenanya terletak pada jalur-jalur utama. Rumah saya yang tidak berada pada jalur utama terpaksa belum bisa menggunakan layanan Telkom (Indihome) apalagi Biznet.
 
-Solusinya adalah jaringan wireless. Bisa menggunakan wifi atau broadband. Wifi punya permasalahan yang sudah saya tulis [disini]( __GHOST_URL__ /2016/06/kendala-provider-internet-wireless/). Nah untuk broadband saat ini permasalahannya ada pada modem nya yang seperti saya ceritakan tadi. Jadi sangat menarik apabila Smartfren atau operator 4G lain mengeluarkan modem router yang fixed, bukan mobile, tanpa baterai yang bisa digunakan 24 jam menggunakan colokan listrik.
+Solusinya adalah jaringan wireless. Bisa menggunakan wifi atau broadband. Wifi punya permasalahan yang sudah saya tulis [disini](/kendala-provider-internet-wireless/). Nah untuk broadband saat ini permasalahannya ada pada modem nya yang seperti saya ceritakan tadi. Jadi sangat menarik apabila Smartfren atau operator 4G lain mengeluarkan modem router yang fixed, bukan mobile, tanpa baterai yang bisa digunakan 24 jam menggunakan colokan listrik.
 
 Smartfren bisa mengeluarkan modem seperti itu lagi?
 

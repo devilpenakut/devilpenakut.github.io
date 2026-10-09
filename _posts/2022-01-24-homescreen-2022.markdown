@@ -8,3 +8,237 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
+## iOS bisa diatur ada ruang kosong di *homescreen* kok
+
+Ini kali pertama saya membuat *postingan* semacam ini. Tapi kayanya asik juga
+untuk melihat perubahan setiap awal tahun apa yang ada di *homescreen* ponsel
+saya.
+
+## Widget
+
+### Apple bukan yang pertama, tapi implementasi paling bagus
+
+ *Widget* di *homescreen* saya ada 3 buah,
+
+### Widget kalender
+
+ *Widget* ini berguna tentunya untuk menampilkan tanggal, ada acara apa di
+kalender.
+
+Biasanya ini digunakan untuk melihat hari libur apa dalam waktu dekat ini.
+Hari libur ini bukan manual kita *input* satu-satu namun merupakan salah satu
+[fitur yang ada di dalam Google
+Calendar](https://calendar.google.com/calendar/u/0/r/settings/browsecalendars)
+untuk **menambahkan hari libur Indonesia**.
+
+Selanjutnya untuk melihat jadwal tim kesayangan saya AC Milan. Penambahan
+jadwal ini juga bukan kita *input* satu-satu, namun menggunakan layanan
+[**fixtur.es**](https://fixtur.es/en/team/ac-milan)**** yang mana juga
+tersedia untuk tim sepakbola lain. Silakan *browsing* di webnya.
+
+Begitu juga untuk jadwal lainnya. Kamu bisa mencari layanan seperti ini untuk
+hal lain seperti jadwal peluncuran produk *tech* , jadwal FPL dll.
+
+### Widget saran aplikasi Siri
+
+ *Widget* kedua adalah membiarkan dua baris ini tergantung [**Siri mau
+menyarankan apa**](https://support.apple.com/guide/iphone/about-siri-suggestions-iph6f94af287/ios)**.***Widget* ini akan mempelajari di waktu yang
+sama setiap hari kira-kira kamu akan membuka aplikasi apa.
+
+Kadang *random* , tapi kadang juga berguna karena menarik misal pada pagi hari
+saya suka buka Google Keep maka di waktu yang sama aplikasi Google Keep akan
+tertampil di homescreen.
+
+Coba saja, siapa tahu memang berguna buat kamu.
+
+### Widget "Small Blank"
+
+*Widget* ini yang membantu mengatur ikon di *homescreen* iOS agar tidak selalu
+rata kiri, namun bisa dibuat sesuai keinginan kita seperti di *homescreen*
+Android.
+
+Itulah kenapa di *homescreen* saya bisa ada ruang kosong di bagian kiri yang
+menurut saya merupakan bagian yang susah untuk dijangkau untuk peletakan ikon
+aplikasi.
+
+Widget ini didapatkan dengan mengunduh aplikasi [**MD Blank - Transparent
+widget**](https://apps.apple.com/us/app/md-blank-transparent-widget/id1551277937)**** dari App Store.
+
+Panduan penggunaan cukup jelas, namun bila ingin dijelaskan silakan komentar
+di bawah nanti saya buat di *postingan* lain.
+
+## Social Networking
+
+### Walau didalamnya tidak ada sosmed
+
+Grup pertama di *homescreen* saya adalah grup "Social Networking" walau isinya
+malah bukan aplikasi media sosial, namun inilah "Social Networking" saya,
+lebih tepatnya aplikasi pesan.
+
+### Telegram
+
+Aplikasi pesan yang didalamnya banyak fitur dan bot yang banyak orang tidak
+tau. Walau beberapa ada bot yang di zona abu-abu namun untuk pada kebanyakan
+bisa membantu.
+
+Contoh ada [@hotelhunt](https://t.me/hotelhuntbot) yang membantu untuk mencari
+harga termurah dari hotel di Booking.com ditanggal yang kita mau. Lalu ada
+[@TheFeedReaderBot](https://t.me/thefeedreaderbot) yang bisa bikin feed RSS di
+Telegram.
+
+Fitur bawaan yang sangat berguna juga untuk menyimpan apapun di fitur "save
+message". Jadi disini bisa dikatakan merupakan fitur penyimpanan unlimited.
+mau teks, gambar, video, file apapun bisa. Jangan lupa kalau semua itu tanpa
+biaya.
+
+### Messages/Pesan
+
+Ya ini standar lah ya, apalagi kalau ngga dibuat untuk terima spam. 😁
+
+Becanda. App ini tetep berguna untuk menerima OTP dsb. Baik untuk login
+ataupun untuk perkara transaksi. Tapi saya termasuk yang belum mengaktifkan
+iMessage-nya karena di Indonesia jarang yang pakai, dan takut SMS biasa malah
+ngga sampai.
+
+### Spark
+
+[Spark ](https://sparkmailapp.com/)ini salah satu aplikasi email terbaik,
+lintas Android iOS juga. Tapi sayang belum ada *native* di Windows. Jadi ya
+harus pakai versi web masing-masing kalau di Windows.
+
+Dia bisa *sync* seluruh email yang kita punya dengan cukup *login* satu akun
+saja.
+
+Cocok buat kamu yang punya banyak akun email. Ada *unified inbox* nya juga.
+
+## Travel
+
+### Lebih tepatnya belanja 😁 walau memang bisa buat jalan-jalan juga
+
+### Grab
+
+Masih menjadi andalan dibandingkan dengan Gojek. Karena jelas, promo lebih
+banyak di Grab. Bakar uang masing kenceng bos.
+
+### Gojek
+
+Ya walau menjadi pilihan kedua tapi untuk pembayaran QR, Gopay masih banyak
+promonya. Terutama kalau ada voucher-voucher cashback ajaib. Cashback-nya juga
+ngga masuk ke point apa ke reward, tapi langsung kembali lagi ke saldo utama.
+Mantab.
+
+### Tokopedia
+
+Toko ijo ini jelas menjadi marketplace pilihan pertama. Pilihan barang banyak,
+cenderung lebih merasa aman dibanding Lazada dan JD. Apalagi untuk promo
+gratis ongkir dalam kota pakai Gojek yang sangat membantu.
+
+### Shopee
+
+Nah marketplace oranye ini lebih banyak digunakan ketika ada promo angka
+kembar (1.1, 2.2, 3.3 dst) karena gratis ongkirnya bisa dipakai untuk banyak
+toko dalam satu keranjang, bukan hanya terbatas untuk satu toko.
+
+Keunggulan lain adalah untuk mencari produk digital yang memang ngga ada
+ongkos kiri, seperti beli akun Spotify, Netflix dkk. Saya masih heran kenapa
+Tokopedia belum mengeluarkan fitur seperti ini.
+
+### Spotify
+
+Jelas pilihan pertama untuk mendengarkan lagu ketika perjalanan berangkat dan
+pulang kerja. Secara suara memang ngga sebagus Apple Music, tapi pengalaman
+aplikasinya masih tetap lebih bagus dari Apple Music. Apple Music itu walau di
+iPhone tetap sering telat loading-nya.
+
+## News / Social
+
+### Instagram
+
+Inilah dunia paling tipu-tipu didunia. Ya anggap *aja* kita mengikuti seperti
+TV yang berjalan terus yang menampilkan berita seseorang lagi *ngapain* dan
+kemana. Plus dengan filter kepalsuannya.
+
+Jangan salah, seperti sinetron di TV yang *tetep* banyak penontonnya,
+Instagram juga begitu.
+
+### Twitter
+
+Inilah aplikasi berita sebenarnya. Apalagi kalau home feed nya dirubah ke
+"latest/terbaru" dah berita paling baru pun akan ter-update terus.
+
+Daripada kalau bosen buka IG lebih baik buka ini deh. Inilah dunia yang
+sebenarnya, bukan tipu-tipu lagi.
+
+### Flipboard
+
+Aplikasi ini beneran aplikasi untuk berita, yang isinya bisa kita pilih dan
+dengan tampilan yang menarik.
+
+Sumbernya bisa dari website, Twitter, Facebook, Reddit. Terserah kita.
+
+## Photo & Video
+
+### Photos
+
+Ya ini aplikasi bawaan iPhone untuk melihat foto ngga lebih dari itu, kadang
+editor standar-nya juga kadang dipakai bila ingin update-update cepat. Selain
+itu aplikasi pengelolaan foto utama ada di Goggle Photos
+
+### Google Photos
+
+Kalau kamu belum memakai aplikasi ini, segera deh pakai. Ini aplikasi
+pengelolaan dan backup foto terbaik saat ini. Walau sekarang tidak lagi benar-
+benar gratis, namun bila kita butuh untuk backup yang bisa diakses cepat
+dengan fitur-fitur yang bagus ini terbaik.
+
+Fitur seperti pencarian yang spesifik seperti "langit", "pemandangan", "laut"
+akan mengeluarkan hasil pencarian dengan foto seperti yang kita minta.
+
+Kamu akan terpukau bila kita mencari orang tertentu dan kita punya foto
+bayinya, maka Google Photos akan mengenali dari kecil sampai besar.
+
+## Aplikasi di dock
+
+### Phone
+
+Jelas ini aplikasi utama untuk melakukan hal dasar mempunyai ponsel, untuk
+menelepon.
+
+### Safari
+
+Ini aplikasi default untuk browsing internet. Iya memang ada aplikasi browser
+lain seperti Chrome, Edge, DuckDuckGo. Namun aplikasi browser di iOS pada
+dasarnya adalah Safari.
+
+Karena teknologi untuk akses browser harus melalui WebKit semua.
+
+**2.5.6** Apps that browse the web must use the appropriate WebKit framework
+and WebKit Javascript.
+
+Jadi buat apa pakai aplikasi lain kalau semua sama? toh fitur lain seperti
+Safari. Toh untuk pemblokir iklan pun saya sudah pakai
+[NextDNS](/blokir-iklan-tanpa-aplikasi/). Secara sistem
+segala *query* iklan terlah terblokir.
+
+### Kamera
+
+Kamera bawaan jelas harus ada di-*dock.* Walau bisa akses dari *lock screen*
+tapi keberadaan kamera di-*dock* ini masih hal yang harus ada di *homescreen.*
+
+Apalagi fitur-fitur kamera sudah lengkap termasuk *cinematic mode* yang paling
+baru.
+
+### WhatsApp
+
+Inilah aplikasi pesan yang mengalahkan *iMessage* di negara tercinta ini.
+Sepertinya penggunaan aplikasi pesan yang sesuai dengan di US terakhir adalah
+BBM. Setelah itu WhatsApp menguasai sampai sekarang belam ada yang bisa
+menggantikan.
+
+Kelemahan jelas ada, WA ini tidak berdasar *cloud* , jadi sampai sekarang
+tidak bisa berpindah-pindah *device* karena media penyimpanan masih manual
+berbentuk file *backup*.
+
+Semoga ada beberapa hal yang menarik untuk bisa dicoba. Inginnya seperti ini
+bisa di-*share* setiap tahun. Kita lihat tahun depan, apakah ada perubahan
+yang signifikan.

@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Kenapa ASUS Zenbook A14 UX3407 ini sangat menarik'
+date: '2025-02-12 10:25:49'
+---
+
+Saya sebenarnya tidak sedang mencari laptop baru, tapi ingin berbagi tentang ASUS Zenbook A14 UX3407 yang menurut saya sangat menarik. Laptop ini punya banyak fitur keren yang layak untuk dipertimbangkan. Berikut beberapa alasan kenapa laptop ini begitu istimewa.
+
+Yang pertama, ini laptop enteng banget. Cuma di bawah 1 kg! Padahal ini laptop 14 inch loh. ASUS pake material Ceraluminum yang lebih ringan dari aluminium biasa tapi tetap kuat. Perfect banget buat yang sering mobile kayak saya yang tiap hari bawa laptop kemana-mana.
+
+Terus soal performa, ini laptop pake Snapdragon X Series yang baru, berbasis ARM. Performanya sangat kompetitif dengan prosesor Intel terbaru di kelasnya. Yang bikin tambah wow, RAM-nya bisa sampai 32GB LPDDR5x dan storage SSD PCIe Gen 4 sampe 1TB. Bayangin aja multitasking sambil render video, pasti mulus.
+
+Layarnya juga oke. Panel 14 inch dengan resolusi 1920 x 1200, plus brightness sampe 400 nits. Warnanya akurat dengan 100% sRGB, cocok buat yang sering edit foto atau video. Response time 0.2ms itu cepet banget, jadi ngga bakal nemu ghosting atau blur waktu nonton atau main game ringan.
+
+![](https://press.asus.com/assets/w_640,h_640/a624f17c-3859-488e-b077-27e1c225f54b/Zenbook%20A14_UX3407_Product%20photo_Iceland%20Gray_03.png)
+
+
+
+Nah yang bikin makin tertarik itu baterainya. ASUS klaim bisa tahan sampe 32 jam untuk pemutaran video! Walau dalam real life pasti ngga sampe segitu, tapi dengan kapasitas 70Wh harusnya bisa tahan seharian penuh lah ya. Perfect buat yang sering kerja di café atau meeting di luar. Karena pakai processor ARM itu.
+
+Konektivitas juga up to date banget. Udah support WiFi 6E yang lebih stabil dari WiFi 6, plus Bluetooth 5.3. Cocok buat yang butuh koneksi stabil dan cepet buat kerja.
+
+Dari sisi pendinginan, ASUS pake heat pipe sama kipas aluminium yang ringan. Ini penting sih buat jaga performa tetep konsisten pas lagi kerja berat. Apalagi laptop setipis ini butuh sistem pendingin yang efisien.
+
+Soal harga, di US mulai dari Rp14.459.000 buat yang basic spec. Menurut saya ini worth it sih mengingat spek dan build quality-nya. Ada dua pilihan warna, Zabriskie Beige sama Iceland Gray yang dua-duanya elegan.
+
+Gimana menurut kalian? Ada yang udah pernah nyoba atau punya laptop ARM? Share pengalaman kalian di kolom komentar ya!

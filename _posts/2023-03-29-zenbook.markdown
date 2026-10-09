@@ -9,3 +9,54 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
+Bukan laptop gaming atau laptop yang mempunyai grafik dedicated. Keputusan
+beli laptop tahun 2023 ini jatuh kepada Asus ZenBook 14 Flip OLED (UN5401QA).
+
+
+# Kenapa saya tertarik dengan laptop ini?Pertama, sebenarnya karena saya memang mencari laptop tipis ringan 2in1.Sebelumnya saya pakai Nitro 5 itu beratnya di atas 2 kg dan itu berat banget.Belum lagi ditambah dengan *charger* -nya yang gede. Karenanya kali ini sayamencari dengan berat di bawah 1.5 kg.Terbiasa menggunakan laptop ringan di tempat kerja yang itu enak banget.Masalah main game, saat ini saya sudah memakai Xbox Series S dan Steam Deck,jadi ya kalau mau main game yang berat maka akan pakai Xbox, kalau mau dibuatkeluar rumah ya pakai Steam Deck.Kedua, laptop harus memiliki kekuatan prosesor atau grafik yang cukup, bukanprosesor dari seri rendah daya. Saya pernah menggunakan laptop dengan seriprosesor hemat daya (seri U), ketika terhubung ke listrik performanya masih
+baik. Namun ketika tidak terhubung ke listrik, performanya menurun drastis.
+Padahal seri U-nya adalah kelas i7. Bayangkan jika seri yang dipilih adalah
+kelas yang lebih rendah. Jadi, jika ingin performa yang baik meski sedikit
+mengorbankan daya baterai, jangan memilih laptop dengan prosesor seri U.
+
+Laptop ini diotaki oleh prosesor seri tinggi Zen 3 untuk laptop yaitu Ryzen 9
+5900HX. Di dalamnya ada 8 core, 16 thread. Itu uda prosesor keren ketika
+keluar 2021 lalu, dan saat ini sih masih dirasa kuat.
+
+- Warna Jade Black/Hitam-nya keren. Sebenarnya dari *seller* -nya cuma tersedia warna Grey, tapi entah kenapa yang dikirim malah warna hitam ini. Dan memang sebenarnya yang dicari ya warna hitam ini.
+
+- Layar OLED emang ngga ada obat. Keren banget. Kalau kalian sudah terbiasa pakai layar OLED di ponsel, maka punya layar OLED di ukuran yang lebih besar itu sangat memanjakan mata sekali. Mungkin next OLED di TV kali ya. Apalagi layar OLED ini sudah mendukung *refresh rate* 90hz. Makin mulus dah itu pergerakan dilayar.
+
+
+- Fan keluar berada di samping kanan kiri. Sehingga ketika laptop di pangkuan tidak akan terasa panas.
+
+
+# Minus
+
+- Menurut saya, tombol home, page up, dan page down yang terpisah di sebelah kanan dari tombol lainnya tidaklah berguna. Tombol-tombol tersebut biasanya difungsikan dengan menggunakan shortcut FN, tetapi sekarang memiliki tombol tersendiri seperti keyboard full keys. Tombol home yang dekat dengan backspace juga sering tertekan tanpa sengaja.
+
+
+- Membuka hinge laptop ini cukup sulit, mungkin karena tidak ada tonjolan di bagian layar untuk membukanya, atau mungkin cekungan di bagian *keyboard-*nya tidak cukup dalam.
+
+
+- Klik kiri pada touchpad sering tertekan sendiri jika kita mengangkat laptop pada bagian kiri touchpad atau jika digunakan sebagai tatakan ketika mengetik dengan laptop dipangku. Saya sudah menanyakan hal ini ke layanan ASUS, namun belum mendapat jawaban.
+
+Dengan bentuk dan ketipisan seperti ini, pada dasarnya ini adalah versi lain
+dari Flow X13 tanpa GPU tambahan dan layar OLED. Walaupun demikian, meskipun
+tidak ada tambahan GPU tambahan, laptop ini masih memiliki performa yang
+sangat baik dalam menjalankan aplikasi dan game medium.
+
+Selain itu, layar OLED yang luar biasa buat menonton video dan menjalankan
+aplikasi menjadi menyenangkan. Tidak hanya itu, laptop ini juga dilengkapi
+dengan baterai yang cukup awet. Kesimpulannya, walaupun tanpa *dedicated GPU,*
+bentuk dan ketipisannya yang sama dengan Flow X13, bentuk 2in1, layar OLED,
+dan performa oke. Laptop ini bisa dipilih untuk mencari laptop tipis di harga
+15 juta.
+
+Lokasi beli:
+
+[**Tokopedia**](https://tokopedia.link/uI6PHJcnVyb)
+
+[**Shopee**](https://invl.io/clhxeln)
+
+[**Blibli**](https://invl.io/clhxen0)
