@@ -21,13 +21,13 @@ Salah satu VPN yang saya coba dan berhasil adalah [PrivateVPN](https://privatevp
 
 Pertama yang harus dipastikan ada server itu menggunakan server di Indonesia. Walau dengan menggunakan VPN dan mengakses Netflix menggunakan server negara lain bisa membuka _geo-blocking_ di Netflix, namun saya tidak menyarankan karena itu berarti ilegal.
 
-<figure class="aligncenter size-large"><img src="https://i1.wp.com/res.cloudinary.com/setanwedinan/image/upload/v1587863767/PrivateVPN/Annotation_2020-04-26_081551.png?w=1200&amp;ssl=1" alt="" data-recalc-dims="1"></figure>
+<figure class="aligncenter size-large"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1587863767/PrivateVPN/Annotation_2020-04-26_081551.png" alt="" data-recalc-dims="1"></figure>
 
 ### Mendukung Netflix
 
 PrivateVPN ini mengatakan bisa digunakan untuk Netflix, kalau untuk saya intinya adalah ketika sudah akses Netflix dengan menggunakan server Indonesia Netflix tidak melakukan blokir lagi karena menggunakan VPN
 
-<figure class="aligncenter size-large"><img src="https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/v1587863851/PrivateVPN/Annotation_2020-04-26_081722.png?w=1200&amp;ssl=1" alt="" data-recalc-dims="1"></figure>
+<figure class="aligncenter size-large"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1587863851/PrivateVPN/Annotation_2020-04-26_081722.png" alt="" data-recalc-dims="1"></figure>
 
 ### Harga
 
@@ -35,18 +35,18 @@ Ada harga yang harus dibayar lebih untuk akses Netflix di Indihome. Memang saya 
 
 [Makeuseof](http://www.makeuseof.com/tag/vpns-still-work-netflix/) mengatakan:
 
-<figure class="wp-block-image"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/netflix-vpn-1.png" alt="Screen Shot 2017-10-18 at 08.55.10.png" data-recalc-dims="1"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/netflix-vpn-1.png" alt="Screen Shot 2017-10-18 at 08.55.10.png" data-recalc-dims="1"></figure>
 
 Untuk PrivateVPN sendiri harga yang harus dibayar mulai dari $4,15 (Rp56 081) sampai $8.21 (Rp110 945) @18 Okt 2017
 
-<figure class="wp-block-image"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/netflix-vpn-2.png" alt="Screen Shot 2017-10-18 at 08.34.31.png" data-recalc-dims="1"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/netflix-vpn-2.png" alt="Screen Shot 2017-10-18 at 08.34.31.png" data-recalc-dims="1"></figure>
 ### Setting
 
 Setelah mendaftar layanan VPN, selanjutnya adalah menggunakannya di device kita. Untuk PrivateVPN ada beberapa cara.
 
 Bisa menggunakan aplikasi/software yang disediakan PrivateVPN, atau menggunakan cara manual lain seperti di Router
 
-<figure class="aligncenter size-large"><img src="https://i0.wp.com/res.cloudinary.com/setanwedinan/image/upload/v1587863998/PrivateVPN/Annotation_2020-04-26_081950.png?w=1200&amp;ssl=1" alt="" data-recalc-dims="1"></figure>
+<figure class="aligncenter size-large"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1587863998/PrivateVPN/Annotation_2020-04-26_081950.png" alt="" data-recalc-dims="1"></figure>
 
 Saya sendiri, bila di Android menggunakan aplikasi, namun untuk dirumah saya melakukan setting melalui router yang berbeda dengan router yang disediakan oleh Telkom.
 

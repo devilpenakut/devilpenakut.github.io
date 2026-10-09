@@ -15,12 +15,12 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/v1614590050/permasalahaniphone/1127556671_ebdfa7cd2b_o.jpg" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614590050/permasalahaniphone/1127556671_ebdfa7cd2b_o.jpg" class="kg-image" alt loading="lazy"></figure>
 
 “iPhone jarang hang dibandingin Android”, itu yang sering orang katakan (atau pastinya para fanboy yang mengatakan). Namun namanya sebuah smartphone yang didalamnya terdapat sebuat sistem operasi tentunya tetap ada saat dimana terjadi masalah, terutama bagi pengguna iPhone baru _ehem yg baru beli iPhone 5_. Nah ada artikel dari PC World yang bisa kami share tentang 10 permasalahan iPhone yang umum terjadi dan bagaimana mengatasinya.
 
 ## **1. iPhone Saya Tidak Mau Mati**
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/v1614590058/permasalahaniphone/slide-to-turn-off-iphone1.jpg" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614590058/permasalahaniphone/slide-to-turn-off-iphone1.jpg" class="kg-image" alt loading="lazy"></figure>
 
 Jika iPhone Anda menolak untuk dimatikan, disini tidak ada cara cabut batrai seperti smartphone lainnya kecuali membuka casing belakang dengan obeng. Anda mungkin dapat memaksa untuk mematikan dengan restart sederhana, dengan menekan dan menahan tombol Sleep / Wake (tombol, ramping persegi di sisi kanan atas telepon). Tahan tombol sampai melihat ‘slide to power off’. Setelah telepon dimatikan, Anda dapat menekan tombol Sleep / Wake lagi untuk menyalakannya kembali.
 
@@ -30,7 +30,7 @@ Jika restart sederhana tersebut tidak tidak bekerja, coba reset, yang kira-kira 
 
 Jika iPhone Anda menolak untuk dihidupkan, langkah pertama adalah di charge, atau dihubungkan dengan pengisi daya. Lalu, tunggu beberapa saat, dan mencoba untuk menyalakannya lagi. Jika layar ponsel akan menampilkan gambar ini, Anda akan tahu itu bahwa pengisian sedang berjalan:
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/v1614590071/permasalahaniphone/iphone_5_battery_dead_hero.jpg" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614590071/permasalahaniphone/iphone_5_battery_dead_hero.jpg" class="kg-image" alt loading="lazy"></figure>
 
 Perhatikan bahwa jika iPhone Anda sangat rendah daya, layar seperti tadi mungkin memakan waktu beberapa menit untuk muncul. Jika bagian merah dari gambar baterai berkedip tiga kali dan kemudian muncul layar hitam, iPhone Anda tidak melakukan pengisian. Jika iPhone Anda masih tidak akan menyala, terdapat masalah pada baterai, selanjutnya bisa dibaca.
 
@@ -44,7 +44,7 @@ Jika iPhone Anda bisa mengisi dengan cara ini tetapi selalu habis daya dengan sa
 
 Jika itu tidak berhasil, cobalah menyesuaikan beberapa pengaturan pada iPhone Anda untuk menghemat batrai. Mematikan Bluetooth, pengaturan telepon untuk memeriksa e-mail lebih jarang, dan mematikan kemampuan telepon untuk mencari dan menyarankan jaringan Wi-Fi baru, hal tersebut bisa menghemat baterai.
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/c_scale,f_auto,h_800,q_auto/v1614590362/permasalahaniphone/daniel-korpai-Fo1ZKpX4-f8-unsplash.jpg" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614590362/permasalahaniphone/daniel-korpai-Fo1ZKpX4-f8-unsplash.jpg" class="kg-image" alt loading="lazy"></figure>
 
 Kadang segala setting itu tidak membantu dan batrai iPhone Anda tetap boros. Jika itu terjadi pada Anda, untuk memperbaikinya adalah restore iPhone Anda di iTunes.
 
@@ -102,7 +102,7 @@ Jika layar tersebut masih tidak bekerja, masalahnya mungkin dengan perangkat ker
 
 Layar retak adalah kutukan keberadaan pemilik iPhone – dan sayangnya, itu adalah sesuatu yang tampaknya menjadi lebih umum pada iPhone 4/4S yang banyak dengan bahan kaca. Pilihan pertama Anda adalah i toko lokal Apple untuk melihat apakah mereka bisa memperbaikinya. Dalam beberapa kasus mereka dapat memperbaiki layar sementara Anda menunggu – dan tergantung pada penyebab kerusakan, garansi dapat mencakup layanan tersebut. Perlu diingat, meskipun, bahwa Apple tidak mencakup kerusakan akibat kecelakaan atau penyalahgunaan, perusahaan yang mengklaim dapat menyebabkan layar retak. Anda mungkin harus membayar untuk perbaikan.
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/c_scale,f_auto,h_800,q_auto/v1614590750/permasalahaniphone/ali-abdul-rahman-TS5Pi8jqJZY-unsplash.jpg" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614590750/permasalahaniphone/ali-abdul-rahman-TS5Pi8jqJZY-unsplash.jpg" class="kg-image" alt loading="lazy"></figure>
 
 Atau, Anda dapat mencoba memperbaiki layar sendiri, jika Anda berani. Cari &nbsp;“mengganti layar iPhone,” dan Anda akan menemukan banyak pilihan.
 
@@ -120,7 +120,7 @@ Jika ada yang lain bekerja, Anda mungkin terpaksa downgrade ke versi iOS. Itu ak
 
 Akhir kata, pesan, saran, kritik dipersilahkan
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/10-permasalahan-iphone-dan-bagaimana-memperbaikinya-1.gif" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/10-permasalahan-iphone-dan-bagaimana-memperbaikinya-1.gif" class="kg-image" alt loading="lazy"></figure>
 
 **Sumber**
 

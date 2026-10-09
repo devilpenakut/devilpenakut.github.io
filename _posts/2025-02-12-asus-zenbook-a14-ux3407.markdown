@@ -12,7 +12,7 @@ Terus soal performa, ini laptop pake Snapdragon X Series yang baru, berbasis ARM
 
 Layarnya juga oke. Panel 14 inch dengan resolusi 1920 x 1200, plus brightness sampe 400 nits. Warnanya akurat dengan 100% sRGB, cocok buat yang sering edit foto atau video. Response time 0.2ms itu cepet banget, jadi ngga bakal nemu ghosting atau blur waktu nonton atau main game ringan.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/asus-zenbook-a14-ux3407-1.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/asus-zenbook-a14-ux3407-1.png)
 
 Nah yang bikin makin tertarik itu baterainya. ASUS klaim bisa tahan sampe 32 jam untuk pemutaran video! Walau dalam real life pasti ngga sampe segitu, tapi dengan kapasitas 70Wh harusnya bisa tahan seharian penuh lah ya. Perfect buat yang sering kerja di café atau meeting di luar. Karena pakai processor ARM itu.
 
@@ -22,9 +22,9 @@ Dari sisi pendinginan, ASUS pake heat pipe sama kipas aluminium yang ringan. Ini
 
 Soal harga, di US mulai dari Rp14.459.000 buat yang basic spec. Menurut saya ini worth it sih mengingat spek dan build quality-nya. Ada dua pilihan warna, Zabriskie Beige sama Iceland Gray yang dua-duanya elegan.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/asus-zenbook-a14-ux3407-2.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/asus-zenbook-a14-ux3407-2.png)
 
-![Iceland Gray](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/asus-zenbook-a14-ux3407-3.png)
+![Iceland Gray](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/asus-zenbook-a14-ux3407-3.png)
 
 Yang bikin saya mikir-mikir cuma satu sih: ini laptop pake Snapdragon, bukan Intel atau AMD. Walaupun katanya performanya kenceng kaya yang dipakai Apple dengan Seri M-nya, tapi tetep aja masih ada kekhawatiran soal kompatibilitas software. Tapi kayaknya dengan Windows yang udah makin mateng buat ARM, harusnya ngga masalah-masalah amat.
 

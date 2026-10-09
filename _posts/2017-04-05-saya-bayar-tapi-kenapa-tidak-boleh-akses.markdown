@@ -13,7 +13,7 @@ sudah menggunakan DNScrypt dan VPN pun masih tidak bisa untuk mengakses
 Netflix di Indihome. Akhirnya kembali lagi menggunakan situs streaming yang
 banyak tersedia plus sudah ada subtitle Indonesia nya juga.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/saya-bayar-tapi-kenapa-tidak-boleh-akses-1.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/saya-bayar-tapi-kenapa-tidak-boleh-akses-1.jpg)
 
 Itu adalah contoh bagian mana ISP atau provider internet dengan alasan bisnis
 ingin mengambil keuntungan dari konten over-the-top atau bisa diartikan

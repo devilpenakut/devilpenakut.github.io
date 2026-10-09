@@ -22,7 +22,7 @@ layout: default
   </div>
   {% else %}
   <div class="entry">
-    {{ content }}
+    {{ content | replace: '<img ', '<img loading="lazy" decoding="async" ' }}
   </div>
   {% endif %}
 

@@ -26,7 +26,7 @@ Max Gradel, ditransfer dengan biaya $23M. Pemain ini berperan penting di musim
 membantu striker Niang dan Adriano mencetak 40 gol. Disamping itu dengan 7 gol
 untuk pemain winger menurut saya sudah bagus.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/milan-jadi-juara-seri-a-1.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-1.png)
 
 Beberapa pemain ada yang dijual, Chelsea menawar cukup bagus untuk Bacca yang
 sudah menua dan Suso yang kalah kinerja dengan Sosa.

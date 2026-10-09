@@ -37,7 +37,7 @@ Ford Fiesta ini sebenarnya adalah saudara kembar dari Mazda 2 yang juga keluar
 di waktu yang sama, sehingga ada kesamaan model. Sama-sama keren, cuma Mazda
 lebih kalem.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/q_auto/v1617436754/FordFiesta/mazda2-atau-ford-fiesta-6.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1617436754/FordFiesta/mazda2-atau-ford-fiesta-6.webp)
 
 ### Tenaga
 

@@ -4,7 +4,7 @@ title: 'Apple dan Tantangan Inovasi: Mengapa Raksasa Teknologi Ini Makin Stagnan
 date: '2024-12-12 04:24:26'
 ---
 
-[![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/apple-dan-inovasi-1.png)](https://commons.wikimedia.org/wiki/File:Apple_first_logo.png#/media/File:Apple_first_logo.png)
+[![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/apple-dan-inovasi-1.png)](https://commons.wikimedia.org/wiki/File:Apple_first_logo.png#/media/File:Apple_first_logo.png)
 
 Apple didirikan tanggal 1 April 1976 oleh Steve Jobs, Steve Wozniak, dan Ronald Wayne. Perusahaan ini mulai dengan menjual komputer pribadi, dimulai dengan Apple I. Dalam beberapa tahun, Apple berhasil memperkenalkan berbagai produk **inovatif** yang mengubah cara orang berinteraksi dengan teknologi. Pada tahun 1984, mereka meluncurkan Macintosh, komputer yang ramah pengguna dengan antarmuka grafis. Inovasi-inovasi ini mengukir nama Apple sebagai salah satu pemain utama di industri teknologi dunia, yang terus berkembang hingga saat ini.
 

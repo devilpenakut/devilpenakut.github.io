@@ -9,7 +9,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-# ![Frontpage Classeur](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/classeur-web-app-untuk-menulis-1.png)
+# ![Frontpage Classeur](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-1.png)
 
 Ada web app baru untuk menulis. Karena ini merupakan web app maka tidak ada yang perlu diinstall. Tinggal buka web nya Classeur di [http://classeur.io/](http://classeur.io/) maka bisa langsung menulis. Namun bila ingin melakukan install biar mantab gitu bisa juga kok, namun fitur itu saat ini belum tersedia.
 
@@ -29,7 +29,7 @@ Markdown merupakan format penulisan yang memang lagi naik daun. Kita bisa fokus 
 
 Setelah menulis, seperti di layanan cloud lain seperti Google Doc, tulisan di Classeur bisa langsung di share by link.
 
-![Fitur Share](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/classeur-web-app-untuk-menulis-2.png)
+![Fitur Share](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-2.png)
 
 Atau jika tulisan tersebut merupakan tulisan bersama atau butuh di edit oleh orang lain Classeur juga bisa melakukan kolaborasi
 
@@ -39,9 +39,9 @@ Atau jika tulisan tersebut merupakan tulisan bersama atau butuh di edit oleh ora
 
 Selain bisa di share lain, dari Classeur bisa juga disimpan dengan format lain yang mungkin jika kita membutuhkan file secara lokal. Bisa format teks atau PDF.
 
-![Ekspor Teks](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/classeur-web-app-untuk-menulis-3.png)
+![Ekspor Teks](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-3.png)
 
-![Ekspor PDF dan Format Lain](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/classeur-web-app-untuk-menulis-4.png)
+![Ekspor PDF dan Format Lain](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-4.png)
 
 ### 5. Langsung Posting ke Blog
 
@@ -51,6 +51,6 @@ Bila kita suka menulis blog, Classeur ini juga bisa melakukan langsung posting k
 
 Bila kamu suka menulis dan kadang bingung mau menulis disana mungkin layanan web app ini bisa dicoba, gratis untuk batasan tertentu. Lengkapnya bisa dilihat dibawah
 
-![Harga](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/classeur-web-app-untuk-menulis-5.png)
+![Harga](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-5.png)
 
 <!--kg-card-end: html-->

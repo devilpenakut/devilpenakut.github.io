@@ -29,7 +29,7 @@ Dengan dua syarat tadi ada dua TV Box yang dianggap masuk, yaitu:
 
 ### 1\. Mi Box S
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tv-box-netflix-certified-1.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tv-box-netflix-certified-1.webp)
 
 TV Box ini sangat populer. Karena kualitasnya, juga karena sertifikasi lengkap
 yang sudah dimilikinya. Namun karena bukan merupakan hasil _bundling_ dari
@@ -44,7 +44,7 @@ Link pembelian:
 
 ### 2\. Akari AX512 (XL Home)
 
-![https://cdn.hashnode.com/res/hashnode/image/upload/v1730255250806/b14fd09c-3f1f-4013-9120-d670566b329f.jpeg](https://res.cloudinary.com/setanwedinan/image/upload/v1594787872/Blog%20Other/Annotation_2020-07-15_113738.jpg?w=1200&ssl=1)
+![https://cdn.hashnode.com/res/hashnode/image/upload/v1730255250806/b14fd09c-3f1f-4013-9120-d670566b329f.jpeg](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1594787872/Blog%20Other/Annotation_2020-07-15_113738.jpg?w=1200&ssl=1)
 
 TV Box ini biasanya didapatkan bila berlangganan XL Home, tapi entah kenapa
 banyak juga dijual di marketplace dengan harga yang tidak begitu mahal

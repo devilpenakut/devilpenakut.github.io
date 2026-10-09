@@ -21,7 +21,7 @@ itu kalau bisa tidak terlalu mahal *router* -nya apapun paket datanya.
 Setelah memilih beberapa layanan maka saya tertarik menggunakan router dan
 paket dari [XL Go](https://www.xl.co.id/id/for-you/broadband/overview)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-1.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-1.jpg)
 
 Kenapa XL Go menarik, karena paket data yang ditawarkan pada awalnya cukup
 besar. Kuota di awal memang seperti pemanis aja untuk mencoba layanan dari XL
@@ -57,7 +57,7 @@ Memang ada *gimmick* di bonus kuota, namun yang satu lagi yang menarik
 tambahan kuota itu bisa digunakan selama 24 jam, bukan hanya malam hari atau
 waktu-waktu tertentu seperti operator lain.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-2.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-2.png)
 
 ### Pengaturan
 
@@ -66,15 +66,15 @@ memasukkan SIM yang disediakan oleh XL. Langkah selanjutnya memasang baterai.
 Setelah baterai terpasang langsung bisa dinyalakan dengan menekan tombol
 *power* sedikit lama.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-3.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-3.jpg)
 
 ![20170308_125926-768x1024 (1)](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2017/03/20170308_125926-768x1024-1.jpg?resize=1024%2C768)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-4.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-4.jpg)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-5.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-5.jpg)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-6.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-6.jpg)
 
 Setelah menyala, modem sudah bisa di *setting* namun memang belum ada koneksi
 untuk internetnya karena kartu XL ini harus diaktifkan dulu seperti penggunaan
@@ -113,7 +113,7 @@ adalah *upload* -nya yang cukup tinggi dengan perbandingan 1 banding 1 dengan
 *download* -nya. Ini berbeda dengan Indihome yang walaupun *download* -nya 10
 mbps namun maksimal *upload* hanya 2 mbps.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-7.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-7.png)
 
 Karena XL tidak memblokir akses Netflix seperti di indihome maka saya bisa
 mengetes menggunakan fast.com. Pada pengujian menggunakan website fast.com
@@ -125,7 +125,7 @@ Speedtest.
 Kalau menggunakan ponsel ternyata koneksinya berkurang menjadi sekitar 12
 mbps, namun menyenangkannya dari beberapa pengujian selalu diatas 10 BPS
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-8.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-8.png)
 
 Saya rasa, XL Go ini pantas untuk dicoba. Terutama bagi kamu yang bisa
 menerima jaringan XL 4G di kotanya. Menggunakan *wifi router* bagi saya juga

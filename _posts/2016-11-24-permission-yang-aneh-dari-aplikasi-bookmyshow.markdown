@@ -20,7 +20,7 @@ Oke, kembali ke _permission_ yang diminta oleh BookMyShow.
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill"></div>
 <div class="progressiveMedia js-progressiveMedia graf-image is-imageLoaded is-canvasLoaded" data-image-id="1*F8pwzQQlucYdj7U1NHDaHw.png" data-width="1440" data-height="2560" data-action="zoom" data-action-value="1*F8pwzQQlucYdj7U1NHDaHw.png" data-scroll="native">
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-1.png" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-1.png" data-recalc-dims="1">
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-1.png" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-1.png" data-recalc-dims="1">
 </div>
 </div>
 </figure>
@@ -44,7 +44,7 @@ Dari penjelasan _permission_ itu berkata, _one of_. Berarti bisa cuma salah satu
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill"></div>
 <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*AWWh8PemUcJTNyJXBjkYRw.jpeg" data-width="1080" data-height="2344" data-action="zoom" data-action-value="1*AWWh8PemUcJTNyJXBjkYRw.jpeg" data-scroll="native">
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="34" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-2.jpg" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-2.jpg" data-recalc-dims="1">
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="34" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-2.jpg" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-2.jpg" data-recalc-dims="1">
 </div>
 </div>
 </figure>
@@ -57,7 +57,7 @@ Ini contoh untuk Cinemaxx.
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill"></div>
 <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*SDBBrSII8XN8Db55fZo-hQ.jpeg" data-width="1080" data-height="2070" data-action="zoom" data-action-value="1*SDBBrSII8XN8Db55fZo-hQ.jpeg" data-scroll="native">
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-3.jpg" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-3.jpg" data-recalc-dims="1">
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="39" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-3.jpg" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-3.jpg" data-recalc-dims="1">
 </div>
 </div>
 </figure>
@@ -68,7 +68,7 @@ Ini CGV Blitz.
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill"></div>
 <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*oEKFwr_BDu1g8SW8uiGlkg.png" data-width="1440" data-height="2560" data-action="zoom" data-action-value="1*oEKFwr_BDu1g8SW8uiGlkg.png" data-scroll="native">
-<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-4.png" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-4.png" data-recalc-dims="1">
+<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="42" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-4.png" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/permission-yang-aneh-dari-aplikasi-bookmyshow-4.png" data-recalc-dims="1">
 </div>
 </div>
 </figure>

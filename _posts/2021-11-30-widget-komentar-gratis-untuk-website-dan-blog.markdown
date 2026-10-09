@@ -37,19 +37,19 @@ Berikut beberapa keuntungan menggunakan utterances.
 
 - Buka [utterances](https://utteranc.es/) dan masukkan alamat repo-nya (owner/repo)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/c_scale,f_auto,q_auto,w_640/v1638256785/komentar/Screenshot_2021-11-30_150943.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1638256785/komentar/Screenshot_2021-11-30_150943.png)
 
 5. Lalu pilih setting yang dimau untuk penamaan issue. Ini memudahkan kita untuk melihat komentar per-halaman web.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/c_scale,f_auto,q_auto,w_640/v1638256785/komentar/Screenshot_2021-11-30_150729.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1638256785/komentar/Screenshot_2021-11-30_150729.png)
 
 6. Kalau setting-nya sudah sesuai akan ada contoh dibagian bawah
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/c_scale,f_auto,q_auto,w_640/v1638256785/komentar/Screenshot_2021-11-30_151737.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1638256785/komentar/Screenshot_2021-11-30_151737.png)
 
 7. Kalau oke tinggal copy pada bagian ini.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/c_scale,f_auto,q_auto,w_640/v1638256785/komentar/Screenshot_2021-11-30_151003.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1638256785/komentar/Screenshot_2021-11-30_151003.png)
 
 8. Masukkan `script` yang di copy tadi ke website kita, bisa dibawah post, bisa di setting untuk theme-nya.
 

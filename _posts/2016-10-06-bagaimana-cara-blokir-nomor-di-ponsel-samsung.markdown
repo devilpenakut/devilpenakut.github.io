@@ -19,31 +19,31 @@ Masuk ke call log dimana disana terlihat panggilan masuk dan keluar. Dari log te
 
 #### Pilih nomor yang ingin kamu blok, lalu pilih ‘more’ dikanan atas. Lalu pilih ‘Blok/unblock number’.
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280268/Samsung%20Cloud/Screenshot_20161006-072922_bxgtvo.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280268/Samsung%20Cloud/Screenshot_20161006-072922_bxgtvo.png)
 
 &nbsp;
 
 #### Nah disini kamu bisa memilih mau blok hanya panggilan atau sms saja atau dua-dua nya.
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280261/Samsung%20Cloud/Screenshot_20161006-072937_bvpsyi.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280261/Samsung%20Cloud/Screenshot_20161006-072937_bvpsyi.png)
 
 ## Blok melalui SMS
 
 #### Masuk ke sms/pesan dimana nomornya ingin kamu blok
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280305/Samsung%20Cloud/Screenshot_20161006-080346_uzpdn9.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280305/Samsung%20Cloud/Screenshot_20161006-080346_uzpdn9.png)
 
 &nbsp;
 
 #### Pilih ‘more’ dikanan atas. Lalu pilih ‘Blok number’.
 
-![](https://i0.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280299/Samsung%20Cloud/Screenshot_20161006-080402_edsdo4.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280299/Samsung%20Cloud/Screenshot_20161006-080402_edsdo4.png)
 
 &nbsp;
 
 #### Disini kamu bisa memilih mau blok hanya panggilan atau sms saja atau dua-dua nya, plus bisa sekalian hapus pesan tersebut.
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280303/Samsung%20Cloud/Screenshot_20161006-080412_vbnd2v.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280303/Samsung%20Cloud/Screenshot_20161006-080412_vbnd2v.png)
 
 &nbsp;
 
@@ -53,15 +53,15 @@ Bagaimana kita melihat nomor yang sudah kamu&nbsp;blok, yang ternyata ada nomor 
 
 #### Masuk ke call log, lalu pilih ‘more’ dikanan atas dan pilih setting. Pilih ‘Call blocking’
 
-![](https://i1.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280320/Samsung%20Cloud/Screenshot_20161006-073020_noojqp.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280320/Samsung%20Cloud/Screenshot_20161006-073020_noojqp.png)
 
 #### Pilih ‘Blok list’
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280277/Samsung%20Cloud/Screenshot_20161006-073025_azkim7.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280277/Samsung%20Cloud/Screenshot_20161006-073025_azkim7.png)
 
 #### Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingin menambahkan&nbsp;nomor baru secara manual juga bisa.
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280269/Samsung%20Cloud/20161006_075838_fp4rka.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280269/Samsung%20Cloud/20161006_075838_fp4rka.png)
 
 &nbsp;
 
@@ -69,19 +69,19 @@ Bagaimana kita melihat nomor yang sudah kamu&nbsp;blok, yang ternyata ada nomor 
 
 #### Masuk ke messages/sms, lalu pilih ‘more’ dikanan atas dan pilih setting. Pilih ‘Block messages’
 
-![](https://i1.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280313/Samsung%20Cloud/Screenshot_20161006-083111_lkijxe.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280313/Samsung%20Cloud/Screenshot_20161006-083111_lkijxe.png)
 
 &nbsp;
 
 #### Pilih ‘Block list’
 
-![](https://i0.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280318/Samsung%20Cloud/Screenshot_20161006-083125_skj40t.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280318/Samsung%20Cloud/Screenshot_20161006-083125_skj40t.png)
 
 &nbsp;
 
 #### Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingin menambahkan&nbsp;nomor baru secara manual juga bisa.
 
-![](https://i0.wp.com/res.cloudinary.com/setanwedinan/image/upload/c_scale,w_300/v1477280312/Samsung%20Cloud/20161006_083159_qyzvqj.png?resize=300%2C533)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280312/Samsung%20Cloud/20161006_083159_qyzvqj.png)
 
 &nbsp;
 

@@ -6,7 +6,7 @@ date: '2021-07-16 05:36:44'
 
 ### Android tanpa ubahan dan hasil kamera bikin ponsel ini tetap dicari
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/v1626412384/Pixel/daniel-romero-eT-B6YcQErU-unsplash.jpg)Photo by [Daniel
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1626412384/Pixel/daniel-romero-eT-B6YcQErU-unsplash.jpg)Photo by [Daniel
 Romero](https://unsplash.com/@rmrdnl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 on [Unsplash](https://unsplash.com/s/photos/google-pixel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

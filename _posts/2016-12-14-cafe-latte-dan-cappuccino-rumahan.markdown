@@ -16,7 +16,7 @@ Dirumah pengen buat Cafe Latte atau Cappuccino tapi tidak suka yang sudah jadi d
 <div class="progressiveMedia js-progressiveMedia graf-image is-imageLoaded is-canvasLoaded" data-image-id="1*HIxzadQbqqUWQILMHsCXzQ.png" data-width="400" data-height="400" data-scroll="native">
 <p> </p>
 <div style="width: 410px" class="wp-caption aligncenter">
-<img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cafe-latte-dan-cappuccino-rumahan-1.png" width="400" height="400" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cafe-latte-dan-cappuccino-rumahan-1.png" data-recalc-dims="1"><p class="wp-caption-text">Kopi</p>
+<img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cafe-latte-dan-cappuccino-rumahan-1.png" width="400" height="400" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cafe-latte-dan-cappuccino-rumahan-1.png" data-recalc-dims="1"><p class="wp-caption-text">Kopi</p>
 </div>
 </div>
 </div>
@@ -26,7 +26,7 @@ Dirumah pengen buat Cafe Latte atau Cappuccino tapi tidak suka yang sudah jadi d
 <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*q9gU9jO49QZHwWjZXEk7dw.png" data-width="500" data-height="500" data-scroll="native">
 <p> </p>
 <div style="width: 510px" class="wp-caption aligncenter">
-<img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cafe-latte-dan-cappuccino-rumahan-2.png" width="500" height="500" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cafe-latte-dan-cappuccino-rumahan-2.png" data-recalc-dims="1"><p class="wp-caption-text">Susu</p>
+<img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cafe-latte-dan-cappuccino-rumahan-2.png" width="500" height="500" data-src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cafe-latte-dan-cappuccino-rumahan-2.png" data-recalc-dims="1"><p class="wp-caption-text">Susu</p>
 </div>
 </div>
 </div>

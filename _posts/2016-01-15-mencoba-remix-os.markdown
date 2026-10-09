@@ -13,11 +13,11 @@ Harus nya Google sudah lama membuat OS seperti ini untuk Chrome OS nya. Inilah O
 
 Remix OS ini yang berdasar pada Android 5.1.1, jadi bukan merupakan versi Chrome OS. Android 5.1.1 ini dimodifikasi tampilannya sehingga menyerupai tampilan Windows yang sudah familiar.
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mencoba-remix-os-1.png" class="kg-image" alt loading="lazy" title="Hosted by imgur.com"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencoba-remix-os-1.png" class="kg-image" alt loading="lazy" title="Hosted by imgur.com"></figure>
 
 Jadi ada start menu, ada windows, ada desktop shortcut. Yah seperti umumnya Windows. Kalau di Android biasanya membuka satu aplikasi lalu ingin membuka aplikasi lain tidak bisa saling berdampingan, di Remix OS hal itu bisa dilakukan
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mencoba-remix-os-2.png" class="kg-image" alt loading="lazy" title="Hosted by imgur.com"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencoba-remix-os-2.png" class="kg-image" alt loading="lazy" title="Hosted by imgur.com"></figure>
 
 Dua hari ini Remix OS saya pakai sebagai OS Desktop saya. Mulai dari membaca berita, ber-sosial media, baca email, nulis laporan, dan bahkan nulis tulisan ini menggunakan Remix OS.
 
@@ -25,17 +25,17 @@ Dua hari ini Remix OS saya pakai sebagai OS Desktop saya. Mulai dari membaca ber
 
 Aplikasi yang tersedia lengkap di play store sangat memudahkan beradaptasi dengan OS ini. Jadi kalau pernah pakai Android pasti langsung bisa menggunakan OS ini.
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mencoba-remix-os-3.png" class="kg-image" alt loading="lazy" title="Hosted by imgur.com"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencoba-remix-os-3.png" class="kg-image" alt loading="lazy" title="Hosted by imgur.com"></figure>
 ### **Game**
 
 Bermain game pun bisa, saya mencoba mengunduh Clash of Clans dan Hay Day bisa berjalan dengan lancar. Oh iya, saya ini menggunakan PC Lenovo ThinkCentre tapi entah modelnya. Pastinya RAM cuma 2 Gb.
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mencoba-remix-os-4.png" class="kg-image" alt loading="lazy" title="source: imgur.com"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencoba-remix-os-4.png" class="kg-image" alt loading="lazy" title="source: imgur.com"></figure>
 ### **Koneksi**
 
 Bicara koneksi Remix OS ini dengan mudahnya mendeteksi _Wireless USB WIFI_ yang saya gunakan. Begitu pula dengan koneksi LAN yang ada. Semua terdeteksi oleh Remix OS
 
-<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mencoba-remix-os-5.png" class="kg-image" alt loading="lazy" title="source: imgur.com"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mencoba-remix-os-5.png" class="kg-image" alt loading="lazy" title="source: imgur.com"></figure>
 ### **Permasalahan**
 
 Permasalahan yang saya alami pertama adanya _respond lag_. Hal ini saya anggap karena saya menggunakan USB 2.0 dan juga pada pada konektor 2.0. Mungkin bisa beda bila menggunakan tipe USB 3.0 seperti yang dipersyaratkan oleh Remix.

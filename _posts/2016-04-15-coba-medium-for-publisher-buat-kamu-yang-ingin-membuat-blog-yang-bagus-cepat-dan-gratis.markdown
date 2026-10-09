@@ -23,7 +23,7 @@ tags:
 <p id="d317" class="graf--p graf-after--h4">Kalau kamu yang biasa bermain di WordPress mungkin sudah tahu bahwa untuk menggunakan <em class="markup--em markup--p-em">custom domain</em> di WordPress.com dikenakan biaya USD99 pertahun.</p>
 <figure id="6d84" class="graf--figure graf-after--p">
 <div class="aspectRatioPlaceholder is-locked">
-<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/coba-medium-for-publisher-buat-kamu-yang-ingin-membuat-blog-1.png" data-recalc-dims="1"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/coba-medium-for-publisher-buat-kamu-yang-ingin-membuat-blog-1.png" data-recalc-dims="1"></div>
 </div>
 </figure>
 <p id="d5b1" class="graf--p graf-after--figure">Sedang kalau di Medium itu gratiiisss. Diluar biaya <em class="markup--em markup--p-em">domain</em> pastinya.</p>
@@ -44,7 +44,7 @@ tags:
 <h4 id="c6a6" class="graf--h4 graf-after--p">Kostumisasi tetap bisa</h4>
 <figure id="3de3" class="graf--figure graf-after--h4">
 <div class="aspectRatioPlaceholder is-locked">
-<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/coba-medium-for-publisher-buat-kamu-yang-ingin-membuat-blog-2.png" data-recalc-dims="1"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/coba-medium-for-publisher-buat-kamu-yang-ingin-membuat-blog-2.png" data-recalc-dims="1"></div>
 </div>
 <figcaption class="imageCaption"><a class="markup--anchor markup--figure-anchor" href="https://medium.com/the-story/making-medium-more-powerful-for-publishers-39663413a904#.9qk3jwqzn" rel="nofollow">https://medium.com/the-story/making-medium-more-powerful-for-publishers-39663413a904#.9qk3jwqzn</a></figcaption></figure>
 <p id="5276" class="graf--p graf-after--figure">Itu beberapa contoh kostumisasi beberapa <em class="markup--em markup--p-em">publishers</em> di Medium.</p>

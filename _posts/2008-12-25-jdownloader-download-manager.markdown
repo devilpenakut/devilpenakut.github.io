@@ -11,7 +11,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![jdownloader](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/jdownloader-download-manager-1.png)
+![jdownloader](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/jdownloader-download-manager-1.png)
 
 Sudah beberapa download manager yg saya pakai, mulai dr yg berbayar sampai dengan yang free. Nah setelah sempat beberapa kali bermasalah dengan [Internet Download Manager (IDM)](http://www.internetdownloadmanager.com/) versi petani, akhirnya [download manager (DM)](http://en.wikipedia.org/wiki/Download_manager) yg saya pakai DownThemAll yang merupakan free add on Firefox. Namun [DownThemAll](http://www.downthemall.net/) susah untuk mendownload file2 dari filehosting seperti [Rapidshare](http://rapidshare.com/). Pada awalnya banyak yang menyarankan menggunakan IDM karena kecepatannya, tp krn masalah yg pernah saya alami akhirnya saya harus mencari DM yang free dan bagus untuk download dari filehosting, nah pada akhirnya saya menemukan [JDownloader](http://jdownloader.org/home).  
 <!--more-->  

@@ -23,13 +23,13 @@ http://www.indihome.co.id/internet-fiber
 
 Telkom di website dan media promosi mengatakan bahwa koneksi fiber lebih baik dari tembaga terutama lebih tidak banyak gangguan. Memang, secara kecepatan koneksi fiber lebih baik dari tembaga. Tapi yang terjadi adalah keluhan LOS oleh pelanggan banyak bertebaran.
 
-[![SRNL Fiber Optic Cable Installation](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ketika-koneksi-fiber-terganggu-peringatan-los-1.jpg)](https://flic.kr/p/dgZGnB)
+[![SRNL Fiber Optic Cable Installation](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ketika-koneksi-fiber-terganggu-peringatan-los-1.jpg)](https://flic.kr/p/dgZGnB)
 
 Secara fisik [kabel fiber](https://en.wikipedia.org/wiki/Optical_fiber_cable) memang rentan putus. Fiber itu terdiri dari serat kaca tipis yang digabung menjadi satu. Ada lengkungan sedikit saja bisa putus. Bandingkan dengan tambaga yang lebih tahan lengkungan.
 
 Permasalahan sering LOS dalam jaringan fiber tentu tidak lepas dari ruwet nya jaringan kabel di negara kita. Lihat saja tiang dan kabel pinggir jalan itu. Kanan kiri bersliweran tanpa ada kerapian. Satu aja salah perawatan putuslah kabel fiber itu.
 
-[![...di balik kabel-kabel ruwet ini tercatat data penting klimatologi senja tanah parahyangan saat ini! (BMKG Bandung)](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ketika-koneksi-fiber-terganggu-peringatan-los-2.jpg)](https://flic.kr/p/cfDaL5)
+[![...di balik kabel-kabel ruwet ini tercatat data penting klimatologi senja tanah parahyangan saat ini! (BMKG Bandung)](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ketika-koneksi-fiber-terganggu-peringatan-los-2.jpg)](https://flic.kr/p/cfDaL5)
 
 Telkom, MNC dan layanan yang menggunakan fiber harusnya lebih memikirkan hal ini. Jaringan di luar rumah pelanggan harusnya lebih rapi sehingga tidak sering menimbulkan gangguan.
 

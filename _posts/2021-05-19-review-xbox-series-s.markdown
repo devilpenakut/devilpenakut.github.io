@@ -4,7 +4,7 @@ title: 'Review Xbox Series S'
 date: '2021-05-19 06:04:22'
 ---
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-1.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-1.webp)
 
 Konsol ini memang kericuhan pembeliannya tidak seramai PS5 bahkan Xbox Series
 X. Namun menurut saya konsol ini tidak bisa dipandang sebelah mata cuma
@@ -39,11 +39,11 @@ terbaik.
 Dengan harga tersebut didalamnya sudah termasuk kabel _power_ , kabel HDMI 2.1
 dan satu _controller_ berwarna putih.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-2.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-2.webp)
 
 ## Spesifikasi
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-3.png)Spesifikasi
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-3.png)Spesifikasi
 Xbox Series S
 
 Secara umum perbedaan spesifikasi Xbox Series S dan X adalah di kekuatan
@@ -87,7 +87,7 @@ dalamnya juga cuma sebentar, di bawah 10 detik. Apalagi bila _game_ itu sudah
 pernah dibuka sebelumnya dan _support "quick resume"_ , proses buka _game_
 sampai bisa dimainkan akan lebih cepat lagi bisa dibawah 5 detik.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-4.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-4.jpg)
 
 **2. Grafis lebih baik daripada PS4**
 
@@ -119,7 +119,7 @@ lainnya, bahkan lebih kecil dari PS4 reguler. Dengan ukuran 6.5cm x 15.1cm x
 Bandingkan dengan Xbox Series X (15.1cm x 15.1cm x 30.1cm) dan PS5 (26cm x
 10.4cm x 39cm)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-5.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-5.jpg)
 
 **4. Game Pass sangat menguntungkan**
 
@@ -137,7 +137,7 @@ Dengan biaya langganan sekitar Rp.150.000-200.000 per-bulan tergantung region
 mana yang dipakai saya rasa masih sangat menguntungkan. Apalagi dengan pilihan
 diatas 100 _game_ yang bisa dimainkan.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-6.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-6.jpg)
 
 **5. Fitur Quick Resume yang ajaib**
 
@@ -209,7 +209,7 @@ _cloud_ untuk diakses di aplikasi Xbox di ponsel. Tombol logo Xbox-nya saya
 lebih suka jalan Xbox 360 yang sedikit menonjol, kalau ini rata dengan
 permukaan _controller_ -nya.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-xbox-series-s-7.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-7.jpg)
 
 **4. Kemampuan grafis yang dibawah Xbox Series X dan PS5**
 

@@ -72,7 +72,7 @@ Profil dapat ditambahkan di perangkat yang dibuat setelah tahun 2013.
 
 - Pilih Lanjutkan. Profil baru akan ditampilkan pada daftar profil di akun.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/q_auto/v1614388813/Sharing%20Netflix/v4-728px-Share-Netflix-Step-6.jpg.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614388813/Sharing%20Netflix/v4-728px-Share-Netflix-Step-6.jpg.webp)
 
 Jika tidak dapat membuat atau menghapus profil dari perangkat atau saat
 menggunakan browser seluler, kunjungi

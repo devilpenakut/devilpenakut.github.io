@@ -36,7 +36,7 @@ dalam kualitas 4K. Sedangkan di *website* tergantung pada browser yang
 digunakan . Dan juga pada aplikasi Windows bisa menyimpan serial atau film
 secara *offline* , sedangkan di browser tidak bisa. tiga
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cara-menonton-netflix-1.png)Photographer: [Charles Deluvio](https://unsplash.com/@charlesdeluvio) | Source: [Unsplash](https://unsplash.com/)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cara-menonton-netflix-1.png)Photographer: [Charles Deluvio](https://unsplash.com/@charlesdeluvio) | Source: [Unsplash](https://unsplash.com/)
 
 ## 3. Menonton melalui *Chromecast*
 
@@ -63,7 +63,7 @@ beberapa APK yang tidak kompatibel sehingga tidak bisa menjalankan film dan
 serial. Jadi harus mencoba beberapa APK yang sesuai. Namun karena ini
 ditampilkan di TV maka menjadi pengalaman menonton yang enak.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cara-menonton-netflix-2.jpg)Photographer: [Panos Sakalakis](https://unsplash.com/@meymigrou) | Source: [Unsplash](https://unsplash.com/)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cara-menonton-netflix-2.jpg)Photographer: [Panos Sakalakis](https://unsplash.com/@meymigrou) | Source: [Unsplash](https://unsplash.com/)
 
 ## 5. Menggunakan *Smart TV* yang *support* Netflix
 

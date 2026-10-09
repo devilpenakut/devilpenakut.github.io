@@ -13,7 +13,7 @@ kekuatannya untuk ponsel yang dipakai selama 3 tahun.
 
 ### Layar
 
-![](https://i2.wp.com/res.cloudinary.com/setanwedinan/image/upload/q_auto/v1554706472/S10/QNb7hzc.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1554706472/S10/QNb7hzc.png)
 
 #### Layar maksimal
 
@@ -34,7 +34,7 @@ berbeda jauh.
 
 #### Edge screen terutama yang bisa memilih layar untuk di capture
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-1.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-1.png)
 
 Edge screen ini dulu tidak banyak berguna, baik di seri S atau pun di seri
 Note. Namun kali ini saya sangat terbantu dengan edge screen, terutama untuk
@@ -66,11 +66,11 @@ akurasi layar. Dalam tes [XDA](https://www.xda-developers.com/samsung-galaxy-s10
 Mate](http://www.displaymate.com/Galaxy_S10_ShootOut_1S.htm) pun terbukti
 layar AMOLED S10 ini memang keren.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-2.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-2.png)
 
 ### Kamera
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-3.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-3.jpg)
 
 #### Kamera kecuali wide tidak beda dengan Galaxy S7
 
@@ -87,9 +87,9 @@ kondisi yang tidak memungkinkan kalau pakai lensa biasa. Seperti pakai kamera
 Go-Pro. Sangat berguna ketia ambil objek yang sangat besar seperti gedung atau
 menara, atau ambil objek dengan jarak foto yang terbatas.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-4.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-4.jpg)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-5.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-5.jpg)
 
 #### Night Mode
 
@@ -99,9 +99,9 @@ kamera, namun hasilnya tidak sebagus mode night mode di ponsel lain seperti
 Google Pixel dan Huawei Mate 20 atau P30. Fotonya masih ada beberapa bagian
 yang berasa tidak tajam atau kurang terang.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-6.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-6.png)
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-7.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-7.jpg)
 
 ### Performa
 
@@ -125,7 +125,7 @@ sendiri tidak yakin untuk S10+ bisa sampai malam. Jadi sore atau sudah 40%
 pasti saya charge. Mungkin di orang lain S10+ ini cukup untuk di charge
 keesokan harinya.
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-singkat-samsung-galaxy-s10-8.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-samsung-galaxy-s10-8.jpg)
 
 ### Kesimpulan
 

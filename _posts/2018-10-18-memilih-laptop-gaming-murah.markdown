@@ -82,7 +82,7 @@ juga terlalu banyak aksen garis-garis merahnya.
 
 ### Acer Nitro 5 AN515-51
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/memilih-laptop-gaming-murah-1.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/memilih-laptop-gaming-murah-1.jpg)
 
 #### Harga: Rp. 11.400.000,-
 

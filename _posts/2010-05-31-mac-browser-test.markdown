@@ -48,11 +48,11 @@ Safari 4.0.5 18,9
 Firefox 3.6.3 24,8  
 Chrome 5.0.375.55 43,3
 
-![java](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-1.jpg)
+![java](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-1.jpg)
 
-![sfjava](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-2.jpg)  
- ![ffjava](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-3.jpg)  
- ![chjava](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-4.jpg)
+![sfjava](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-2.jpg)  
+ ![ffjava](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-3.jpg)  
+ ![chjava](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-4.jpg)
 
 Chrome disini unggul, karena engine V8 JavaScript nya?entahlah yg pasti mengalahkan engine TraceMonkey nya Firefox dan Nitro nya Safari. Firefox anomali di tes ini,terlihat perbedaan yang sangat jauh dengan lainnya, ada apa dengan engine javascript-nya firefox?
 
@@ -63,11 +63,11 @@ Safari 4.0.5 510,4
 Firefox 3.6.3 1150  
 Chrome 5.0.375.55 468,4
 
-![html](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-5.jpg)
+![html](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-5.jpg)
 
-![sfhtml](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-6.jpg)  
- ![ffhtml](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-7.jpg)  
- ![dhhtml](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-8.jpg)
+![sfhtml](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-6.jpg)  
+ ![ffhtml](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-7.jpg)  
+ ![dhhtml](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-8.jpg)
 
 Safari disini ungul, tapi berbeda sedikit dengan Firefox webkit yang di usung oleh Apple mampu mengurai halaman html dengan baik, lebih baik dari pada Gecko nya Firefox. Namun Chrome yang ber-engine sama dengan Safari yaitu Webkit terlihat sangat terengah-engah merender halaman html ini.
 
@@ -78,11 +78,11 @@ Safari 4.0.5 62,9 11,9
 Firefox 3.6.3 64,8 15,5  
 Chrome 5.0.375.55 65 15,5
 
-![speed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-9.jpg)
+![speed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-9.jpg)
 
-![sfspeed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-10.jpg)  
- ![ffspeed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-11.jpg)  
- ![chspeed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-12.jpg)
+![sfspeed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-10.jpg)  
+ ![ffspeed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-11.jpg)  
+ ![chspeed](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-12.jpg)
 
 Saya tau, agak aneh mengikutkan speedtest.net di sini, namun saya ingin tau kecepatan download dan upload ketika melalui browser. Hasilnya beda2 tipis, karena memang kecepatan ini tergantung dari koneksi yang dipakai, bukan browser. Namun memberi masukan bagus bahwa DL/UL terbaik ada di Chrome.
 
@@ -93,7 +93,7 @@ Safari 4.0.5 190,8
 Firefox 3.6.3 172,7  
 Chrome 5.0.375.55 77,8
 
-![memory](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-13.jpg)]
+![memory](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-13.jpg)]
 
 ![activity](https://i1.wp.com/lh5.ggpht.com/_Vbt_CWpQ5ZU/TAI4cabt7NI/AAAAAAAAAZQ/JTrBPT0MKXA/s800/activity.jpg?w=1200)
 
@@ -106,11 +106,11 @@ Safari 4.0.5 100
 Firefox 3.6.3 94  
 Chrome 5.0.375.55 98
 
-![acid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-14.jpg)
+![acid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-14.jpg)
 
-![sfacid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-15.jpg)  
- ![ffacid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-16.jpg)  
- ![chacid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mac-browser-test-17.jpg)
+![sfacid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-15.jpg)  
+ ![ffacid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-16.jpg)  
+ ![chacid](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mac-browser-test-17.jpg)
 
 Safari unggul disini. Angka sempurna untuk cara merender halaman terbaik, salah satu hal yang dibanggakan oleh Apple. Chrome memang dapat skor 98 namun lihatlah hasil rendernya, kacau, perlu perbaikan dari Google.
 

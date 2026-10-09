@@ -11,13 +11,13 @@ tags:
 ---
 
 Perkenalan dengan Playstation (PS) Original dimulai ketika Xbox dipinjam teman. Ternyata sepi juga ketika tidak ada mesin game dirumah. Karenanya pilihan untuk membeli mesin game baru selain xbox. Pilihan tersebut jatuh ke Playstation 3. Konsol game yang sudah dipengen dari dulu, namun terkendala dengan harga mesin dan gamenya. Namun, keinginan untuk bermain game secara online memantabkan pembelian ps3. Disini saya akan menjelaskan keunggulan menggunakan sebuah konsol original, khususnya Playstation 3.  
- ![playstaion 3](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-original-1.jpg)  
+ ![playstaion 3](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/playstation-original-1.jpg)  
 <!--more-->  
 Ketika akan membeli PS3 pilihan menggunakan Original begitu kuat, namun godaan menggunakan versi Jailbreak (JB) malah datang dr pemilik toko, terutama untuk harga game yang murah. Harga konsol PS3 Ori Fat 80Gb adalah Rp.2,2jt, beda 1 juta dengan PS3 Ori Slim 160Gb yang Rp.3,2jt. Untuk sebuah konsol game, harga Fat tersebut termasuk murah. Bandingkan dengan PSP dan iPod Touch yang berharga sekitar RP.2,5jt. Konsol game yang bisa browsing,lihat foto, lihat video, menjalankan Bluray Film,dan tentunya bermain game berharga lebih murah.
 
 Harga game Original sekitar Rp.300-500ribu berbanding dengan harga game JB yang sekitar Rp10-15ribu, tidak ada 10% nya! Lalu kenapa akhirnya pilih versi Original? Begini penjelasannya. Game pertama yang saya beli adalah Gran Turismo 5 (Game racing eksklusif PS3) dan Fifa 11 (Game sepakbola wajib).
 
-![gt5](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-original-2.jpg) ![fifa 11](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-original-3.jpg)
+![gt5](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/playstation-original-2.jpg) ![fifa 11](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/playstation-original-3.jpg)
 
 1. Selalu Update
 

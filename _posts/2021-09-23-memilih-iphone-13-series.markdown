@@ -42,7 +42,7 @@ untuk seluruh seri iPhone 13.
 - Spatial audio, Dolby Atmos
 
 ![Cinematic
-mode](https://res.cloudinary.com/setanwedinan/image/upload/c_limit,f_auto,q_auto,w_640/v1632283448/iPhone/Apple_iphone13_cinematic-mode_09142021.jpg)Cinematic mode
+mode](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1632283448/iPhone/Apple_iphone13_cinematic-mode_09142021.jpg)Cinematic mode
 
 ## Kelebihan dan kekurangan
 
@@ -112,8 +112,8 @@ Jadi kelebihan dan kekurangan iPhone 13 (Reguler) menurut saya.
 ❌ Tanpa lensa Telephoto
 ❌ Layar hanya 60Hz
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/c_limit,f_auto,q_auto,w_640/v1632283448/iPhone/Apple_iphone13_colors_09142021.jpg)iPhone
-13![](https://res.cloudinary.com/setanwedinan/image/upload/c_limit,f_auto,q_auto,w_640/v1632284769/iPhone/iPhone13.jpg)iPhone
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1632283448/iPhone/Apple_iphone13_colors_09142021.jpg)iPhone
+13![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1632284769/iPhone/iPhone13.jpg)iPhone
 13 Fitur
 
 ### iPhone 13 Pro
@@ -175,8 +175,8 @@ Jadi kelebihan dan kekurangan iPhone 13 Pro menurut saya.
 ✔️❌ Ukuran paling besar
 ❌ PPI layar paling rendah karena ukuran layar yang besar
 
-![](https://res.cloudinary.com/setanwedinan/image/upload/c_limit,f_auto,q_auto,w_640/v1632283448/iPhone/Apple_iPhone-13-Pro_Colors_09142021.jpg)iPhone
-13 Pro![](https://res.cloudinary.com/setanwedinan/image/upload/c_limit,f_auto,q_auto,w_640/v1632284785/iPhone/iPhone13Pro.jpg)iPhone
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1632283448/iPhone/Apple_iPhone-13-Pro_Colors_09142021.jpg)iPhone
+13 Pro![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1632284785/iPhone/iPhone13Pro.jpg)iPhone
 13 Pro Fitur
 
 ## Pendapat Teman
