@@ -4,8 +4,8 @@ title: 'Servis Produk Online'
 date: '2014-11-07 14:55:26'
 tags:
 - opini
+- motorola
 - smartphone
-- audio
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/servis-produk-online-m1.png)

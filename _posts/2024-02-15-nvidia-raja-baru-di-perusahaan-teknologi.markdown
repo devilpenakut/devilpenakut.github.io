@@ -4,6 +4,7 @@ title: 'Nvidia: Raja Baru di Perusahaan Teknologi'
 date: '2024-02-15 17:11:13'
 tags:
 - opini
+- ai
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/nvidia-raja-baru-di-perusahaan-teknologi-m1.png)

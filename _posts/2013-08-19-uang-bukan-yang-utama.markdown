@@ -4,6 +4,7 @@ title: 'Uang Bukan yang Utama'
 date: '2013-08-19 12:31:42'
 tags:
 - opini
+- game
 ---
 
 ![http://www.soccerticketsonline.com/](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/uang-bukan-yang-utama-m1.jpg)

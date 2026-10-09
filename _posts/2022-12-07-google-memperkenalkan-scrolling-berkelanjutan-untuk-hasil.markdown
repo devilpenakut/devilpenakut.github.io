@@ -5,7 +5,7 @@ date: '2022-12-07 08:41:00'
 tags:
 - berita
 - google
-- aplikasi
+- internet
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/google-memperkenalkan-scrolling-berkelanjutan-untuk-hasil-m1.png)

@@ -3,7 +3,8 @@ layout: post
 title: 'Mengejar Dua Raksasa'
 date: '2013-08-02 11:46:26'
 tags:
-- berita
+- opini
+- game
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mengejar-dua-raksasa-m1.png)

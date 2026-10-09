@@ -5,7 +5,8 @@ date: '2024-06-07 11:12:29'
 tags:
 - review
 - keamanan
-- windows
+- microsoft
+- ai
 ---
 
 Fitur Recall Windows dari Microsoft, yang dirancang untuk membantu pengguna melacak aktivitas masa lalu di PC mereka, telah **menimbulkan kekhawatiran signifikan tentang potensi risiko keamanan dan privasi yang ditimbulkannya**. Fitur ini, yang akan diluncurkan pada PC Copilot+ Windows 11 pada 18 Juni, mengambil tangkapan layar desktop setiap lima detik dan menyimpannya bersama log aktivitas pengguna dalam database SQLite lokal.

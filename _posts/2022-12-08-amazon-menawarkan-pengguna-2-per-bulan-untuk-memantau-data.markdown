@@ -4,6 +4,8 @@ title: 'Amazon Menawarkan Pengguna $2 per Bulan untuk Memantau Data Telepon dan 
 date: '2022-12-08 10:32:31'
 tags:
 - berita
+- keamanan
+- amazon
 ---
 
 Amazon menawarkan pengguna program Shopper Panel-nya $ 2 per bulan untuk memantau data telepon dan memverifikasi iklan. Program ini saat ini hanya untuk undangan, dengan pengguna bisa bergabung di daftar tunggu untuk mungkin diundang di kemudian hari.

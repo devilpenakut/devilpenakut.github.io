@@ -5,7 +5,7 @@ date: '2014-03-20 12:49:15'
 tags:
 - opini
 - smartwatch
-- android
+- motorola
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/moto-360-smartwatch-keren-dari-motorola-m1.jpg)

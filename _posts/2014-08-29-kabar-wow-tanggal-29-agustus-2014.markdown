@@ -4,8 +4,8 @@ title: 'Kabar Wow Tanggal 29 Agustus 2014'
 date: '2014-08-29 16:15:58'
 tags:
 - berita
-- media-sosial
-- twitter
+- apple
+- iphone
 ---
 
 ### Apple Mengadakan Event Tanggal 9 Sept 2014, iPhone 6? iWatch?

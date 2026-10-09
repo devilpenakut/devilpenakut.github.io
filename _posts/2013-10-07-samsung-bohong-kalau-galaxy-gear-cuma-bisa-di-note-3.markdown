@@ -5,7 +5,7 @@ date: '2013-10-07 08:53:23'
 tags:
 - berita
 - samsung
-- android
+- smartwatch
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/samsung-bohong-kalau-galaxy-gear-cuma-bisa-di-note-3-m1.jpg)

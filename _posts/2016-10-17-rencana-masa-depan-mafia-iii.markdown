@@ -4,6 +4,7 @@ title: 'Rencana masa depan Mafia III'
 date: '2016-10-17 15:18:55'
 tags:
 - opini
+- game
 ---
 
 ### 2K mengungkapkan konten gratis dan berbayar

@@ -4,8 +4,8 @@ title: 'Pengguna Blokir Iklan Masa Kamu Marah?'
 date: '2015-09-19 21:30:55'
 tags:
 - opini
+- browser
 - apple
-- keamanan
 ---
 
 Lagi ramai tentang ad blocking. Terutama setelah Apple, yang membuat apapun menjadi pertama kali, menjadikan ad blocking populer kembali dengan membawa itu ke iOS. (content blocking kalau Apple bilang)

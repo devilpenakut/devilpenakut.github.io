@@ -5,6 +5,7 @@ date: '2022-12-10 09:15:41'
 tags:
 - berita
 - game
+- microsoft
 ---
 
 Dilaporkan Reuters. Lembaga regulasi AS, Federal Trade Commission, sedang berusaha untuk menghalangi kesepakatan perusahaan perangkat lunak itu senilai $69 miliar untuk raksasa game Activision Blizzard, sebagian untuk menghentikan dominasi industri saat berkembang.

@@ -4,8 +4,8 @@ title: 'Kenapa iPhone Boros Data?'
 date: '2014-03-05 10:54:11'
 tags:
 - opini
-- smartphone
 - iphone
+- internet
 ---
 
 ### Ponsel Android belum pernah terasa seboros ini.

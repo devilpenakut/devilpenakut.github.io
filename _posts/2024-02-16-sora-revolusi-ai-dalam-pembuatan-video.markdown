@@ -4,6 +4,7 @@ title: 'Sora: Revolusi AI dalam Pembuatan Video'
 date: '2024-02-16 11:41:42'
 tags:
 - opini
+- ai
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sora-revolusi-ai-dalam-pembuatan-video-m1.png)

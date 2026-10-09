@@ -6,6 +6,7 @@ tags:
 - berita
 - game
 - nintendo
+- microsoft
 ---
 
 ## Sebuah Kesepakatan Ditandatangani Microsoft untuk Membawa Call of Duty ke Nintendo Switch untuk Pertama Kalinya

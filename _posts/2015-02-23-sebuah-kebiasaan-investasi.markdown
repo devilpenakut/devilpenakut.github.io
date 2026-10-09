@@ -4,6 +4,7 @@ title: 'Sebuah Kebiasaan Investasi'
 date: '2015-02-23 19:59:25'
 tags:
 - opini
+- bank
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sebuah-kebiasaan-investasi-m1.jpg)

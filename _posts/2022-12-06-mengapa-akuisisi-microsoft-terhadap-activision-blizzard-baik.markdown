@@ -5,7 +5,8 @@ date: '2022-12-06 18:53:34'
 tags:
 - berita
 - game
-- playstation
+- microsoft
+- xbox
 ---
 
 Dilaporkan oleh WSJ, Komisi Perdagangan Federal (FTC) diduga berencana menggugat Microsoft untuk mencegah akuisisi yang diusulkan terhadap Activision Blizzard. Langkah ini akan menjadi kesalahan besar, karena akan merugikan persaingan, konsumen, dan pengembang game.

@@ -5,6 +5,8 @@ date: '2024-01-05 10:50:58'
 tags:
 - opini
 - windows
+- microsoft
+- ai
 ---
 
 ![Tombol Copilot baru (Microsoft)](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/yuk-kenalan-dengan-tombol-copilot-dari-microsoft-kawan-baru-m1.png)

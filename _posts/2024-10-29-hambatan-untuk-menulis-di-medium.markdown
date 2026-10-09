@@ -5,6 +5,7 @@ date: '2024-10-29 09:22:36'
 tags:
 - opini
 - menulis
+- blog
 ---
 
 Ketika kembali ke Medium untuk menulis, saya menemukan hambatan saya dari dulu yang menyebabkan saya ngga bisa full nulis di Medium. **Embednya ngga berfungsi secara maksimal.**

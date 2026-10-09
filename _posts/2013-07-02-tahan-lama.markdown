@@ -5,7 +5,7 @@ date: '2013-07-02 11:55:09'
 tags:
 - opini
 - samsung
-- iphone
+- android
 ---
 
 ![17 hrs?](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tahan-lama-m1.png)

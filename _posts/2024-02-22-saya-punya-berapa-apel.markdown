@@ -4,6 +4,7 @@ title: 'Saya punya berapa apel?'
 date: '2024-02-22 09:29:11'
 tags:
 - opini
+- ai
 ---
 
 ![Photo by Estúdio Bloom on Unsplash](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/saya-punya-berapa-apel-m1.jpg)

@@ -5,6 +5,7 @@ date: '2018-09-24 09:10:41'
 tags:
 - opini
 - transportasi
+- yogyakarta
 ---
 
 Ini pemandangan pagi ini di Stasiun Yogyakarta jam 5.20, antrian yang tidak pernah ada selama ini. Karenanya saya bertanya ke PT. KAI melalui Twitter.

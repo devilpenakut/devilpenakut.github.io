@@ -5,6 +5,7 @@ date: '2015-05-27 13:31:51'
 tags:
 - opini
 - musik
+- streaming
 ---
 
 [Rdio](http://www.rdio.com/home/id-id/) sebagai salah satu penyedia layanan musik di Indonesia sepertinya kurang banget promosi. Seharusnya dengan biaya layanan yang hanya Rp.20.000 bisa menjadi layanan yang sangat menarik terutama untuk mengurangi download ilegal.

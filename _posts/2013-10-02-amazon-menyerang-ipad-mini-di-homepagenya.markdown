@@ -5,7 +5,7 @@ date: '2013-10-02 03:21:12'
 tags:
 - berita
 - ipad
-- aplikasi
+- apple
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/amazon-menyerang-ipad-mini-di-homepagenya-m1.png)

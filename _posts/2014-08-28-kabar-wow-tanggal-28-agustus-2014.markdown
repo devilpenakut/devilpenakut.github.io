@@ -6,6 +6,7 @@ tags:
 - berita
 - yogyakarta
 - samsung
+- smartwatch
 ---
 
 ### Hello Kitty Ternyata Bukan Kucing

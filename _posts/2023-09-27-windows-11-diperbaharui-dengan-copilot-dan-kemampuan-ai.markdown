@@ -5,7 +5,8 @@ date: '2023-09-27 09:15:17'
 tags:
 - berita
 - windows
-- aplikasi
+- microsoft
+- ai
 ---
 
 ![Copilot ( The most personal Windows 11 experience begins rolling out today | Windows Experience Blog )](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/windows-11-diperbaharui-dengan-copilot-dan-kemampuan-ai-m1.jpg)

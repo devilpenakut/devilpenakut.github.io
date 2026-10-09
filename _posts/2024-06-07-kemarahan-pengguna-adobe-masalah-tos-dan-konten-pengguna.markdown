@@ -4,6 +4,8 @@ title: 'Kemarahan Pengguna Adobe: Masalah ToS dan Konten Pengguna'
 date: '2024-06-07 10:34:43'
 tags:
 - opini
+- keamanan
+- ai
 ---
 
 Pada Juni 2024, Adobe menghadapi protes dari para profesional kreatif karena perubahan yang mereka buat pada “Ketentuan Penggunaan Layanan” (ToS) untuk aplikasi seperti Photoshop. **Para profesional ini khawatir Adobe dapat mengakses, menggunakan, dan bahkan mensublisensikan konten mereka tanpa izin eksplisit, terutama yang terkait dengan pekerjaan rahasia yang dilindungi NDA**.

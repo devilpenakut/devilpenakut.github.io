@@ -5,7 +5,7 @@ date: '2015-07-29 13:32:29'
 tags:
 - review
 - smartwatch
-- android
+- motorola
 ---
 
 > Jam Pintar dengan Desain Menarik
