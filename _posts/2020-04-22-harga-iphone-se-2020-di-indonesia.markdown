@@ -46,4 +46,4 @@ bisa digunakan di Indonesia ya, terkait peraturan IMEI.
 
 Jadi, kamu mau ambil pre order tidak resmi sekarang atau tunggu resmi nanti?
 jawab komen di bawah atau mention
-[@devilpenakut](http://twitter.com/devilpnakut). Kritik saran dipersilahkan.
+[@devilpenakut](http://twitter.com/devilpenakut). Kritik saran dipersilahkan.
