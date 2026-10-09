@@ -1,0 +1,97 @@
+# Pages CMS (https://app.pagescms.org) — editor for this Jekyll blog.
+# Saving in the CMS commits to master; Cloudflare Pages then rebuilds the site.
+
+media:
+  input: images/posts
+  output: /images/posts
+  rename: safe
+  categories: [image]
+
+content:
+  - name: posts
+    label: Tulisan
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    filename:
+      # The part after the date becomes the URL: devilpenakut.com/<judul>
+      template: "{year}-{month}-{day}-{primary}.markdown"
+      field: create
+    view:
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: post
+      - name: title
+        label: Judul
+        type: string
+        required: true
+      - name: date
+        label: Tanggal terbit
+        type: date
+        options:
+          time: true
+          format: "yyyy-MM-dd HH:mm:ss"
+      - name: tags
+        label: Tag
+        type: string
+        list: true
+      - name: body
+        label: Isi tulisan
+        description: Subjudul pakai Heading 2 (masuk daftar isi). Embed tweet atau kode lebih aman lewat mode Source.
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
+
+  - name: about
+    label: Halaman Tentang
+    type: file
+    path: about.md
+    format: yaml-frontmatter
+    fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: page
+      - name: permalink
+        type: string
+        hidden: true
+        default: /about/
+      - name: title
+        label: Judul
+        type: string
+      - name: body
+        label: Isi
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
+
+  - name: privasi
+    label: Kebijakan Privasi
+    type: file
+    path: privasi.md
+    format: yaml-frontmatter
+    fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: page
+      - name: permalink
+        type: string
+        hidden: true
+        default: /privasi
+      - name: title
+        label: Judul
+        type: string
+      - name: body
+        label: Isi
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
