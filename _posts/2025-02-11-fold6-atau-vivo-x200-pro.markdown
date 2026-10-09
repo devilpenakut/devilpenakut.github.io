@@ -3,7 +3,7 @@ layout: post
 title: 'Bingung Pilih Samsung Fold6 atau Vivo X200 Pro?'
 date: '2025-02-11 03:57:22'
 tags:
-- review
+- opini
 - smartphone
 - samsung
 ---
