@@ -7,8 +7,12 @@ date: '2021-03-13 02:32:42'
 Pernah buka detik(dot)com? pasti akan dipenuhi dengan berbagai iklan di dalam
 halaman web-nya. Bahkan kadang beritanya sendiri tertutup oleh iklan.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/blokir-iklan-tanpa-aplikasi-h1.webp)
+
 Bagaimana jika ada solusi untuk tidak menampilkan itu semua tanpa install
 aplikasi atau ekstensi baik di browser atau di ponsel?
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/blokir-iklan-tanpa-aplikasi-h2.webp)
 
 ## Apa itu NextDNS
 
@@ -27,13 +31,10 @@ yang sulit.
 
 ## Fungsi NextDNS
 
-- Melindungi diri Anda dari serangan *malware* dan *phishing* , *cryptojacking* , dan lainnya.
-
-- ‎Blokir iklan dan pelacak di situs web dan di aplikasi — termasuk yang paling licik.
-
-- ‎Melindungi anak-anak dan kendalikan apa yang dapat mereka akses secara *online* , dan kapan bisa mengaksesnya.
-
-- ‎Lihat apa yang terjadi di perangkat Anda dengan analitik mendalam dan log real-time.‎
+  1. Melindungi diri Anda dari serangan _malware_ dan _phishing_ , _cryptojacking_ , dan lainnya.
+  2. ‎Blokir iklan dan pelacak di situs web dan di aplikasi — termasuk yang paling licik.
+  3. ‎Melindungi anak-anak dan kendalikan apa yang dapat mereka akses secara _online_ , dan kapan bisa mengaksesnya.
+  4. ‎Lihat apa yang terjadi di perangkat Anda dengan analitik mendalam dan log real-time.‎
 
 ## Cara ‎memasang NextDNS
 
@@ -43,19 +44,23 @@ nanti disana akan langsung diberi beberapa panduan untuk instalasinya beserta
 `ID` ini bisa dipakai selama **7 hari** , karenanya segera registrasi
 menggunakan email bila ingin menggunakan `ID` ini.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/blokir-iklan-tanpa-aplikasi-h3.webp)
+
 Bila sudah, bisa lanjut untuk memasang di ponsel Android kita atau web browser
 tanpa install aplikasi apapun.
 
 ### Android
 
-Ini khusus untuk Android versi 9 atau *Pie* ke atas:
+Ini khusus untuk Android versi 9 atau _Pie_ ke atas:
 
 ‎1. Buka Pengaturan → Jaringan & internet → DNS → DNS Pribadi Tingkat
 Lanjut/Private DNS. Bila ada fitur cari/search bisa menggunakan kata "DNS"‎
 
-‎2. Pilih opsi nama *host* penyedia DNS Pribadi/Private DNS.‎
+‎2. Pilih opsi nama _host_ penyedia DNS Pribadi/Private DNS.‎
 
 ‎3. Masukkan ‎**‎**`ID`**.dns.nextdns.io‎** ‎ dan tekan Save.‎
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/blokir-iklan-tanpa-aplikasi-h4.webp)
 
 ### Browser
 
@@ -96,5 +101,7 @@ alamat jaringan untuk situs web.‎
 Sayangnya untuk iOS cara termudah adalah dengan install aplikasi. Bisa buka
 [NextDNS for iOS](https://apps.apple.com/app/nextdns/id1463342498)
 
+* * *
+
 Cukup mudah bukan? ada hal yang mau ditanyakan? atau kendala? Silakan
-*mention* saya di [Twitter @devilpenakut](twitter.com/devilpenakut).
+_mention_ saya di [Twitter @devilpenakut](twitter.com/devilpenakut).

@@ -5,8 +5,10 @@ date: '2021-04-03 08:46:24'
 ---
 
 Ford Fiesta merupakan mobil impian beberapa tahun lalu. Sekitar tahun 2011,
-saya *posting* di Facebook sebuah gambar Ford Fiesta hitam dengan *caption* ,
+saya _posting_ di Facebook sebuah gambar Ford Fiesta hitam dengan _caption_ ,
 “Fiestaku tak buat gini ah”. Padahal waktu itu punya saja tidak.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ford-fiesta-h1.webp)
 
 Ternyata beberapa tahun kemudian, tepatnya di tahun 2017 saya bisa mempunyai
 Ford Fiesta ini.
@@ -27,10 +29,12 @@ Bentukan dari Ford Fiesta ini memang menarik perhatian di jalan. Apalagi waktu
 itu saya punya dengan warna khas merahnya.
 
 Bentuknya berasa pas dari depan sampai belakang. Lampu depan model trapesium,
-garis bodi ke belakangnya tampak kokoh, *fender* menggembung, pokoknya mobil
+garis bodi ke belakangnya tampak kokoh, _fender_ menggembung, pokoknya mobil
 ini gagah.
 
-Atapnya melandai di belakang ditutup dengan *spoiler* atas yang pas. Di kanan-
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ford-fiesta-h2.webp)
+
+Atapnya melandai di belakang ditutup dengan _spoiler_ atas yang pas. Di kanan-
 kirinya ada lampu belakang di pilar bagasi.
 
 Ford Fiesta ini sebenarnya adalah saudara kembar dari Mazda 2 yang juga keluar
@@ -50,13 +54,13 @@ Ada dua tipe mesin Fiesta sesuai dengan varian yang tersedia, yaitu Fiesta 1.4
 (Trendy) dan 1.6 (S).
 
 Mesin Fiesta 1.4 menggunakan Duratec 1.388 cc 4-silinder DOHC bertenaga 112
-*horse power* dengan torsi maksimal 128 Nm dengan transmisi otomatis
-4-percepatan konvensional dengan ditambah mode *sequential sport shift*.
+_horse power_ dengan torsi maksimal 128 Nm dengan transmisi otomatis
+4-percepatan konvensional dengan ditambah mode _sequential sport shift_.
 
 Nah untuk Fiesta yang saya gunakan varian Fiesta 1.6. Varian ini menggunakan
-Duratec 1.596 cc Ti-VCT DOHC 16 *valve* bertenaga maksimal mencapai 120 *horse
-power* dengan torsi maksimal 152 Nm. Transmisinya menggunakan otomatis
-6-percepatan *‘Powershift' dual clutch*(DCT).
+Duratec 1.596 cc Ti-VCT DOHC 16 _valve_ bertenaga maksimal mencapai 120 _horse
+power_ dengan torsi maksimal 152 Nm. Transmisinya menggunakan otomatis
+6-percepatan _‘Powershift' dual clutch_(DCT).
 
 Jadi dari sisi tenaga Fiesta 1.6 yang saya miliki memang memuaskan.
 
@@ -75,6 +79,8 @@ suspensi mobil eropa.
 Seperti sudah disebutkan tadi, bahwa varian Fiesta 1.6 yang saya pakai
 menggunakan transmisi dual clutch atau DCT.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ford-fiesta-h3.webp)
+
 DCT (Dual-clutch transmission) disebut sebagai transmisi kopling ganda.
 Menggunakan dua kopling terpisah untuk set gigi ganjil dan genap. Desainnya
 mirip dengan dua transmisi manual terpisah dengan kopling masing-masing
@@ -83,7 +89,7 @@ terdapat dalam satu rumahan, dan bekerja sebagai satu unit.
 Karenanya DCT ini memiliki kemampuan seperti transmisi manual namun dengan
 kenyamanan transmisi otomatis.
 
-Perpindahan akan gigi cepat. *Lag* yang dirasakan ketika menggunakan transmisi
+Perpindahan akan gigi cepat. _Lag_ yang dirasakan ketika menggunakan transmisi
 otomatis akan sangat berkurang jika menggunakan transmisi otomatis dengan
 sistem DCT.
 
@@ -104,15 +110,15 @@ lebih irit di Fiesta.
 Untuk Fiesta 1.4 akan lebih irit, namun akan kehilangan keunggulan tenaga yang
 sudah saya sebutkan tadi.
 
-### *Spare part* mahal dan jarang
+### _Spare part_ mahal dan jarang
 
-Saat Ford masih ada di Indonesia pun *part* Ford Fiesta tidak terlalu banyak
+Saat Ford masih ada di Indonesia pun _part_ Ford Fiesta tidak terlalu banyak
 tersedia. Apalagi ketika Ford sudah tidak ada lagi di Indonesia. Walau Ford
-RMA masih menjalankan bisnisnya disini untuk menyediakan *after sales* dari
+RMA masih menjalankan bisnisnya disini untuk menyediakan _after sales_ dari
 mobil Ford, namun sedikit lebih sulit menemui spare part Fiesta di toko yang
-biasa jual *spare part.*
+biasa jual _spare part._
 
-Mau ngga mau kita harus cari dan tahu toko *spare part* mana yang khusus
+Mau ngga mau kita harus cari dan tahu toko _spare part_ mana yang khusus
 menjual onderdil Ford, atau melalui bengkel khusus Ford yang sudah punya jalur
 untuk pemesanan onderdil.
 
@@ -120,15 +126,17 @@ untuk pemesanan onderdil.
 
 Kekurangan pertama yang akhirnya membuat saya menjual mobil ini. Panas.
 
-Masalah panas dari Ford ini terdapat dari dua komponen, radiator dan *water
-pump*.
+Masalah panas dari Ford ini terdapat dari dua komponen, radiator dan _water
+pump_.
 
 Masalah di radiator biasanya karena kotor karena diberi air radiator yang
 tidak seusai dengan rekomendasi pabrik atau memang radiator itu sendiri sudah
 bocor/rusak.
 
-Masalah di *water pump* biasanya bocor dan tidak berfungsi maksimal atau
+Masalah di _water pump_ biasanya bocor dan tidak berfungsi maksimal atau
 berbunyi.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ford-fiesta-h4.webp)
 
 Nah kalau sudah terdapat tanda-tanda seperti itu, sebaiknya segera dibawa ke
 bengkel resmi atau bengkel langganan.
@@ -147,9 +155,11 @@ menggunakan. Terutama untuk di kecepatan rendah dan di lokasi macet. Lama-lama
 memang akan terbiasa, namun tetap butuh waktu.
 
 Setelah terbiasa dengan transmisi DCT, jangan lupa perhatikan terkait komponen
-TCM (*transmission control module*). TCM ini adalah modul elektronik yang
+TCM (_transmission control module_). TCM ini adalah modul elektronik yang
 mengatur perpindahan gigi DCT tadi. Nah entah kenapa Fiesta 1.6 yang
 menggunakan DCT ini banyak yang bermasalah dengan TCM.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ford-fiesta-h5.webp)
 
 Walau seringnya bisa diatasi dengan melakukan reset TCM, namun ada juga yang
 sampai harus ganti modul. Tentunya dengan harga yang tidak murah.
@@ -157,6 +167,8 @@ sampai harus ganti modul. Tentunya dengan harga yang tidak murah.
 Mobil saya memang tidak sampai bermasalah dengan TCM. Cukup reset setiap habis
 servis membuat DCT menjadi enak kembali. Namun kekhawatiran itu membuat tidak
 tenang.
+
+* * *
 
 ## Kesimpulan
 
@@ -166,12 +178,12 @@ memilih mobil ini, kelebihannya dan kekurangannya saya anggap setara.
 
 Jadi ada dua pilihan yang bisa kamu pilih bila mau ambil Ford Fiesta ini:
 
-- Fiesta S 1.6
+  1. Fiesta S 1.6
 
 Cocok buat kamu yang suka kecepatan, tidak mempermasalahkan bensin, dan siap
 dana untuk DCT-nya.
 
-2. Fiesta Trendy 1.4
+2\. Fiesta Trendy 1.4
 
 Cocok buat kamu yang suka kota-kota, tidak mau pusing dengan biaya perbaikan,
 namun dengan kompensasi performa biasa saja. Toh model sama juga, beda di velg

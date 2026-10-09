@@ -10,7 +10,11 @@ Apa sih yang membuat orang tertarik buat buka rekening di sebuah bank?
 Jawabannya pasti beda-beda. Apalagi membuat orang tertarik untuk buka rekening
 di bank yang tidak begitu terkenal, itu permasalahan lain.
 
-Artikel ini juga bisa didengarkan di Spotify
+* * *
+
+> Artikel ini juga bisa didengarkan di Spotify
+
+* * *
 
 Mungkin kalau orang di luar Indonesia sudah biasa mendengar bank UOB. Bank
 yang berasal dari negara tetangga Singapura. Bank UOB ini di Singapura sudah
@@ -19,6 +23,8 @@ Buana.
 
 Walau sudah cukup lama di Indonesia untuk saat ini tidak menjadi pikiran orang
 yang ingin membuka tabungan memilih Bank UOB.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tmrw-dari-uob-h1.png)
 
 Di era bank digital sekarang ini, dengan tujuan membuat orang tertarik untuk
 buka rekening di bank yang tidak terlalu terkenal di Indonesia ini, maka
@@ -45,13 +51,14 @@ apa sih kelebihan dan kekurangan dari TMRW by UOB ini.
 ## Kekurangan
 
 ### Aplikasi tidak stabil apabila menggunakan wifi, namun tidak ada masalah
-
 bila menggunakan akses selular (saya menggunakan CBN).
 
-Akses TMRW saya sering bermasalah bila menggunakan jaringan *wifi* CBN saya.
+Akses TMRW saya sering bermasalah bila menggunakan jaringan _wifi_ CBN saya.
 Namun anehnya jika saya berpindah jaringan seluler maka akses TMRW tidak
 terjadi masalah. Entah apa yang menyebabkan ini. Ada kemungkinan ada alamat
 yang digunakan di TMRW di blokir oleh CBN.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tmrw-dari-uob-h2.jpg)
 
 Kalau itu merupakan keperluan keamanan kenapa cuma TMRW saja yang mengalami
 hal itu. Sedang pada aplikasi perbankan bank lain tidak mengalami hal itu.
@@ -61,6 +68,8 @@ hal itu. Sedang pada aplikasi perbankan bank lain tidak mengalami hal itu.
 Tidak seperti bank digital lain yang menyediakan kartu debit visa atau bahkan
 menggunakan debit visa online yang tidak berupa fisik, TMRW ini hanya
 menyediakan kartu debit berjenis GPN.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tmrw-dari-uob-h3.jpg)
 
 Walau penggunaan GPN sekarang sudah bisa digunakan baik secara offline dan
 online, namun tidak dapat digunakan untuk transaksi dengan merchant luar
@@ -72,13 +81,14 @@ untuk digunakan di merchant luar negeri.
 ## Kelebihan
 
 ### Bunga tabungan terutama untuk 'smart saver'-nya masih tertinggi diantara
-
 bank digital lain.
 
 Simpanan 'smart saver' atau TMRW menyebut dengan **TMRW Savings Account**
 adalah tabungan dengan bunga yang lebih tinggi namun bisa ditarik sewaktu-
 waktu adalah salah satu benefit yang didapatkan ketika saya mencoba Jenius
 dulu.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tmrw-dari-uob-h4.png)
 
 Jenis tabungan ini lalu juga tersedia di beberapa layanan Bank Digital seperti
 Digibank, Nyala, dan Jago. Bunga tabungan ini memang lebih tinggi dari bunga
@@ -94,17 +104,22 @@ menarik bagi beberapa orang. Ada beberapa program ketika daftar pertama kali
 atau setiap bulan apabila menambahkan dana dan melakukan transaksi tertentu
 menggunakan TMRW ini.
 
-*Cashback* sebesar 50-300 ribu tentunya jumlah yang lumayan dengan usaha yang
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tmrw-dari-uob-h5.jpg)
+
+_Cashback_ sebesar 50-300 ribu tentunya jumlah yang lumayan dengan usaha yang
 tidak begitu susah.
 
-### Aktivasi bisa dilakukan secara online ataupun jika tidak berhasil bisa ke
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tmrw-dari-uob-h6.jpg)
 
+### Aktivasi bisa dilakukan secara online ataupun jika tidak berhasil bisa ke
 kantor cabang UOB terdekat.
 
 Ini kelebihan dibandingkan dengan Digibank yang pernah saya coba registrasi.
-Jika aktivasi melalui *online* tidak berhasil maka calon nasbah tinggal datang
+Jika aktivasi melalui _online_ tidak berhasil maka calon nasbah tinggal datang
 ke cabang UOB terdekat. TIdak seperti Digibank tidak bisa dilayani di kantor
 cabang DBS. Cabang UOB ini juga cukup tersedia di kota-kota besar.
+
+* * *
 
 Jadi bagaimana menurutmu TMRW ini? Dengan rata-rata benefit bebas biaya untuk
 rekening bank digital sama, TMRW menawarkan bunga tinggi untuk 'smart saver'

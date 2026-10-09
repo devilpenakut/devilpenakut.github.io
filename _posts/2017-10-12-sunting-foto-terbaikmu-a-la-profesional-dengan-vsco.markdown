@@ -25,6 +25,8 @@ Company ini.
 
 ### Fitur Dasar dan Kompatibilitas
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h1.jpg)
+
 Fitur VSCO - iPhone Photography School
 
 VSCO merupakan aplikasi penyunting foto yang menawarkan fungsi dasar
@@ -40,6 +42,8 @@ bisa Anda nikmati secara gratis. Ya, VSCO dapat Anda unduh secara gratis dan
 tersedia, baik untuk platform Android maupun iOS.
 
 ### Pilihan Filter Unik
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h2.png)
 
 Filter Unik - vii's blog - blogger
 
@@ -70,6 +74,8 @@ mengunjungi situs penjualan seperti Traveloka untuk membeli pulsa.
 
 ### Profil dan Fitur Journal
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h3.png)
+
 Profil Fitur - vii's blog - blogger
 
 VSCO tidak hanya menawarkan fungsi penyuntingan foto, tetapi juga memberikan
@@ -86,6 +92,8 @@ juga tidak perlu mengunjungi gerai pulsa karena Anda bisa membeli pulsa di
 [Traveloka](https://www.traveloka.com/connectivity). Praktis, bukan?
 
 ### VSCO X dan VSCO Desktop
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h4.jpg)
 
 VSCO Destop - Let's make good products
 

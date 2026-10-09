@@ -6,6 +6,8 @@ date: '2017-08-03 08:52:43'
 
 ## Dua kali.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h1.png)
+
 Kalian semua tahu kalau AC Milan berapa tahun terakhir mengalami kondisi yang
 tidak bagus. Pemain bintang pergi, cuma memakai pemain medioker. Tujuan tiap
 tahun tidak untuk juara Seri A, tapi hanya untuk mendapatkan tiket ke Piala
@@ -16,10 +18,14 @@ mendominasi dan menjadi juara?
 
 ### Musim 2016/2017
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h2.png)
+
 Ini tim yang membawa AC Milan di musim 16/17 untuk berjuang untuk bersaing
 dipapan atas. Sebagian besar menggunakan pemain bawaan AC Milan. Ada satu nama
 yang ditransfer pada musim itu dan langsung membawa perubahan, yaitu Max
 Gradel.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h3.png)
 
 Max Gradel, ditransfer dengan biaya $23M. Pemain ini berperan penting di musim
 16/17 untuk menyisir sisi kiri lapangan. Dibantu dengan Sosa di sisi kanan
@@ -42,10 +48,12 @@ Penjualan Bacca dimusim sebelumnya yang masih bersisa, ditambah dengan
 tambahan dana dimusim ini dan Madrid menawar Romagnoli dengan harga yang susah
 ditolak, Milan punya dana yang cukup banyak untuk mendatangkan pemain baru.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h4.png)
+
 Masing-masing pemain memperkuat striker (Milik, 40M), tengah (Ozyakup, 7M),
 tengah bertahan (Darder, 35M), belakang (Zambrano, 16.5M).
 
-![](https://i2.wp.com/d2mxuefqeaa7sj.cloudfront.net/s_81A73F071756C77BBA31419D33DAB96788AB9A1D9EEDCD9F62D3A8CEED61D58B_1501646752118_6d89ff5390732d974abd8d6a0de5f85a--soccer-players-football-team.jpg?resize=198%2C221&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h5.png)
 
 Ada perubahan formasi dari 4-4-2 menjadi 4-1-2-2-1. Milik dan Ozyakup langsung
 menjadi tulang punggung Milan dimusim 17/18. Milik bisa mencetak 19 gol.
@@ -56,13 +64,21 @@ lalu.
 Ekspektasi nya Milan pada musim ini adalah minimal peringkat ke-3. Berhasil
 lolos ke liga Champions. Namun yang terjadi adalah…
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h6.png)
+
 AC Milan juara! perbedaan dengan Juventus diperingkat kedua cuma dibedakan
 oleh selisih gol. Kekalahan Juventus dilaga sebelum laga terakhir membuat
 Milan bisa menyelipnya. Ketika pertandingan terakhir walau Milan dan Juve
 sama-sama menang namun selisih gol tidak bisa dikejar.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h7.png)
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h8.png)
+
 Tambahan cerita dimusim ini adalah sama seperti yang terjadi dengan Milan
 diakhir musim kemarin. Saga Donnarumma.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h9.png)
 
 Dia minta kontrak baru dengan nominal gaji yang meningkat jauh. Sama kan?
 
@@ -71,12 +87,14 @@ Dia minta kontrak baru dengan nominal gaji yang meningkat jauh. Sama kan?
 Setelah musim lalu yang mengejutkan, target untuk musim 18/19 ini masih sama,
 untuk lolos Liga Champions.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h10.png)
+
 Transfer musim ini untuk lebih untuk menambah kedalaman skuat. Milik aman,
 namun Gradel dan Sosa perlu ada pemain yang bisa melakukan kover. Karenanya
 ditambahkan Depay (37.5M) dan Ricci (12.25M). Sedang Onana ini untuk menutup
 Lopez yang akan pensiun.
 
-![](https://i1.wp.com/d2mxuefqeaa7sj.cloudfront.net/s_81A73F071756C77BBA31419D33DAB96788AB9A1D9EEDCD9F62D3A8CEED61D58B_1501658447898_memphis-depay.jpg?resize=333%2C235&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h11.png)
 
 Pemain inti selama satu musim lebih merata, karena seperti yang diperkirakan
 sektor sayap penyerang memang sangat menguras tenaga sehingga sering
@@ -94,12 +112,20 @@ Namun dengan membaiknya pemain inti, performa tim menanjak kembali hingga
 akhir musim. Untungnya, saingan utama Juventus memiliki (kembali) masalah di
 akhir musim.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h12.png)
+
 Juventus sepertinya tidak belajar dari musim sebelumnya. Kemungkinan terkait
 dengan fisik pemain atau terlalu banyak pemain yang cidera dan tidak ada
 penggantinya. Bahkan dari posisi pertama bisa turun menjadi posisi 4. Lihat
 betapa anomali-nya Juventus dibeberapa pertandingan diakhir musim.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h13.png)
+
 Pada akhirnya.. Milan juara lagi! untuk dua musim berturut-turut.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h14.png)
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h15.png)
 
 ### Taktik
 
@@ -130,14 +156,24 @@ Kedua wing back harus mempunyai kecepatan, fisik dan crossing yang baik.
 Karena bila tengah terjadi kebuntuan maka kedua wing back yang naik keatas ini
 akan sering naik turun dan memberikan crossing kepada 3 penyerang.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h16.png)
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h17.png)
+
 Taktik bekerja rapat, biasanya menyerang lewat tengah. Bila buntu maka FB dari
 kiri dan kanan akan membantu membuka serangan.
+
+* * *
 
 Catatan bagi yang mau memulai FM dengan AC Milan, jangan buang Calabria. Wing
 back ini memang tidak terlalu meyakinkan diawal namun selalu bisa memberikan
 performa yang apik. Dimusim 18/19 dia menjadi andalan bila kondisi fit.
 Pergerakan di sisi kanan untuk naik keatas dan ditambah dengan dribble nya
 sangat membantu.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/milan-jadi-juara-seri-a-h18.png)
+
+* * *
 
 AC Milan, dengan pemain medioker dengan penguatan beberapa pemain ternyata
 bisa berbicara di Seri A. Walau di Liga Champions belum memberikan hasil yang

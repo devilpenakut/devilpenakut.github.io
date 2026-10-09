@@ -31,6 +31,8 @@ Netflix yang sama. Untuk akun dasar
 hanya satu akun yang dapat masuk bersamaan. Namun, dengan akun premium,
 memungkinkan empat orang untuk masuk sekaligus ke Netflix yang sama.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/cara-sharing-akun-netflix-bayar-lebih-murah-h1.png)
+
 ## Manfaat multi-akun
 
 Alhasil, ada banyak keuntungan bisa berbagi akun Netflix. Pertama, Anda dapat
@@ -44,12 +46,12 @@ masing. Jadi profil masing-masing tidak akan tercampur.
 
 Sebenarnya menurut Communications Manager Netflix, Kooswardini Wulandari, yang
 dikutip dari artikel [Kumparan](https://kumparan.com/kumparantech/ada-isu-bakal-larang-pengguna-sharing-akun-ini-kata-netflix-1sQDZ0hRmBu/full)
-mengatakan "Jadi sebenarnya itu kalau dari kita, *sharing* sebetulnya hanya
+mengatakan "Jadi sebenarnya itu kalau dari kita, _sharing_ sebetulnya hanya
 diperbolehkan untuk member yang berada di satu rumah yang sama. Karena ini
 masalah privasi. Sebetulnya yang menjadi perhatian kita adalah keamanan data
-pengguna. Ketika pengguna memutuskan untuk *sharing password* -nya dia,
+pengguna. Ketika pengguna memutuskan untuk _sharing password_ -nya dia,
 berarti info di dalam akun, seperti pembayaran, nomor kartu kredit (juga di-
-*share*). Itu kan data sensitif,"
+_share_). Itu kan data sensitif,"
 
 Nah karenanya untuk sharing akun Netflix untuk lebih amannya adalah dengan
 orang yang kita kenal saja karena terkait privacy tersebut. Pada dasarnya kita
@@ -64,13 +66,10 @@ cara:
 
 Profil dapat ditambahkan di perangkat yang dibuat setelah tahun 2013.
 
-- Baka halaman [Kelola Profil](https://www.netflix.com/profiles/manage). Pilih Tambahkan Profil.
-
-- Beri nama profil.
-
-- Untuk menggunakan pengalaman Netflix Anak, pilih Anak.
-
-- Pilih Lanjutkan. Profil baru akan ditampilkan pada daftar profil di akun.
+  1. Baka halaman [Kelola Profil](https://www.netflix.com/profiles/manage). Pilih Tambahkan Profil.
+  2. Beri nama profil.
+  3. Untuk menggunakan pengalaman Netflix Anak, pilih Anak.
+  4. Pilih Lanjutkan. Profil baru akan ditampilkan pada daftar profil di akun.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614388813/Sharing%20Netflix/v4-728px-Share-Netflix-Step-6.jpg.webp)
 
@@ -80,6 +79,8 @@ menggunakan browser seluler, kunjungi
 di komputer dan ikuti langkah-langkah di atas.
 
 Sudah, masing-masing pengguna masuk ke profil masing-masing untuk menonton.
+
+* * *
 
 Berbagi akun Netflix membuat kita bisa menikmati Netflix dengan biaya yang
 lebih terjangkau. Namun tetap hati-hati dengan keamanan data, pastikan hanya

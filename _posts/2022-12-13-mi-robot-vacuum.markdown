@@ -14,11 +14,15 @@ cukup kuat yang mampu menyedot kotoran, debu, dan kotoran lainnya dari lantai
 Anda, dan fungsi mengepelnya memungkinkannya untuk secara efektif membersihkan
 tumpahan basah.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mi-robot-vacuum-h1.jpg)
+
 Salah satu fitur menonjol dari Mi Robot Vacuum Mop 2 Lite adalah kemampuannya
 untuk menavigasi di sekitar rintangan dan furnitur dengan mudah. Sistem
 pemetaan cerdasnya secara zigzag memungkinkannya membuat peta rinci rumah
 Anda, yang digunakannya untuk membersihkan lantai Anda secara efisien tanpa
 melewatkan satu tempat pun.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mi-robot-vacuum-h2.jpg)
 
 Ini berarti Anda dapat mengaturnya untuk membersihkan dan kemudian
 melupakannya, mengetahui bahwa ia akan melakukan pekerjaan menyeluruh tanpa
@@ -43,6 +47,8 @@ lainnya di pasaran. Ini berarti ini mungkin bukan pilihan terbaik untuk rumah
 dengan banyak karpet tebal atau kotoran yang cukup banyak. Namun, untuk
 sebagian besar rumah tangga normal, itu harus lebih dari cukup.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mi-robot-vacuum-h3.jpg)
+
 Secara keseluruhan, Mi Robot Vacuum Mop 2 Lite adalah pilihan yang bagus untuk
 siapa saja yang mencari vakum robot yang terjangkau dan efektif yang dapat
 mengatasi kekacauan kering dan basah di lantai mereka. Navigasinya yang cerdas
@@ -51,8 +57,6 @@ menjaga kebersihan rumah Anda tanpa merasa lelah.
 
 ### Tempat beli:
 
-- [Shopee](https://invl.io/clfffww)
-
-- [Lazada](https://invol.co/clflo9d)
-
-- [Tokopedia](https://tokopedia.link/ItZb85knVyb)
+  * [Shopee](https://invl.io/clfffww)
+  * [Lazada](https://invol.co/clflo9d)
+  * [Tokopedia](https://tokopedia.link/ItZb85knVyb)

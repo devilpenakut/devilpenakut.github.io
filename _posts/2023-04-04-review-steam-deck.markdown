@@ -23,6 +23,8 @@ library Steam kita. Jadi, kalau kita punya akun Steam dan udah beli banyak
 game di situ, kita bisa mainin semua game itu di Steam Deck tanpa perlu
 download ulang atau bayar lagi. Keren kan?
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-steam-deck-h1.jpg)
+
 Steam Deck punya layar sentuh 7 inci dengan resolusi 1280 x 800 piksel dan
 refresh rate 60 Hz. Layarnya cukup besar dan jernih untuk menikmati game-game
 berkualitas tinggi. Di samping layar, ada dua analog stick dan dua trackpad
@@ -45,11 +47,15 @@ model punya slot microSD yang bisa kita gunakan untuk menambah kapasitas
 penyimpanan. Untuk yang saya pilih adalah dengan kapisitas 256 GB. Karena
 menurut saya itu kapasitas yang cukup bila ngga mau pake microSD.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-steam-deck-h2.jpg)
+
 Steam Deck juga punya fitur Bluetooth 5.0 yang bisa kita gunakan untuk
 menghubungkan headset, controller, atau aksesori lainnya. Selain itu, ada juga
 port USB-C yang bisa kita gunakan untuk menghubungkan Steam Deck ke monitor,
 TV, atau docking station. Docking station ini adalah aksesori tambahan yang
 bisa kita beli terpisah untuk menjadikan Steam Deck sebagai PC desktop.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-steam-deck-h3.jpg)
 
 Untuk baterainya, Steam Deck punya kapasitas 40 Whr yang bisa bertahan antara
 2 sampai 8 jam tergantung game yang dimainkan. Kalau main game ringan kayak
@@ -64,32 +70,26 @@ konsol. Apalagi saya suka berpergian jauh dan sering naik kereta api buat
 pulang kampung secara rutin 2 minggu sekali.. Dengan Steam Deck, saya bisa
 mengisi waktu luang saya dengan main game dimana saja.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-steam-deck-h4.jpg)
+
 # Kelebihan dan Kekurangan
 
 Tapi tentu saja ada beberapa hal yang perlu dipertimbangkan sebelum membeli
 Steam Deck. Saya berikan kekurangannya dulu:
 
-- Berat dan besar untuk sebuah perangkat portabel, sehingga mungkin kurang nyaman untuk dibawa-bawa atau dimainkan dalam waktu lama
-
-- Baterai yang tidak terlalu tahan lama untuk game berat atau resolusi tinggi
-
-- Harga yang cukup mahal untuk sebuah konsol gaming portabel, terutama untuk versi storage yang besar walau sekarang harganya sudah mendekati Nintendo Switch OLED
+  * Berat dan besar untuk sebuah perangkat portabel, sehingga mungkin kurang nyaman untuk dibawa-bawa atau dimainkan dalam waktu lama
+  * Baterai yang tidak terlalu tahan lama untuk game berat atau resolusi tinggi
+  * Harga yang cukup mahal untuk sebuah konsol gaming portabel, terutama untuk versi storage yang besar walau sekarang harganya sudah mendekati Nintendo Switch OLED
 
 Lalu apa secara singkat kelebihan Steam Deck ini:
 
-- Bisa menjalankan banyak game di Steam tanpa perlu instalasi tambahan atau optimisasi khusus
-
-- Bisa dihubungkan dengan monitor atau TV melalui dock khusus atau kabel USB-C, sehingga bisa dimainkan layaknya PC gaming
-
-- Bisa menginstal sistem operasi lain selain SteamOS, seperti Windows menggunakan microSD-nya
-
-- Bisa mengakses fitur-fitur Steam lainnya, seperti chat, friends list, cloud save, remote play, dll
-
-- Memiliki kontrol yang nyaman dan responsif, dengan adanya touchpad yang bisa digunakan sebagai mouse atau sebagai kontrol tambahan
-
-- Memiliki layar yang cukup luas dan berkualitas, dengan resolusi yang cukup tinggi dan refresh rate yang stabil
-
-- Memiliki pilihan storage yang bervariasi dan bisa diupgrade dengan microSD card
+  * Bisa menjalankan banyak game di Steam tanpa perlu instalasi tambahan atau optimisasi khusus
+  * Bisa dihubungkan dengan monitor atau TV melalui dock khusus atau kabel USB-C, sehingga bisa dimainkan layaknya PC gaming
+  * Bisa menginstal sistem operasi lain selain SteamOS, seperti Windows menggunakan microSD-nya
+  * Bisa mengakses fitur-fitur Steam lainnya, seperti chat, friends list, cloud save, remote play, dll
+  * Memiliki kontrol yang nyaman dan responsif, dengan adanya touchpad yang bisa digunakan sebagai mouse atau sebagai kontrol tambahan
+  * Memiliki layar yang cukup luas dan berkualitas, dengan resolusi yang cukup tinggi dan refresh rate yang stabil
+  * Memiliki pilihan storage yang bervariasi dan bisa diupgrade dengan microSD card
 
 # Kesimpulan
 

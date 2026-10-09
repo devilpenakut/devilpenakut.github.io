@@ -8,44 +8,48 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-## iOS bisa diatur ada ruang kosong di *homescreen* kok
+## iOS bisa diatur ada ruang kosong di _homescreen_ kok
 
-Ini kali pertama saya membuat *postingan* semacam ini. Tapi kayanya asik juga
-untuk melihat perubahan setiap awal tahun apa yang ada di *homescreen* ponsel
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/homescreen-2022-h1.jpg)
+
+Ini kali pertama saya membuat _postingan_ semacam ini. Tapi kayanya asik juga
+untuk melihat perubahan setiap awal tahun apa yang ada di _homescreen_ ponsel
 saya.
 
 ## Widget
 
 ### Apple bukan yang pertama, tapi implementasi paling bagus
 
- *Widget* di *homescreen* saya ada 3 buah,
+ _Widget_ di _homescreen_ saya ada 3 buah,
 
 ### Widget kalender
 
- *Widget* ini berguna tentunya untuk menampilkan tanggal, ada acara apa di
+ _Widget_ ini berguna tentunya untuk menampilkan tanggal, ada acara apa di
 kalender.
 
 Biasanya ini digunakan untuk melihat hari libur apa dalam waktu dekat ini.
-Hari libur ini bukan manual kita *input* satu-satu namun merupakan salah satu
+Hari libur ini bukan manual kita _input_ satu-satu namun merupakan salah satu
 [fitur yang ada di dalam Google
 Calendar](https://calendar.google.com/calendar/u/0/r/settings/browsecalendars)
 untuk **menambahkan hari libur Indonesia**.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/homescreen-2022-h2.png)
+
 Selanjutnya untuk melihat jadwal tim kesayangan saya AC Milan. Penambahan
-jadwal ini juga bukan kita *input* satu-satu, namun menggunakan layanan
+jadwal ini juga bukan kita _input_ satu-satu, namun menggunakan layanan
 [**fixtur.es**](https://fixtur.es/en/team/ac-milan)**** yang mana juga
-tersedia untuk tim sepakbola lain. Silakan *browsing* di webnya.
+tersedia untuk tim sepakbola lain. Silakan _browsing_ di webnya.
 
 Begitu juga untuk jadwal lainnya. Kamu bisa mencari layanan seperti ini untuk
-hal lain seperti jadwal peluncuran produk *tech* , jadwal FPL dll.
+hal lain seperti jadwal peluncuran produk _tech_ , jadwal FPL dll.
 
 ### Widget saran aplikasi Siri
 
- *Widget* kedua adalah membiarkan dua baris ini tergantung [**Siri mau
-menyarankan apa**](https://support.apple.com/guide/iphone/about-siri-suggestions-iph6f94af287/ios)**.***Widget* ini akan mempelajari di waktu yang
+ _Widget_ kedua adalah membiarkan dua baris ini tergantung [**Siri mau
+menyarankan apa**](https://support.apple.com/guide/iphone/about-siri-suggestions-iph6f94af287/ios)**.**_Widget_ ini akan mempelajari di waktu yang
 sama setiap hari kira-kira kamu akan membuka aplikasi apa.
 
-Kadang *random* , tapi kadang juga berguna karena menarik misal pada pagi hari
+Kadang _random_ , tapi kadang juga berguna karena menarik misal pada pagi hari
 saya suka buka Google Keep maka di waktu yang sama aplikasi Google Keep akan
 tertampil di homescreen.
 
@@ -53,25 +57,27 @@ Coba saja, siapa tahu memang berguna buat kamu.
 
 ### Widget "Small Blank"
 
-*Widget* ini yang membantu mengatur ikon di *homescreen* iOS agar tidak selalu
-rata kiri, namun bisa dibuat sesuai keinginan kita seperti di *homescreen*
+_Widget_ ini yang membantu mengatur ikon di _homescreen_ iOS agar tidak selalu
+rata kiri, namun bisa dibuat sesuai keinginan kita seperti di _homescreen_
 Android.
 
-Itulah kenapa di *homescreen* saya bisa ada ruang kosong di bagian kiri yang
+Itulah kenapa di _homescreen_ saya bisa ada ruang kosong di bagian kiri yang
 menurut saya merupakan bagian yang susah untuk dijangkau untuk peletakan ikon
 aplikasi.
 
 Widget ini didapatkan dengan mengunduh aplikasi [**MD Blank - Transparent
 widget**](https://apps.apple.com/us/app/md-blank-transparent-widget/id1551277937)**** dari App Store.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/homescreen-2022-h3.png)
+
 Panduan penggunaan cukup jelas, namun bila ingin dijelaskan silakan komentar
-di bawah nanti saya buat di *postingan* lain.
+di bawah nanti saya buat di _postingan_ lain.
 
 ## Social Networking
 
 ### Walau didalamnya tidak ada sosmed
 
-Grup pertama di *homescreen* saya adalah grup "Social Networking" walau isinya
+Grup pertama di _homescreen_ saya adalah grup "Social Networking" walau isinya
 malah bukan aplikasi media sosial, namun inilah "Social Networking" saya,
 lebih tepatnya aplikasi pesan.
 
@@ -103,13 +109,13 @@ ngga sampai.
 ### Spark
 
 [Spark ](https://sparkmailapp.com/)ini salah satu aplikasi email terbaik,
-lintas Android iOS juga. Tapi sayang belum ada *native* di Windows. Jadi ya
+lintas Android iOS juga. Tapi sayang belum ada _native_ di Windows. Jadi ya
 harus pakai versi web masing-masing kalau di Windows.
 
-Dia bisa *sync* seluruh email yang kita punya dengan cukup *login* satu akun
+Dia bisa _sync_ seluruh email yang kita punya dengan cukup _login_ satu akun
 saja.
 
-Cocok buat kamu yang punya banyak akun email. Ada *unified inbox* nya juga.
+Cocok buat kamu yang punya banyak akun email. Ada _unified inbox_ nya juga.
 
 ## Travel
 
@@ -154,11 +160,11 @@ iPhone tetap sering telat loading-nya.
 
 ### Instagram
 
-Inilah dunia paling tipu-tipu didunia. Ya anggap *aja* kita mengikuti seperti
-TV yang berjalan terus yang menampilkan berita seseorang lagi *ngapain* dan
+Inilah dunia paling tipu-tipu didunia. Ya anggap _aja_ kita mengikuti seperti
+TV yang berjalan terus yang menampilkan berita seseorang lagi _ngapain_ dan
 kemana. Plus dengan filter kepalsuannya.
 
-Jangan salah, seperti sinetron di TV yang *tetep* banyak penontonnya,
+Jangan salah, seperti sinetron di TV yang _tetep_ banyak penontonnya,
 Instagram juga begitu.
 
 ### Twitter
@@ -175,6 +181,8 @@ Aplikasi ini beneran aplikasi untuk berita, yang isinya bisa kita pilih dan
 dengan tampilan yang menarik.
 
 Sumbernya bisa dari website, Twitter, Facebook, Reddit. Terserah kita.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/homescreen-2022-h4.jpg)
 
 ## Photo & Video
 
@@ -194,6 +202,8 @@ dengan fitur-fitur yang bagus ini terbaik.
 Fitur seperti pencarian yang spesifik seperti "langit", "pemandangan", "laut"
 akan mengeluarkan hasil pencarian dengan foto seperti yang kita minta.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/homescreen-2022-h5.jpg)
+
 Kamu akan terpukau bila kita mencari orang tertentu dan kita punya foto
 bayinya, maka Google Photos akan mengenali dari kecil sampai besar.
 
@@ -212,33 +222,35 @@ dasarnya adalah Safari.
 
 Karena teknologi untuk akses browser harus melalui WebKit semua.
 
-**2.5.6** Apps that browse the web must use the appropriate WebKit framework
-and WebKit Javascript.
+> **2.5.6** Apps that browse the web must use the appropriate WebKit framework
+> and WebKit Javascript.
 
 Jadi buat apa pakai aplikasi lain kalau semua sama? toh fitur lain seperti
 Safari. Toh untuk pemblokir iklan pun saya sudah pakai
 [NextDNS](/blokir-iklan-tanpa-aplikasi). Secara sistem
-segala *query* iklan terlah terblokir.
+segala _query_ iklan terlah terblokir.
 
 ### Kamera
 
-Kamera bawaan jelas harus ada di-*dock.* Walau bisa akses dari *lock screen*
-tapi keberadaan kamera di-*dock* ini masih hal yang harus ada di *homescreen.*
+Kamera bawaan jelas harus ada di-_dock._ Walau bisa akses dari _lock screen_
+tapi keberadaan kamera di-_dock_ ini masih hal yang harus ada di _homescreen._
 
-Apalagi fitur-fitur kamera sudah lengkap termasuk *cinematic mode* yang paling
+Apalagi fitur-fitur kamera sudah lengkap termasuk _cinematic mode_ yang paling
 baru.
 
 ### WhatsApp
 
-Inilah aplikasi pesan yang mengalahkan *iMessage* di negara tercinta ini.
+Inilah aplikasi pesan yang mengalahkan _iMessage_ di negara tercinta ini.
 Sepertinya penggunaan aplikasi pesan yang sesuai dengan di US terakhir adalah
 BBM. Setelah itu WhatsApp menguasai sampai sekarang belam ada yang bisa
 menggantikan.
 
-Kelemahan jelas ada, WA ini tidak berdasar *cloud* , jadi sampai sekarang
-tidak bisa berpindah-pindah *device* karena media penyimpanan masih manual
-berbentuk file *backup*.
+Kelemahan jelas ada, WA ini tidak berdasar _cloud_ , jadi sampai sekarang
+tidak bisa berpindah-pindah _device_ karena media penyimpanan masih manual
+berbentuk file _backup_.
+
+* * *
 
 Semoga ada beberapa hal yang menarik untuk bisa dicoba. Inginnya seperti ini
-bisa di-*share* setiap tahun. Kita lihat tahun depan, apakah ada perubahan
+bisa di-_share_ setiap tahun. Kita lihat tahun depan, apakah ada perubahan
 yang signifikan.

@@ -9,17 +9,21 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-Setelah baca [Memilih iPhone 13 Series](https://devilpenakut.com/memilih-iphone-13-series) tapi masih bingung? Ini ada *review* singkat iPhone 13 Pro dari pengguna langsung setelah penggunaan selama 2 minggu ini. Siapa tau bisa membantu, yang pasti iPhone 13 Pro ini adalah base model yang pertama dipertimbangkan untuk iPhone 13 series.
+Setelah baca [Memilih iPhone 13 Series](/memilih-iphone-13-series) tapi masih bingung? Ini ada *review* singkat iPhone 13 Pro dari pengguna langsung setelah penggunaan selama 2 minggu ini. Siapa tau bisa membantu, yang pasti iPhone 13 Pro ini adalah base model yang pertama dipertimbangkan untuk iPhone 13 series.
 
 Kalau budget belum cukup, bisa turun ke iPhone 13 reguler. Kalau buat sekedar ponsel murni tanpa untuk hiburan (nonton video) bisa pilih yang lebih murah lagi ke iPhone 13 mini. Kalau budget masih ada dan layar dirasa kurang bisa naik ke iPhone 13 Pro Max.
 
 Jadi, mari kita mulai dari *hardware* -nya.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/20E6Rf9jWU2616cCLBKOKZ?utm_source=generator&amp;theme=0" width="100%" height="152"></iframe>
 
 ## Hardware
 
 ### Berat dan tebal
 
 Oke, ponsel ini merupakan salah satu yang terbaru dan terbaik dari Apple untuk seri iPhone, iPhone 13 Pro. Memang ada yang lebih mahal dan lebih besar ukuran dan layarnya, namun dari jeroan sebenarnya sama saja.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h1.jpg)
 
 Kesan pertama, ponsel ini **berat dan tebal**. Sebelumnya saya pakai Samsung S10+ selama hampir 3 tahun dengan ukuran layar yang lebih besar, 6.4 inch dibanding 6.1 inch di iPhone 13 Pro.
 
@@ -36,6 +40,8 @@ Karena berat dan tebalnya itu maka bisa dianggap ponsel ini tidak begitu nyaman 
 Entah kenapa di era sekarang ini Apple masih menerapkan notch. Walau lebih kecil dari seri iPhone 12 namun tetap saja notch ini menutup area layar yang jauh lebih besar daripada ponsel dengan kamera *punch-hole*.
 
 Dalam penggunaan normal sebenarnya tidak ada masalah dengan notch, bermain media sosial, bahkan menonton video pun tidak mengganggu. Masalah datang ketika terkait dengan Face ID. Apple beralasan tetap memakai notch karena masih ada sistem Face ID di notch itu.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h2.jpg)
 
 Face ID memang canggih dan aman. Bukan sekedar *face unlock* biasa. Namun dimasa pandemi Face ID ini **sangat merepotkan**. Harus sering-sering geser atau buka masker untuk akses buka layar atau untuk masuk layanan yang membutuhkan Face ID seperti layanan *mobile banking*.
 
@@ -69,9 +75,13 @@ Kekurangan kedua adalah ngga adanya *headphone jack*. Ya, ini membuat harus berg
 
 Lightning itu meh. Ngga pantas buat ponsel di 2021 pakai koneksi lightning. Lightning ini setara USB 2.0. Ngga bisa transfer cepat (480 mbps), ngga bisa fast charging lebih dari 20W.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h3.jpg)
+
 Buat apa ada ProRes Video kalau koneksi buat pindahnya pakai lightning. Ngga ada pro-pronya sama sekali. Bayangin pindah video ber-giga2 tapi transfernya bisa berjam-jam.
 
 Kalau ProRes adalah alasan buat beli iPhone 13 Pro atau Pro Max tahun ini, tunda dulu. Lebih baik menunggu untuk Apple bisa memberi alternatif transfer data lebih baik.
+
+---
 
 ## Software
 
@@ -82,6 +92,8 @@ Keberadaan layar 120hz tadi juga membantu animasi UI nya makin *smooth*. Tapi ka
 Aplikasi di iOS memang terbatas dibandingkan dengan Android. OS yang dikunci dan peraturan App Store yang ketat oleh Apple membuat aplikasi tidak bisa melakukan hal-hal yang bisa dilakukan di ponsel Android. Misal kustomisasi atau perubahan di sistem.
 
 Keterbatasan aplikasi tersebut contohnya ketika transfer WhatsApp dari Android ke iOS. Pada WA android backup WA menggunakan file storage biasa atau pakai Goggle Drive, sedang pada iOS menggunakan iCloud Drive tanpa ada akses kepada file-nya.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h4.jpg)
 
 WA masih menganut sistem backup file konvensional, tidak seperti Telegram. Jadi file backup itu harus dipindah ke ponsel baru apabila ingin pindah ponsel. Hal yang tidak bisa dilakukan untuk Android ke iOS, sampai nanti WA memberikan cara secara resmi.
 
@@ -97,17 +109,27 @@ Pertama kali yang jelas terlihat adalah kamera di ponsel ini besar. Dengan posis
 
 Tapi yang paling wow adalah ***camera bump*** -nya, gede bos. Beneran kalau ditaruh itu ponselnya bakal naik, sangat jauh dibanding S10+ yang rata.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h5.jpg)
+
 Kualitas foto tidak diragukan lagi, bisa diandalkan disegala situasi. Jelas lebih baik dibanding S10+ untuk foto malam, dimana khas Samsung adalah mulai terasa seperti cat air bila foto keadaan gelap. Pada iPhone 13 Pro pada umumnya memang **lebih terang**.
 
 Teknologi *Deep Fusion* yang ada sejak iPhone 11 dan sensor yang lebih besar jelas membantu. Namun menurut saya untuk foto keadaan terang, ponsel flighship jaman sekarang kualitasnya sudah sama. Baru beda akan terlihat ketika malam hari.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h6.jpg)
 
 Foto malam iPhone 13 Pro ini tidak akan membuat terang yang tidak seperti malam. Namun akan lebih terlihat seperti aslinya. Untuk membuat lebih terang juga bisa sebenarnya, tinggal tingkatnya detik (*second*) pengambilan gambarnya dari yang standar auto.
 
 Hal lain yang terlihat dari sebelumnya saya pakai S10+ adalah ***clarity*** yang lebih di iPhone 13 Pro ini. Malah cenderung berlebih menurut saya. Memang untuk di share di social media akan bagus, namun menjadi tidak natural lagi.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h7.jpg)
+
 Lalu yang banyak dikatakan kalau ketika perpindahan lensa tidak terasa perubahan warna, namun kalau menurut saya memang perpindahan lensa di aplikasi kamera sangat *smooth* dibanding di Android, namun **perubahan warna** itu tetep ada.
 
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-iphone-13-pro-h8.jpg)
+
 Terkait *Processing* foto di iPhone 13 Pro ini walau menggunakan A15 Bionic yang baru tetap aja ada ***delay*** ketika setelah foto dan hampir satu detik kemudian dimana ada kelihatan ada perbedaan dari hasil *processing* -nya.
+
+---
 
 ## Lainnya
 
@@ -115,6 +137,6 @@ Dari sisi lain tetap saja Apple adalah Apple, dari kombinasi hardware dan softwa
 
 Kalau buat saya, ini adalah ponsel yang bisa dipakai kerja dan main hingga 3 tahun mendatang, update software terjamin dengan performa bagus dan kamera yang siap setiap saat.
 
---
+\--
 
 Ada komentar atau masukan? silahkan lewat komentar, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://twitter.com/devilpenakut).
