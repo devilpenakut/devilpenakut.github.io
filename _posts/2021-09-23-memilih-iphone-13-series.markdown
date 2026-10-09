@@ -349,4 +349,4 @@ seri iPhone 13 yang kamu mau.
 
 Ada komentar atau masukan? silahkan lewat komentar dibawah, atau [discord
 devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
-[Twitter](https://twitter.com/devilpenakut).
+[Twitter](https://x.com/devilpenakut).

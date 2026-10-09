@@ -241,7 +241,7 @@ konsol ini cocok untuk dibeli bagi:
 
 Jadi apakah Xbox Series S ini adalah konsol yang cocok buat kamu? kirim
 komentar atau masukan lewat [Discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
-[Twitter](https://twitter.com/devilpenakut).
+[Twitter](https://x.com/devilpenakut).
 
 ### Link Pembelian
 

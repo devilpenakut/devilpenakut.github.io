@@ -42,5 +42,5 @@ Misal kita sedang melakukan riset atas suatu hal, maka Telegraph bisa menjadi te
 
 * * *
 
-Itu beberapa hal yang bisa dilakukan menggunakan Telegraph menurut saya. Bagaimana menurut kamu? _Mention_ saya di [Twitter](https://twitter.com/devilpenakut)juga ya.
+Itu beberapa hal yang bisa dilakukan menggunakan Telegraph menurut saya. Bagaimana menurut kamu? _Mention_ saya di [Twitter](https://x.com/devilpenakut)juga ya.
 

@@ -20,9 +20,9 @@ rilis bisa membuat saya untuk cari info sana sini tentang game itu dan mungkin
 beli dan memainkannya di kemudian hari.
 
 > Great
-> news—[#HumankindGame](https://twitter.com/hashtag/HumankindGame?src=hash&ref_src=twsrc%5Etfw)
+> news—[#HumankindGame](https://x.com/hashtag/HumankindGame?src=hash&ref_src=twsrc%5Etfw)
 > will be available DAY ONE on
-> [@XboxGamePassPC](https://twitter.com/XboxGamePassPC?ref_src=twsrc%5Etfw)! 🔥
+> [@XboxGamePassPC](https://x.com/XboxGamePassPC?ref_src=twsrc%5Etfw)! 🔥
 > 🔥 [pic.twitter.com/JHHmAdfOpR](https://t.co/JHHmAdfOpR)[August 9,
 > 2021](https://twitter.com/humankindgame/status/1424717304290480137?ref_src=twsrc%5Etfw)
 
@@ -34,7 +34,7 @@ akhirnya saya bisa menamatkannya.
 
 ![](https://live.staticflickr.com/65535/51134095256_8602ab6a5a_z.jpg)
 
-Teman saya [@FajarIkhwanul](https://twitter.com/FajarIkhwanul) sangat suka
+Teman saya [@FajarIkhwanul](https://x.com/FajarIkhwanul) sangat suka
 bermain game-game yang tingkat kesulitan yang tinggi seperti [Sekiro: Shadows
 Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice),
 [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne), [Dark
@@ -55,7 +55,7 @@ tertinggi ada juga suka yg suka manis. Kesenangan buat masing-masing orang
 kadang ditemukan di tempat yg orang lain ga suka... and its fine", kata om
 Fajar.
 
-Lain lagi dengan [@andirisbani](https://twitter.com/andirisbani), dia adalah
+Lain lagi dengan [@andirisbani](https://x.com/andirisbani), dia adalah
 tipe gamer yang suka dengan game RPG macam [Final
 Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy). Bahkan dengan game-game
 lama di [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS#Comparison)
@@ -94,6 +94,6 @@ kembali ke masing-masing.
 
 Ada komentar atau masukan? silahkan lewat [Discord
 devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
-[Twitter](https://twitter.com/devilpenakut).
+[Twitter](https://x.com/devilpenakut).
 
 [Americans' thoughts about video games | Pew Research Center](https://www.pewresearch.org/internet/2015/12/15/attitudes-about-video-games/) ↩︎

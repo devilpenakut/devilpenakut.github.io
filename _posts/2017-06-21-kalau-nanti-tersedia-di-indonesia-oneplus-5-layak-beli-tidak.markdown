@@ -58,4 +58,4 @@ Dengan desain yang cukup bagus, performa yang menyenangkan, kamera yang oke
 dan harga yang tidak begitu mahal OnePlus 5 masih layak untuk dipinang.
 
 Ada pertanyaan? Bisa mention saya di
-[Twitter](http://twitter.com/devilpenakut) atau tinggalkan komentar dibawah.
+[Twitter](https://x.com/devilpenakut) atau tinggalkan komentar dibawah.

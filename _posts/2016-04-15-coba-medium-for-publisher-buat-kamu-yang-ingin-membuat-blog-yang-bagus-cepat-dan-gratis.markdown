@@ -67,7 +67,7 @@ tags:
 <div id="82a1" class="graf--mixtapeEmbed graf-after--p"><a class="markup--anchor markup--mixtapeEmbed-anchor" title="https://publishers.medium.com" href="https://publishers.medium.com/" rel="nofollow"><span class="markup--strong markup--mixtapeEmbed-strong">Publishers – Medium</span><br>
 <span class="markup--em markup--mixtapeEmbed-em">Everything you write is mobile and tablet optimized. Integrate easily with Instant Articles, AMP, and the latest in…</span>publishers.medium.com</a></div>
 <div class="graf--mixtapeEmbed graf-after--p"></div>
-<p id="b62a" class="graf--p graf-after--mixtapeEmbed graf--last">Sudah coba? silahkan komentar dibawah atau mention saya di <a class="markup--anchor markup--p-anchor" href="http://twitter.com/devilpenakut" rel="nofollow">Twitter</a>.</p>
+<p id="b62a" class="graf--p graf-after--mixtapeEmbed graf--last">Sudah coba? silahkan komentar dibawah atau mention saya di <a class="markup--anchor markup--p-anchor" href="https://x.com/devilpenakut" rel="nofollow">Twitter</a>.</p>
 <p class="graf--p graf-after--mixtapeEmbed graf--last">(featured image:<a href="https://dribbble.com/shots/2473178-Style-Exploration-4"> Style Exploration 4 by Ryan Putnam</a>)</p>
 </div>
 </div>

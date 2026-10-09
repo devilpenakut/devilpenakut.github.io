@@ -44,7 +44,7 @@ tags:
 <div class="section-content">
 <div class="section-inner layoutSingleColumn">
 <p class="graf--p">Sampai sekarang beberapa operator masih menerapkan <em class="markup--em markup--p-em">intrusive ads</em> ini. Walau ada beberapa yang mengatakan itu <em class="markup--em markup--p-em">optional</em>, dalam arti bisa dihapus, tapi ada pula yang menganggap itu hal wajar *ehem*Telkom*ehem*.</p>
-<p class="graf--p">Bagaimana menurut teman? Silakan komentar atau mention saya di <a class="markup--anchor markup--p-anchor" href="http://twitter.com/devilpenakut">@devilpenakut</a></p>
+<p class="graf--p">Bagaimana menurut teman? Silakan komentar atau mention saya di <a class="markup--anchor markup--p-anchor" href="https://x.com/devilpenakut">@devilpenakut</a></p>
 </div>
 </div>
 </section><!--kg-card-end: html-->

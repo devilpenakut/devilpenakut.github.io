@@ -41,4 +41,4 @@ _Di antara sekian banyak pasar tradisional di Jogja yang pernah saya kunjungi -p
 
 * * *
 
-Betul tidak? Coba pendapat kamu bagaimana? [mention](http://twitter.com/devilpenakut) ke Twitter saya juga.
+Betul tidak? Coba pendapat kamu bagaimana? [mention](https://x.com/devilpenakut) ke Twitter saya juga.

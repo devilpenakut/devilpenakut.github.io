@@ -4,7 +4,7 @@ title: 'Review The Last of Us Part II Indonesia'
 date: '2020-06-28 14:36:21'
 ---
 
-## Review oleh [Fajar Ikhwanul](https://twitter.com/FajarIkhwanul)
+## Review oleh [Fajar Ikhwanul](https://x.com/FajarIkhwanul)
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-the-last-of-us-part-ii-indonesia-h1.jpg)
 

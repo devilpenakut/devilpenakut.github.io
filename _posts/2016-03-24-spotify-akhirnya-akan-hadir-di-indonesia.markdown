@@ -9,9 +9,9 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-Yes. Setelah sekian lama menunggu kapan Spotify bakal masuk di Indonesia secara resmi, walau kalau tidak resmi juga bisa dipakai di Indonesia. Beberapa hari yang lalu akun [Twitter Spotify Indonesia](https://twitter.com/SpotifyID) mengatakan bahwa Spotify akan hadir di Indonesia pada 30 Maret 2016.
+Yes. Setelah sekian lama menunggu kapan Spotify bakal masuk di Indonesia secara resmi, walau kalau tidak resmi juga bisa dipakai di Indonesia. Beberapa hari yang lalu akun [Twitter Spotify Indonesia](https://x.com/SpotifyID) mengatakan bahwa Spotify akan hadir di Indonesia pada 30 Maret 2016.
 
-> HALO INDONESIA!!! [#WaktunyaSpotify](https://twitter.com/hashtag/WaktunyaSpotify?src=hash) [pic.twitter.com/D0YxEJiQxt](https://t.co/D0YxEJiQxt)
+> HALO INDONESIA!!! [#WaktunyaSpotify](https://x.com/hashtag/WaktunyaSpotify?src=hash) [pic.twitter.com/D0YxEJiQxt](https://t.co/D0YxEJiQxt)
 > 
 > — Spotify Indonesia (@SpotifyID) [March 20, 2016](https://twitter.com/SpotifyID/status/711463054878359552)
 {: .twitter-tweet}

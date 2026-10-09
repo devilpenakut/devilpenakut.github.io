@@ -62,4 +62,4 @@ yang diblokir tidak ada iklan over-the-top. Saya sendiri tidak masalah, asal
 saya bisa akses semua konten semau saya sendiri.
 
 Bagaimana menurut kamu? Mention saya di
-[Twitter](http://twitter.com/devilpenakut) atau komentar di bawah.
+[Twitter](https://x.com/devilpenakut) atau komentar di bawah.

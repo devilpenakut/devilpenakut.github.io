@@ -132,4 +132,4 @@ TMRW](https://www.tmrwbyuob.com/id/id/mgm/friend_referral.html?ref=https%3A%2F%2
 
 Ada komentar atau masukan? silahkan lewat [Discord
 devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
-[Twitter](https://twitter.com/devilpenakut).
+[Twitter](https://x.com/devilpenakut).

@@ -95,7 +95,7 @@ Bagaimana cara orang tua melakukan kontrol terhadap anak, bagaimana melindungi a
 
 * * *
 
-Jadi, masih salah Netflixnya? Ada komentar atau masukan? silahkan lewat komentar dibawah, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://twitter.com/devilpenakut).
+Jadi, masih salah Netflixnya? Ada komentar atau masukan? silahkan lewat komentar dibawah, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://x.com/devilpenakut).
 
 <!--kg-card-begin: html--><script src="https://utteranc.es/client.js" repo="devilpenakut/dpcomment" issue-term="title" theme="preferred-color-scheme" crossorigin="anonymous" async>
 </script><!--kg-card-end: html-->

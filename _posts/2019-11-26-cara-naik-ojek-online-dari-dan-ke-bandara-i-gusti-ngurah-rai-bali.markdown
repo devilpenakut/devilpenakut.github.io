@@ -32,4 +32,4 @@ Untuk pemesanan lebih baik ketika kita putari gedung parkir, atau ketika mendeka
 
 Menggunakan ojek online di Bandara I Gusti Ngurah Rai Bali cukup mudah, namun harus berjalan sekitar 700 meter dari lokasi turun/naik sampai ke terminal keberangkatan atau kedatangan.
 
-Ada yang mau ditambahkan? atau butuh untuk Bandara Adi Sucipto Yogyakarta juga? Silahkan titip komentar atau mention ke [Twitter](http://twitter.com/devilpenakut)
+Ada yang mau ditambahkan? atau butuh untuk Bandara Adi Sucipto Yogyakarta juga? Silahkan titip komentar atau mention ke [Twitter](https://x.com/devilpenakut)

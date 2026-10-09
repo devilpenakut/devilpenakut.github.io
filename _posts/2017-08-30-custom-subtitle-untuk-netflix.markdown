@@ -72,4 +72,4 @@ Sekarang kita bisa melihat subtitle bahasa indonesia di Netflix walau tidak
 disediakan oleh Netflix.
 
 Ada pertanyaan? silahkan mention saya di Twitter
-[@devilpenakut](http://twitter.com/devilpenakut)
+[@devilpenakut](https://x.com/devilpenakut)

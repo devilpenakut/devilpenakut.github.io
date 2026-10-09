@@ -43,7 +43,7 @@ tags:
 <div class="section-content">
 <div class="section-inner layoutSingleColumn">
 <p id="9de1" class="graf--p graf--first">Samsung Galaxy S7 secara keseluruhan memang ponsel terbaik saat ini, khususnya untuk Android. Memang tidak lepas dari kekurangan yang semoga beberapa kekurangan itu diatasi dengan <em class="markup--em markup--p-em">software update</em> dari Samsung.</p>
-<p id="e2f1" class="graf--p graf-after--p graf--last">Kamu punya S7? Mau share kekurangan yang kamu rasakan? Silahkan komentar dibawah atau mention saya di <a class="markup--anchor markup--p-anchor" href="http://twitter.com/devilpenakut">Twitter</a></p>
+<p id="e2f1" class="graf--p graf-after--p graf--last">Kamu punya S7? Mau share kekurangan yang kamu rasakan? Silahkan komentar dibawah atau mention saya di <a class="markup--anchor markup--p-anchor" href="https://x.com/devilpenakut">Twitter</a></p>
 </div>
 </div>
 </section><!--kg-card-end: html-->

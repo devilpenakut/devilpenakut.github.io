@@ -25,6 +25,6 @@ Aplikasi punya Google sendiri juga tidak dimaksimalkan untuk pemakaian tablet. M
 
 Google harusnya melihat apa yang dilakukan oleh Jide dengan [Remix OS](/mencoba-remix-os), dimana Android yang mirip pada penggunaan pada desktop.
 
-Menurut teman-teman bagaimana? Silahkan tulis pendapat dikolom komentar, atau mention saya di Twitter [@devilpenakut](http://twitter.com/devilpenakut)
+Menurut teman-teman bagaimana? Silahkan tulis pendapat dikolom komentar, atau mention saya di Twitter [@devilpenakut](https://x.com/devilpenakut)
 
 <!--kg-card-end: html-->

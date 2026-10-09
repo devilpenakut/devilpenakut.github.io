@@ -127,4 +127,4 @@ mengisi daya laptop masih menggunakan port tersendiri.
 
 Jadi itu 3 laptop yang bisa kamu pilih untuk kamu yang ingin laptop gaming
 murah tapi dengan performa yang cukup baik. Bagaimana menurut kamu? Silahkan
-comment dan atau mention di [Twitter](http://twitter.com/devilpenakut)
+comment dan atau mention di [Twitter](https://x.com/devilpenakut)

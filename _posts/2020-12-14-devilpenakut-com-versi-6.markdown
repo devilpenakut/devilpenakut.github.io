@@ -87,4 +87,4 @@ tidak ada masalah, namun masih pada sisi kode WordPress yang belum maksimal.
 Saya masih belajar, masih berkembang.
 
 Mungkin ada saran untuk optimalisasi yang lebih baik? Bisa tinggalkan komentar
-atau mention saya di [Twitter](http://twitter.com/devilpenakut).
+atau mention saya di [Twitter](https://x.com/devilpenakut).

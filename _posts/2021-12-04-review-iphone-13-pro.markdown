@@ -139,4 +139,4 @@ Kalau buat saya, ini adalah ponsel yang bisa dipakai kerja dan main hingga 3 tah
 
 \--
 
-Ada komentar atau masukan? silahkan lewat komentar, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://twitter.com/devilpenakut).
+Ada komentar atau masukan? silahkan lewat komentar, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://x.com/devilpenakut).

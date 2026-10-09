@@ -134,4 +134,4 @@ bisa membantu memperpanjang baterai ponsel, karena sekarang akses data
 perlu mencari sinyal di 4G.
 
 Ada pertanyaan silahkan komentar dibawah atau mention saya di
-[Twitter](https://twitter.com/devilpenakut).
+[Twitter](https://x.com/devilpenakut).

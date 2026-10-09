@@ -78,4 +78,4 @@ yang mendukung fitur seperti 4K HDR, Dolby menambah kenikmatan dalam menonton.
 Photographer: [Jens Kreuter](https://unsplash.com/@jenskreuter) | Source: [Unsplash](https://unsplash.com/)
 
 Mana cara yang menurut kamu paling kamu suka, silakan komentar di bawah dan
-bisa juga mention saya di [Twitter ](http://twitter.com/devilpenakut)
+bisa juga mention saya di [Twitter ](https://x.com/devilpenakut)

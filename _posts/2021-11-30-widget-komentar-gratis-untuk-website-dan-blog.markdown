@@ -55,4 +55,4 @@ Berikut beberapa keuntungan menggunakan utterances.
 
 Sudah, nanti untuk pengunjung yang mau komentar tinggal login menggunakan GitHub. Memang ada kekurangan karena hanya bisa login menggunakan GitHub, namun karena untuk daftar GitHub termasuk mudah dan mungkin bisa membantu menjadi tertarik untuk melakukan koding 😁.
 
-Ada komentar atau masukan? silahkan lewat komentar dibawah, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://twitter.com/devilpenakut).
+Ada komentar atau masukan? silahkan lewat komentar dibawah, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://x.com/devilpenakut).

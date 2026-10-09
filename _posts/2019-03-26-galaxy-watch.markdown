@@ -75,7 +75,7 @@ Contohnya saya:
 
 Jadi apakah kamu termasuk yang menganggap jam pintar sangat berguna untuk
 dipakai? coba komentar dibawah atau [mention ke
-saya](http://twitter.com/devilpenakut).
+saya](https://x.com/devilpenakut).
 
 Kalau kamu tertarik untuk beli jam ini, bisa dilihat di:
 

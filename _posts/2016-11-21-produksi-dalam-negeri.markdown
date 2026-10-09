@@ -32,7 +32,7 @@ Xiaomi sudah panas buat segera berjualan ponsel 4G di Indonesia
 
 Infinix pun sudah siap-siap mengeluarkan ponsel 4G.
 
-> Akhirnya TKDN untuk [#TheNextInfinix](https://twitter.com/hashtag/TheNextInfinix?src=hash) terpenuhi juga… Welcome to 4G LTE World… 😀 [pic.twitter.com/DiqGsKMnSN](https://t.co/DiqGsKMnSN)
+> Akhirnya TKDN untuk [#TheNextInfinix](https://x.com/hashtag/TheNextInfinix?src=hash) terpenuhi juga… Welcome to 4G LTE World… 😀 [pic.twitter.com/DiqGsKMnSN](https://t.co/DiqGsKMnSN)
 > 
 > — Jefry F Sinaga (@jefrilicious) [November 18, 2016](https://twitter.com/jefrilicious/status/799546004341145600)
 {: .twitter-tweet}

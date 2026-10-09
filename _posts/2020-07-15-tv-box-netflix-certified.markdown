@@ -63,5 +63,5 @@ Kedua device itu bisa didapatkan di marketplace dengan harga antara IDR
 450.000 - IDR 700.000. Memang tidak semurah TV Box lain terutama yang bekas
 dan hasil unlock, namun itu lah harga yang harus dibayar untuk sebuah
 certificate. Mungkin ada device lain yang disarankan? bisa komentar dibawah
-atau mention saya di [Twitter](http://twitter.com/devilpenakut) nanti akan
+atau mention saya di [Twitter](https://x.com/devilpenakut) nanti akan
 saya tambahkan disini.

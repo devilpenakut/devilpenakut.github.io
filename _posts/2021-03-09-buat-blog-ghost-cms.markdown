@@ -178,4 +178,4 @@ Blog Ghost kamu sudah aktif dan bisa diakses melalui Web. Sebenarnya masih
 banyak lagi yang bisa di-kostumasi dari Ghost, namun kita bahas dilain waktu.
 
 Bila ada pertanyaan bisa sampaikan ke Twitter saya
-[@devilpenakut](https://twitter.com/devilpenakut). Terima kasih.
+[@devilpenakut](https://x.com/devilpenakut). Terima kasih.

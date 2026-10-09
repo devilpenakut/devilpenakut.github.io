@@ -25,4 +25,4 @@ dianggap tanpa cela. Sedikit saja ada kekurangan maka menjadi sebuah
 kekecewaan. Ini yang mungkin dirasakan oleh para reviewer tersebut.
 
 Bagaimana menurut kamu? Terutama untuk pemilik S8? coba tulis di kolom
-komentar atau [mention ](https://twitter.com/devilpenakut)saya di Twitter.
+komentar atau [mention ](https://x.com/devilpenakut)saya di Twitter.

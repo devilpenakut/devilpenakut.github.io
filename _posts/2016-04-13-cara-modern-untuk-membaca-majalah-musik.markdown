@@ -21,7 +21,7 @@ tags:
 <p id="ddc2" class="graf--p graf-after--figure">Setelah makan siang saya mendapat SMS dari Gramedia. Pesanan Rolling Stone edisi bulan April 2016 yang saya pesan sudah bisa diambil.</p>
 <p id="f9d4" class="graf--p graf-after--p">Saya pesan Rolling Stone karena untuk edisi kali ini membahas mengenai AADC 2. Khususnya liat foto-foto Dian Sastro nya. Siapa sih laki-laki yang ngga suka liat foto Dian Sastro?</p>
 <blockquote class="twitter-tweet">
-<p dir="ltr" lang="in">‘Geng Cinta’ <a href="https://twitter.com/hashtag/AADC2?src=hash">#AADC2</a> hadir di majalah <a href="https://twitter.com/RollingStoneINA">@rollingstoneina</a> April’16 <a href="https://twitter.com/hashtag/HariFilmNasional?src=hash">#HariFilmNasional</a></p>
+<p dir="ltr" lang="in">‘Geng Cinta’ <a href="https://x.com/hashtag/AADC2?src=hash">#AADC2</a> hadir di majalah <a href="https://x.com/RollingStoneINA">@rollingstoneina</a> April’16 <a href="https://x.com/hashtag/HariFilmNasional?src=hash">#HariFilmNasional</a></p>
 <p>e-magz: <a href="https://t.co/0sMqcSIGms">https://t.co/0sMqcSIGms</a> <a href="https://t.co/TT6csXTEL4">pic.twitter.com/TT6csXTEL4</a></p>
 <p>— Rolling Stone INA (@RollingStoneINA) <a href="https://twitter.com/RollingStoneINA/status/715126343839551489">30 Maret 2016</a></p>
 </blockquote>

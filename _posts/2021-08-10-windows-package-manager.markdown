@@ -83,4 +83,4 @@ Microsoft diperkirakan akan merombak Microsoft Store bersamaan dengan Windows
 
 Ada komentar atau masukan? silahkan lewat [Discord
 devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
-[Twitter](https://twitter.com/devilpenakut).
+[Twitter](https://x.com/devilpenakut).

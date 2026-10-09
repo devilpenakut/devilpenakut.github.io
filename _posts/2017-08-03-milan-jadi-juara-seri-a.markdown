@@ -133,7 +133,7 @@ Selama dua musim ini saya memakai 2 taktik utama, yang pertama adalah 4-2-2
 yang saya digunakan dimusim 17/18, dan 4-1-2-2-1 dimusim 18/19 dan seterusnya.
 
 Taktik kedua saya buat sangat diperngaruhi oleh taktik [strikerless
-](https://strikerless.com/)oleh [Guido](https://twitter.com/merryguido).
+](https://strikerless.com/)oleh [Guido](https://x.com/merryguido).
 Dimana kekuatan taktik ini adalah kedua sayap penyerang dan wing back. Namun
 ketika strikerless tidak menggunakan stiker, namun saya tetap memasang striker
 disitu,
@@ -183,4 +183,4 @@ Target tahun depan adalah juara Seri A dan minimal sampai final Liga
 Champions. Bisakah?
 
 Silahkan komentar dibawah, atau bisa mention ke
-[twitter.](https://twitter.com/devilpenakut)
+[twitter.](https://x.com/devilpenakut)

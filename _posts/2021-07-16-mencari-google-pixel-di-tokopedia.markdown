@@ -105,4 +105,4 @@ Shopee: [Rp.9.500.000-10.500.000](https://invol.co/cl5j0ro)
 
 Jadi Google Pixel mana yang jadi pilihan kamu? Silahkan lewat [discord
 devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
-[Twitter](https://twitter.com/devilpenakut)
+[Twitter](https://x.com/devilpenakut)

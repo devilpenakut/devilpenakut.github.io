@@ -87,7 +87,7 @@ Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingi
 
 * * *
 
-Jadi, kamu tidak perlu terganggu lagi dengan nomor-nomor yang asing. Ada pertanyaan? silahkan sampaikan di komentar atau mention saya di [Twitter](http://twitter.com/devilpenakut)
+Jadi, kamu tidak perlu terganggu lagi dengan nomor-nomor yang asing. Ada pertanyaan? silahkan sampaikan di komentar atau mention saya di [Twitter](https://x.com/devilpenakut)
 
 \*Featured image:&nbsp;[Stop (Smarterer)&nbsp;by Alan Oronoz](https://dribbble.com/shots/1554398-Stop-Smarterer)
 

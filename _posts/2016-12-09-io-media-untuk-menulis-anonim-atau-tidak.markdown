@@ -29,6 +29,6 @@ Seperti [pendapat](https://medium.com/@devilpenakut/beberapa-hal-yang-bisa-dilak
 
 &nbsp;
 
-Bagaimana menurut kamu? [Mention](https://twitter.com/devilpenakut)saya di Twitter.
+Bagaimana menurut kamu? [Mention](https://x.com/devilpenakut)saya di Twitter.
 
 <!--kg-card-end: html-->
