@@ -2,6 +2,10 @@
 layout: post
 title: 'Custom Subtitle untuk Netflix'
 date: '2017-08-30 09:23:05'
+tags:
+- tips
+- netflix
+- streaming
 ---
 
 Saya lagi nonton ini di Netflix.

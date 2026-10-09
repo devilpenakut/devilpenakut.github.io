@@ -2,6 +2,9 @@
 layout: post
 title: 'Tidak ada game yang sesuai untuk semua orang.'
 date: '2021-08-12 05:14:49'
+tags:
+- opini
+- game
 ---
 
 ## Apapun game kamu, yang penting bikin kamu terhibur

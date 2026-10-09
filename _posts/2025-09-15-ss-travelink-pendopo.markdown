@@ -2,6 +2,10 @@
 layout: post
 title: 'SS TRAVELINK: Pendopo on The Road'
 date: '2025-09-15 05:12:37'
+tags:
+- review
+- transportasi
+- yogyakarta
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/ss-travelink-pendopo-h1.jpg)

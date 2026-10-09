@@ -2,6 +2,10 @@
 layout: post
 title: 'Apple dan Tantangan Inovasi: Mengapa Raksasa Teknologi Ini Makin Stagnan?'
 date: '2024-12-12 04:24:26'
+tags:
+- opini
+- apple
+- iphone
 ---
 
 [![Apple's absolute first logo, pre 1976. Drawn by then co-founder Ronald Wayne. The logo features Sir Isaac Newton sitting under the apple tree where he supposedly discovered gravity, by an apple falling on his head. ](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/apple-dan-inovasi-1.png)](https://commons.wikimedia.org/wiki/File:Apple_first_logo.png#/media/File:Apple_first_logo.png)

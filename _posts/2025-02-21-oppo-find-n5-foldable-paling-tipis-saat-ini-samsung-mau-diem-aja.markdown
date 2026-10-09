@@ -2,6 +2,10 @@
 layout: post
 title: 'Oppo Find N5: Foldable Paling Tipis Saat Ini, Samsung Mau Diem Aja?'
 date: '2025-02-21 04:57:53'
+tags:
+- review
+- smartphone
+- android
 ---
 
 Oppo resmi meluncurkan Find N5, foldable tertipis di dunia dengan ketebalan hanya 8.93mm saat dilipat dan 4.21mm saat dibuka. Ini bukan sekadar tipis, tapi juga membawa berbagai peningkatan yang bikin para pesaingnya ketar-ketir. Sayangnya, seperti biasa, ponsel ini ngga masuk pasar AS karena disana seri Find N dijual dengan nama Oneplus Open, yang sebelumnya uda [bilang ngga akan keluar versi baru ditahun 2025.](https://community.oneplus.com/thread/1652471315484901379)

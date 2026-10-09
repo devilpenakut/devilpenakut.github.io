@@ -2,6 +2,10 @@
 layout: post
 title: 'Review Galaxy Watch'
 date: '2019-03-26 11:53:42'
+tags:
+- review
+- smartwatch
+- samsung
 ---
 
 ## Buat siapa jam pintar ini?

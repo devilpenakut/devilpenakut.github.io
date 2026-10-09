@@ -4,6 +4,9 @@ title: Tentang Aplikasi Berwarna Merah di iOS 9
 date: '2015-09-17 21:13:31'
 tags:
 - hash-import-2024-05-05-07-58
+- opini
+- iphone
+- aplikasi
 ---
 
 Sudah pada update ke iOS 9 kan? Tahu ngga kalau di iOS 9 itu untuk region US ada App baru dari Apple yaitu News App. Memang sih lagi-lagi bloat ware dari Apple tapi namanya barang dari Apple jadi patut dicoba.  

@@ -2,6 +2,10 @@
 layout: post
 title: 'Bingung Pilih Samsung Fold6 atau Vivo X200 Pro?'
 date: '2025-02-11 03:57:22'
+tags:
+- review
+- smartphone
+- samsung
 ---
 
 Lagi galau nih. Sudah siap buat upgrade smartphone dan sekarang bingung antara Samsung Galaxy Z Fold6 atau Vivo X200 Pro. Keduanya flagship yang bagus, tapi punya kelebihan masing-masing yang bikin makin bingung buat pilih. Apalagi harganya mirip, jadi bener-bener harus dipertimbangkan matang-matang.

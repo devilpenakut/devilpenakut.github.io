@@ -2,6 +2,9 @@
 layout: post
 title: 'Kenapa belum ada prosesor ARM buat desktop PC Windows?'
 date: '2025-04-23 08:03:26'
+tags:
+- opini
+- windows
 ---
 
 Udah lama ARM jadi perbincangan, apalagi sejak Apple pakai chip M-series dan hasilnya luar biasa. Tapi kenapa di dunia PC Windows, khususnya desktop tradisional (karena untuk laptop sudah ada), prosesor ARM belum dipakai secara luas? Padahal teori bilang ARM lebih hemat daya, lebih dingin, dan performanya makin lama makin gila. Nah, ini dia alasannya, plus apa yang sekarang lagi dikembangkan dan seberapa besar peluang ARM bakal masuk ke desktop Windows dalam waktu dekat.

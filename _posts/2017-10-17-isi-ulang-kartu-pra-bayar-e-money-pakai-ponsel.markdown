@@ -2,6 +2,10 @@
 layout: post
 title: 'Isi ulang kartu pra-bayar e-money pakai ponsel'
 date: '2017-10-17 13:46:54'
+tags:
+- panduan
+- e-money
+- bank
 ---
 
 Penggunaan kartu pra-bayar atau sering disebut juga dengan e-money akan

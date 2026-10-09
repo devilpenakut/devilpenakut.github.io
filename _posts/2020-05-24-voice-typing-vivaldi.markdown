@@ -2,6 +2,9 @@
 layout: post
 title: 'Google Voice Typing di Vivaldi Browser'
 date: '2020-05-24 07:26:53'
+tags:
+- tips
+- browser
 ---
 
 ![Google%20Voice%20Typing%20di%20Vivaldi%20Browser%20e768a80609bf4e76b61afe248d2e7333/Untitled.png](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/voice-typing-vivaldi-1.png)

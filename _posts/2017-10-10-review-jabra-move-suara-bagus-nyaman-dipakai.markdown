@@ -2,6 +2,9 @@
 layout: post
 title: 'Review Jabra Move, suara bagus, nyaman dipakai'
 date: '2017-10-10 14:20:14'
+tags:
+- review
+- audio
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-h1.jpg)

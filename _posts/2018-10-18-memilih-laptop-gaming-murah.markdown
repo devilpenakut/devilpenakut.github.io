@@ -2,6 +2,10 @@
 layout: post
 title: 'Memilih Laptop Gaming Murah'
 date: '2018-10-18 16:06:55'
+tags:
+- tips
+- laptop
+- game
 ---
 
 Akhir-akhir ini saya sibuk mencari pengganti laptop saya sebelumnya yang sudah

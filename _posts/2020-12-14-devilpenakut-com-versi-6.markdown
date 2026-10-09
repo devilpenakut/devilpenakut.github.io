@@ -2,6 +2,9 @@
 layout: post
 title: 'devilpenakut.com versi 6'
 date: '2020-12-14 17:16:23'
+tags:
+- opini
+- blog
 ---
 
 Pagi, siang, sore buat yang baca ini. Adakah yang sudah mengikuti *website*

@@ -2,6 +2,9 @@
 layout: post
 title: 'Tidak perlu pergi ke minimarket, cukup belanja di Klik Indomaret'
 date: '2020-04-05 12:13:18'
+tags:
+- panduan
+- belanja-online
 ---
 
 Semoga kamu semua dalam keadaan sehat. Dalam kondisi saat ini, menjaga kondisi

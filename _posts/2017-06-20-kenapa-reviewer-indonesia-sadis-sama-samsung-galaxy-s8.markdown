@@ -2,6 +2,10 @@
 layout: post
 title: 'Kenapa reviewer Indonesia sadis sama Samsung Galaxy S8?'
 date: '2017-06-20 05:53:13'
+tags:
+- opini
+- samsung
+- smartphone
 ---
 
 Ini beberapa review Samsung Galaxy S8 oleh reviewer Indonesia di Youtube:

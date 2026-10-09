@@ -2,6 +2,9 @@
 layout: post
 title: 'TMRW dari UOB'
 date: '2021-06-25 02:36:40'
+tags:
+- review
+- bank
 ---
 
 ## Bunga tabungan tinggi namun hanya pakai kartu debit GPN

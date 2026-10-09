@@ -2,6 +2,10 @@
 layout: post
 title: 'Mencari Google Pixel di Tokopedia'
 date: '2021-07-16 05:36:44'
+tags:
+- tips
+- google
+- smartphone
 ---
 
 ## Android tanpa ubahan dan hasil kamera bikin ponsel ini tetap dicari

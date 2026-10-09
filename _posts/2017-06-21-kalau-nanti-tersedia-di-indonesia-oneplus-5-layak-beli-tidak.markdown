@@ -2,6 +2,10 @@
 layout: post
 title: 'Kalau nanti tersedia di Indonesia, OnePlus 5 layak beli tidak?'
 date: '2017-06-21 06:15:21'
+tags:
+- opini
+- android
+- smartphone
 ---
 
 OnePlus 5 sudah keluar, beberapa review juga sudah keluar. Dari beberapa

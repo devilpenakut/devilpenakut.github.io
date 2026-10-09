@@ -2,6 +2,10 @@
 layout: post
 title: 'Tentang pengaturan taksi online di Yogyakarta'
 date: '2017-03-15 15:24:16'
+tags:
+- berita
+- transportasi
+- yogyakarta
 ---
 
 Akhir-akhir ini terdengar berita mengenai larangan taksi online di Yogyakarta.

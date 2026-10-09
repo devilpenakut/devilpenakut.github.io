@@ -2,6 +2,9 @@
 layout: post
 title: 'Review singkat Realme Buds Q'
 date: '2020-07-23 12:08:11'
+tags:
+- review
+- audio
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h1.webp)

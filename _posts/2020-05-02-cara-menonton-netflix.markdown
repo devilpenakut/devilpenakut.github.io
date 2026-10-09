@@ -2,6 +2,10 @@
 layout: post
 title: 'Cara menonton Netflix'
 date: '2020-05-02 08:24:30'
+tags:
+- panduan
+- netflix
+- streaming
 ---
 
 ## Sudah berlangganan Netflix, lalu?

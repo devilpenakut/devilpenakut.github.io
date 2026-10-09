@@ -2,6 +2,10 @@
 layout: post
 title: 'Windows Package Manager, menyuruh Windows melakukan install atau delete aplikasi'
 date: '2021-08-10 08:57:45'
+tags:
+- tips
+- windows
+- aplikasi
 ---
 
 ## "Windows, install Firefox!" dan Windows akan otomatis mencari dan install

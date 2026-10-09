@@ -2,6 +2,10 @@
 layout: post
 title: 'Cara Sharing Akun Netflix, Bayar Lebih Murah'
 date: '2021-02-27 08:57:11'
+tags:
+- tips
+- netflix
+- streaming
 ---
 
 ## Netflix is Good

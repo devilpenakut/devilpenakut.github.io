@@ -2,6 +2,10 @@
 layout: post
 title: 'iPhone second internasional, beli ngga?'
 date: '2018-06-08 08:23:09'
+tags:
+- tips
+- iphone
+- smartphone
 ---
 
 Pilihan untuk lebih baik beli iPhone bekas atau Android baru mungkin menjadi

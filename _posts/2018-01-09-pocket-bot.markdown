@@ -2,6 +2,9 @@
 layout: post
 title: 'Pocket Bot'
 date: '2018-01-09 11:46:09'
+tags:
+- tips
+- aplikasi
 ---
 
 Saya suka memakai [Pocket ](https://getpocket.com/)untuk menyimpan artikel

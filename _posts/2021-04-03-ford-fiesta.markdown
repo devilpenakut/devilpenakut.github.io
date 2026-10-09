@@ -2,6 +2,9 @@
 layout: post
 title: 'Ford Fiesta, Mobil Keren dengan Pengendalian dan Performa Mantap'
 date: '2021-04-03 08:46:24'
+tags:
+- review
+- mobil
 ---
 
 Ford Fiesta merupakan mobil impian beberapa tahun lalu. Sekitar tahun 2011,

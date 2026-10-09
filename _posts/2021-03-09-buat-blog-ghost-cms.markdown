@@ -2,6 +2,10 @@
 layout: post
 title: 'Buat Blog di Amazon Web Server dengan Ghost CMS'
 date: '2021-03-09 12:17:07'
+tags:
+- panduan
+- blog
+- ghost
 ---
 
 Ada beberapa cara untuk memulai membuat blog, mulai dari beberapa layanan

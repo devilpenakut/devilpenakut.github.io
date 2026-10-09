@@ -2,6 +2,10 @@
 layout: post
 title: 'Pilih yang murah, atau ARM?'
 date: '2025-07-09 04:26:24'
+tags:
+- review
+- laptop
+- windows
 ---
 
 Mungkin pilihan ini ngga ada yang kepikiran. Mau yang murah dan cukup, atau yang tahan lama dan modern dengan ARM? Pilihannya antara Axioo Hype 5 (Intel Gen-12) harga 5 jutaan dan ASUS Vivobook 14 A1407Q (Snapdragon X) harga 9 jutaan. Setelah riset dan membandingkan segala hal dari performa sampai baterai, saya tahu jawabannya. Sekarang giliran kamu yang tahu juga.

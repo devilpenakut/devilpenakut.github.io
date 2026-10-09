@@ -2,6 +2,9 @@
 layout: post
 title: 'Motor Matic Besar'
 date: '2020-04-16 22:23:34'
+tags:
+- opini
+- motor
 ---
 
 Kenapa penjualan motor matic besar menjadi naik akhir-akhir ini? Kalau menurut

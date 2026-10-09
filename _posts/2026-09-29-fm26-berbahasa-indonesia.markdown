@@ -2,6 +2,9 @@
 layout: post
 title: 'Membuat FM26 Berbahasa Indonesia: Menerjemahkan Skin UI dan Merapikan File Bahasa'
 date: '2026-09-29 07:16:09'
+tags:
+- panduan
+- game
 ---
 
 Kabar baik untuk manajer Indonesia: **Football Manager 27 akan hadir dengan bahasa Indonesia resmi**, untuk pertama kalinya sepanjang sejarah seri ini. SEGA mengumumkannya bersamaan dengan dibukanya halaman toko FM27 di Steam dan Epic Games Store, dan bahasa Indonesia sudah tercantum di daftar bahasa antarmuka yang didukung.

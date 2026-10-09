@@ -2,6 +2,10 @@
 layout: post
 title: 'Cara Daftar Xbox Game Pass di Indonesia'
 date: '2021-06-24 04:50:23'
+tags:
+- panduan
+- xbox
+- game
 ---
 
 ## Game Pass adalah jalan ninja untuk main game

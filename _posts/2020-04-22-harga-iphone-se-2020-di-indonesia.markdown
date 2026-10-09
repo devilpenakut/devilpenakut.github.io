@@ -2,6 +2,10 @@
 layout: post
 title: 'Menerka harga iPhone SE 2020 di Indonesia'
 date: '2020-04-22 09:03:34'
+tags:
+- berita
+- iphone
+- apple
 ---
 
 iPhone SE 2020 sudah diluncurkan beberapa waktu lalu di Amerika seharga 399

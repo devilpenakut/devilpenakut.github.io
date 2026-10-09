@@ -2,6 +2,10 @@
 layout: post
 title: 'MNC Playbox Review'
 date: '2020-11-27 04:18:07'
+tags:
+- review
+- tv
+- streaming
 ---
 
 ## Kenapa harus bayar mahal kalau ada yang murah atau gratis?

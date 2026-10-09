@@ -2,6 +2,10 @@
 layout: post
 title: 'Review XL Go, pantaskah untuk dipakai?'
 date: '2017-03-09 10:20:00'
+tags:
+- review
+- xl
+- internet
 ---
 
 Ceritanya lagi-lagi bingung untuk akses internet. Masalah saat ini adalah

@@ -2,6 +2,10 @@
 layout: post
 title: 'Indosat VPN'
 date: '2017-03-05 14:03:40'
+tags:
+- review
+- indosat
+- internet
 ---
 
 ## Bagaimana pengaruhnya?

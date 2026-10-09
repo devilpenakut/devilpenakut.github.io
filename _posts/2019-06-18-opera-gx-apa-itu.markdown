@@ -2,6 +2,10 @@
 layout: post
 title: 'Opera GX, apa itu?'
 date: '2019-06-18 08:51:29'
+tags:
+- tips
+- browser
+- game
 ---
 
 Opera GX adalah browser yang dikeluarkan oleh Opera yang khusus diciptakan

@@ -2,6 +2,10 @@
 layout: post
 title: 'Memilih iPhone 13 Series'
 date: '2021-09-23 03:07:34'
+tags:
+- panduan
+- iphone
+- apple
 ---
 
 **Dari beberapa tipe iPhone 13 yang nanti akan masuk ke Indonesia, manakah

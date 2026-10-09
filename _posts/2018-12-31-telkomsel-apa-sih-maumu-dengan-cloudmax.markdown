@@ -2,6 +2,10 @@
 layout: post
 title: 'Telkomsel, apa sih maumu dengan CloudMAX?'
 date: '2018-12-31 14:19:15'
+tags:
+- opini
+- telkomsel
+- aplikasi
 ---
 
 Fitur penyimpanan cloud sudah banyak di jagat internet. Paling terkenal ada

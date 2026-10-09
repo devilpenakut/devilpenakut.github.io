@@ -2,6 +2,10 @@
 layout: post
 title: 'Saya bayar, tapi kenapa tidak boleh akses?'
 date: '2017-04-05 13:19:31'
+tags:
+- opini
+- netflix
+- internet
 ---
 
 Menggunakan koneksi Indihome saya ingin menikmati [Strangers

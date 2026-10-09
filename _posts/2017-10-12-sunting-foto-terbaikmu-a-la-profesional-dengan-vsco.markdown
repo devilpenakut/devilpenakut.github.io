@@ -2,6 +2,10 @@
 layout: post
 title: 'Sunting Foto Terbaikmu a la Profesional dengan VSCO'
 date: '2017-10-12 07:30:11'
+tags:
+- tips
+- kamera
+- aplikasi
 ---
 
 Peluncuran Instagram di tahun 2010 seolah menandakan perubahan dalam dunia

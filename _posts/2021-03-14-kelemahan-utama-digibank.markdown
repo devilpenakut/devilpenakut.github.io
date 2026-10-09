@@ -2,6 +2,10 @@
 layout: post
 title: 'Kelemahan utama Digibank dari DBS'
 date: '2021-03-14 05:01:05'
+tags:
+- opini
+- bank
+- aplikasi
 ---
 
 Beberapa waktu lalu saya tertarik menggunakan [Digibank dari

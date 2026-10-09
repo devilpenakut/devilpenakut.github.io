@@ -2,6 +2,10 @@
 layout: post
 title: 'Forza Horizon 6 Debut di Game Pass, Xbox Rekrut Matthew Ball sebagai Chief Strategy Officer'
 date: '2026-05-21 03:40:26'
+tags:
+- berita
+- game
+- xbox
 ---
 
 ## 💡 Tren Hari Ini

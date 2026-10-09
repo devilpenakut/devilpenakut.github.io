@@ -2,6 +2,10 @@
 layout: post
 title: 'Beli iPhone 6 di 2020?'
 date: '2020-05-29 09:07:49'
+tags:
+- review
+- iphone
+- smartphone
 ---
 
 ## Ada apa dengan iPhone 6?

@@ -2,6 +2,9 @@
 layout: post
 title: 'Print Kaos Cuma 20-ribuan?'
 date: '2021-04-18 00:08:20'
+tags:
+- tips
+- belanja-online
 ---
 
 Mungkin banyak orang tidak tahu kalau Tokopedia menyediakan layanan untuk

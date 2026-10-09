@@ -4,6 +4,8 @@ title: Muka Capek
 date: '2015-03-23 16:03:46'
 tags:
 - hash-import-2024-05-05-07-58
+- opini
+- blog
 ---
 
 Mimpi jadi agen rahasia itu melelahkan. Beberapa orang jadi bertanya, kok muka kamu kelihatan capek. Tapi ngga mungkin saya jawab, “iya tadi malam abis jadi agen rahasia”.

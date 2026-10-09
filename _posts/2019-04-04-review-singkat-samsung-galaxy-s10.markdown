@@ -2,6 +2,10 @@
 layout: post
 title: 'Review singkat Samsung Galaxy S10+'
 date: '2019-04-04 14:27:20'
+tags:
+- review
+- samsung
+- smartphone
 ---
 
 ## Ponsel android terbaik yang tersedia resmi saat ini.

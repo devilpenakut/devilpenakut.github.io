@@ -2,6 +2,10 @@
 layout: post
 title: 'Mencoba kembali smartfren'
 date: '2018-03-20 09:37:28'
+tags:
+- opini
+- smartfren
+- operator
 ---
 
 Bagaimana, operator yang sepenuhnya mengandalkan 4G bisa lebih bagus sinyalnya

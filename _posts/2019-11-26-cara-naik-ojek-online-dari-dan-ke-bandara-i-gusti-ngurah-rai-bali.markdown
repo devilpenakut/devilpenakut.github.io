@@ -2,6 +2,10 @@
 layout: post
 title: 'Cara naik ojek online dari dan ke Bandara I Gusti Ngurah Rai Bali'
 date: '2019-11-26 13:32:36'
+tags:
+- panduan
+- transportasi
+- aplikasi
 ---
 
 Alternatif transportasi ke bandara ada banyak. Bagi pelancong yang sendirian, ojek online menjadi salah satu alternatif yang bisa dipertimbangkan. Ojek, selain lebih cepat juga bisa lebih murah dibandingkan transportasi lain.

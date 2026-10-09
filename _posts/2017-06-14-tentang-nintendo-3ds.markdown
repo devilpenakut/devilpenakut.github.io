@@ -2,6 +2,10 @@
 layout: post
 title: 'Tentang Nintendo 3DS'
 date: '2017-06-14 15:30:30'
+tags:
+- review
+- nintendo
+- game
 ---
 
 Mainan konsol sudah biasa. Dari jaman Nintendo, Sega, Xbox sampai PS. Tapi

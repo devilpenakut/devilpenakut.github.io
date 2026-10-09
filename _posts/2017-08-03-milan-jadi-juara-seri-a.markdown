@@ -2,6 +2,9 @@
 layout: post
 title: 'Milan jadi juara Seri A?|Cerita FM'
 date: '2017-08-03 08:52:43'
+tags:
+- opini
+- game
 ---
 
 ## Dua kali.

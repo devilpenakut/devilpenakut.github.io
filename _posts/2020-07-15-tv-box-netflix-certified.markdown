@@ -2,6 +2,10 @@
 layout: post
 title: 'TV Box Netflix Certified'
 date: '2020-07-15 18:20:30'
+tags:
+- tips
+- tv
+- netflix
 ---
 
 Postingan ini sepertinya ngga akan terlalu panjang, cuma ingin memberi saran

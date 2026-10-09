@@ -2,6 +2,10 @@
 layout: post
 title: 'Mi A1, Ponsel Xiaomi dengan OS Android murni'
 date: '2017-09-06 08:02:32'
+tags:
+- review
+- xiaomi
+- android
 ---
 
 Xiaomi meluncurkan ponsel yang sangat berbeda dengan kebiasaan Xiaomi, walau

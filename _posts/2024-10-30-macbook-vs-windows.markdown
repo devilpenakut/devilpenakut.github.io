@@ -2,6 +2,10 @@
 layout: post
 title: 'MacBook vs Windows: Kenapa Banyak Anak Muda Sekarang Lebih Suka MacBook?'
 date: '2024-10-30 10:15:42'
+tags:
+- opini
+- mac
+- laptop
 ---
 
 Setelah beberapa minggu pakai MacBook Air, saya mulai paham alasan kenapa sekarang banyak orang, terutama anak muda, pilih MacBook buat kerjaan simpel sehari-hari. Saat ini saya pakai dua laptop. Satu Lenovo Ideapad Flex 5 dengan processor Inter i7–1255U dari kantor — laptop oke punya, bukan laptop sembarangan, keluaran 2020. Satu lagi MacBook Air M1 keluaran 2020 juga. Memang bukan model flagship, tapi juga bukan yang murahan. Sudah tiga generasi di bawah yang terbaru (M4), tapi performanya masih impresif.

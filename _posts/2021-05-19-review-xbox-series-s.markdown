@@ -2,6 +2,10 @@
 layout: post
 title: 'Review Xbox Series S'
 date: '2021-05-19 06:04:22'
+tags:
+- review
+- xbox
+- game
 ---
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xbox-series-s-1.webp)

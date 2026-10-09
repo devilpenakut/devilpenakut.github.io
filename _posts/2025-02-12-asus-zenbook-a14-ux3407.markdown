@@ -2,6 +2,10 @@
 layout: post
 title: 'Kenapa ASUS Zenbook A14 UX3407 ini sangat menarik'
 date: '2025-02-12 10:25:49'
+tags:
+- review
+- laptop
+- windows
 ---
 
 Saya sebenarnya tidak sedang mencari laptop baru, tapi ingin berbagi tentang ASUS Zenbook A14 UX3407 yang menurut saya sangat menarik. Laptop ini punya banyak fitur keren yang layak untuk dipertimbangkan. Berikut beberapa alasan kenapa laptop ini begitu istimewa.

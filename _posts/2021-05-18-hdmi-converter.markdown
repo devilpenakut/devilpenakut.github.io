@@ -2,6 +2,10 @@
 layout: post
 title: 'HDMI Converter'
 date: '2021-05-18 04:45:18'
+tags:
+- tips
+- xbox
+- audio
 ---
 
 Kelemahan Xbox Series S (dan X juga), yang *review* -nya sedang dalam

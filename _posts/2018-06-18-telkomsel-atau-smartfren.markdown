@@ -2,6 +2,10 @@
 layout: post
 title: 'Telkomsel atau Smartfren?'
 date: '2018-06-18 09:39:31'
+tags:
+- opini
+- telkomsel
+- smartfren
 ---
 
 Laporan perjalanan selama dua hari dari Semarang - Pati - Blora memang

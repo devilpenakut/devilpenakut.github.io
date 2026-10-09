@@ -2,6 +2,10 @@
 layout: post
 title: 'Gara-gara paket CloudX Telkomsel 30GB seharga 10 rupiah'
 date: '2020-04-02 14:00:42'
+tags:
+- berita
+- telkomsel
+- operator
 ---
 
 Hari ini saya dapat pemberitahuan bahwa ada kenaikan stat di *website* ini

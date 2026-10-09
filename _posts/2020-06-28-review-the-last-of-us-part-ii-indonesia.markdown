@@ -2,6 +2,10 @@
 layout: post
 title: 'Review The Last of Us Part II Indonesia'
 date: '2020-06-28 14:36:21'
+tags:
+- review
+- game
+- playstation
 ---
 
 ## Review oleh [Fajar Ikhwanul](https://x.com/FajarIkhwanul)
