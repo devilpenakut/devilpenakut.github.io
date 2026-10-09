@@ -283,7 +283,8 @@ img { height: auto; border-radius: 0; }
 .toc-inline { display: none; }
 .entry h2 { scroll-margin-top: 22px; }
 
-.to-top { grid-column: 2; margin: 43px 0 0; font-size: 1rem; }
+.discuss { grid-column: 2; max-width: var(--measure); margin: 43px 0 0; padding-top: 17px; border-top: var(--rule); font-size: 1rem; }
+.to-top { grid-column: 2; margin: 22px 0 0; font-size: 1rem; }
 .to-top a { display: inline-flex; align-items: center; gap: 7px; }
 .headline {
   margin: 0 0 22px;
@@ -390,7 +391,7 @@ img { height: auto; border-radius: 0; }
   .toc-inline:not([hidden]) { display: block; margin: 0 0 29px; padding: 14px 17px; background: var(--paper); }
   .toc-inline summary { margin: 0; cursor: pointer; color: var(--ink); }
   .toc-inline[open] summary { margin-bottom: 14px; }
-  .to-top { grid-column: 1; }
+  .discuss, .to-top { grid-column: 1; }
   .post-nav { grid-template-columns: 1fr; }
   .post-nav-next { grid-column: 1; text-align: left; }
   .entry blockquote { font-size: 1.25rem; }
