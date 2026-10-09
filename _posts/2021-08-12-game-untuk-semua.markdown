@@ -19,12 +19,13 @@ atau [Football Manager](https://en.wikipedia.org/wiki/Football_Manager) akan
 rilis bisa membuat saya untuk cari info sana sini tentang game itu dan mungkin
 beli dan memainkannya di kemudian hari.
 
-Great
-news—[#HumankindGame](https://twitter.com/hashtag/HumankindGame?src=hash&ref_src=twsrc%5Etfw)
-will be available DAY ONE on
-[@XboxGamePassPC](https://twitter.com/XboxGamePassPC?ref_src=twsrc%5Etfw)! 🔥
-🔥 [pic.twitter.com/JHHmAdfOpR](https://t.co/JHHmAdfOpR)[August 9,
-2021](https://twitter.com/humankindgame/status/1424717304290480137?ref_src=twsrc%5Etfw)
+> Great
+> news—[#HumankindGame](https://twitter.com/hashtag/HumankindGame?src=hash&ref_src=twsrc%5Etfw)
+> will be available DAY ONE on
+> [@XboxGamePassPC](https://twitter.com/XboxGamePassPC?ref_src=twsrc%5Etfw)! 🔥
+> 🔥 [pic.twitter.com/JHHmAdfOpR](https://t.co/JHHmAdfOpR)[August 9,
+> 2021](https://twitter.com/humankindgame/status/1424717304290480137?ref_src=twsrc%5Etfw)
+{: .twitter-tweet}
 
 Orang pada tidak suka ketika [Cyberpunk
 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) rilis. Banyak yang bilang

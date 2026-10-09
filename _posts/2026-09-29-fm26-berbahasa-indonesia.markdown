@@ -6,13 +6,13 @@ date: '2026-09-29 07:16:09'
 
 Kabar baik untuk manajer Indonesia: **Football Manager 27 akan hadir dengan bahasa Indonesia resmi**, untuk pertama kalinya sepanjang sejarah seri ini. SEGA mengumumkannya bersamaan dengan dibukanya halaman toko FM27 di Steam dan Epic Games Store, dan bahasa Indonesia sudah tercantum di daftar bahasa antarmuka yang didukung.
 
-[https://x.com/id_fm/status/2103637904102937050?s=20](https://x.com/id_fm/status/2103637904102937050?s=20)
+<blockquote class="twitter-tweet"><a href="https://twitter.com/id_fm/status/2103637904102937050">https://x.com/id_fm/status/2103637904102937050</a></blockquote>
 
 Tapi FM27 belum rilis. Sambil menunggu, kenapa tidak membuat FM26 terasa "Indonesia" dari sekarang?
 
 Momennya juga pas. Belakangan muncul skin baru dari komunitas Korea, **UICHANGE** karya fmkorea/Gigliati, yang membuat tampilan FM26 terasa seperti FM24. Buat banyak pemain yang kurang cocok dengan antarmuka baru FM26 sejak pindah ke engine Unity, skin ini merubah tata letak yang familier, navigasi yang lebih akrab, tapi tetap dengan mesin permainan FM26.
 
-[https://x.com/id_fm/status/2103368850742055114?s=20](https://x.com/id_fm/status/2103368850742055114?s=20)
+<blockquote class="twitter-tweet"><a href="https://twitter.com/id_fm/status/2103368850742055114">https://x.com/id_fm/status/2103368850742055114</a></blockquote>
 
 Masalahnya, begitu skin ini dipasang , menu masih menggunakan Bahasa Inggris.
 
@@ -121,7 +121,7 @@ Supaya ekspektasinya jelas, ada beberapa hal yang memang di luar jangkauan file 
 
 Download dulu UICHANGE dari sini
 
-[https://x.com/LICAA747/status/2103675685386543172?s=20](https://x.com/LICAA747/status/2103675685386543172?s=20)
+<blockquote class="twitter-tweet"><a href="https://twitter.com/LICAA747/status/2103675685386543172">https://x.com/LICAA747/status/2103675685386543172</a></blockquote>
 
 Copy semua isi folder Bundles ke `...\StreamingAssets\aa\StandaloneWindows64`.
 

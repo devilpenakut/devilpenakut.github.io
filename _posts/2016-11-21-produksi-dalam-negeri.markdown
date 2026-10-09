@@ -28,12 +28,14 @@ Xiaomi sudah panas buat segera berjualan ponsel 4G di Indonesia
 > Sepertinya Xiaomi Indonesia mulai panas, Redmi 4A (2016117), “?” (2016102), dan sebelumnya Redmi 3S (2016031) akan dirakit di Indonesia. [pic.twitter.com/Umq9sagjKZ](https://t.co/Umq9sagjKZ)
 > 
 > — krispitech (@krispitech) [November 15, 2016](https://twitter.com/krispitech/status/798502444019765253)
+{: .twitter-tweet}
 
 Infinix pun sudah siap-siap mengeluarkan ponsel 4G.
 
 > Akhirnya TKDN untuk [#TheNextInfinix](https://twitter.com/hashtag/TheNextInfinix?src=hash) terpenuhi juga… Welcome to 4G LTE World… 😀 [pic.twitter.com/DiqGsKMnSN](https://t.co/DiqGsKMnSN)
 > 
 > — Jefry F Sinaga (@jefrilicious) [November 18, 2016](https://twitter.com/jefrilicious/status/799546004341145600)
+{: .twitter-tweet}
 
 Jadi memang butuh waktu untuk bisa membanggakan “Made in Indonesia”. Baik itu modal, SDM atau teknologinya. Tapi kalau tidak dipaksa mau mulai dari mana? Ayo kita dukung!
 

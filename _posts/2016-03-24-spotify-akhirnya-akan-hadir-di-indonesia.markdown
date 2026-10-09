@@ -14,6 +14,7 @@ Yes. Setelah sekian lama menunggu kapan Spotify bakal masuk di Indonesia secara 
 > HALO INDONESIA!!! [#WaktunyaSpotify](https://twitter.com/hashtag/WaktunyaSpotify?src=hash) [pic.twitter.com/D0YxEJiQxt](https://t.co/D0YxEJiQxt)
 > 
 > — Spotify Indonesia (@SpotifyID) [March 20, 2016](https://twitter.com/SpotifyID/status/711463054878359552)
+{: .twitter-tweet}
 
 Saya sebagai [pengguna cukup aktif di Spotify](https://medium.com/@devilpenakut/mencoba-spotify-ef2d04164cc7) memang merasakan penambahan katalog lagu yang cukup signifikan sejak adanya [lowongan pekerjaan sebagai music editor](https://dailysocial.id/post/spotify-indonesia-2015) di Indonesia untuk Spotify bulan Oktober 2015. Dan itu tambah terasa sejak awal tahun makin ngebut aja penambahan lagu dan artisnya. Beberapa artis yang sebelumnya tidak ada di Spotify dan cuma ada di Apple music mulai muncul, contohnya Kerispatih.
 
