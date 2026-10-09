@@ -26,11 +26,11 @@ Harga 💸: 360k
 
 Kembali pakai bis pelangi. Karena pengen nyoba suite class yang line berbeda dan keberangkatan setelah jam 19.00 jadi cocok buat pulang kerja.
 
-[www.instagram.com](https://www.instagram.com/p/C7iKgbova6W/?igsh=MTF1d3R0ajk3ZDVrOQ==)
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C7iKgbova6W/" data-instgrm-version="14"><a href="https://www.instagram.com/p/C7iKgbova6W/">Lihat postingan ini di Instagram</a></blockquote>
 
 Pakai nomor lambung 16RF, line ini baru jalan 19 Juli 2024 dengan bus yang baru juga baru keluar bulan Mei 2024. Tipe Jetbus5 SHD Dream Coach Hino RM280 kalau ngga salah sasisnya. Sasis Hino ini empuk juga ternyata ya. Dan kenapa berasa lebih stabil, apa karena kelas suites? Jadi lebih berat?. Dibandingkan sama Cititrans yang pakai sasis yang sama.
 
-[www.instagram.com](https://www.instagram.com/p/C9d1IDey8Nz/?igsh=MXM2M2szYjVxajJmag==)
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9d1IDey8Nz/" data-instgrm-version="14"><a href="https://www.instagram.com/p/C9d1IDey8Nz/">Lihat postingan ini di Instagram</a></blockquote>
 
 Best seat nya itu di paling depan bagian atas. Ngga ada tonjolan diatas kaki. Soalnya kalau belakangnya bakal ada tonjolan dari rebahan kursi bagian depannya.
 

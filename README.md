@@ -37,6 +37,7 @@ Pedoman singkat:
   `https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/<nama-file>`.
   Gambar yang diunggah lewat Pages CMS tersimpan di `images/posts/`.
 - **Tweet:** tempel sebagai `<blockquote class="twitter-tweet"><a href="https://twitter.com/akun/status/ID"></a></blockquote>`. Script X hanya dimuat di halaman yang memakainya.
+- **Postingan Instagram:** tempel sebagai `<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/ID/" data-instgrm-version="14"><a href="https://www.instagram.com/p/ID/">Lihat postingan ini di Instagram</a></blockquote>`.
 - **List bernomor yang tidak mulai dari 1:** tambahkan `{: start="N"}` tepat di bawah list (kramdown selalu mulai dari 1).
 
 ## Preview lokal
