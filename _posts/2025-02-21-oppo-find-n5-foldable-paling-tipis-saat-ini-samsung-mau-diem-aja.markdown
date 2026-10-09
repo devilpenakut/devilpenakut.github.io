@@ -26,4 +26,4 @@ Satu fitur menarik lainnya adalah integrasi dengan Mac. Find N5 bisa terhubung k
 
 Secara keseluruhan, Find N5 bukan cuma soal ketipisan, tapi juga bagaimana Oppo berhasil mengemas inovasi di dalam desain yang lebih ramping. Dengan harga sekitar SGD2,499 (tanpa promo) yang kalau di Indonesiakan sekitar IDR29-30Juta, ini bisa jadi pilihan menarik buat yang mencari foldable dengan desain premium, performa tinggi, dan fitur unik.
 
-[#oppo-find-n5](https://devilpenakut.com/tag/oppo-find-n5) [#oppo-find](https://devilpenakut.com/tag/oppo-find)
+[#oppo-find-n5](/#arsip) [#oppo-find](/#arsip)

@@ -10,7 +10,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-Seperti yang saya janjikan setelah berhasil membuat [Ubuntu saya menjadi Mac dengan Mac4Lin](http://devilpenakut.wordpress.com/2008/06/28/ubuntu-804-mac4lin-indosatm2/), maka akan saya sharingkan tata cara nya. Tatacara ini semuanya dijelaskan dalam Mac4Lin Documentation. (karena keterbatasan waktu saya hanya menjelaskan untuk Gnome 2.20, untuk versi sebelumnya dapat dilihat di documentationnya)
+Seperti yang saya janjikan setelah berhasil membuat [Ubuntu saya menjadi Mac dengan Mac4Lin](/ubuntu-804-mac4lin-indosatm2), maka akan saya sharingkan tata cara nya. Tatacara ini semuanya dijelaskan dalam Mac4Lin Documentation. (karena keterbatasan waktu saya hanya menjelaskan untuk Gnome 2.20, untuk versi sebelumnya dapat dilihat di documentationnya)
 
 <!--more-->
 

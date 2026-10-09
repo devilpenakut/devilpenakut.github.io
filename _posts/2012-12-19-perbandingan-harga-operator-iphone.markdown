@@ -21,7 +21,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-Setelah belum sampai satu tahun Apple mengeluarkan secara resmi iPhone 4S dan kami melakukan [perbandingan](http://devilpenakut.wordpress.com/2012/01/30/pilih-iphone-4s-telkomsel-atau-xl/ "Pilih iPhone 4S Telkomsel atau XL ?")harga yang ditawarkan. Pada tanggal 14 Desember 2012 kemarin Apple kembali mengeluarkan suksesor dari seri iPhone tersebut, yaitu iPhone 5. Banyak promo dan penawaran yang diberikan oleh masing2&nbsp;_reseller_, namun manakah yang terbaik?
+Setelah belum sampai satu tahun Apple mengeluarkan secara resmi iPhone 4S dan kami melakukan [perbandingan](/pilih-iphone-4s-telkomsel-atau-xl "Pilih iPhone 4S Telkomsel atau XL ?")harga yang ditawarkan. Pada tanggal 14 Desember 2012 kemarin Apple kembali mengeluarkan suksesor dari seri iPhone tersebut, yaitu iPhone 5. Banyak promo dan penawaran yang diberikan oleh masing2&nbsp;_reseller_, namun manakah yang terbaik?
 
 <!--more-->
 

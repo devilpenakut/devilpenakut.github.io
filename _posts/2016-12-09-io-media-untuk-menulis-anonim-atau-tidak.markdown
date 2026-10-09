@@ -25,7 +25,7 @@ Tim dibalik Bold ini adalah tim yang membuat Secret, aplikasi sosial untuk berba
 </div>
 </figure>
 
-Seperti [pendapat](https://medium.com/@devilpenakut/beberapa-hal-yang-bisa-dilakukan-dengan-telegraph-7362ac34b5d5)saya mengenai Telegraph, ini bakal kurang lebih sama. Kalau saya yang tujuannya bukan menulis untuk anonim, akan lebih enak apabila ada daftar tulisan yang pernah saya buat.
+Seperti [pendapat](/beberapa-hal-yang-bisa-dilakukan-dengan-telegraph)saya mengenai Telegraph, ini bakal kurang lebih sama. Kalau saya yang tujuannya bukan menulis untuk anonim, akan lebih enak apabila ada daftar tulisan yang pernah saya buat.
 
 &nbsp;
 
