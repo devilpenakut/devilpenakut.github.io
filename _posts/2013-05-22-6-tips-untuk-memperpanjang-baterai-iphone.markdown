@@ -89,6 +89,6 @@ Siapa yang menggunakan Bluetooth sepanjang waktu?&nbsp;Hampir tidak ada, jadi me
 
 Yup,sebenarnya ada banyak tips lainnya, tapi akhirnya enam ditawarkan di atas akan membuat perbedaan terbesar tanpa terlalu bodoh dengan pengaturan yang mengganggu kenikmatan sebuah iPhone.
 
-Akhir kata, pesan, saran, kritik dipersilahkan, bisa lewat comment atau twitter.&nbsp; ![;)](https://i2.wp.com/s1.wp.com/wp-includes/images/smilies/icon_wink.gif?w=1200)
+Akhir kata, pesan, saran, kritik dipersilahkan, bisa lewat comment atau twitter.&nbsp; ![;)](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/10-permasalahan-iphone-dan-bagaimana-memperbaikinya-1.gif)
 
 <!--kg-card-end: html-->

@@ -48,11 +48,11 @@ bekerjasama dengan taksi Pandawa, Indra Kelana, Setia Kawan dan Sadewa.
 
 ### [Saytaxi](http://saytaxi.com/)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255020323/7c634157-5c6b-4bb0-a895-e0954018ad08.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-1.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255021572/fa3ef645-d9d3-4950-bcfb-8bce1d397483.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-2.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255022966/d5424dc3-80e7-49bd-8440-55664ee3ba60.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-3.png)
 
 Aplikasinya sebenarnya cukup lumayan. Sekarang sudah bisa menggunakan
 credit/debit card. Namun berdasarkan pengalaman ada beberapa yang kurang dalam
@@ -66,9 +66,9 @@ di Google Play Store.
 
 ### [Taxies](https://taxies.co.id/)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255023915/23e5da7a-9d46-4e53-9564-ea90ca33ef3e.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-4.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255025464/8782c014-b106-4e41-b981-f07239fae3cc.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-5.png)
 
 Aplikasi ini aneh, dulu saya pernah mencoba namun saat saya install kembali
 dan ingin login ternyata selalu error. Prinsipnya sama dengan Saytaxi.

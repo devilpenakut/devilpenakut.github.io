@@ -82,7 +82,7 @@ juga terlalu banyak aksen garis-garis merahnya.
 
 ### Acer Nitro 5 AN515-51
 
-![](https://i0.wp.com/www.static-src.com/wcsstore/Indraprastha/images/catalog/full//90/MTA-2255571/acer_acer-predator-nitro-5-an515-51-gaming-notebook--core-i5-7300-8gb-1tb-gtx-1050-4gb-15-6--win-10-_full06.jpg?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/memilih-laptop-gaming-murah-1.jpg)
 
 #### Harga: Rp. 11.400.000,-
 

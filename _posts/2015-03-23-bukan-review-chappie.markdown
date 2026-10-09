@@ -8,7 +8,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![Chappie](https://i0.wp.com/i.imgur.com/iEm37pC.png?w=1200)
+![Chappie](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/bukan-review-chappie-1.png)
 
 Tadi malam mati listrik, sendirian pula di rumah.
 

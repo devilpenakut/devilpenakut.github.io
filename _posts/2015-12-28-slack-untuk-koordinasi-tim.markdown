@@ -23,7 +23,7 @@ Alat itu ada bernama [Slack](https://slack.com/).
 
 Ya, Slack memposisikan diri sebgai alat komunikasi/koordinasi di abad 21. Sebagai pengganti email dan messenger.
 
-![Organisasi Topik](https://i0.wp.com/i.imgur.com/jQpo37w.png?w=1200&ssl=1)
+![Organisasi Topik](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/slack-untuk-koordinasi-tim-1.png)
 
 Ini bagian terpenting dari Slack, organisasi Tim dan pilihan Channels.
 
@@ -39,7 +39,7 @@ Kemudahan lainnya adalah dari Kepala Kanwil hingga OB, semua anggota Tim bisa sa
 
 ## Share FIle
 
-![Share File](https://i2.wp.com/i.imgur.com/3mTAChp.png?w=1200&ssl=1)
+![Share File](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/slack-untuk-koordinasi-tim-2.png)
 
 Bila menggunakan BBM/WA bila ada file dokumen (Word/Excel/PDF) maka dokumen tersebut akan dikirimkan melalui email, beda dengan di Slack. Slack support untuk share file dokumen apapun. Sehingga koordinasi dengan file akan lebih mudah dilakukan.
 
@@ -47,7 +47,7 @@ Bila menggunakan BBM/WA bila ada file dokumen (Word/Excel/PDF) maka dokumen ters
 
 ## Search
 
-![Search](https://i2.wp.com/i.imgur.com/QginEvZ.png?w=1200&ssl=1)
+![Search](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/slack-untuk-koordinasi-tim-3.png)
 
 Tolong lihat email tanggal 20 yang telah kami kirim. Ribet kan buat mencarinya kalau ada koordinasi seperti itu? Tidak dengan Slack, cukup search file tersebut atau bahasan mengenai hal itu dengan spesifik tanggal dan file tersebut akan mudah ditemukan.
 
@@ -55,7 +55,7 @@ Tolong lihat email tanggal 20 yang telah kami kirim. Ribet kan buat mencarinya k
 
 ## Integrasi Sistem
 
-![Tools](https://i2.wp.com/i.imgur.com/K4ID8hd.png?w=1200&ssl=1)
+![Tools](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/slack-untuk-koordinasi-tim-4.png)
 
 Untuk yang lebih advace Slack bisa digabungkan dengan sistem perbankan, misal untuk CRM di CS atau sistem lainnya yang digunakan dalam koordinasi.
 
@@ -65,7 +65,7 @@ Untuk yang lebih advace Slack bisa digabungkan dengan sistem perbankan, misal un
 
 Iya, Slack itu gratis. Seperti BBM/WA/Telegram, untuk Tim kecil sampai dengan Tim korporasi besar. Memang ada pilihan berbayarnya, tapi dengan pilihan gratis sudah sangat cukup.
 
-![Pilihan Paket](https://i0.wp.com/i.imgur.com/un5ca5l.png?w=1200&ssl=1)
+![Pilihan Paket](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/slack-untuk-koordinasi-tim-5.png)
 
 * * *
 

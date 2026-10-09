@@ -15,7 +15,7 @@ tags:
 <div class="section-inner layoutSingleColumn">
 <figure id="29e3" class="graf--figure graf-after--h3">
 <div class="aspectRatioPlaceholder is-locked">
-<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://i0.wp.com/cdn-images-1.medium.com/max/800/1*2OZ2X625u5eTuWEtwhWvmg.jpeg?w=1200&amp;ssl=1" alt="" data-recalc-dims="1"></div>
+<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/cara-modern-untuk-membaca-majalah-musik-1.jpg" alt="" data-recalc-dims="1"></div>
 </div>
 <figcaption class="imageCaption"><a class="markup--anchor markup--figure-anchor" href="https://flic.kr/p/jxTayc" rel="nofollow">https://flic.kr/p/jxTayc</a></figcaption></figure>
 <p id="ddc2" class="graf--p graf-after--figure">Setelah makan siang saya mendapat SMS dari Gramedia. Pesanan Rolling Stone edisi bulan April 2016 yang saya pesan sudah bisa diambil.</p>

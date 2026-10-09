@@ -11,7 +11,7 @@ spek yang minimal. Terkait harga di Amerika bila dirupiahkan dengan posisi
 kurs saat ini itu sekitar 6 juta lebih.
 
 ![iPhone SE 2020 di Apple US (Sumber:https://www.apple.com/shop/buy-
-iphone/iphone-se/4.7-inch-display-64gb-red-unlocked)](https://paper-attachments.dropbox.com/s_40F0ABED777716977EF9EB2E4AAB0140BBCCB211D0310DECB9158AEBBD37DCF8_1587518661032_image.png)
+iphone/iphone-se/4.7-inch-display-64gb-red-unlocked)](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/harga-iphone-se-2020-di-indonesia-1.png)
 
 Namun seperti biasa nya harga iPhone di Indonesia itu mengacu kepada harga
 iPhone di Singapura. Saat ini harga iPhone SE 2020 mulai dari 649 Singapore
@@ -19,7 +19,7 @@ Dollar atau SGD. Dengan harga 649 tadi jika dirupiahkan akan menjadi sekitar 7
 jutaan rupiah.
 
 ![iPhone SE 2020 di Apple Singapura
-(Sumber:https://www.apple.com/sg/shop/buy-iphone/iphone-se)](https://paper-attachments.dropbox.com/s_40F0ABED777716977EF9EB2E4AAB0140BBCCB211D0310DECB9158AEBBD37DCF8_1587518741135_image.png)
+(Sumber:https://www.apple.com/sg/shop/buy-iphone/iphone-se)](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/harga-iphone-se-2020-di-indonesia-2.png)
 
 Lalu lalu kita lihat harga iPhone 11 yang sudah resmi masuk Indonesia.
 Harganya saat ini berkisar antara 14 juta-an. Bila harga Singapura adalah 1149
@@ -42,7 +42,7 @@ berkisar antara 9 sampai 10 juta. Biasanya jika sudah tersedia banyak maka
 harganya akan turun sekitar 1 juta. Kalau mau beli yang tidak resmi dipastikan
 bisa digunakan di Indonesia ya, terkait peraturan IMEI.
 
-![iPhone SE 2020 di Tokopedia/tidak resmi](https://paper-attachments.dropbox.com/s_40F0ABED777716977EF9EB2E4AAB0140BBCCB211D0310DECB9158AEBBD37DCF8_1587518832172_image.png)
+![iPhone SE 2020 di Tokopedia/tidak resmi](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/harga-iphone-se-2020-di-indonesia-3.png)
 
 Jadi, kamu mau ambil pre order tidak resmi sekarang atau tunggu resmi nanti?
 jawab komen di bawah atau mention

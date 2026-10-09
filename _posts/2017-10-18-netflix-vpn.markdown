@@ -35,11 +35,11 @@ Ada harga yang harus dibayar lebih untuk akses Netflix di Indihome. Memang saya 
 
 [Makeuseof](http://www.makeuseof.com/tag/vpns-still-work-netflix/) mengatakan:
 
-<figure class="wp-block-image"><img src="https://devilpenakut.files.wordpress.com/2017/10/screen20shot202017-10-1820at2008-55-10.png?w=1200" alt="Screen Shot 2017-10-18 at 08.55.10.png" data-recalc-dims="1"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/netflix-vpn-1.png" alt="Screen Shot 2017-10-18 at 08.55.10.png" data-recalc-dims="1"></figure>
 
 Untuk PrivateVPN sendiri harga yang harus dibayar mulai dari $4,15 (Rp56 081) sampai $8.21 (Rp110 945) @18 Okt 2017
 
-<figure class="wp-block-image"><img src="https://devilpenakut.files.wordpress.com/2017/10/screen20shot202017-10-1820at2008-34-31.png?w=1200" alt="Screen Shot 2017-10-18 at 08.34.31.png" data-recalc-dims="1"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/netflix-vpn-2.png" alt="Screen Shot 2017-10-18 at 08.34.31.png" data-recalc-dims="1"></figure>
 ### Setting
 
 Setelah mendaftar layanan VPN, selanjutnya adalah menggunakannya di device kita. Untuk PrivateVPN ada beberapa cara.

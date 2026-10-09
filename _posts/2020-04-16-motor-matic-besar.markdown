@@ -9,7 +9,7 @@ saya ada beberapa sebab.
 
 ## Meningkatnya kebutuhan untuk ojek online
 
-![](https://images.unsplash.com/photo-1558899293-c6204574fcd4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI2NzI5fQ)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/motor-matic-besar-1.jpg)
 
 Ojek online yang banyak membutuhkan motor matik selain menggunakan motor matic
 dengan cc biasa motor matic dengan cc besar seperti NMax menjadi pilihan
@@ -17,7 +17,7 @@ karena lebih nyaman untuk penumpang dan untuk pengemudi itu sendiri.
 
 ## Tingkat ekonomi warga yang meningkat
 
-![](https://images.unsplash.com/photo-1514190753789-22afb20bcbbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI2NzI5fQ)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/motor-matic-besar-2.jpg)
 
 Ketika ekonomi masyarakat mulai naik ketika membutuhkan suatu barang pasti dia
 akan memilih barang yang lebih tinggi dari era sebelumnya. Jika sebelumnya dia
@@ -29,7 +29,7 @@ bisa untuk keluarga daripada motor sports yang tidak nyaman untuk keluarga.
 
 ## Value for money yang bagus dari suatu produk
 
-![](https://images.unsplash.com/photo-1583320975624-d099f8c042f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjI2NzI5fQ)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/motor-matic-besar-3.jpg)
 
 Dengan tingkat harga seperti Nmax dan fitur yang diberikan dirasa mempunyai
 harga yang cocok bagi konsumen. Tidak terlalu mahal namun konsumen mendapatkan

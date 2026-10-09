@@ -29,7 +29,7 @@ Dengan dua syarat tadi ada dua TV Box yang dianggap masuk, yaitu:
 
 ### 1\. Mi Box S
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255248725/176fee94-42d3-4aa1-a345-5f75967f17ca.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tv-box-netflix-certified-1.webp)
 
 TV Box ini sangat populer. Karena kualitasnya, juga karena sertifikasi lengkap
 yang sudah dimilikinya. Namun karena bukan merupakan hasil _bundling_ dari

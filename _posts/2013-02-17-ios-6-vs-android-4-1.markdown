@@ -18,7 +18,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-**![](https://lh3.googleusercontent.com/Vn_PsnnP64i5_O9jQRjqoLkDUf1YyuMcLdnTwjL2geCXz2XHyk2DK5TId57fI3U751RAqaWI9VjjYfn6tHUqcdd4TsISlYCx_3sSzxshJV8K_1IwgmaSJQQx)**
+**![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-1.jpg)**
 
 iOS vs Android
 
@@ -28,7 +28,7 @@ Sistem Operasi (OS) Apple, iOS 6, telah dikeluarkan pada 19 September 2012. Ada 
 
 ## Ronde 1: Siri vs Google Now
 
-## ![](https://lh5.googleusercontent.com/CYHyDIhj9T1E-wpUsLv95dyGeodzSxOWv7zue-p-tiVLyAYER8AaQuyfJQkSXwZ46o_gtSxpE42H5U6FG7jdrkPQmek7LRexQjGlr57V4G7Vfcc2EeK3IUHo)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-2.jpg)
 
 Google Now
 
@@ -42,7 +42,7 @@ Apple: 0**
 
 ## Ronde 2: Google Maps vs Apple Maps
 
-## ![](https://lh6.googleusercontent.com/Ctzl0ywfiyAkJwcl4V4a9P8hsCHxw6wFrBjFUGT1HE4Qg7pTOy2EFYr19ck3tXq_8cfOR4KaDL7V7-sW_zQxFN3dVR0fh4V_JHy6i3IpqFWENU-07Xft6r51)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-3.jpg)
 
 [Engadget](http://www.engadget.com/2012/06/28/android-4-1-jelly-bean-review-a-look-at-whats-changed-in-googl/)&nbsp;Google Map
 
@@ -54,7 +54,7 @@ Apple: 0**
 
 ## Ronde 3: Android Beam vs Shared Photo Stream
 
-## ![](https://lh6.googleusercontent.com/ThHFcslCBLPS7ptmTNI-7Y27O-jlKZfsNZ_TU9ImTm4myOpelplXa3-WullJ8rNvRo0ifXPU2jS8ycHrTaW2OIjTJZm1Q4Bt1Kx2w14A9olXkIsHxqal-IBZ)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-4.jpg)
 
 [Apel](http://www.apple.com/icloud/features/photo-stream.html)&nbsp;Photo Stream
 
@@ -67,7 +67,7 @@ Apple: 0**
 
 ## Ronde 4: Safari vs Google Chrome
 
-## ![](https://lh4.googleusercontent.com/C4gD8AyeGXdAQ9VI__jMkyKS4_r3LMKcCHwghSSgLjCwIsOjAw8ekU-GIfjiTFdHiPLO-corxj3SYfXQLnZ8sQ8EQNP5MFMX7HUQDNOu6qfQ_C7V9Q_e7adX)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-5.jpg)
 
 Safari vs Chrome
 
@@ -81,7 +81,7 @@ Apple: 0**
 
 ## Ronde 5: Kamera Google dan Galeri vs Kamera Apple dengan Panorama
 
-## ![](https://lh3.googleusercontent.com/V3FeIHG1d__pVVRcB9IGE2pdBfp6ZIS2yNFQUzmf0tYLEIgJUQn-E3n32-Ir_ZQCSQ3YbxcBtnxVb3merfmGp_jLekaRqCjzi6TvhAmC7UFSOPw0NIQ4ghbh)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-6.png)
 
 [Daniel Goodman / Bisnis Insider](http://www.businessinsider.com/author/daniel-goodman)
 
@@ -96,7 +96,7 @@ Apple: 1**
 
 ## Ronde 6: Google Notification vs Apple Notification
 
-## ![](https://lh5.googleusercontent.com/xOjQOQTgb-8RWn2lAf-DUu4DUlp7Ncf0eDskdC1wxhiqK4zo9LeXo8UUuNXxKUt4UH8eHu54bjf9NKvubpDeLX1CCNypf2dUFzOSv9c90Xz3IExU8VhomgzI)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-7.jpg)
 
 Notification Center
 
@@ -109,7 +109,7 @@ Apple: 1**
 
 ## Ronde 7: Google Phone App vs Apple Phone App
 
-## ![](https://lh5.googleusercontent.com/HkeMyxLNs1DgmnWXdvsdIrbARm7ieH2tAp1OKTR2RkSYTMZIq-CqspqqETksfLrPAr9Y_vXMTqWnxRgT6WDjsJb-vmlyjaFu84xieWZIA1fU3tCZqkQUmuMt)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-8.jpg)
 
 Telephone App
 
@@ -120,7 +120,7 @@ Fitur cukup seimbang pada kali ini. Kami akan memberi mereka berdua poin untuk p
 Google: 6  
 Apple: 2**
 
-## Ronde 8: Google App Store vs Apple App Store ![](https://lh3.googleusercontent.com/1Z_9r6INwWhVxmmlw8-cBfxJV9si2w4_CYj5W-myIQMGBGbe7fQP3cZQwtQKTlZKMiefmVJTJNmUnOrLeyr-tr74j0blhnGXHTQXP_YCw_Pe5KRGf9Rm9Du-)
+## Ronde 8: Google App Store vs Apple App Store ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-9.jpg)
 
 Apple Store
 
@@ -134,7 +134,7 @@ Apple: 3**
 
 ## Ronde 9: FaceTime vs Google Hangout
 
-## ![](https://lh4.googleusercontent.com/vjzeUJJmtLNGOzNapp5LWe1G2JjKH5B_6gK5aKVOvqoU6P9eMnmeyGDMKnvkD7cOhfeUpHM-NZbF32kPbiOHmRx6bGy8-DQz2OQDqSIesCqI4mb7n90mOgQ5)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-10.png)
 
 Google Hangout
 
@@ -147,7 +147,7 @@ Apple: 3**
 
 ## Jadi apa yang skornya?
 
-## ![](https://lh6.googleusercontent.com/j2TK4FkcSe0Ul6m_f8PYYujc1KQOtlP5Nuv6h9w6wrba41BYld6Vr1eGfzcBFxkRc7yTNwJ93iKa_yBZuT6PChs6l9Mu1aX0ggAQS2BHkLFfY0tirehjofyR)
+## ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/ios-6-vs-android-4-1-11.jpg)
 
 [Scott Heavey / Getty Images](http://www.gettyimages.com/detail/news-photo/nicola-adams-of-great-britain-punches-cancan-ren-of-china-news-photo/150044025)
 

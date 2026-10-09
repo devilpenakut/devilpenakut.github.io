@@ -27,7 +27,7 @@ Indihome ini menganut sistem 3P, ada telpon dan TV kabel. Walau dengan kecepatan
 <figure id="41a9" class="graf--figure graf-after--p">
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill"></div>
-<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://i2.wp.com/cdn-images-1.medium.com/max/800/1*JLv_vHHRuEwRLxwWs9gUqw.png?w=1200&amp;ssl=1" data-recalc-dims="1"></div>
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mencari-internet-oke-di-yogyakarta-1.png" data-recalc-dims="1"></div>
 </div>
 <figcaption class="imageCaption">Modem Router Smartfren (<a class="markup--anchor markup--figure-anchor" href="http://www.smartfren.com/id/mifi-m2y/" rel="nofollow">http://www.smartfren.com/id/mifi-m2y/</a>)</figcaption></figure>
 

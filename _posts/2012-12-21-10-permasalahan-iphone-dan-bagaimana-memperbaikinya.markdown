@@ -120,7 +120,7 @@ Jika ada yang lain bekerja, Anda mungkin terpaksa downgrade ke versi iOS. Itu ak
 
 Akhir kata, pesan, saran, kritik dipersilahkan
 
-<figure class="kg-card kg-image-card"><img src="https://i2.wp.com/s1.wp.com/wp-includes/images/smilies/icon_wink.gif?w=1200" class="kg-image" alt loading="lazy"></figure>
+<figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/10-permasalahan-iphone-dan-bagaimana-memperbaikinya-1.gif" class="kg-image" alt loading="lazy"></figure>
 
 **Sumber**
 

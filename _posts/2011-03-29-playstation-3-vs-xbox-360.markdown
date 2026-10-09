@@ -34,7 +34,7 @@ Tahta ini didasarkan pada versi terbaru dari kedua konsol yaitu jenis ‘Slim’
 | 3 dual-threaded core | 7 single-threaded core (inti ditambah 1 backup) |
 | Maksimum 77 GFlops | Maksimum 230 GFlops |
 
-![PS3](https://i0.wp.com/gearmedia.ign.com/gear/image/article/111/1116182/xbox-360-vs-playstation-3-the-tech-throwdown-20100826022032947-000.jpg?w=1200)
+![PS3](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-3-vs-xbox-360-1.jpg)
 
 **Keterangan:** Prosesor untuk Xbox dan PS3 yang cukup unik dalam arsitektur masing-masing mungkin sulit untuk membuat perbandingan langsung. Namun, angka tidak berbohong.
 
@@ -53,7 +53,7 @@ Menariknya, CPU gabungan baru / GPU chip yang digunakan dalam Xbox 360 baru seca
 | 10 MB eDRAM | |
 | 21,6 Gbps bandwidth (256 Gbps melalui eDRAM) | 22,4 Gbps bandwidth |
 
-![xbox](https://i0.wp.com/gearmedia.ign.com/gear/image/article/111/1116182/xbox-360-vs-playstation-3-the-tech-throwdown-20100826022017901-000.jpg?w=1200)
+![xbox](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-3-vs-xbox-360-2.jpg)
 
 **Keterangan:** Baik Xbox 360 dan PS3 mengandalkan kartu grafis yang dirancang secara kustom. VGA Xbox’s Xenos mempunyai lebih banyak video RAM, namun RAM ini merupakan jumlah share bersama dengan RAM sistem konsol. PS3 ini memiliki 256 MB RAM dedicated (tidak share) selain juga bisa mendapat tambahan 224 MB dari RAM sistem.
 
@@ -85,7 +85,7 @@ Besar bandwidth membuktikan PS3 adalah pemenang dalam kategori ini.
 | 5400 rpm | 5400 rpm |
 | Dapat diganti dengan HDD Xbox | Dapat diganti dengan HDD standar |
 
-![ps3](https://i1.wp.com/gearmedia.ign.com/gear/image/article/111/1116182/xbox-360-vs-playstation-3-the-tech-throwdown-20100826022100102-000.jpg?w=1200)  
+![ps3](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-3-vs-xbox-360-3.jpg)  
 **Keterangan:** Salah satu perubahan yang dibuat untuk Xbox 360 ‘Slim’ adalah bahwa model arcade sekarang sudah termasuk 4 GB SSD drive untuk penyimpanan data daripada mengharuskan gamer untuk mengandalkan unit memori. Dengan PS3, hard drive termasuk dalam kedua model. Unit HDD di kedua konsol tersebut sangat mirip, keduanya berjalan pada 400 rpm dan kini menawarkan beberapa jenis kapasitas. TIpe PS3 yang paling tinggi dengan 320 GB HDD dibandingkan dengan versi Xbox yang hanya 250 GB .
 
 Namun kelebihan sejati PS3 adalah dukungan standar 2.5 “notebook hard drive SATA. Pengguna dapat meng-upgrade hard drive PS3 dengan drive yang memiliki kapasitas yang lebih tinggi dan kecepatan rpm lebih cepat, sementara Xbox hanya mendukung milik Microsoft.
@@ -112,7 +112,7 @@ Sementara disc drive PS3 berjalan lebih lambat dibandingkan dengan Xbox, itu mem
 | Resolusi Native 720p, OS mendukung hingga 1080p | Sampai dengan resolusi 1080p |
 | Komposit, komponen, VGA, & koneksi HDMI | Komposit, komponen, dan koneksi HDMI |
 
-![ps3](https://i1.wp.com/gearmedia.ign.com/gear/image/article/111/1116182/xbox-360-vs-playstation-3-the-tech-throwdown-20100826022117992-000.jpg?w=1200)  
+![ps3](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-3-vs-xbox-360-4.jpg)  
 **Keterangan:** Kedua konsol sekarang termasuk port HDMI standar, Xbox dan PS3 sebanding di koneksi video. PS3 mengalahkan Xbox dalam hal resolusi maksimum.
 
 Disaat di menu Xbox mendukung 1080p, Namun untuk game Microsoft hanya mendukung 720p. PS3 ini memiliki sejumlah besar permainan yang mendukung 1080p. Itu belum lagi dukungan PS3 untuk film Blu-ray dan fokus tumbuh pada game 3D.
@@ -137,7 +137,7 @@ Disaat di menu Xbox mendukung 1080p, Namun untuk game Microsoft hanya mendukung 
 | 5 port USB, port Kinect | 2 USB port, Bluetooth 2.0 |
 | 7 max controller (3 kabel dan nirkabel 4) | 7 max controller |
 
-![controller](https://i1.wp.com/gearmedia.ign.com/gear/image/article/111/1116182/xbox-360-vs-playstation-3-the-tech-throwdown-20100826022130945-000.jpg?w=1200)  
+![controller](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-3-vs-xbox-360-5.jpg)  
 **Keterangan:** PS3 Slim memiliki dua port USB dibandingkan dengan Xbox yang tiga port. Selain itu, Sony telah mengeluarkan Compact Flash dan kartu dukungan SD terlihat pada model lama sedangkan Xbox menawarkan dukungan untuk unit memori yang dapat mentransfer data permainan.
 
 Meskipun keuntungan di Xbox, PS3 masih muncul menang dalam kategori ini berkat dukungan untuk Bluetooth 2.0.
@@ -151,7 +151,7 @@ Meskipun keuntungan di Xbox, PS3 masih muncul menang dalam kategori ini berkat d
 | 100 MBps ethernet | 1 Gbps ethernet |
 | Built-in konektor wifi – sampai 802.11n | Built-in konektor wifi – sampai dengan 802.11g |
 
-![kinnect](https://i0.wp.com/gearmedia.ign.com/gear/image/article/111/1116182/xbox-360-vs-playstation-3-the-tech-throwdown-20100826022219912-000.jpg?w=1200)  
+![kinnect](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/playstation-3-vs-xbox-360-6.jpg)  
 **Putusan:** Ketika datang ke kemampuan jaringan, gamer perlu bertanya pada diri sendiri apakah mereka bermaksud untuk mengandalkan koneksi ethernet kabel atau nirkabel. port ethernet PS3 secara signifikan lebih cepat dengan kapasitas 1 Gbps. Kedua konsol sekarang termasuk built-in mendukung wifi. Namun, Xbox 360 ‘Slim’ mendukung teknologi 802.11n, sementara PS3 hanya dapat mendukung 802.11g.
 
 Mengingat peningkatan prevalensi Internet nirkabel, Xbox memiliki keuntungan lebih besar di sini.

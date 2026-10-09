@@ -10,7 +10,7 @@ Tulisan ini akan bantu kamu melihat pilihan saya. Kita lihat dua hal penting: se
 
 ## Axioo Hype 5 Gen 12: Murah Tapi Ngga Murahan
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752034584362/a2cb3954-d1bf-43e7-9d4c-fc55660da33e.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/pilih-yang-murah-atau-arm-1.png)
 
 Laptop ini pakai Intel Core i5-1235U. Isinya 10 core: 2 core kencang buat tugas berat, 8 core hemat buat kerja ringan. Cocok untuk kerja sehari-hari seperti browsing, Office, Zoom, dan streaming. Hasilnya? Nggak lemot. Semua berjalan lancar.
 
@@ -26,7 +26,7 @@ Layar Axioo Hype 5 berukuran 15,6 inci Full HD dengan panel IPS. Akurasi warnany
 
 ## Vivobook 14 A1407QA: Laptop Tenang, Tahan Lama, dan Modern
 
-![](https://dlcdnwebimgs.asus.com/files/media/2a75e790-6a88-4847-a49e-acd3ec57c74c/v1/features/images/large/1x/s1/main.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/pilih-yang-murah-atau-arm-2.jpg)
 
 Laptop ini pakai Snapdragon X. Arsitekturnya ARM, bukan x86. Tapi jangan salah sangka. Performanya cepat. Untuk kerja harian, semua terasa ringan. Aplikasi Office, browser, Zoom, semuanya ada versi ARM-nya. Ngga perlu emulasi untuk itu, tapi memang ada beberapa yang perlu emulasi, bisa di cek di [https://windowsonarm.org/](https://windowsonarm.org/) untuk list-nya.
 

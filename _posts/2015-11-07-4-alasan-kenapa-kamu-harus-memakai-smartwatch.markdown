@@ -8,7 +8,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![Smartwatch by:Jose Izquierdo](https://i2.wp.com/c1.staticflickr.com/9/8871/18019553164_2b8ec3e972.jpg?w=1200&ssl=1)
+![Smartwatch by:Jose Izquierdo](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/4-alasan-kenapa-kamu-harus-memakai-smartwatch-1.jpg)
 
 ### 1. Terganggu Dengan Notifikasi atau Selalu Melihat Ponsel untuk Melihat Notifikasi
 

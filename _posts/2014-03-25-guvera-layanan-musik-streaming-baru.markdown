@@ -14,11 +14,11 @@ tags:
 
 Layanan streaming musik seperti [Spotify](https://www.spotify.com/), [Deezer](http://www.deezer.com/en/)dan [kawan-kawannya](http://en.wikipedia.org/wiki/Streaming_media). Namun ada hal yang membedakan dengan layanan lainnya. [Guvera](https://www.guvera.com/)tidak (belum) menyediakan layanan ‘music discovery’ -layanan untuk mencari lagi berdasarkan lagu2 yang sering kita dengarkan. Namun lebih fokus pada playlist yang dibuat oleh tim Guvera Indonesia atau oleh artis yang bekerja sama dengan Guvera.
 
-<!--more--> ![](https://lh4.googleusercontent.com/Mfft_JEyyChhNC0p93YZk92_yvFOaxtvYp0fd5Y4TQFRGY-PoRQWGha5Gods6aJuTyuB07gx2j0JNMvVBgxuhe1zmDsLiL9LNZsdUya47pARFmbJmu19U7WyiC_-fA)
+<!--more--> ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/guvera-layanan-musik-streaming-baru-1.png)
 
 # Bayar?
 
-Iya, beda dengan Spotify yang dengan akun gratis tetap bisa menikmati lagu secara penuh melalui desktop, untuk Guvera agar bisa menikmati lagu penuh perlu mendaftar layanannya mulai dari Rp. 3000 untuk satu hari. ![53211c4e28fa63-10009888](https://lh4.googleusercontent.com/nD-RKxWayk8KXyt5QFMk37A7QLZRXMSYasex0vLtPm8BbrXxf8fXtzYQuAelAtzQGW62LE23ildn7NE626RgNhJjtFIGEgN5PtcYN1ixuTTZjnJVlyapP7BCg6eq3A)
+Iya, beda dengan Spotify yang dengan akun gratis tetap bisa menikmati lagu secara penuh melalui desktop, untuk Guvera agar bisa menikmati lagu penuh perlu mendaftar layanannya mulai dari Rp. 3000 untuk satu hari. ![53211c4e28fa63-10009888](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/guvera-layanan-musik-streaming-baru-2.png)
 
 # Terus Fitur Apa Lagi yang Bagus
 

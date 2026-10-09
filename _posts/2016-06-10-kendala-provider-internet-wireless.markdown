@@ -12,7 +12,7 @@ tags:
 
 Satu stik untuk tower yang mempunyai ketinggian 4 meter seharga 500+600rb. Kalau daerah calon pelanggan merupakan dataran tinggi atau mempunyai gedung yang tinggi mungkin tidak masalah, namun apabila daerahnya merupakan dataran rendah dan tidak mempunyai gedung tinggi maka memerlukan investasi antena yang tinggi. Padahal kondisi tersebut merupakan kondisi umum, calon pelanggan bisa membutuhkan 4-5 stik plus biaya registrasi sebesar 650 ribu untuk reciever yang berarti untuk awalnya bisa habis minimal 2.6-3 juta. Itu minimal.
 
- ![](https://jogjawirelles.files.wordpress.com/2014/01/1346590397_183491562_3-tower-triangle-jasa-lain.jpg?resize=625%2C469)
+ ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/kendala-provider-internet-wireless-1.jpg)
 
 Tower
 

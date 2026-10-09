@@ -22,7 +22,7 @@ kebutuhan saya. Berikut review-nya.
 
 ## **Apa itu MNC Playbox?**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255270915/e5560320-8a8e-4baa-8b22-f8f74fbe35ea.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mnc-playbox-review-1.webp)
 
 "PLAYBOX adalah sebuah produk Android TV Box yang diluncurkan oleh MNC Play.
 Produk yang bisa mengubah TV biasa menjadi Smart TV ini, menawarkan berbagai
@@ -37,7 +37,7 @@ legalitasnya karena berlisensi.
 
 ## Paket Pembelian: Banyak pilihan
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255272787/10e8227a-962b-4ebf-bb08-c47f00d2c327.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mnc-playbox-review-2.webp)
 
 Ada beberapa paket pembelian yang tersedia, mulai paket paling murah untuk
 paket Entry yang berlaku 3 bulan, dan paket lainnya yang berlaku 6 bulan:
@@ -146,7 +146,7 @@ Harga ini bisa dianggap cukup bersaing dengan TV Box sejenis walau tidak bisa
 dibilang lebih murah. Transvision Xstream misalnya di harga Rp.799.000 untuk
 paket termurahnya.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255273921/02fdc2d8-445c-4105-a910-a9dfb4dc7967.webp)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/mnc-playbox-review-3.webp)
 
 ## **The Good: Pilihan Channel, Hardware.**
 

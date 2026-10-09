@@ -13,7 +13,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![iphone](https://i1.wp.com/telkomsel.com/media/upload/iPhone-main.jpg?w=1200)
+![iphone](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/pilih-iphone-4s-telkomsel-atau-xl-1.jpg)
 
 Tanggal 27 Januari 2012 kemarin iPhone 4S launching di Indonesia oleh dua operator besar Telkomsel dan XL yang merupakan mitra Apple di Indonesia. Namun ada perbedaan harga diantara keduanya, lalu mana yang termurah? Mari kita bedah satu-satu
 

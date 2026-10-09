@@ -15,7 +15,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-![](https://i1.wp.com/1.bp.blogspot.com/_jm4FARolmSo/SfOG9ODv3mI/AAAAAAAAJvA/hUm6wCLT8s8/s1600/nokia5800vsiphone.jpg?resize=500%2C384)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/20-alasan-mengapa-nokia-5800-lebih-baik-dari-apple-iphone-1.jpg)
 
 iPhone sedang menjadi hot issue pada bulan-bulan terakhir ini setelah ditunggu sekian lama akhirnya masuk juga ke indonesia menggandeng Telkomsel. Sebagai sebuah gadget Apple tentunya iPhone mempunyai prestige sendiri namun bagaimana dengan fitur yang dibawanya?. Ada sebuah artikel menarik dari tube5800.com yang membandingkan fitur iPhone dengan saingannya Nokia 5800.
 

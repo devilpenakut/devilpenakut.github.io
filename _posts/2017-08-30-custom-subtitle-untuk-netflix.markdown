@@ -48,7 +48,7 @@ online bernama SubFlicks.
 *Convert subtitle files .SRT to .DFXP online tool, Now you can enjoy Netflix
 no matter what language you speak* subflicks.com](http://subflicks.com/"http://subflicks.com")
 
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*kyq0roJTqVca-nfJ4io3Bw.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/custom-subtitle-untuk-netflix-1.png)
 
 Pada halaman SubFlicks kita tinggal memilih untuk upload subtitle SRT kita
 secara otomatis nanti tinggal kita download untuk DFXP. Ada fitur untuk resync
@@ -59,14 +59,14 @@ Kalau kita tidak punya file SRT nya pun, kita bisa mencari dibagian bawah
 apabila ada user lain yang sudah melakukan upload subtitle dari film yang kita
 mau.
 
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*NMygjfW-xL4J0eTnQs8HCw.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/custom-subtitle-untuk-netflix-2.png)
 
 Kalau sudah mendapatkan file DFXP dan ekstensi Super Netflix sudah di install,
 maka langsung buka serial/film di Netflix nanti dibagian kanan ada option
 tambahan dari Super Netflix. Di option paling atas bisa di klik untuk upload
 file subtitle DFXP yang tadi kita download.
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/800/1*7fagkInH-nGIV77XHd6rjQ.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/custom-subtitle-untuk-netflix-3.png)
 
 Sekarang kita bisa melihat subtitle bahasa indonesia di Netflix walau tidak
 disediakan oleh Netflix.

@@ -9,7 +9,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![](https://i2.wp.com/farm4.staticflickr.com/3364/3256496360_be3ff0f50d_b.jpg?resize=800%2C546)](http://www.flickr.com/photos/lisarandolph/3256496360/)
+[![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/penjaga-kenangan-1.jpg)](http://www.flickr.com/photos/lisarandolph/3256496360/)
 
 by Lisa Monahan (Flickr)
 
@@ -19,7 +19,7 @@ by Lisa Monahan (Flickr)
 
 Penjaga kenangan/memori. Berapa banyak bisa mengingat kenangan kamu? Otak merupakan hard disk yang sangat banyak menyimpan data. Kadang ada beberapa kenangan yang terlupa dan ketika kamu membutuhkan kenangan itu, hilang deh.
 
-[![](https://i1.wp.com/farm6.staticflickr.com/5044/5319042359_68fb1f91b4.jpg?resize=800%2C533)](http://www.flickr.com/photos/cloudy-day/5319042359/)
+[![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/penjaga-kenangan-2.jpg)](http://www.flickr.com/photos/cloudy-day/5319042359/)
 
 by Amalia Jane (Flickr)
 
@@ -43,7 +43,7 @@ Sebenarnya itulah pertanyaannya. Kadang kita malas ya untuk menuliskan apa yang 
 
 > “When you write down your ideas you automatically focus your full attention on them. Few if any of us can write one thought and think another at the same time. Thus a pencil and paper make excellent concentration tools” Micheal Lebeouf
 
-[![](https://i0.wp.com/farm5.staticflickr.com/4042/4346626891_0f6dd91073.jpg?resize=800%2C533)](http://www.flickr.com/photos/fotofrivolity08/4346626891/)
+[![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/penjaga-kenangan-3.jpg)](http://www.flickr.com/photos/fotofrivolity08/4346626891/)
 
 by Ellie (Flickr)
 

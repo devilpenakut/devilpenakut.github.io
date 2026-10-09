@@ -12,11 +12,11 @@ Kita akhir-akhir ini sering mendengar atau membaca berita mengenai suatu tempat 
 
 <!--more-->
 
-![Amarilis](https://i1.wp.com/i.imgur.com/MHvK7bL.png?w=1200&ssl=1)
+![Amarilis](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/belum-ada-kesadaran-di-indonesia-1.png)
 
-![Baturraden](https://i2.wp.com/i.imgur.com/gqlD9QK.png?w=1200&ssl=1)
+![Baturraden](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/belum-ada-kesadaran-di-indonesia-2.png)
 
-![Jembatan Langsa](https://i1.wp.com/i.imgur.com/UqLIQvo.png?w=1200&ssl=1)
+![Jembatan Langsa](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/belum-ada-kesadaran-di-indonesia-3.png)
 
 &nbsp;
 

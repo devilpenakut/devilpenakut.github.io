@@ -12,7 +12,7 @@ Wikipedia](https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales) baru atau
 Apart](https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Rift_Apart) saya tidak
 begitu bersemangat untuk mencari tahu beritanya atau membelinya.
 
-![](https://live.staticflickr.com/65535/49996318291_4c78ff218e_z.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/game-untuk-semua-1.jpg)
 
 Namun ketika [Humankind](https://www.pcgamesn.com/humankind/games-pass-pc)
 atau [Football Manager](https://en.wikipedia.org/wiki/Football_Manager) akan
@@ -43,7 +43,7 @@ Souls](https://en.wikipedia.org/wiki/Dark_Souls). Bahkan
 [Returnal](https://en.wikipedia.org/wiki/Returnal_\(video_game\)) yang bikin
 stress banyak orang bisa diselesaikan dengan mudah sama dia.
 
-![](https://live.staticflickr.com/900/40949416670_916d0de0e4_z.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/game-untuk-semua-2.jpg)
 
 Kalau saya harus memainkan game-game itu bisa-bisa saya bukan bermain game
 untuk menjadi senang, tapi makin stress. Hal berbeda bagi om Fajar, malah game
@@ -61,7 +61,7 @@ tipe gamer yang suka dengan game RPG macam [Final
 Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy). Bahkan dengan game-game
 lama di [Nintendo 3DS](https://en.wikipedia.org/wiki/Nintendo_3DS#Comparison)
 
-![](https://live.staticflickr.com/65535/50510421963_ef3012eb40_z.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/game-untuk-semua-3.jpg)
 
 Game RPG classic macam FInal Fantasy itu bagi saya merupakan genre game yang
 bisa membuat saya tertidur ketika memainkannya. Berbeda tentunya bagi om Andi,
@@ -76,7 +76,7 @@ Action, RPG, *platformer* , RTS, atau apapun itu, itu cuma bentuk makanan lain
 untuk mata dan otak. Jadi? Seleramu ya seleramu dan yes, saya sepakat, tidak
 ada game yang sesuai untuk semua orang."
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255379734/4427c87b-00bf-4d69-b052-af4a5c1c5e62.jpeg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/game-untuk-semua-4.jpg)
 
 Survey di US pada tahun 2015 [1], 34% dari orang yang di survey mengatakan
 bahwa "Video game adalah bentuk hiburan yang lebih baik daripada menonton TV".

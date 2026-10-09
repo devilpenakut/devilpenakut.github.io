@@ -13,7 +13,7 @@ tags:
 <div class="section-inner layoutSingleColumn">
 <figure id="54be" class="graf--figure graf-after--h3">
 <div class="aspectRatioPlaceholder is-locked">
-<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://i2.wp.com/cdn-images-1.medium.com/max/800/1*3UlERpqe1GQ9ZZ4RTC7v1g.jpeg?w=1200&amp;ssl=1" alt="" data-recalc-dims="1"></div>
+<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/kekurangan-samsung-galaxy-s7-1.jpg" alt="" data-recalc-dims="1"></div>
 </div>
 <figcaption class="imageCaption"><a class="markup--anchor markup--figure-anchor" href="https://flic.kr/p/EsMwi9" rel="nofollow">https://flic.kr/p/EsMwi9</a></figcaption></figure>
 <p id="6dad" class="graf--p graf-after--figure">Samsung Galaxy S7 merupakan sebuah ponsel <em class="markup--em markup--p-em">flagship</em> yang artinya semua mulai dari teknologi, desain dan performa sebuah ponsel merupakan hal wajib pada ponsel ini. Namun bukan berarti ada kekurangan. Ini beberapa kekurangan yang saya dapatkan setelah penggunaan 2 minggu lebih.</p>

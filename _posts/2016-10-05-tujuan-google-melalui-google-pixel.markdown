@@ -8,7 +8,7 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
- ![](https://i1.wp.com/cdn-images-1.medium.com/max/800/1*7yK5h8CrQGpY8xcMgd05TQ.png?resize=800%2C330&ssl=1)
+ ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/tujuan-google-melalui-google-pixel-1.png)
 
 Google Pixel (https://madeby.google.com/phone/)
 

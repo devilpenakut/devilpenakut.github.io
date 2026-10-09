@@ -18,7 +18,7 @@ WordPress baru saja mengeluarkan versi nya yang paling baru, [WordPress 3.9](htt
 
 Editor visual telah diperbaraui dengan meningkatkan kecepatan, aksesibilitas, dan dukungan mobile. Kamu bisa langsung meng-_copy-paste&nbsp;_tulisan kamu di&nbsp;_[word&nbsp;processor](http://en.wikipedia.org/wiki/Word_processor "Word processor")&nbsp;_(seperti [Microsoft Word](http://office.microsoft.com/en-us/word/ "Microsoft Word")) tanpa kehilangan&nbsp;_formatting_ nya.
 
- ![editor](https://i1.wp.com/wordpress.org/news/files/2014/04/editor1-300x233.jpg?resize=300%2C233)
+ ![editor](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-1.jpg)
 
 Visual Editor
 
@@ -26,7 +26,7 @@ Visual Editor
 
 Biasanya perlu waktu buat masuk ke menu edit gambar, namun sekarang sudah dibuat lebih cepat. Selain itu kamu bisa langsung memperbesar dan memperkecil gambar langsung dari&nbsp;_visual editor_&nbsp;tanpa harus masuk ke menu edit gambar. Jadi sudah seperti&nbsp;_word&nbsp;processor_ yang biasa kita pakai.
 
- ![image](https://i0.wp.com/wordpress.org/news/files/2014/04/image1-300x233.jpg?resize=300%2C233)
+ ![image](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-2.jpg)
 
 Crop Gambar
 
@@ -34,13 +34,13 @@ Crop Gambar
 
 Jika sebelumnya kita harus masuk ke mnu upload untuk melakukan&nbsp;_drag and drop_ gambar. Maka untuk versi ini sudah bisa langsung&nbsp;_drag and drop&nbsp;_ke&nbsp;_visual editor_.
 
- ![dragdrop](https://i1.wp.com/wordpress.org/news/files/2014/04/dragdrop1-300x233.jpg?resize=300%2C233)
+ ![dragdrop](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-3.jpg)
 
 Drag and Drop Gambar di Visual Edito
 
 # Preview Galeri
 
- ![gallery](https://i0.wp.com/wordpress.org/news/files/2014/04/gallery1.jpg?resize=798%2C448)
+ ![gallery](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-4.jpg)
 
 Galeri Preview
 
@@ -56,7 +56,7 @@ Penambahan atau edit _widget_ di pengaturan&nbsp;_theme&nbsp;_tidak perlu menung
 
 # Pencarian Tema&nbsp;yang Baru
 
- ![theme](https://i1.wp.com/wordpress.org/news/files/2014/04/theme1.jpg?resize=800%2C445)
+ ![theme](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-5.jpg)
 
 Browser Tema Baru
 

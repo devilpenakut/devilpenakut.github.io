@@ -19,25 +19,25 @@ dengan review dari Amazon. Di Amazon rata-rata mengatakan untuk kualitas suara
 yang dihasilkan memang terbaik dengan harga yang ditawarkan. Minusnya adalah
 kualitas fisik terutama pada bagian pads nya yang mudah rusak terkelupas.
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/800/1*HkxgGjzb42p1aT2iSar5qg.png?w=1200&ssl=1)
-![](https://i2.wp.com/cdn-images-1.medium.com/max/800/1*xUdMGBLBxoMpmILdBxovhA.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-1.png)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-2.png)
 
 Namun untuk seluruh rating dengan bintang 4 saya rasa sudah bagus, jadi layak
 beli.
 
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*ZTmMijDadIigOxxtKl-SSw.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-3.png)
 
 Lagi pula ada review terakhir yang mengatakan bahwa diproduksi terbaru Jabra
 sudah memperbaiki kualitas pads nya.
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/800/1*K09UR_MLk-RQ0UM1ZhANYA.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-4.png)
 
 #### Packaging
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*d50Vq3_MXlsvQICqruSMIA.jpeg?w=1200&ssl=1)
-![](https://i0.wp.com/cdn-images-1.medium.com/max/600/1*gyMoB4f8cbuPBveNX8NAeg.jpeg?w=1200&ssl=1)
-![](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*YYPDZJr42xADcuynmmFLRg.jpeg?w=1200&ssl=1)
-![](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*Ul5ImcPO9A1FAxkC6rL5Sg.jpeg?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-5.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-6.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-7.jpg)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-8.jpg)
 
 Dalam packaging Jabra Move ini tersedia headphone itu sendiri, kitab-kitab
 termasuk kartu garansi resmi, kabel male to male audio 3.5mm, kabel USB to
@@ -88,7 +88,7 @@ kepala kita. Karena itu alasan kenapa ada kabel melengkung begitu.
 
 Fitur yang diunggulkan dari Jabra Move ini adalah:
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/800/1*qCM-Hsoa0ejNSi0yGyf1UQ.png?w=1200&ssl=1)
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-9.png)
 
 - Ada tombol untuk pengaturan musik dan panggilan telp
 

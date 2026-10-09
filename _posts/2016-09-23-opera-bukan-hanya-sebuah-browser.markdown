@@ -13,7 +13,7 @@ tags:
 <div class="section-inner layoutSingleColumn">
 <figure id="55b7" class="graf graf--figure graf-after--h3">
 <div class="aspectRatioPlaceholder is-locked">
-<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://i2.wp.com/cdn-images-1.medium.com/max/800/0*4GYvAWl0hI71NDee.png?w=1200&amp;ssl=1" data-recalc-dims="1"></div>
+<div class="aspectRatioPlaceholder-fill"><img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/opera-bukan-hanya-sebuah-browser-1.png" data-recalc-dims="1"></div>
 </div>
 </figure>
 <p id="6a67" class="graf graf--p graf-after--figure">Opera. Mungkin banyak orang mengenal hanya sebuah browser. Tapi saat ini selain tetap mengembangkan browsernya, tapi juga mengembangkan teknologi kompresi nya yang memang unggul dari dulu. Bahkan Google akhirnya memakai teknologi yang mirip pada Chrome.</p>
@@ -33,7 +33,7 @@ tags:
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill">
 <div style="width: 138px" class="wp-caption aligncenter">
-<img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://i2.wp.com/cdn-images-1.medium.com/max/800/0*lgHx-uWOssarTlE_.png?resize=128%2C128&amp;ssl=1" width="128" height="128" data-recalc-dims="1"><p class="wp-caption-text">Chromium</p>
+<img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/opera-bukan-hanya-sebuah-browser-2.png" width="128" height="128" data-recalc-dims="1"><p class="wp-caption-text">Chromium</p>
 </div>
 <p> </p>
 </div>
@@ -49,7 +49,7 @@ tags:
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill">
 <div style="width: 810px" class="wp-caption aligncenter">
-<img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://i1.wp.com/cdn-images-1.medium.com/max/800/0*1uE3_aM4GoMlo3mh.jpg?resize=800%2C533&amp;ssl=1" width="800" height="533" data-recalc-dims="1"><p class="wp-caption-text">Opera Max</p>
+<img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/opera-bukan-hanya-sebuah-browser-3.jpg" width="800" height="533" data-recalc-dims="1"><p class="wp-caption-text">Opera Max</p>
 </div>
 </div>
 </div>
@@ -61,7 +61,7 @@ tags:
 <div class="aspectRatioPlaceholder is-locked">
 <div class="aspectRatioPlaceholder-fill">
 <div style="width: 810px" class="wp-caption aligncenter">
-<img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://i2.wp.com/cdn-images-1.medium.com/max/800/0*8ijNDlEgkwR47xrM.png?resize=800%2C500&amp;ssl=1" width="800" height="500" data-recalc-dims="1"><p class="wp-caption-text">Opera VPN</p>
+<img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto/devilpenakut/opera-bukan-hanya-sebuah-browser-4.png" width="800" height="500" data-recalc-dims="1"><p class="wp-caption-text">Opera VPN</p>
 </div>
 </div>
 </div>
