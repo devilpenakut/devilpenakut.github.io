@@ -16,7 +16,8 @@
       "headline": { "displayName": "Headline", "purpose": "Post and page titles, lead story title. Bodoni Moda 800, line-height .9 to .92." },
       "title": { "displayName": "Title", "purpose": "Headings inside entries (h2 to h4). Bodoni Moda 700." },
       "body": { "displayName": "Body", "purpose": "Reading text, 68ch measure. Source Serif 4 at 400." },
-      "label": { "displayName": "Label", "purpose": "Stamp mark only. Uppercase, 0.08em tracking." }
+      "label": { "displayName": "Label", "purpose": "Stamp mark only. Uppercase, 0.08em tracking." },
+      "nameplate": { "displayName": "Nameplate", "purpose": "Pirata One blackletter, masthead and colophon name only." }
     },
     "shadows": [],
     "motion": [
@@ -34,7 +35,7 @@
       "refersTo": "display-banner",
       "description": "Full-bleed ink band with the crushed Bodoni site title.",
       "html": "<section class=\"ds-banner\"><p class=\"ds-banner-title\">Devil<br>Penakut</p></section>",
-      "css": ".ds-banner { background: #1d1d1b; color: #e2dedb; padding: clamp(22px, 3vw, 43px) clamp(16px, 4vw, 43px) clamp(14px, 1.6vw, 28px); overflow: hidden; } .ds-banner-title { margin: 0; margin-left: -.04em; font-family: 'Bodoni Moda', Didot, serif; font-weight: 900; font-variation-settings: 'opsz' 96; font-size: clamp(3.5rem, 18vw, 20rem); line-height: .74; letter-spacing: -.06em; text-transform: uppercase; }"
+      "css": ".ds-banner { background: #1d1d1b; color: #e2dedb; padding: clamp(22px, 3vw, 43px) clamp(16px, 4vw, 43px) clamp(14px, 1.6vw, 28px); overflow: hidden; } .ds-banner-title { margin: 0; margin-left: -.04em; font-family: 'Bodoni Moda', Didot, serif; font-weight: 900; font-variation-settings: 'opsz' 96; font-size: clamp(4.5rem, 19.5vw, 22rem); line-height: .74; letter-spacing: -.06em; text-transform: uppercase; }"
     },
     {
       "name": "Stamp Mark",

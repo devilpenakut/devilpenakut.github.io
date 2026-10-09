@@ -11,7 +11,7 @@ colors:
 typography:
   display:
     fontFamily: "Bodoni Moda, Didot, serif"
-    fontSize: "clamp(3.5rem, 18vw, 20rem)"
+    fontSize: "clamp(4.5rem, 19.5vw, 22rem)"
     fontWeight: 900
     lineHeight: 0.74
     letterSpacing: "-0.06em"
@@ -38,6 +38,11 @@ typography:
     fontWeight: 500
     lineHeight: 1.2
     letterSpacing: "0.08em"
+  nameplate:
+    fontFamily: "Pirata One, serif"
+    fontSize: "1.75rem"
+    fontWeight: 400
+    lineHeight: 1
 rounded:
   none: "0px"
   sm: "2.88px"
