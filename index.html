@@ -2,17 +2,67 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+{%- assign terbaru = site.posts.first.date | date: "%Y" -%}
+{%- for post in site.posts -%}
+  {%- assign isi = post.content | strip_html | strip -%}
+  {%- if isi != "" -%}{%- assign utama = post -%}{%- break -%}{%- endif -%}
+{%- endfor -%}
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<section class="banner" aria-label="{{ site.name }}">
+  <p class="banner-title" aria-hidden="true">Devil<br>Penakut</p>
+</section>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<p class="dateline">
+  <span>{{ site.posts.size }} tulisan</span>
+  <span>2008–{{ terbaru }}</span>
+  <span>{{ site.description }}</span>
+</p>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<article class="lead">
+  <div class="lead-head">
+    <h1 class="lead-title"><a href="{{ site.baseurl }}{{ utama.url }}">{{ utama.title }}</a></h1>
+    <p class="byline lead-date">{% include tanggal.html date=utama.date %}</p>
+  </div>
+  <div class="lead-body">
+    <p class="lead-excerpt">{{ utama.excerpt | strip_html | truncatewords: 70 }}</p>
+    <a class="more" href="{{ site.baseurl }}{{ utama.url }}">Baca tulisan ini</a>
+  </div>
+  <svg class="seal" viewBox="0 0 140 172" role="img" aria-label="Sejak 2008">
+    <rect x="4" y="4" width="132" height="164" rx="6" class="seal-paper"/>
+    <rect x="4" y="4" width="132" height="164" rx="6" class="seal-perf"/>
+    <rect x="14" y="14" width="112" height="144" class="seal-frame"/>
+    <g class="seal-sun" transform="translate(70 66)">
+      <circle r="13"/>
+      <g class="seal-rays">
+        <line y1="-19" y2="-38"/><line y1="-19" y2="-38" transform="rotate(22.5)"/><line y1="-19" y2="-38" transform="rotate(45)"/><line y1="-19" y2="-38" transform="rotate(67.5)"/>
+        <line y1="-19" y2="-38" transform="rotate(90)"/><line y1="-19" y2="-38" transform="rotate(112.5)"/><line y1="-19" y2="-38" transform="rotate(135)"/><line y1="-19" y2="-38" transform="rotate(157.5)"/>
+        <line y1="-19" y2="-38" transform="rotate(180)"/><line y1="-19" y2="-38" transform="rotate(202.5)"/><line y1="-19" y2="-38" transform="rotate(225)"/><line y1="-19" y2="-38" transform="rotate(247.5)"/>
+        <line y1="-19" y2="-38" transform="rotate(270)"/><line y1="-19" y2="-38" transform="rotate(292.5)"/><line y1="-19" y2="-38" transform="rotate(315)"/><line y1="-19" y2="-38" transform="rotate(337.5)"/>
+      </g>
+    </g>
+    <text x="70" y="128" class="seal-big">2008</text>
+    <text x="70" y="146" class="seal-small">SEJAK</text>
+  </svg>
+</article>
+
+<section id="arsip" class="archive" aria-labelledby="arsip-judul">
+  <h2 id="arsip-judul" class="visually-hidden">Arsip</h2>
+  {%- assign tahun = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+  {%- for t in tahun %}
+  <section class="year" aria-labelledby="th-{{ t.name }}">
+    <header class="year-head">
+      <h3 id="th-{{ t.name }}" class="year-num">{{ t.name }}</h3>
+      <p class="year-count">{{ t.size }} tulisan</p>
+    </header>
+    <ol class="year-list">
+      {%- for post in t.items %}
+      {%- assign isi = post.content | strip_html | strip %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <p class="byline">{% include tanggal.html date=post.date %}{% if isi == "" %}<span class="stamp-mark">Judul saja</span>{% endif %}</p>
+      </li>
+      {%- endfor %}
+    </ol>
+  </section>
+  {%- endfor %}
+</section>

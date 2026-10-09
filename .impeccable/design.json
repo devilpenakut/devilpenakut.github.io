@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-09T04:08:00Z",
+  "title": "Design System: Devil Penakut",
+  "extensions": {
+    "colorMeta": {
+      "parchment": { "role": "neutral", "displayName": "Parchment Stock", "canonical": "#e2dedb", "tonalRamp": ["#1d1d1b", "#5f5d5b", "#a09e9b", "#e2dedb", "#e6e3e0", "#ebe8e5", "#f0edea", "#f4f2ef"] },
+      "paper": { "role": "neutral", "displayName": "Paper Inset", "canonical": "#ebe8e5", "tonalRamp": ["#1d1d1b", "#62615e", "#a6a4a2", "#ebe8e5", "#edeae8", "#f0edea", "#f2f0ec", "#f4f2ef"] },
+      "ink": { "role": "primary", "displayName": "Ink Black", "canonical": "#1d1d1b", "tonalRamp": ["#000000", "#0f0f0e", "#1d1d1b", "#535250", "#888885", "#bebdba", "#dedcd9", "#f4f2ef"] },
+      "charcoal": { "role": "neutral", "displayName": "Charcoal Ink", "canonical": "#5c5853", "tonalRamp": ["#1d1d1b", "#32312e", "#474440", "#5c5853", "#827e7a", "#a8a5a1", "#ceccc8", "#f4f2ef"] },
+      "ember": { "role": "primary", "displayName": "Ember Stamp", "canonical": "#ad3810", "tonalRamp": ["#1d1d1b", "#4d2617", "#7d2f14", "#ad3810", "#bf6648", "#d09580", "#e2c4b7", "#f4f2ef"] },
+      "bone": { "role": "tertiary", "displayName": "Bone Cream", "canonical": "#cdc6be", "tonalRamp": ["#1d1d1b", "#585551", "#928e88", "#cdc6be", "#d7d1ca", "#e0dcd6", "#eae7e3", "#f4f2ef"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Banner title, year numerals, post-aside year. Bodoni Moda 900, crushed to line-height .74 to .78." },
+      "headline": { "displayName": "Headline", "purpose": "Post and page titles, lead story title. Bodoni Moda 800, line-height .9 to .92." },
+      "title": { "displayName": "Title", "purpose": "Headings inside entries (h2 to h4). Bodoni Moda 700." },
+      "body": { "displayName": "Body", "purpose": "Reading text, 68ch measure. Source Serif 4 at 400." },
+      "label": { "displayName": "Label", "purpose": "Stamp mark only. Uppercase, 0.08em tracking." }
+    },
+    "shadows": [],
+    "motion": [
+      { "name": "seal-stamp", "value": "stamp .7s cubic-bezier(.16, 1, .3, 1) both (rotate -16deg scale 1.25 to -8deg scale 1)", "purpose": "One-time stamp-in of the lead seal. Disabled under prefers-reduced-motion." },
+      { "name": "scroll", "value": "scroll-behavior: smooth on html", "purpose": "Anchor jumps (Arsip). Disabled under prefers-reduced-motion." }
+    ],
+    "breakpoints": [
+      { "name": "small", "value": "760px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Display Banner",
+      "kind": "custom",
+      "refersTo": "display-banner",
+      "description": "Full-bleed ink band with the crushed Bodoni site title.",
+      "html": "<section class=\"ds-banner\"><p class=\"ds-banner-title\">Devil<br>Penakut</p></section>",
+      "css": ".ds-banner { background: #1d1d1b; color: #e2dedb; padding: clamp(22px, 3vw, 43px) clamp(16px, 4vw, 43px) clamp(14px, 1.6vw, 28px); overflow: hidden; } .ds-banner-title { margin: 0; margin-left: -.04em; font-family: 'Bodoni Moda', Didot, serif; font-weight: 900; font-variation-settings: 'opsz' 96; font-size: clamp(3.5rem, 18vw, 20rem); line-height: .74; letter-spacing: -.06em; text-transform: uppercase; }"
+    },
+    {
+      "name": "Stamp Mark",
+      "kind": "custom",
+      "refersTo": "stamp-mark",
+      "description": "Ember stamp reading 'Judul saja' on title-only posts.",
+      "html": "<span class=\"ds-stamp\">Judul saja</span>",
+      "css": ".ds-stamp { display: inline-block; padding: 2px 6px 1px; border: 1px solid #ad3810; border-radius: 2.88px; color: #ad3810; font-size: .75rem; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; transform: rotate(-2deg); }"
+    },
+    {
+      "name": "Stub",
+      "kind": "card",
+      "refersTo": "stub",
+      "description": "Paper inset for title-only posts, with the stamp mark and one explanatory line.",
+      "html": "<div class=\"ds-stub\"><span class=\"ds-stamp\">Judul saja</span><p>Isi tulisan ini belum ikut pindah dari blog lama. Yang tersisa baru judul dan tanggalnya.</p></div>",
+      "css": ".ds-stub { max-width: 68ch; padding: 29px; background: #ebe8e5; color: #1d1d1b; font-family: 'Source Serif 4', Georgia, serif; font-size: 1.1875rem; line-height: 1.6; } .ds-stub p { margin: 12px 0 0; } .ds-stamp { display: inline-block; padding: 2px 6px 1px; border: 1px solid #ad3810; border-radius: 2.88px; color: #ad3810; font-size: .75rem; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; transform: rotate(-2deg); }"
+    },
+    {
+      "name": "Text Link",
+      "kind": "custom",
+      "refersTo": "text-link",
+      "description": "Inline underlined link; no button shape exists in the build.",
+      "html": "<a class=\"ds-link\" href=\"#\">Baca tulisan ini</a>",
+      "css": ".ds-link { color: #1d1d1b; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; } .ds-link:hover { color: #000; text-decoration-thickness: 2px; } .ds-link:focus-visible { outline: 2px solid #ad3810; outline-offset: 3px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Morgue Broadsheet",
+    "overview": "The blog is a newspaper morgue. Every post is filed under a giant year numeral in a drawer column, newest edition on top. The surface is a printed sheet: parchment stock, ink rules, one ember stamp. Nothing floats, glows, or rounds off. Depth comes from rule weight and the contrast between ink and paper, never from shadow. Type carries the identity. Bodoni Moda at black weight, crushed to line-height .74 to .92 and tracked tight, sets the banner, headlines and year numerals. Source Serif 4 sets the reading text, measured to 68ch.",
+    "keyCharacteristics": [
+      "Parchment ground, ink type, one ember accent.",
+      "Oversized Bodoni display, crushed and tracked tight.",
+      "Hairline ink rules instead of boxes, cards, or shadows.",
+      "Year-drawer archive: giant numerals in a sticky left column.",
+      "Stamped marks for state: 'Judul saja' on title-only stubs.",
+      "Square images, 0px radius; the only rounded form is the 2.88px stamp."
+    ],
+    "rules": [
+      { "name": "The One Stamp Rule", "body": "Ember appears only in the seal, stamp marks, focus outline, and caret. A screen carries one chromatic note, and its rarity is the point.", "section": "colors" },
+      { "name": "The Crushed Display Rule", "body": "Bodoni display sets at line-height .74 to .92 with negative tracking (-0.04 to -0.06em). Body text never does. Open leading on display type is the bug.", "section": "typography" },
+      { "name": "The Ruled Not Shadowed Rule", "body": "Structure is drawn with ink rules: 1px for section and dateline rules, 4px for the colophon top rule, 3px double for entry dividers. The only filled containers are the ink banner, the paper stub, and the paper seal.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do set display type in Bodoni at line-height .74 to .92 with negative tracking.",
+      "Do keep images at 0px radius and flush to column edges.",
+      "Do draw structure with 1px ink rules, and use the paper inset for a single stub or seal.",
+      "Do put dates and bylines below headings.",
+      "Do mark title-only posts with the 'Judul saja' stamp mark.",
+      "Do keep body text at 68ch or less and left-aligned."
+    ],
+    "donts": [
+      "Don't set display or body type in a sans-serif or a system display face. The serif and blackletter pairing is the world.",
+      "Don't add a second chromatic accent. Ember is the only colour outside the neutrals.",
+      "Don't use ember for body text, links, or large fills.",
+      "Don't put kickers or eyebrows above headings. Dates and bylines sit below.",
+      "Don't introduce gradients, glassmorphism, or blur.",
+      "Don't round corners on images or blocks; the 2.88px stamp is the only rounded form."
+    ]
+  }
+}

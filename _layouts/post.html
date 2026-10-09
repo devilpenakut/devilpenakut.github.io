@@ -3,15 +3,33 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <header class="post-head">
+    <h1 class="headline{% if page.title.size > 60 %} headline--long{% endif %}">{{ page.title }}</h1>
+    <p class="byline">
+      {% include tanggal.html date=page.date %}
+      {%- for tag in page.tags -%}{% unless tag contains "hash-" %}<span class="tag">{{ tag | replace: "-2", "" | replace: "-", " " }}</span>{% endunless %}{%- endfor -%}
+    </p>
+  </header>
 
+  {% assign th = page.date | date: "%Y" %}
+  <aside class="post-aside"><a href="{{ site.baseurl }}/#th-{{ th }}">{{ th }}<span>Tulisan lain tahun ini</span></a></aside>
+
+  {% assign isi = content | strip_html | strip %}
+  {% if isi == "" %}
+  <div class="stub">
+    <span class="stamp-mark">Judul saja</span>
+    <p>Isi tulisan ini belum ikut pindah dari blog lama. Yang tersisa baru judul dan tanggalnya.</p>
+  </div>
+  {% else %}
   <div class="entry">
     {{ content }}
   </div>
+  {% endif %}
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  <nav class="post-nav" aria-label="Tulisan lain">
+    {% if page.previous %}<a class="post-nav-prev" href="{{ site.baseurl }}{{ page.previous.url }}"><span>Sebelumnya</span>{{ page.previous.title }}</a>{% endif %}
+    {% if page.next %}<a class="post-nav-next" href="{{ site.baseurl }}{{ page.next.url }}"><span>Berikutnya</span>{{ page.next.title }}</a>{% endif %}
+  </nav>
 
   {% include disqus.html %}
 </article>
