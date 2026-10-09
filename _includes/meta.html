@@ -1,18 +1,39 @@
     <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
-    <meta name="author" content="{{ site.name }}" />
+    {%- if page.excerpt %}
+      {%- assign desc = page.excerpt | strip_html | normalize_whitespace | strip | truncate: 160 | escape %}
+    {%- endif %}
+    {%- if desc == "" or desc == nil %}
+      {%- assign body = content | split: 'class="entry">' %}
+      {%- if page.layout == "post" and body.size > 1 %}
+        {%- assign desc = body[1] | strip_html | normalize_whitespace | strip | truncate: 160 | escape %}
+      {%- else %}
+        {%- assign desc = site.description | escape %}
+      {%- endif %}
+    {%- endif %}
+    {%- assign img = site.url | append: site.baseurl | append: "/images/social-card.png" %}
+    {%- assign parts = content | split: 'src="https://res.cloudinary.com' %}
+    {%- if page.layout == "post" and parts.size > 1 %}
+      {%- assign img = parts[1] | split: '"' | first | prepend: "https://res.cloudinary.com" %}
+    {%- endif %}
+    {%- capture canonical %}{{ site.url }}{{ site.baseurl }}{{ page.url | replace: "index.html", "" }}{% endcapture %}
+    <meta name="description" content="{{ desc }}">
+    <meta name="author" content="{{ site.name }}">
+    <link rel="canonical" href="{{ canonical }}">
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ canonical }}">
+    <meta property="og:title" content="{{ page.title | default: site.name | escape }}">
+    <meta property="og:description" content="{{ desc }}">
+    <meta property="og:image" content="{{ img }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@{{ site.footer-links.twitter }}">
+    {%- if page.layout == "post" %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    {%- endif %}
 
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
-    {% endif %}
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" sizes="any">
+    <link rel="icon" href="{{ site.baseurl }}/icon-192.png" type="image/png">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+    <meta name="theme-color" content="#1d1d1b">

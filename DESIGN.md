@@ -124,7 +124,7 @@ Two neutrals carry the page, one ink carries text and rules, and one ember carri
 - **Charcoal Ink** (#5c5853): Secondary text: masthead est., year counts, bylines, captions, post-nav labels.
 
 ### Named Rules
-**The One Stamp Rule.** Ember appears only in the seal, stamp marks, focus outline, and caret. A screen carries one chromatic note, and its rarity is the point.
+**The One Stamp Rule.** Ember appears only in the seal, stamp marks, focus outline, and caret. A screen carries one chromatic note, and its rarity is the point. The one exception is the owner's "dp" devil mascot (images/mark.png, favicon, touch icon), which keeps its own maroon as a brand asset; it appears only beside the nameplate and is never recoloured or reused as an accent.
 
 ## Typography
 
