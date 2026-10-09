@@ -87,6 +87,3 @@ lebih terjangkau. Namun tetap hati-hati dengan keamanan data, pastikan hanya
 berbagi dengan orang yang kamu kenal.
 
 Jadi, mari Netflix and chill.
-
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)

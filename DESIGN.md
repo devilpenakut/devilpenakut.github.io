@@ -38,6 +38,11 @@ typography:
     fontWeight: 500
     lineHeight: 1.2
     letterSpacing: "0.08em"
+  code:
+    fontFamily: "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+    fontSize: "0.85em"
+    fontWeight: 400
+    lineHeight: 1.5
   nameplate:
     fontFamily: "Pirata One, serif"
     fontSize: "1.75rem"

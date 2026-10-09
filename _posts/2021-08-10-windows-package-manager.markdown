@@ -23,9 +23,11 @@ Winget ini tersedia di Windows 10, versi 1809 dan yang lebih baru.
 Buka aplikasi Windows **PowerShell** , juga bisa memakai **Command Prompt**.
 Ketik `winget` untuk melihat daftar perintah yang bisa kamu pakai.
 
+```bash
 winget
+```
 
-Apa yang hebat tentang perintah winget adalah ia terhubung ke repositori
+Apa yang hebat tentang perintah `winget` adalah ia terhubung ke repositori
 aplikasi paket yang ada, sehingga Anda dapat dengan cepat menemukan apa yang
 Anda cari jika Anda sudah mengetahui nama aplikasinya.
 
@@ -33,33 +35,43 @@ Pengecualian adalah jika ada lebih dari satu versi aplikasi dengan nama yang
 hampir mirip; mengetik `winget install opera`, misalnya, akan keluar pilihan
 untuk browser game Opera GX atau browser Opera biasa.
 
-winget install
-opera
+```bash
+winget install opera
+```
 
 `winget search` diikuti dengan nama paket adalah cara mencari aplikasi yang
 ingin kamu install.
 
+```bash
 winget search brave
+```
 
-Kalau mau lihat aplikasi apa yang terinstall di PC kita tinggal ketik `winget
-list`. Di perintah ini juga akan keliatan apakah ada aplikasi di PC kita yang
+Kalau mau lihat aplikasi apa yang terinstall di PC kita tinggal ketik `winget list`
+. Di perintah ini juga akan keliatan apakah ada aplikasi di PC kita yang
 butuh untuk di upgrade.
 
+```bash
 winget list
+```
 
 Perintah `winget upgrade` bisa digunakan untuk upgrade versi aplikasi.
 Walaupun ini mungkin tidak diperlukan, karena banyak aplikasi hanya akan
 memutakhirkan sendiri secara otomatis atau meminta Anda melakukannya saat
 berikutnya Anda memulai ulang.
 
+```bash
 winget upgrade
-spotifywinget upgrade
-epicgames
+```
+
+```bash
+winget upgrade spotify
+winget upgrade epicgames
+```
 
 ### Cara Menggunakan Winget untuk Menghapus Aplikasi
 
-Untuk melakukan *uninstall* aplikasi maka bisa memakai perintah: `winget
-uninstall` dan secara otomatis winget akan melakukan proses *uninstall* tanpa
+Untuk melakukan *uninstall* aplikasi maka bisa memakai perintah: `winget uninstall`
+ dan secara otomatis winget akan melakukan proses *uninstall* tanpa
 kita harus membuka *add/remove program.*
 
 Kompleksitas aplikasi Microsoft Store dan keterbatasan isinya telah menjadi
@@ -72,6 +84,3 @@ Microsoft diperkirakan akan merombak Microsoft Store bersamaan dengan Windows
 Ada komentar atau masukan? silahkan lewat [Discord
 devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
 [Twitter](https://twitter.com/devilpenakut).
-
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)

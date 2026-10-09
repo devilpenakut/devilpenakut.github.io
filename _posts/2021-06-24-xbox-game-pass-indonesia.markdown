@@ -128,6 +128,3 @@ Ada kendala? silakan sampaikan lewat [Discord
 devilpenakut](https://discord.gg/694HsdDGzy). Oh iya bila kamu ingin Indonesia
 di _support_ Game Pass secara resmi bisa gabung [Discord Xbox Community
 Hub](https://discord.gg/stGbPhZsKH) buat menyuarakannya.
-
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)

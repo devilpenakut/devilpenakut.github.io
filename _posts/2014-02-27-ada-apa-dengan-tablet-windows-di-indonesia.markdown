@@ -28,7 +28,6 @@ Microsoft menyadari itu, karenanya dibuatlah Windows 8 ini yang mempunyai dukung
 
 Surface 2 (abcnews.com)
 
-[findthebest id=”kitKidMYSKF” name=”See more details | FindTheBest” width=”800″ height=”415″ link=”http://tablets.findthebest.com/l/258/Microsoft-Surface-2″ url=”http://tablets.findthebest.com/w/kitKidMYSKF”]
 
 Nah tablet Windows ini lah yang seharusnya menjadi tulang punggung perusahaan PC ketika penjualan PC desktop dan laptop lesu. Namun momentum itu di Indonesia sepertinya dilewatkan oleh mereka. Malah beberapa nya mengeluarkan tablet berbasis Android (Lenovo,Asus)
 
@@ -40,7 +39,6 @@ Tablet Windows, bukan versi yang RT, mempunyai banyak keunggulan. Selain bentuk 
 
 ASUS Transformer Book T100 (Asus.com)
 
-[findthebest id=”3Ot26HXRaAt” name=”See more details | FindTheBest” width=”800″ height=”415″ link=”http://tablets.findthebest.com/l/276/ASUS-Transformer-Book-T100″ url=”http://tablets.findthebest.com/w/3Ot26HXRaAt”]
 
 Tablet Windows 8 pada dasarnya merupakan tablet yang layak beli selain tablet Android dan iOS. Namun produsen di Indonesia belum dapat mengeluarkan produk yang sejalan dengan misi Microsoft mengganggu pasar tablet Android dan iOS. Jadinya tablet Windows masih diam-diam saja di Indonesia
 

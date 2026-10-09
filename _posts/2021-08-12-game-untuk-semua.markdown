@@ -97,6 +97,3 @@ devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
 [Twitter](https://twitter.com/devilpenakut).
 
 [Americans' thoughts about video games | Pew Research Center](https://www.pewresearch.org/internet/2015/12/15/attitudes-about-video-games/) ↩︎
-
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)

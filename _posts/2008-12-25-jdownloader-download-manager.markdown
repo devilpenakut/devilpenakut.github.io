@@ -17,23 +17,23 @@ Sudah beberapa download manager yg saya pakai, mulai dr yg berbayar sampai denga
 <!--more-->  
 Jdownloader merupakan DM berbasis java, sehingga dapat digunakan diberbagai sistem operasi, bukan hanya windows. Berikut beberapa kelebihannya:
 
-# Platform independen. (Windows, Linux, Mac, ..)  
-# Berjalan pada Java 1.5 atau lebih tinggi  
-# Merupakan Open-Source (GPL)  
-# Dukungan 24-jam  
-# Download beberapa file parelel  
-# Download dengan beberapa sambungan (seperti MSD)  
-# JD memiliki OCR (JAntiCaptcha)  
-# Dekripsi RSDF, CCF dan DLC Containerfiles  
-# Decryptplugins untuk banyak layanan. eg sj.org, UCMS, WordPress, RLSLog…. sj.org misalnya, UCMS, WordPress, RLSLog ….  
-# Youtube video dan Mp3 Download  
-# Ekstrak otomatis (termasuk daftar pencarian password) (Rar & 7z arsip)  
-# Theme Support  
-# Multi Bahasa  
-# Sekitar 55 hoster dan lebih dari 120 dekripsi plug-in  
-# Reconnect with JDLiveHeaderScripts: (1400 router supported)  
-# Webupdate  
-# paket tambahan dapat didownload atau menggunakan update terapadu
+- Platform independen. (Windows, Linux, Mac, ..)  
+- Berjalan pada Java 1.5 atau lebih tinggi  
+- Merupakan Open-Source (GPL)  
+- Dukungan 24-jam  
+- Download beberapa file parelel  
+- Download dengan beberapa sambungan (seperti MSD)  
+- JD memiliki OCR (JAntiCaptcha)  
+- Dekripsi RSDF, CCF dan DLC Containerfiles  
+- Decryptplugins untuk banyak layanan. eg sj.org, UCMS, WordPress, RLSLog…. sj.org misalnya, UCMS, WordPress, RLSLog ….  
+- Youtube video dan Mp3 Download  
+- Ekstrak otomatis (termasuk daftar pencarian password) (Rar & 7z arsip)  
+- Theme Support  
+- Multi Bahasa  
+- Sekitar 55 hoster dan lebih dari 120 dekripsi plug-in  
+- Reconnect with JDLiveHeaderScripts: (1400 router supported)  
+- Webupdate  
+- paket tambahan dapat didownload atau menggunakan update terapadu
 
 Dari beberapa fitur tersebut yg paling saya suka pastinya dukungan download beberapa part dari satu file sehingga lebih cepat terutama untuk download rapidshare dengan akun premium.
 

@@ -73,10 +73,12 @@ Screenshot dr GDM
 6.GTK Splash  
 Merubah splash screen paling mudah menggunakan GtweakUI. Dapat di unduh di Homepage: http://sourceforge.net/projects/gtweakui untuk yang sudah mempunyai repo ketik
 
+```bash
 sudo apt-get install gtweakui
+```
 
 di terminal.  
-Setelah instalasi copy semua splash images files dari GTK Splash ke/usr/share/pixmaps/splash/ sebagai root.  
+Setelah instalasi copy semua splash images files dari GTK Splash ke `/usr/share/pixmaps/splash/` sebagai root.  
 Lalu pilih System \> Preferences \> gtweakui-session. Klik gambar yang dipilih.Apply.
 
 [![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-14.jpg?resize=235%2C300)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-14.jpg)
@@ -85,7 +87,7 @@ Lalu pilih System \> Preferences \> gtweakui-session. Klik gambar yang dipilih.A
 Untuk merubah bootscreen dengan menggunakan Startup Manager (SUM). Dapat dilihat di Repo atau di Homepage:  
 https://sourceforge.net/projects/startup-manager/
 
-Setelah SUM di install, copy .so file dari USplash folder ke /usr/lib/usplash sebagai root.
+Setelah SUM di install, copy .so file dari USplash folder ke `/usr/lib/usplash` sebagai root.
 
 Penting!Backup Grub untuk menghindari hal-hal yang tidak diinginkan.
 

@@ -4,28 +4,141 @@
   "title": "Design System: Devil Penakut",
   "extensions": {
     "colorMeta": {
-      "parchment": { "role": "neutral", "displayName": "Parchment Stock", "canonical": "#e2dedb", "tonalRamp": ["#1d1d1b", "#5f5d5b", "#a09e9b", "#e2dedb", "#e6e3e0", "#ebe8e5", "#f0edea", "#f4f2ef"] },
-      "paper": { "role": "neutral", "displayName": "Paper Inset", "canonical": "#ebe8e5", "tonalRamp": ["#1d1d1b", "#62615e", "#a6a4a2", "#ebe8e5", "#edeae8", "#f0edea", "#f2f0ec", "#f4f2ef"] },
-      "ink": { "role": "primary", "displayName": "Ink Black", "canonical": "#1d1d1b", "tonalRamp": ["#000000", "#0f0f0e", "#1d1d1b", "#535250", "#888885", "#bebdba", "#dedcd9", "#f4f2ef"] },
-      "charcoal": { "role": "neutral", "displayName": "Charcoal Ink", "canonical": "#5c5853", "tonalRamp": ["#1d1d1b", "#32312e", "#474440", "#5c5853", "#827e7a", "#a8a5a1", "#ceccc8", "#f4f2ef"] },
-      "ember": { "role": "primary", "displayName": "Ember Stamp", "canonical": "#ad3810", "tonalRamp": ["#1d1d1b", "#4d2617", "#7d2f14", "#ad3810", "#bf6648", "#d09580", "#e2c4b7", "#f4f2ef"] },
-      "bone": { "role": "tertiary", "displayName": "Bone Cream", "canonical": "#cdc6be", "tonalRamp": ["#1d1d1b", "#585551", "#928e88", "#cdc6be", "#d7d1ca", "#e0dcd6", "#eae7e3", "#f4f2ef"] }
+      "parchment": {
+        "role": "neutral",
+        "displayName": "Parchment Stock",
+        "canonical": "#e2dedb",
+        "tonalRamp": [
+          "#1d1d1b",
+          "#5f5d5b",
+          "#a09e9b",
+          "#e2dedb",
+          "#e6e3e0",
+          "#ebe8e5",
+          "#f0edea",
+          "#f4f2ef"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper Inset",
+        "canonical": "#ebe8e5",
+        "tonalRamp": [
+          "#1d1d1b",
+          "#62615e",
+          "#a6a4a2",
+          "#ebe8e5",
+          "#edeae8",
+          "#f0edea",
+          "#f2f0ec",
+          "#f4f2ef"
+        ]
+      },
+      "ink": {
+        "role": "primary",
+        "displayName": "Ink Black",
+        "canonical": "#1d1d1b",
+        "tonalRamp": [
+          "#000000",
+          "#0f0f0e",
+          "#1d1d1b",
+          "#535250",
+          "#888885",
+          "#bebdba",
+          "#dedcd9",
+          "#f4f2ef"
+        ]
+      },
+      "charcoal": {
+        "role": "neutral",
+        "displayName": "Charcoal Ink",
+        "canonical": "#5c5853",
+        "tonalRamp": [
+          "#1d1d1b",
+          "#32312e",
+          "#474440",
+          "#5c5853",
+          "#827e7a",
+          "#a8a5a1",
+          "#ceccc8",
+          "#f4f2ef"
+        ]
+      },
+      "ember": {
+        "role": "primary",
+        "displayName": "Ember Stamp",
+        "canonical": "#ad3810",
+        "tonalRamp": [
+          "#1d1d1b",
+          "#4d2617",
+          "#7d2f14",
+          "#ad3810",
+          "#bf6648",
+          "#d09580",
+          "#e2c4b7",
+          "#f4f2ef"
+        ]
+      },
+      "bone": {
+        "role": "tertiary",
+        "displayName": "Bone Cream",
+        "canonical": "#cdc6be",
+        "tonalRamp": [
+          "#1d1d1b",
+          "#585551",
+          "#928e88",
+          "#cdc6be",
+          "#d7d1ca",
+          "#e0dcd6",
+          "#eae7e3",
+          "#f4f2ef"
+        ]
+      }
     },
     "typographyMeta": {
-      "display": { "displayName": "Display", "purpose": "Banner title, year numerals, post-aside year. Bodoni Moda 900, crushed to line-height .74 to .78." },
-      "headline": { "displayName": "Headline", "purpose": "Post and page titles, lead story title. Bodoni Moda 800, line-height .9 to .92." },
-      "title": { "displayName": "Title", "purpose": "Headings inside entries (h2 to h4). Bodoni Moda 700." },
-      "body": { "displayName": "Body", "purpose": "Reading text, 68ch measure. Source Serif 4 at 400." },
-      "label": { "displayName": "Label", "purpose": "Stamp mark only. Uppercase, 0.08em tracking." },
-      "nameplate": { "displayName": "Nameplate", "purpose": "Pirata One blackletter, masthead and colophon name only." }
+      "display": {
+        "displayName": "Display",
+        "purpose": "Banner title, year numerals, post-aside year. Bodoni Moda 900, crushed to line-height .74 to .78."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Post and page titles, lead story title. Bodoni Moda 800, line-height .9 to .92."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Headings inside entries (h2 to h4). Bodoni Moda 700."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading text, 68ch measure. Source Serif 4 at 400."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Stamp mark only. Uppercase, 0.08em tracking."
+      },
+      "nameplate": {
+        "displayName": "Nameplate",
+        "purpose": "Pirata One blackletter, masthead and colophon name only."
+      }
     },
     "shadows": [],
     "motion": [
-      { "name": "seal-stamp", "value": "stamp .7s cubic-bezier(.16, 1, .3, 1) both (rotate -16deg scale 1.25 to -8deg scale 1)", "purpose": "One-time stamp-in of the lead seal. Disabled under prefers-reduced-motion." },
-      { "name": "scroll", "value": "scroll-behavior: smooth on html", "purpose": "Anchor jumps (Arsip). Disabled under prefers-reduced-motion." }
+      {
+        "name": "seal-stamp",
+        "value": "stamp .7s cubic-bezier(.16, 1, .3, 1) both (rotate -16deg scale 1.25 to -8deg scale 1)",
+        "purpose": "One-time stamp-in of the lead seal. Disabled under prefers-reduced-motion."
+      },
+      {
+        "name": "scroll",
+        "value": "scroll-behavior: smooth on html",
+        "purpose": "Anchor jumps (Arsip). Disabled under prefers-reduced-motion."
+      }
     ],
     "breakpoints": [
-      { "name": "small", "value": "760px" }
+      {
+        "name": "small",
+        "value": "760px"
+      }
     ]
   },
   "components": [
@@ -74,9 +187,21 @@
       "Square images, 0px radius; the only rounded form is the 2.88px stamp."
     ],
     "rules": [
-      { "name": "The One Stamp Rule", "body": "Ember appears only in the seal, stamp marks, focus outline, and caret. A screen carries one chromatic note, and its rarity is the point.", "section": "colors" },
-      { "name": "The Crushed Display Rule", "body": "Bodoni display sets at line-height .74 to .92 with negative tracking (-0.04 to -0.06em). Body text never does. Open leading on display type is the bug.", "section": "typography" },
-      { "name": "The Ruled Not Shadowed Rule", "body": "Structure is drawn with ink rules: 1px for section and dateline rules, 4px for the colophon top rule, 3px double for entry dividers. The only filled containers are the ink banner, the paper stub, and the paper seal.", "section": "elevation" }
+      {
+        "name": "The One Stamp Rule",
+        "body": "Ember appears only in the seal, stamp marks, focus outline, and caret. A screen carries one chromatic note, and its rarity is the point.",
+        "section": "colors"
+      },
+      {
+        "name": "The Crushed Display Rule",
+        "body": "Bodoni display sets at line-height .74 to .92 with negative tracking (-0.04 to -0.06em). Body text never does. Open leading on display type is the bug.",
+        "section": "typography"
+      },
+      {
+        "name": "The Ruled Not Shadowed Rule",
+        "body": "Structure is drawn with ink rules: 1px for section and dateline rules, 4px for the colophon top rule, 3px double for entry dividers. The only filled containers are the ink banner, the paper stub, and the paper seal.",
+        "section": "elevation"
+      }
     ],
     "dos": [
       "Do set display type in Bodoni at line-height .74 to .92 with negative tracking.",
@@ -94,5 +219,11 @@
       "Don't introduce gradients, glassmorphism, or blur.",
       "Don't round corners on images or blocks; the 2.88px stamp is the only rounded form."
     ]
+  },
+  "typographyMeta": {
+    "code": {
+      "displayName": "Code",
+      "purpose": "System monospace for code blocks and inline code only (commands, config, paths)."
+    }
   }
 }

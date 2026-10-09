@@ -34,70 +34,79 @@ Peratamanya saya menggunakan kedua cara tersebut, namun setelah beberapa kali be
 atau menggunakan dvd repo
 
 **4.Extract file tersebut dengan perintah :  
-$ tar -jxvf usb\_modeswitch-0.9..3.tar.bz2**
+`$ tar -jxvf usb_modeswitch-0.9..3.tar.bz2`**
+
+```bash
+$ ls  
+usb_modeswitch-0.9.3.tar.bz2
+
+$ tar -xvjf usb_modeswitch-0.9.3.tar.bz2  
+usb_modeswitch-0.9.3/  
+usb_modeswitch-0.9.3/compile.sh  
+usb_modeswitch-0.9.3/usb_modeswitch  
+usb_modeswitch-0.9.3/usb_modeswitch.conf  
+usb_modeswitch-0.9.3/usb_modeswitch.c  
+usb_modeswitch-0.9.3/usb_modeswitch.h  
+usb_modeswitch-0.9.3/COPYING  
+usb_modeswitch-0.9.3/README
 
 $ ls  
-usb\_modeswitch-0.9.3.tar.bz2
+usb_modeswitch-0.9.3 usb_modeswitch-0.9.3.tar.bz2
 
-$ tar -xvjf usb\_modeswitch-0.9.3.tar.bz2  
-usb\_modeswitch-0.9.3/  
-usb\_modeswitch-0.9.3/compile.sh  
-usb\_modeswitch-0.9.3/usb\_modeswitch  
-usb\_modeswitch-0.9.3/usb\_modeswitch.conf  
-usb\_modeswitch-0.9.3/usb\_modeswitch.c  
-usb\_modeswitch-0.9.3/usb\_modeswitch.h  
-usb\_modeswitch-0.9.3/COPYING  
-usb\_modeswitch-0.9.3/README
+$ cd usb_modeswitch-0.9.3/
 
-$ ls  
-usb\_modeswitch-0.9.3 usb\_modeswitch-0.9.3.tar.bz2
-
-$ cd usb\_modeswitch-0.9.3/
-
-~/usb\_modeswitch-0.9.3$ ls  
+~/usb_modeswitch-0.9.3$ ls  
 compile.sh  
 README  
-usb\_modeswitch.c  
-usb\_modeswitch.h  
+usb_modeswitch.c  
+usb_modeswitch.h  
 COPYING  
-usb\_modeswitch  
-usb\_modeswitch.conf
+usb_modeswitch  
+usb_modeswitch.conf
+```
 
 3.Login sebagai root
 
+```bash
 $ su atau  
 $ sudo su
+```
 
-5.Copy file executable “usb\_modeswitch” pada directory “/sbin” dan “/usr/sbin”
+5.Copy file executable “usb\_modeswitch” pada directory “`/sbin`” dan “`/usr/sbin`”
 
-~/usb\_modeswitch-0.9.2# cp usb\_modeswitch /sbin/usb\_modeswitch  
-~/usb\_modeswitch-0.9.2# cp usb\_modeswitch /usr/sbin/usb\_modeswitch
+```bash
+~/usb_modeswitch-0.9.2# cp usb_modeswitch /sbin/usb_modeswitch  
+~/usb_modeswitch-0.9.2# cp usb_modeswitch /usr/sbin/usb_modeswitch
+```
 
-6.Copy file “usb\_modeswitch.conf” ke directory “/etc”
+6.Copy file “usb\_modeswitch.conf” ke directory “`/etc`”
 
-~/usb\_modeswitch-0.9.2# cp usb\_modeswitch.conf /etc/usb\_modeswitch.conf
+```bash
+~/usb_modeswitch-0.9.2# cp usb_modeswitch.conf /etc/usb_modeswitch.conf
+```
 
-7.Buat file rules di /etc/udev/rules.d/15-zte-mf620.rules yang berisikan : (rue ini berguna untuk membuat mf622 diddeteksi sebagai modem)
+7.Buat file rules di `/etc/udev/rules.d/15-zte-mf620.rules` yang berisikan : (rue ini berguna untuk membuat mf622 diddeteksi sebagai modem)
 
+```text
 #————————————————–  
-ACTION!=”add”, GOTO=”ZTE\_End”
+ACTION!=”add”, GOTO=”ZTE_End”
 
 # Is this the ZeroCD device?  
 SUBSYSTEM==”usb”, SYSFS{idProduct}==”2000″,  
-SYSFS{idVendor}==”19d2″, GOTO=”ZTE\_ZeroCD”
+SYSFS{idVendor}==”19d2″, GOTO=”ZTE_ZeroCD”
 
 # Is this the actual modem?  
 SUBSYSTEM==”usb”, SYSFS{idProduct}==”0001″,  
-SYSFS{idVendor}==”19d2″, GOTO=”ZTE\_Modem”
+SYSFS{idVendor}==”19d2″, GOTO=”ZTE_Modem”
 
-LABEL=”ZTE\_ZeroCD”  
+LABEL=”ZTE_ZeroCD”  
 # This is the ZeroCD part of the card, remove  
-# the usb\_storage kernel module so  
+# the usb_storage kernel module so  
 # it does not get treated like a storage device  
-#RUN+=”/sbin/rmmod usb\_storage”  
-RUN+=”/usr/sbin/usb\_modeswitch -d 1 -v 0x19d2 -p 0x2000 -V 0x19d2 -P 0x0001″
+#RUN+=”/sbin/rmmod usb_storage”  
+RUN+=”/usr/sbin/usb_modeswitch -d 1 -v 0x19d2 -p 0x2000 -V 0x19d2 -P 0x0001″
 
-LABEL=”ZTE\_Modem”  
+LABEL=”ZTE_Modem”  
 # This is the Modem part of the card, let’s  
 # load usbserial with the correct vendor  
 # and product ID’s so we get our usb serial devices  
@@ -106,17 +115,21 @@ RUN+=”/sbin/modprobe usbserial vendor=0x19d2 product=0x0001″,
 # able to use the usb serial devices.  
 MODE=”660″, GROUP=”dialout”
 
-LABEL=”ZTE\_End”  
+LABEL=”ZTE_End”  
 #——————– eof —————
+```
 
-Pastikan permision filenya sama dengan rule yang lain. # chmod 644 15-zte-mf622.rules
+Pastikan permision filenya sama dengan rule yang lain. # `chmod 644 15-zte-mf622.rules`
 
-8.Pastikan Anda telah menginstall wvdial di Linux, (di Debian atau Ubuntu tinggal install melalui apt-get atau melalui Synaptic).
+8.Pastikan Anda telah menginstall wvdial di Linux, (di Debian atau Ubuntu tinggal install melalui `apt-get` atau melalui Synaptic).
 
+```bash
 # apt-get install wvdial
+```
 
-9.Buat script di /etc/wvdial.conf berisikan : ( **user name** dan **password** diisi sesuai user name masing2)
+9.Buat script di `/etc/wvdial.conf` berisikan : ( **user name** dan **password** diisi sesuai user name masing2)
 
+```ini
 [Dialer Defaults]  
 Modem = /dev/ttyUSB0  
 Baud = 3600000  
@@ -124,7 +137,7 @@ Init1 = ATZ
 Init2 = ATQ0 V1 E1 S0=0 &C1 &D2  
 Init3 = AT+CGDCONT=1,”IP”,”indosatm2″  
 Area Code =  
-Phone = \*99#  
+Phone = *99#  
 Username =  
 Password =  
 Ask Password = 0  
@@ -137,49 +150,55 @@ DialMessage1 =
 DialMessage2 =  
 ISDN = 0  
 Auto DNS = 1  
+```
   
 10.Restart Linux anda sekarang
 
 11.Jalankan program wvdial nya :
 
+```bash
 # wvdial  
-WvDial\<\*1\>: WvDial: Internet dialer version 1.56  
-WvModem\<\*1\>: Cannot get information for serial port.  
-WvDial\<\*1\>: Initializing modem.  
-WvDial\<\*1\>: Sending: ATZ  
-WvDial Modem\<\*1\>: ATZ  
-WvDial Modem\<\*1\>: OK  
-WvDial\<\*1\>: Sending: ATQ0 V1 E1 S0=0 &C1 &D2  
-WvDial Modem\<\*1\>: ATQ0 V1 E1 S0=0 &C1 &D2  
-WvDial Modem\<\*1\>: OK  
-WvDial\<\*1\>: Sending: AT+CGDCONT=1,”IP”,”indosatm2″  
-WvDial Modem\<\*1\>: AT+CGDCONT=1,”IP”,”indosatm2″  
-WvDial Modem\<\*1\>: OK  
-WvDial\<\*1\>: Modem initialized.  
-WvDial\<\*1\>: Sending: ATDT\*99#  
-WvDial\<\*1\>: Waiting for carrier.  
-WvDial Modem\<\*1\>: ATDT\*99#  
-WvDial Modem\<\*1\>: CONNECT  
-WvDial\<\*1\>: Carrier detected. Starting PPP immediately.  
+```
+
+```text
+WvDial<*1>: WvDial: Internet dialer version 1.56  
+WvModem<*1>: Cannot get information for serial port.  
+WvDial<*1>: Initializing modem.  
+WvDial<*1>: Sending: ATZ  
+WvDial Modem<*1>: ATZ  
+WvDial Modem<*1>: OK  
+WvDial<*1>: Sending: ATQ0 V1 E1 S0=0 &C1 &D2  
+WvDial Modem<*1>: ATQ0 V1 E1 S0=0 &C1 &D2  
+WvDial Modem<*1>: OK  
+WvDial<*1>: Sending: AT+CGDCONT=1,”IP”,”indosatm2″  
+WvDial Modem<*1>: AT+CGDCONT=1,”IP”,”indosatm2″  
+WvDial Modem<*1>: OK  
+WvDial<*1>: Modem initialized.  
+WvDial<*1>: Sending: ATDT*99#  
+WvDial<*1>: Waiting for carrier.  
+WvDial Modem<*1>: ATDT*99#  
+WvDial Modem<*1>: CONNECT  
+WvDial<*1>: Carrier detected. Starting PPP immediately.  
 WvDial: Starting pppd at Mon Feb 11 01:06:45 2008  
 WvDial: Pid of pppd: 14291  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: Using interface ppp0  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: local IP address 124.81.144.28  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: remote IP address 10.64.64.64  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: primary DNS address 202.155.0.10  
-WvDial\<\*1\>: pppd: H�  
-WvDial\<\*1\>: secondary DNS address 202.155.0.15  
-WvDial\<\*1\>: pppd: H�
+WvDial<*1>: pppd: H�  
+WvDial<*1>: Using interface ppp0  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: local IP address 124.81.144.28  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: remote IP address 10.64.64.64  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: primary DNS address 202.155.0.10  
+WvDial<*1>: pppd: H�  
+WvDial<*1>: secondary DNS address 202.155.0.15  
+WvDial<*1>: pppd: H�
+```
 
 Jika muncul seperti diatas berarti kita sudah terkoneksi dengan 3G HSDPA dan sudah mendapatkan IP maupun DNS.
 
