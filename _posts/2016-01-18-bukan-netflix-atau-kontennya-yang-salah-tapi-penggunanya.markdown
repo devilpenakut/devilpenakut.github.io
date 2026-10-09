@@ -98,4 +98,4 @@ Bagaimana cara orang tua melakukan kontrol terhadap anak, bagaimana melindungi a
 Jadi, masih salah Netflixnya? Ada komentar atau masukan? silahkan lewat komentar dibawah, [discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat [twitter](https://twitter.com/devilpenakut).
 
 <!--kg-card-begin: html--><script src="https://utteranc.es/client.js" repo="devilpenakut/dpcomment" issue-term="title" theme="preferred-color-scheme" crossorigin="anonymous" async>
-</script><!--kg-card-end: html--><!--kg-card-begin: html--><script async src="%5B%5D(https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)%5Bhttps://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%5D(https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)"></script> <!-- Iklan footer --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1156918246014761" data-ad-slot="1840206804" data-ad-format="auto" data-full-width-responsive="true"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><!--kg-card-end: html-->
+</script><!--kg-card-end: html-->

@@ -34,9 +34,7 @@ Jika iPhone Anda menolak untuk dihidupkan, langkah pertama adalah di charge, ata
 
 Perhatikan bahwa jika iPhone Anda sangat rendah daya, layar seperti tadi mungkin memakan waktu beberapa menit untuk muncul. Jika bagian merah dari gambar baterai berkedip tiga kali dan kemudian muncul layar hitam, iPhone Anda tidak melakukan pengisian. Jika iPhone Anda masih tidak akan menyala, terdapat masalah pada baterai, selanjutnya bisa dibaca.
 
-<!--kg-card-begin: html--><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1156918246014761" data-ad-slot="3728003542"></ins><script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--kg-card-end: html-->
+
 
 ## **3. iPhone Saya Tidak Mau Mengisi Daya**
 
@@ -60,9 +58,7 @@ Jika iPhone Anda gagal untuk terhubung ke Internet melalui jaringan data selular
 
 Jika itu tidak memecahkan masalah koneksi, coba ulang pengaturan jaringan iPhone. Pergi ke _Pengaturan, Umum_ , _ulang_ , dan kemudian pilih _Reset_–_Network Setting_. Perhatikan bahwa Anda mungkin perlu masuk kembali password jaringan apapun yang Anda telah disimpan dalam telepon. Jika itu masih tidak memperbaiki masalah Anda, Anda mungkin perlu menghubungi operator selular. Jadi kemungkinan kesalah bukan pada iPhone Anda.
 
-<!--kg-card-begin: html--><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1156918246014761" data-ad-slot="3728003542"></ins><script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--kg-card-end: html-->
+
 
 ## **5. iPhone Saya Tidak Mau Connect ke Wifi/Hotspot**
 
@@ -82,9 +78,7 @@ Selain itu, Apple menyarankan menyalakan telepon dan mematikan, jika itu tidak b
 
 Jika tidak ada perbaikan yang bekerja, Anda mungkin harus mengambil iPhone ke toko Apple untuk perbaikan. Pengguna umumnya melaporkan keberhasilan ketika mereka telah melakukan ini.
 
-<!--kg-card-begin: html--><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1156918246014761" data-ad-slot="3728003542"></ins><script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--kg-card-end: html-->
+
 
 ## **7. Home Button iPhone saya Tidak Bekerja**
 
@@ -102,9 +96,7 @@ Jika layar sentuh iPhone Anda tidak merespons, menonaktifkan ponsel dan kemudian
 
 Jika layar tersebut masih tidak bekerja, masalahnya mungkin dengan perangkat keras, bukan perangkat lunak iPhone. Jika Anda menjatuhkan iPhone Anda, bagian dalam konektor mungkin perlu diperbaiki atau reseated. Anda dapat menemukan petunjuk tentang cara untuk melakukan itu secara online, tetapi memperingatkan bahwa prosedur mengharuskan Anda untuk membuka iPhone Anda dan menggali sekitar di dalam. Jika iPhone Anda masih dalam garansi, Anda tentu lebih baik membawanya ke sebuah toko Apple sebagai gantinya.
 
-<!--kg-card-begin: html--><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1156918246014761" data-ad-slot="3728003542"></ins><script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--kg-card-end: html-->
+
 
 ## **9. Layar iPhone Saya Pecah \*duh\***
 
@@ -134,6 +126,3 @@ Akhir kata, pesan, saran, kritik dipersilahkan
 
 http://www.pcworld.com/article/210480/iphone\_annoyances.html
 
-<!--kg-card-begin: html--><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Iklan footer --><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1156918246014761" data-ad-slot="1840206804" data-ad-format="auto" data-full-width-responsive="true"></ins><script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--kg-card-end: html-->

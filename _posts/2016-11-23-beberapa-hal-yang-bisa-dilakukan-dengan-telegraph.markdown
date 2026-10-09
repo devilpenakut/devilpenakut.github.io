@@ -44,6 +44,3 @@ Misal kita sedang melakukan riset atas suatu hal, maka Telegraph bisa menjadi te
 
 Itu beberapa hal yang bisa dilakukan menggunakan Telegraph menurut saya. Bagaimana menurut kamu? _Mention_ saya di [Twitter](https://twitter.com/devilpenakut)juga ya.
 
-<!--kg-card-begin: html--><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Iklan footer --><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1156918246014761" data-ad-slot="1840206804" data-ad-format="auto" data-full-width-responsive="true"></ins><script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--kg-card-end: html-->
