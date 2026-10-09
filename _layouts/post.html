@@ -12,7 +12,14 @@ layout: default
   </header>
 
   {% assign th = page.date | date: "%Y" %}
-  <aside class="post-aside"><a href="{{ site.baseurl }}/#th-{{ th }}">{{ th }}<span>Tulisan lain tahun ini</span></a></aside>
+  <aside class="post-aside">
+    <div class="aside-stick">
+      <a class="aside-year" href="{{ site.baseurl }}/#th-{{ th }}">{{ th }}<span>Tulisan lain tahun ini</span></a>
+      <nav class="toc toc-side" aria-label="Daftar isi" hidden><p class="toc-title">Daftar isi</p><ol></ol></nav>
+    </div>
+  </aside>
+
+  <details class="toc toc-inline" hidden><summary>Daftar isi</summary><ol></ol></details>
 
   {% assign isi = content | strip_html | strip %}
   {% if isi == "" %}
@@ -26,6 +33,8 @@ layout: default
   </div>
   {% endif %}
 
+  <p class="to-top"><a href="#main"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M8 13V3M3.5 7.5 8 3l4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>Kembali ke atas</a></p>
+
   <nav class="post-nav" aria-label="Tulisan lain">
     {% if page.previous %}<a class="post-nav-prev" href="{{ site.baseurl }}{{ page.previous.url }}"><span>Sebelumnya</span>{{ page.previous.title }}</a>{% endif %}
     {% if page.next %}<a class="post-nav-next" href="{{ site.baseurl }}{{ page.next.url }}"><span>Berikutnya</span>{{ page.next.title }}</a>{% endif %}
@@ -33,3 +42,22 @@ layout: default
 
   {% include disqus.html %}
 </article>
+
+<script>
+  (function () {
+    var heads = document.querySelectorAll('.entry h2');
+    if (heads.length < 2) return;
+    var lists = document.querySelectorAll('.toc ol');
+    heads.forEach(function (h, i) {
+      if (!h.id) h.id = 'bagian-' + (i + 1);
+      lists.forEach(function (ol) {
+        var li = document.createElement('li'), a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = h.textContent;
+        li.appendChild(a);
+        ol.appendChild(li);
+      });
+    });
+    document.querySelectorAll('.toc').forEach(function (n) { n.hidden = false; });
+  })();
+</script>
