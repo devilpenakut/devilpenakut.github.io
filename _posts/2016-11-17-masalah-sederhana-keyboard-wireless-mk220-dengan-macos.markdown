@@ -12,7 +12,7 @@ _“Bulan kemarin produksi saya terhambat”, kata nasabah. “Gara-gara mesin a
 
 Kadang memang kita kalau melihat masalah adalah bagian besarnya. Namun yang tidak kita mengerti kadang suatu masalah itu bisa dibetulkan dengan cara yang sederhana. Contoh nasabah tersebut, dan pengalaman saya dengan _keyboard wireless_&nbsp;baru-baru ini.
 
-Saya berencana mencoba menyambungkan<u><a href="https://support.apple.com/kb/sp631" target="_blank"> Macbook Air jadul</a></u>&nbsp;ke TV menggunakan kabel <u><a href=" __GHOST_URL__ /tag/hdmi/" target="_blank">HDMI</a></u>. Port Thunderbolt ke HDMI sudah dibeli. Namun tidak enak dong kalau mau mengoperasikan Macbook itu harus datang ke depan TV. Maka digunakan _keyboard_ dan _mouse wireless_ agar bisa dioperasikan dari jarak jauh.
+Saya berencana mencoba menyambungkan<u><a href="https://support.apple.com/kb/sp631" target="_blank"> Macbook Air jadul</a></u>&nbsp;ke TV menggunakan kabel <u><a href="/#arsip" target="_blank">HDMI</a></u>. Port Thunderbolt ke HDMI sudah dibeli. Namun tidak enak dong kalau mau mengoperasikan Macbook itu harus datang ke depan TV. Maka digunakan _keyboard_ dan _mouse wireless_ agar bisa dioperasikan dari jarak jauh.
 
 Saya sudah punya _keyboard_ dan _mouse wireless,_&nbsp;sebelumnya saya pakai di PC, <u><a href="http://www.logitech.com/en-roeu/product/wireless-combo-mk220" target="_blank">Logitech MK220</a></u>. Produk yang cukup simpel dan enak digunakan, kecuali terkait baterai _keyboard_-nya. Saya sambungkan dongle-nya ke Macbook, ternyata mouse langsung terbaca namun keyboard-nya tidak.
 

@@ -1,0 +1,8 @@
+# Cloudflare Pages. Old Hashnode/Ghost URLs that have no page of their own.
+/rss.xml               /feed.xml                         301
+/archive               /#arsip                           301
+/recommendations       /                                 301
+/page/tokopedia-link   https://tokopedia-link.pages.dev/ 302
+/tag/*                 /#arsip                           301
+/:year/:month/:slug/   /:slug                            301
+/:year/:month/:slug    /:slug                            301

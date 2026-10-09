@@ -6,14 +6,55 @@ date: '2021-05-19 06:04:22'
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255339148/6559b03a-593d-4f63-96f7-2cc833fa4df6.webp)
 
-Konsol ini memang kericuhan pembeliannya tidak seramai PS5 bahkan Xbox SeriesX. Namun menurut saya konsol ini tidak bisa dipandang sebelah mata cumasekedar dilihat dari performanya. Karena konsol ini akan cocok bagi sebagian*gamer*.## Kenapa Pilih Xbox Series SAlasan paling besar kenapa saya pilih Xbox Series S adalah harga. Harga XboxSeries S memang sangat menarik, di-*range* 5.5 sampai 6 Juta sudah bisamembawa pulang Xbox Series S ini.Kedua, dengan harga itu kita sudah bisa mendapatkan mesin *game next-gen*dengan grafis mumpuni dan penyimpanan menggunakan SSD cepat.Walau secara kemampuan masih kalah dibandingkan dengan Xbox Series X dan PS5namun untuk bisa merasakan pengalaman *game* yang ditujukan untuk *next-gen*itu sudah cukup.## HargaHarga di Indonesia untuk Xbox Series S seperti yang sudah disebut diatas bahwabisa didapatkan di-*range* harga 5.5-6 juta rupiah. Bandingkan dengan PS5dengan harga normal 7-8 juta dan Xbox Series X seharga 9 jutaan jauh lebihmurah.Kalau stok makin banyak bisa jadi nantinya akan menyentuh *range* harga 4.5-5juta yang merupakan harga wajar berdasarkan harga jual di luar di 299 USD.Namun untuk saat ini dibandingkan dengan konsol next-gen lain harga initerbaik.Dengan harga tersebut didalamnya sudah termasuk kabel *power* , kabel HDMI 2.1dan satu *controller* berwarna putih.## SpesifikasiSpesifikasiXbox Series SSecara umum perbedaan spesifikasi Xbox Series S dan X adalah di kekuatankomputasinya. Mulai CPU, GPU, Memori, dan SSD (*storage*).
+Konsol ini memang kericuhan pembeliannya tidak seramai PS5 bahkan Xbox Series
+X. Namun menurut saya konsol ini tidak bisa dipandang sebelah mata cuma
+sekedar dilihat dari performanya. Karena konsol ini akan cocok bagi sebagian
+_gamer_.
+
+## Kenapa Pilih Xbox Series S
+
+Alasan paling besar kenapa saya pilih Xbox Series S adalah harga. Harga Xbox
+Series S memang sangat menarik, di- _range_ 5.5 sampai 6 Juta sudah bisa
+membawa pulang Xbox Series S ini.
+
+Kedua, dengan harga itu kita sudah bisa mendapatkan mesin _game next-gen_
+dengan grafis mumpuni dan penyimpanan menggunakan SSD cepat.
+
+Walau secara kemampuan masih kalah dibandingkan dengan Xbox Series X dan PS5
+namun untuk bisa merasakan pengalaman _game_ yang ditujukan untuk _next-gen_
+itu sudah cukup.
+
+## Harga
+
+Harga di Indonesia untuk Xbox Series S seperti yang sudah disebut diatas bahwa
+bisa didapatkan di- _range_ harga 5.5-6 juta rupiah. Bandingkan dengan PS5
+dengan harga normal 7-8 juta dan Xbox Series X seharga 9 jutaan jauh lebih
+murah.
+
+Kalau stok makin banyak bisa jadi nantinya akan menyentuh _range_ harga 4.5-5
+juta yang merupakan harga wajar berdasarkan harga jual di luar di 299 USD.
+Namun untuk saat ini dibandingkan dengan konsol next-gen lain harga ini
+terbaik.
+
+Dengan harga tersebut didalamnya sudah termasuk kabel _power_ , kabel HDMI 2.1
+dan satu _controller_ berwarna putih.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255340327/8c125d5a-e775-4940-8c75-683d54bf9b31.webp)
+
+## Spesifikasi
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255341515/edd7295e-3d70-4e16-bed4-2918e8a32d42.png)Spesifikasi
+Xbox Series S
+
+Secara umum perbedaan spesifikasi Xbox Series S dan X adalah di kekuatan
+komputasinya. Mulai CPU, GPU, Memori, dan SSD ( _storage_).
 
 Hal ini mengakibatkan ada perbedaan resolusi yang bisa ditampilkan, untuk Xbox
 Series X bisa sampai 4K 120hz sedang Xbox Series S hanya sampai 1040p di
 120hz.
 
 Hal itu terkait juga dengan tampilan grafis yang dihasilkan seperti tekstur,
-*draw distance* , dan waktu *loading*.
+_draw distance_ , dan waktu _loading_.
 
 [Dalam hal penggunaan daya listrik](https://support.xbox.com/en-US/help/hardware-network/power/learn-about-power-modes) pun Xbox Series S
 lebih rendah dibanding Series X. Penggunaan watt Xbox Series S ketika bermain
@@ -41,18 +82,20 @@ kompresi.
 Penggunaan SSD kencang tersebut jelas lonjakan kecepatan dari Xbox One X yang
 hanya menggunakan SSD dengan maksimal 140 MB/s. Jauh.
 
-Spek itu membuat *startup* konsol cepat, untuk buka *game* dan *loading* di
-dalamnya juga cuma sebentar, di bawah 10 detik. Apalagi bila *game* itu sudah
-pernah dibuka sebelumnya dan *support "quick resume"* , proses buka *game*
+Spek itu membuat _startup_ konsol cepat, untuk buka _game_ dan _loading_ di
+dalamnya juga cuma sebentar, di bawah 10 detik. Apalagi bila _game_ itu sudah
+pernah dibuka sebelumnya dan _support "quick resume"_ , proses buka _game_
 sampai bisa dimainkan akan lebih cepat lagi bisa dibawah 5 detik.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255342683/474591de-0496-4e8a-8086-7b377555e5a0.jpeg)
 
 **2. Grafis lebih baik daripada PS4**
 
 Dari sisi grafis (GPU), walau bukan kelas yang sama dengan Xbox Series X dan
-PS5 namun sangat mumpuni dalam menjalankan *game next-gen*.
+PS5 namun sangat mumpuni dalam menjalankan _game next-gen_.
 
-*Raytracing* ada, opsi sampai FPS sampai 120 Hz pun masih bisa, walau untuk 4K
-merupakan *upscalling* karena *native support-*nya sampai dengan 1440p saja.
+_Raytracing_ ada, opsi sampai FPS sampai 120 Hz pun masih bisa, walau untuk 4K
+merupakan _upscalling_ karena _native support-_ nya sampai dengan 1440p saja.
 Saya menganggap ini adalah konsol 1080p. Tau diri saja lah.
 
 Nah, namun bila dibandingkan dengan PS4, konsol yang menggantikan Xbox Series
@@ -62,7 +105,21 @@ bandingkan dengan Xbox Series S sebesar 4 TFLOPS.
 Kemampuan menampilkan grafis halus, cahaya dan bayangan saya rasa cukup
 memuaskan, khas next-gen.
 
+
+
+
+
 **3. Bentuk konsolnya kecil, ringkas**
+
+
+Ukuran Xbox Series S ini sangat ringkas dibanding dengan konsol terbaru
+lainnya, bahkan lebih kecil dari PS4 reguler. Dengan ukuran 6.5cm x 15.1cm x
+27.5cm sangat mudah untuk ditaruh baik di bawah TV LED ataupun rak meja.
+
+Bandingkan dengan Xbox Series X (15.1cm x 15.1cm x 30.1cm) dan PS5 (26cm x
+10.4cm x 39cm)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255344826/68b6c016-a4c9-4ea7-b873-1271924af9fb.jpeg)
 
 **4. Game Pass sangat menguntungkan**
 
@@ -70,85 +127,89 @@ Game Pass merupakan kekuatan utama dari Xbox Series S dan juga Series X
 tentunya.
 
 Game Pass ini merupakan sistem bayar langganan setiap bulan sehingga kita
-bebas untuk melakukan *download game* dalam perpustakaan *game* -nya.
+bebas untuk melakukan _download game_ dalam perpustakaan _game_ -nya.
 
-Walau kebanyakan merupakan *game* lama, namun beberapa juga merupakan *game*
-baru yang *day-one* (hari pertama *launching*) langsung muncul di Game Pass,
+Walau kebanyakan merupakan _game_ lama, namun beberapa juga merupakan _game_
+baru yang _day-one_ (hari pertama _launching_) langsung muncul di Game Pass,
 seperti Outriders kemarin.
 
 Dengan biaya langganan sekitar Rp.150.000-200.000 per-bulan tergantung region
 mana yang dipakai saya rasa masih sangat menguntungkan. Apalagi dengan pilihan
-diatas 100 *game* yang bisa dimainkan.
+diatas 100 _game_ yang bisa dimainkan.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255346827/96700402-ecee-4dda-b64d-69ec5ab5281f.jpeg)
 
 **5. Fitur Quick Resume yang ajaib**
 
-Selama ini sebagai pengguna PS4 yang masih menggunakan *hard disk* , proses
+Selama ini sebagai pengguna PS4 yang masih menggunakan _hard disk_ , proses
 untuk menyalakan PS sampai dengan ke menu utama dan dilanjut untuk masuk ke
-*game* -nya membutuhkan waktu dalam hitungan menit.
+_game_ -nya membutuhkan waktu dalam hitungan menit.
 
-Bila PS dalam kondisi *standby* maka proses sampai ke menu utama akan lebih
-cepat, namun untuk masuk ke *game-* nya akan tetap membutuhkan waktu tambahan.
+Bila PS dalam kondisi _standby_ maka proses sampai ke menu utama akan lebih
+cepat, namun untuk masuk ke _game-_ nya akan tetap membutuhkan waktu tambahan.
 
 Hal ini yang sangat berbeda ketika menggunakan Xbox Series S ini, waktu untuk
 masuk ke menu utama bisa dalam hitungan detik, bahkan untuk masuk ke game
 masih di bawah 1 menit.
 
 Hal lebih ajaib lagi bila kita mematikan konsol ketika sedang main, baik dalam
-opsi *power* di *instant-on* atau dalam keadaan *full shutdown* maka game akan
+opsi _power_ di _instant-on_ atau dalam keadaan _full shutdown_ maka game akan
 terbuka dibawah 5 detik dari menu dan berada diposisi kita terakhir main,
-bukan kembali ke menu utama *game*(kecuali untuk *game* yang selalu *online*).
+bukan kembali ke menu utama _game_(kecuali untuk _game_ yang selalu _online_).
 
-Perbedaannya untuk diposisi *instant-on* dari keadaan mati dan masuk ke menu
-akan lebih cepat dibanding dengan keadaan *full shutdown*.
+Perbedaannya untuk diposisi _instant-on_ dari keadaan mati dan masuk ke menu
+akan lebih cepat dibanding dengan keadaan _full shutdown_.
 
 ## Kekurangan
 
-**1. Tidak ada *optical audio* (toslink)**
+**1. Tidak ada _optical audio_ (toslink)**
 
-Dengan berfokus pada kekuatan HDMI 2.1 dan alasan bahwa penggunaan *optical
-audio* (toslink) tidak banyak maka Microsoft menghapuskan koneksi itu untuk
+Dengan berfokus pada kekuatan HDMI 2.1 dan alasan bahwa penggunaan _optical_
+_audio_ (toslink) tidak banyak maka Microsoft menghapuskan koneksi itu untuk
 Xbox Series S dan X.
 
-Namun ketika TV yang *support* untuk HDMI 2.1 juga belum banyak maka harusnya
-opsi *optical* itu tetap ada. Seperti *home theater* saya yang masih *support*
-untuk HDMI ARC dan input *optical* tidak bisa digunakan untuk langsung
+Namun ketika TV yang _support_ untuk HDMI 2.1 juga belum banyak maka harusnya
+opsi _optical_ itu tetap ada. Seperti _home theater_ saya yang masih _support_
+untuk HDMI ARC dan input _optical_ tidak bisa digunakan untuk langsung
 terhubung dengan Xbox Series S ini.
 
 Untungnya saya menemukan solusi untuk masalah ini yang saya bahas
-[disini](/hdmi-converter/).
+[disini](/hdmi-converter).
 
-**2. Digital *game* membutuhkan internet kencang dan *unlimited***
+**2. Digital _game_ membutuhkan internet kencang dan _unlimited_**
 
-Penggunaan Game Pass dan tidak adanya *disk tray* maka untuk memainkan game
-sangat bergantung pada *digital game* yang harus di download sepenuhnya.
+Penggunaan Game Pass dan tidak adanya _disk tray_ maka untuk memainkan game
+sangat bergantung pada _digital game_ yang harus di download sepenuhnya.
 
-Beberapa *game* memang tidak membutuhkan untuk akses, dan penggunaan *disk*
-untuk bermain *game* lama-lama berkurang.
+Beberapa _game_ memang tidak membutuhkan untuk akses, dan penggunaan _disk_
+untuk bermain _game_ lama-lama berkurang.
 
 Namun untuk pengguna yang tidak mempunyai internet mumpuni akan memiliki
 keterbatasan dengan Xbox Series S ini. Hal ini berlaku juga untuk PS5 versi
 digital.
 
-Perlu menunggu lama untuk memainkan *game* , bukan sekedar *download* untuk
-*update* -nya saja.
+Perlu menunggu lama untuk memainkan _game_ , bukan sekedar _download_ untuk
+_update_ -nya saja.
 
-**3 *. Controller* berasa murahan**
+**3 _. Controller_ berasa murahan**
 
-Dari sisi bermain, *controller* bawaan Xbox Series S ini yang paling
-mengganggu. Saya tidak mengharapkan fitur seperti *Dual Sense* nya PS5, namun
-cukup fitur standar saja layaknya *controller* PS4.
+Dari sisi bermain, _controller_ bawaan Xbox Series S ini yang paling
+mengganggu. Saya tidak mengharapkan fitur seperti _Dual Sense_ nya PS5, namun
+cukup fitur standar saja layaknya _controller_ PS4.
 
-Namun ternyata ini lebih buruk, rasanya seperti *controller* OEM atau KW.
-*Vibration motor* -nya tidak bagus, tombolnya berbunyi cukup keras dan tidak
+Namun ternyata ini lebih buruk, rasanya seperti _controller_ OEM atau KW.
+_Vibration motor_ -nya tidak bagus, tombolnya berbunyi cukup keras dan tidak
 halus, analognya tidak presisi dan rasa dipegangnya murahan.
 
-Entah ini sama dengan *controller* bawaan Xbox Series X atau tidak, kalau sama
+Entah ini sama dengan _controller_ bawaan Xbox Series X atau tidak, kalau sama
 hal ini harus diperbaiki oleh Microsoft.
 
-Tambahan tombol *share* -nya sebenarnya berguna dan bisa langsung tersimpan di
-*cloud* untuk diakses di aplikasi Xbox di ponsel. Tombol logo Xbox-nya saya
+Tambahan tombol _share_ -nya sebenarnya berguna dan bisa langsung tersimpan di
+_cloud_ untuk diakses di aplikasi Xbox di ponsel. Tombol logo Xbox-nya saya
 lebih suka jalan Xbox 360 yang sedikit menonjol, kalau ini rata dengan
-permukaan *controller* -nya.
+permukaan _controller_ -nya.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730255348395/b07d0c2c-723f-4d3d-bffc-964dca385713.jpeg)
 
 **4. Kemampuan grafis yang dibawah Xbox Series X dan PS5**
 
@@ -163,26 +224,23 @@ Microsoft sampai dengan saat ini belum secara resmi mengeluarkan lini Xbox di
 Indonesia. Sehingga barang Xbox Series S dan X yang beredar di Indonesia
 merupakan barang impor dari negara lain seperti Singapura, Jepang dan US.
 
-Beberapa penjual di *marketplace* memberikan garansi untuk pembelian selama
+Beberapa penjual di _marketplace_ memberikan garansi untuk pembelian selama
 satu minggu dan opsi untuk membantu klaim garansi. Jadi ketika beli bisa
 ditanyakan kepada penjualnya.
+
 
 ## Kesimpulan
 
 Xbox Series S ini sebenarnya ditujukan untuk siapa? Menurut saya siapa saja
 konsol ini cocok untuk dibeli bagi:
 
-- Gamer kasual yang memang tujuannya untuk bermain *game* tanpa menitikberatkan pada tampilan grafis.
-
-- Gamer yang ingin merasakan konsol *next-gen* namun mempunyai *budget* maksimal 6 juta.
-
-- Gamer yang baru masuk pertama kali didunia konsol dan tidak bermain PC sebelumnya.
-
-- Gamer yang sudah memiliki PS5 dan mempunai dana untuk mencoba ekosistem Xbox dengan Game Pass-nya
+1. Gamer kasual yang memang tujuannya untuk bermain _game_ tanpa menitikberatkan pada tampilan grafis.
+2. Gamer yang ingin merasakan konsol _next-gen_ namun mempunyai _budget_ maksimal 6 juta.
+3. Gamer yang baru masuk pertama kali didunia konsol dan tidak bermain PC sebelumnya.
+4. Gamer yang sudah memiliki PS5 dan mempunai dana untuk mencoba ekosistem Xbox dengan Game Pass-nya
 
 Jadi apakah Xbox Series S ini adalah konsol yang cocok buat kamu? kirim
-komentar atau masukan lewat [Discord
-devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
+komentar atau masukan lewat [Discord devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
 [Twitter](https://twitter.com/devilpenakut).
 
 **Link Pembelian:**
@@ -194,6 +252,3 @@ devilpenakut](https://discord.gg/694HsdDGzy) atau lewat
 [Lazada](https://invol.co/clg03zj)
 
 [Blibli](https://invl.io/clg03zy)
-
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)

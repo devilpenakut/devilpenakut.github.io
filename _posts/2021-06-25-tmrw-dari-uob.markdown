@@ -32,7 +32,7 @@ Sebelum saya masuk kelebihan dan kekurangan dari TMRW ini saya mau cerita
 kenapa saya memilih untuk mencoba dan menggunakan TMRW ini.
 
 TMRW ini saya pilih karena kemarin sempat gagal untuk daftar akun di Digibank
-yang saya jelaskan [di sini](/kelemahan-utama-digibank/).
+yang saya jelaskan [di sini](/kelemahan-utama-digibank).
 Nah setelah gagal saya mencari alternatif lain sehingga saya menggunakan TMRW
 ini.
 

@@ -48,7 +48,9 @@ Lalu buka http://127.0.0.1:4000
 - `index.html` - beranda: tulisan pilihan (tulisan terbaru yang ada isinya) dan arsip per tahun
 - `about.md` - halaman tentang
 - `404.md` - halaman 404
-- `_config.yml` - konfigurasi situs
+- `_config.yml` - konfigurasi situs. Permalink `/:title` (tanpa garis miring akhir), sama dengan format URL Hashnode
+- `_redirects` - aturan redirect untuk Cloudflare Pages (URL lama Hashnode/Ghost)
+- `tools/cek_url.py` - cek bahwa setiap URL di sitemap Hashnode punya halaman atau redirect: `jekyll build` lalu `python tools/cek_url.py`
 - `style.scss` - seluruh gaya situs. Warna dan font didefinisikan sebagai custom property di `:root` pada bagian atas file
 
 ## Desain

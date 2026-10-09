@@ -9,8 +9,6 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-[![blur-old-antique-book](https://i0.wp.com/devilpenakut.com/wp-content/uploads/2015/09/blur-old-antique-book.jpg?resize=640%2C237)](https://i0.wp.com/devilpenakut.com/wp-content/uploads/2015/09/blur-old-antique-book.jpg)[  
-]( __GHOST_URL__ /content/images/wordpress/2015/09/blur-old-antique-book.jpg)
 
 Berdasarkan penjualan yang diperkirakan ebook akan mengalahkan edisi cetak ternyata mempunyai fakta yang berbeda. Penjualan ebook ternyata terjadi perlambatan dan penjualan buku cetak jauh dari kata punah.
 

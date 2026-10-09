@@ -7,7 +7,7 @@ date: '2020-05-02 08:24:30'
 ## Sudah berlangganan Netflix, lalu?
 
 Oke, kalian sudah berlangganan, lalu [sudah menggunakan operator yang bisa
-Netflix](/paket-internet-netflix/) atau tetap menggunakan
+Netflix](/paket-internet-netflix) atau tetap menggunakan
 grup Telkom tapi [menggunakan VPN](**GHOST_URL**/2017/10/akses-netflix-yang-diblokir-memakai-vpn/). Nah sekarang bagaimana cara menonton
 [Netflix](https://www.netflix.com/id/n/2b438b29-cdb1-424e-bfb6-23edb20c4f90)?
 Mana yang paling enak?

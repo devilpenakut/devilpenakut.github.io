@@ -14,8 +14,6 @@ Layarnya juga oke. Panel 14 inch dengan resolusi 1920 x 1200, plus brightness sa
 
 ![](https://press.asus.com/assets/w_640,h_640/a624f17c-3859-488e-b077-27e1c225f54b/Zenbook%20A14_UX3407_Product%20photo_Iceland%20Gray_03.png)
 
-
-
 Nah yang bikin makin tertarik itu baterainya. ASUS klaim bisa tahan sampe 32 jam untuk pemutaran video! Walau dalam real life pasti ngga sampe segitu, tapi dengan kapasitas 70Wh harusnya bisa tahan seharian penuh lah ya. Perfect buat yang sering kerja di café atau meeting di luar. Karena pakai processor ARM itu.
 
 Konektivitas juga up to date banget. Udah support WiFi 6E yang lebih stabil dari WiFi 6, plus Bluetooth 5.3. Cocok buat yang butuh koneksi stabil dan cepet buat kerja.
@@ -24,4 +22,24 @@ Dari sisi pendinginan, ASUS pake heat pipe sama kipas aluminium yang ringan. Ini
 
 Soal harga, di US mulai dari Rp14.459.000 buat yang basic spec. Menurut saya ini worth it sih mengingat spek dan build quality-nya. Ada dua pilihan warna, Zabriskie Beige sama Iceland Gray yang dua-duanya elegan.
 
+![](https://press.asus.com/assets/w_640,h_640/37b21cb0-378d-49e1-976b-1a4db143f61b/Zenbook%20A14_UX3407_Product%20photo_Iceland%20Gray_01.png)
+
+![Iceland Gray](https://press.asus.com/assets/w_640,h_640/cc742ed6-a800-44da-bc4e-a4f6552873e3/Zenbook%20A14_UX3407_Product%20photo_Zabriskie%20Beige_01.png)
+
+Yang bikin saya mikir-mikir cuma satu sih: ini laptop pake Snapdragon, bukan Intel atau AMD. Walaupun katanya performanya kenceng kaya yang dipakai Apple dengan Seri M-nya, tapi tetep aja masih ada kekhawatiran soal kompatibilitas software. Tapi kayaknya dengan Windows yang udah makin mateng buat ARM, harusnya ngga masalah-masalah amat.
+
+Oh iya, satu hal lagi yang bikin saya tertarik adalah fitur AI-nya. Laptop ini punya Qualcomm Hexagon NPU dengan performa sampai 45 TOPS. Artinya bisa jalanin aplikasi AI kayak Live Caption atau Windows Studio Effects dengan mulus. Plus ada ASUS Copilot+ PC yang bisa bantu otomasi berbagai tugas.
+
+Terus soal build quality, laptop ini udah dapat sertifikasi MIL-STD 810H. Artinya udah diuji tahan suhu ekstrem, guncangan, dan getaran. Jadi ngga perlu khawatir kalau laptop kebanting dikit atau kena gerimis waktu dibawa.
+
+Link pembelian:
+
+[Blibli](https://s.blibli.com/GNtk/dinikqgt)
+
+[Shopee](https://s.shopee.co.id/3VVM6ttGiZ)
+
+* * *
+
 Gimana menurut kalian? Ada yang udah pernah nyoba atau punya laptop ARM? Share pengalaman kalian di kolom komentar ya!
+
+[#asus-zenbook-a14](https://devilpenakut.com/tag/asus-zenbook-a14) [#zenbook](https://devilpenakut.com/tag/zenbook) [#asus](https://devilpenakut.com/tag/asus)

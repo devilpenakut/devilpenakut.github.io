@@ -217,7 +217,7 @@ and WebKit Javascript.
 
 Jadi buat apa pakai aplikasi lain kalau semua sama? toh fitur lain seperti
 Safari. Toh untuk pemblokir iklan pun saya sudah pakai
-[NextDNS](/blokir-iklan-tanpa-aplikasi/). Secara sistem
+[NextDNS](/blokir-iklan-tanpa-aplikasi). Secara sistem
 segala *query* iklan terlah terblokir.
 
 ### Kamera
