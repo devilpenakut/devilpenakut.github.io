@@ -4,7 +4,7 @@ title: 'Windows Package Manager, menyuruh Windows melakukan install atau delete 
 date: '2021-08-10 08:57:45'
 ---
 
-### "Windows, install Firefox!" dan Windows akan otomatis mencari dan install
+## "Windows, install Firefox!" dan Windows akan otomatis mencari dan install
 
 Firefox.
 
@@ -18,7 +18,7 @@ otomatis.
 
 Winget ini tersedia di Windows 10, versi 1809 dan yang lebih baru.
 
-### Cara Menggunakan Winget untuk Mengunduh Aplikasi dengan Cepat
+## Cara Menggunakan Winget untuk Mengunduh Aplikasi dengan Cepat
 
 Buka aplikasi Windows **PowerShell** , juga bisa memakai **Command Prompt**.
 Ketik `winget` untuk melihat daftar perintah yang bisa kamu pakai.
@@ -68,7 +68,7 @@ winget upgrade spotify
 winget upgrade epicgames
 ```
 
-### Cara Menggunakan Winget untuk Menghapus Aplikasi
+## Cara Menggunakan Winget untuk Menghapus Aplikasi
 
 Untuk melakukan *uninstall* aplikasi maka bisa memakai perintah: `winget uninstall`
  dan secara otomatis winget akan melakukan proses *uninstall* tanpa

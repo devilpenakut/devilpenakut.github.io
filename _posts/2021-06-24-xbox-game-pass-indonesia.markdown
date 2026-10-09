@@ -4,7 +4,7 @@ title: 'Cara Daftar Xbox Game Pass di Indonesia'
 date: '2021-06-24 04:50:23'
 ---
 
-### Game Pass adalah jalan ninja untuk main game
+## Game Pass adalah jalan ninja untuk main game
 
 Kamu sudah punya atau ingin punya Xbox Series X|S tapi masih berpikir buat
 beli game seharga 700 ribu ke atas? Kenapa tidak pakai Game Pass saja?

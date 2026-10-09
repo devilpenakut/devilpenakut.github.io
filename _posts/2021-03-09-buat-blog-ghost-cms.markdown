@@ -17,7 +17,7 @@ dunia. Kamu bisa berbagi ide, berbagi cerita dan berbagi tutorial layaknya
 blog biasa. Ghost sendiri terdiri dari beberapa _theme_ yang bisa digunakan
 sebagai tempat menampung tulisan kamu.
 
-## **Apa itu AWS**
+## Apa itu AWS
 
 [Amazon Web Services](https://aws.amazon.com/id/) adalah sekumpulan layanan-
 layanan berbasis _Cloud Computing_ yang di sediakan oleh Amazon sejak tahun

@@ -13,7 +13,7 @@ Bukan laptop gaming atau laptop yang mempunyai grafik dedicated. Keputusan
 beli laptop tahun 2023 ini jatuh kepada Asus ZenBook 14 Flip OLED (UN5401QA).
 
 
-# Kenapa saya tertarik dengan laptop ini?
+## Kenapa saya tertarik dengan laptop ini?
 
 Pertama, sebenarnya karena saya memang mencari laptop tipis ringan 2in1.
 Sebelumnya saya pakai Nitro 5 itu beratnya di atas 2 kg dan itu berat banget.
@@ -68,7 +68,7 @@ OLED yang juga menggunakan prosesor yang sama, pakai OLED dan namun memakai
 GPU RTX 3050, sayangnya nilai tambah ZenBook dengan _form facto_ r 2in1 sangat
 menggoda.
 
-# Positif
+## Positif
 
 - Warna Jade Black/Hitam-nya keren. Sebenarnya dari _seller_ -nya cuma tersedia warna Grey, tapi entah kenapa yang dikirim malah warna hitam ini. Dan memang sebenarnya yang dicari ya warna hitam ini.
 - Layar OLED emang ngga ada obat. Keren banget. Kalau kalian sudah terbiasa pakai layar OLED di ponsel, maka punya layar OLED di ukuran yang lebih besar itu sangat memanjakan mata sekali. Mungkin next OLED di TV kali ya. Apalagi layar OLED ini sudah mendukung _refresh rate_ 90hz. Makin mulus dah itu pergerakan dilayar.
@@ -77,7 +77,7 @@ menggoda.
 - Fan keluar berada di samping kanan kiri. Sehingga ketika laptop di pangkuan tidak akan terasa panas.
 
 
-# Minus
+## Minus
 
 - Menurut saya, tombol home, page up, dan page down yang terpisah di sebelah kanan dari tombol lainnya tidaklah berguna. Tombol-tombol tersebut biasanya difungsikan dengan menggunakan shortcut FN, tetapi sekarang memiliki tombol tersendiri seperti keyboard full keys. Tombol home yang dekat dengan backspace juga sering tertekan tanpa sengaja.
 

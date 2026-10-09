@@ -13,7 +13,7 @@ Ada dua syarat yang harus dipenuhi sebuah TV Box untuk bisa menjalankan
 maksimal, maksimal di sini adalah dengan aplikasi yang dapat terus terupdate
 dan dapat memutar dengan resolusi maksimal sesuai paket.
 
-### 1\. Harus tersedia Play Store resmi atau Google Play Certified
+## 1\. Harus tersedia Play Store resmi atau Google Play Certified
 
 Syarat ini digunakan agar aplikasi Netflix bisa di-download langsung dari Play
 Store, bukan melalui file apk.

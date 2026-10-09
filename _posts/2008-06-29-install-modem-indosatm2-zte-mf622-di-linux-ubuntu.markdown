@@ -21,9 +21,9 @@ Di ubuntu modem ini dideteksi sebagai usb device, yang seharusnya di detect seba
 
 Karena saya newbie di Ubuntu maka pastinya saya mencari di google tentang masalah ini, dan menemukan 2 website yang relevan yaitu:
 
-### [Menginstall ZTE MF622 USB Modem di Linux Ubuntu](http://ex3me.org/2008/04/20/menginstall-zte-mf622-usb-modem-di-linux-ubuntu/ "Permanent Link to ")
+## [Menginstall ZTE MF622 USB Modem di Linux Ubuntu](http://ex3me.org/2008/04/20/menginstall-zte-mf622-usb-modem-di-linux-ubuntu/ "Permanent Link to ")
 
-### [Tutorial Instalasi Modem 3G / HSDPA ZTE MF622 di Linux (Tested in Debian and Ubuntu)](http://dony-ramansyah.blogspot.com/2008/02/tutorial-instalasi-modem-3g-hsdpa-zte.html)
+## [Tutorial Instalasi Modem 3G / HSDPA ZTE MF622 di Linux (Tested in Debian and Ubuntu)](http://dony-ramansyah.blogspot.com/2008/02/tutorial-instalasi-modem-3g-hsdpa-zte.html)
 
 Peratamanya saya menggunakan kedua cara tersebut, namun setelah beberapa kali berusaha yang berhasil adalah cara yang kedua, berikut urutan instalasinya:
 
@@ -152,9 +152,10 @@ ISDN = 0
 Auto DNS = 1  
 ```
   
-10.Restart Linux anda sekarang
+10. Restart Linux anda sekarang
 
-11.Jalankan program wvdial nya :
+11. Jalankan program wvdial nya :
+{: start="10"}
 
 ```bash
 # wvdial  

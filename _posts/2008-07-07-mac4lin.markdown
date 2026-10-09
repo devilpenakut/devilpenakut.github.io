@@ -30,6 +30,7 @@ Setelah instalasi selesai klik di ‘Apply new theme’ atau pilih mac4lin theme
 [![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-4.jpg?resize=300%2C186)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-4.jpg)
 
 2. Merubah ikon dengan GTK Icon Theme
+{: start="2"}
 
 Pilih System \> Preferences \> Appearance. Klik Install. Browse dan pilih the Mac4Lin Icon Theme .tar.gz file (ditempat tadi ekstrak file Mac4Lin).
 
@@ -44,6 +45,7 @@ Lalu ulangi bagian pertama tadi namun sekarang pilih ‘network monitor’ apple
 [![](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-8.jpg?resize=300%2C225)](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-8.jpg)
 
 3. Emerald Theme untuk Beryl & Compiz
+{: start="3"}
 
 Pertama perlu diinstall Beryl/Compiz dan emerald theme manager. Beryl/Compiz/Fusion digunakan untuk menampilkan efek 3d
 
@@ -53,6 +55,7 @@ Manager. Klik ‘Import…’ Pilih file dari Emerald folder klik open dan pilih
 [![](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-9.jpg?resize=300%2C219)](https://i1.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-9.jpg)
 
 4. Merubah Cursors
+{: start="4"}
 
 Pilih System \> Preferences \> Appearance. Klik Install. Browse dan pilih the Mac4Lin Cursor Theme .tar.gz file (ditempat tadi ekstrak file Mac4Lin).
 
@@ -61,6 +64,7 @@ Pilih System \> Preferences \> Appearance. Klik Install. Browse dan pilih the Ma
 Setelah instalasi selesai klik di ‘Apply new theme’ atau pilih mac4lin theme jika pilihan&nbsp; ‘Apply new theme’ tidak keluar. Pilih costumize dan pastikan pointers terpilih mac4lin Cursor Theme.
 
 5. GDM Login Window Theme
+{: start="5"}
 
 Pilih System \> Administration \> Login Window \> Local Tab. Masukkan Admin password jika ditanyakan. Pilih Mac4Lin GDM theme dengan meng-klik Add. Lalu akan ada preview-pilih apply.
 
@@ -84,6 +88,7 @@ Lalu pilih System \> Preferences \> gtweakui-session. Klik gambar yang dipilih.A
 [![](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-14.jpg?resize=235%2C300)](https://i0.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-14.jpg)
 
 7. USplash Screen (Boot splash)  
+{: start="7"}
 Untuk merubah bootscreen dengan menggunakan Startup Manager (SUM). Dapat dilihat di Repo atau di Homepage:  
 https://sourceforge.net/projects/startup-manager/
 
@@ -98,6 +103,7 @@ Klik di Usplash theme&nbsp; menu dropdown dan pilih theme yang dimaksud. Jika th
 [![](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-16.jpg?resize=246%2C300)](https://i2.wp.com/wpkami.com/devilpenakut/wp-content/uploads/2008/07/new-16.jpg)
 
 8. Docks
+{: start="8"}
 
 Dock yan gterbaik menggunakan AWN dapat di download di AWN Homepage: http://code.google.com/p/avant-window-navigator/
 

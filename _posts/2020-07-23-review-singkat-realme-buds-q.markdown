@@ -12,7 +12,7 @@ Saya mencobanya karena:
   2. Saya tidak memiliki TWS dari merek manapun, sementara hanya menggunakan _headphone_ _bluetooth_ atau _earphone_ menggunakan kabel.
   3. Mempunyai _letancy/lag_ yang rendah.
 
-# Desain
+## Desain
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h2.webp)
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h3.webp)
@@ -23,7 +23,7 @@ katanya dirancang oleh seseorang yang sudah terkenal dalam dunia desain
 bernama José Lévy sehingga bentuknya menjadi orisinal. Saat ini baru tersedia
 warna hitam saja walaupun infonya akan tersedia warna putih dan kuning.
 
-# Paket Pembelian
+## Paket Pembelian
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h4.webp)
 
@@ -46,7 +46,7 @@ Q ini.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h5.webp)
 
-# Sambung ke ponsel
+## Sambung ke ponsel
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h6.webp)
 
@@ -63,7 +63,7 @@ aplikasi Realme Link.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-singkat-realme-buds-q-h7.webp)
 
-# Karakter Suara
+## Karakter Suara
 
 Sesudah di sambungkan dengan ponsel kita maka saya mulai mencoba untuk
 mendengarkan musik di Buds Q ini. Karakter suara cenderung ke _bass_ , jadi
@@ -83,7 +83,7 @@ ternyata berguna untuk mendengarkan video di _YouTube_ atau _Netflix_ sehingga
 tidak terjadi _delay_ antara adegan atau mimik mulut dengan suara yang
 terdengar di telinga kita.
 
-# Kesimpulan
+## Kesimpulan
 
 Jadi dengan harga sekitar 360 sampai 399 Realme Buds Q ini cukup menarik untuk
 dibeli. Saya belum mencoba Mi true wireless earbuds Basic S yang infonya juga
@@ -91,7 +91,7 @@ mempunyai mode gaming namun di website-nya tidak menyebutkan berapa milidetik
 _latency_ nya. Sehingga saya masih merekomendasikan TWS ini dengan harga
 300-500 rb.
 
-### **Link Pembelian:**
+### Link Pembelian:
 
 [Shopee](https://invol.co/clugrs)
 

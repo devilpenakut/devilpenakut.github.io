@@ -25,16 +25,19 @@ Saya akan mencoba berbagi pengalaman membagi koneksi IM2 dari laptop/komputer sa
 ![Manage Network](https://i2.wp.com/img78.imageshack.us/img78/725/new1gd8.jpg?w=1200)
 
 6. Klik kanan pada koneksi IM2 yg tercantum-pilih properties
+{: start="6"}
 
 ![Properties](https://i1.wp.com/img224.imageshack.us/img224/1421/new2io8.jpg?w=1200)
 
 7. Pilih tab Sharing tick pada Allow other network….
+{: start="7"}
 
 ![Sharing](https://i0.wp.com/img122.imageshack.us/img122/7450/new3hd1.jpg?w=1200)
 
 8. Pada Home Networking Connection pilih Local Are Connection
 9. Jika ada peringatan klik OK
 10. Lalu OK.
+{: start="8"}
 
 Seharusnya pada saat ini komputer client sudah dapt tersambung menggunakan koneksi pada komputer “server” dengan melalui AP yang ada.
 

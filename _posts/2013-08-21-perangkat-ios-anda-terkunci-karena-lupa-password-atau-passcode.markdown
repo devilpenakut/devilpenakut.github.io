@@ -40,7 +40,7 @@ Setelah terlalu sering mencoba, perangkat Anda akan menampilkan, “[Perangkat] 
 
 ![](https://i2.wp.com/km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT1212/id_ID/HT1212--disabled_connect-001-id.png?resize=240%2C345)
 
-### Jika Anda sebelumnya telah menyelaraskan perangkat dengan iTunes
+## Jika Anda sebelumnya telah menyelaraskan perangkat dengan iTunes
 
 Anda akan dapat mengatur ulang kode sandi dengan memulihkan perangkat.
 
@@ -49,6 +49,7 @@ Anda akan dapat mengatur ulang kode sandi dengan memulihkan perangkat.
 2. Klik kanan perangkat di kolom sebelah kiri dan pilih&nbsp;**Back up (Cadangkan)**.
 3. Setelah pencadangan selesai, pilih&nbsp;**Restore (Pulihkan)**.
 4. Setelah selesai, pulihkan dari cadangan terbaru Anda.
+{: start="2"}
 
 ### Jika Anda belum pernah menyelaraskan perangkat dengan iTunes
 

@@ -26,7 +26,7 @@ Pada akhirnya, hanya satu konsol yang dapat muncul sebagai pemenang.
 
 Tahta ini didasarkan pada versi terbaru dari kedua konsol yaitu jenis ‘Slim’ baik dari Xbox 360 dan PlayStation 3, dan mengabaikan hardware konsol keluaran sebelumnya.
 
-## **CPU**
+## CPU
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -44,7 +44,7 @@ Menariknya, CPU gabungan baru / GPU chip yang digunakan dalam Xbox 360 baru seca
 
 **Pemenang:** PlayStation 3
 
-## **GPU**
+## GPU
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -63,7 +63,7 @@ Pada akhirnya, walaupun GPU PS3&nbsp; menunjukkan angka kinerja secara umum lebi
 
 **Pemenang:** Xbox 360
 
-## **RAM**
+## RAM
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -77,7 +77,7 @@ Besar bandwidth membuktikan PS3 adalah pemenang dalam kategori ini.
 
 **Pemenang:** PlayStation 3
 
-## **HARDDISK**
+## HARDDISK
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -92,7 +92,7 @@ Namun kelebihan sejati PS3 adalah dukungan standar 2.5 “notebook hard drive SA
 
 **Pemenang:** PlayStation 3
 
-## **DISC DRIVE**  
+## DISC DRIVE
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -105,7 +105,7 @@ Sementara disc drive PS3 berjalan lebih lambat dibandingkan dengan Xbox, itu mem
 
 **Pemenang:** PlayStation 3
 
-## **VIDEO SUPPORT**  
+## VIDEO SUPPORT
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -119,7 +119,7 @@ Disaat di menu Xbox mendukung 1080p, Namun untuk game Microsoft hanya mendukung 
 
 **Pemenang:** PlayStation 3
 
-## **AUDIO**
+## AUDIO
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -130,7 +130,7 @@ Disaat di menu Xbox mendukung 1080p, Namun untuk game Microsoft hanya mendukung 
 
 **Pemenang:** PlayStation 3
 
-## **KONEKSI**
+## KONEKSI
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -144,7 +144,7 @@ Meskipun keuntungan di Xbox, PS3 masih muncul menang dalam kategori ini berkat d
 
 **Pemenang:** PlayStation 3
 
-## **NETWORKING**
+## NETWORKING
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -158,7 +158,7 @@ Mengingat peningkatan prevalensi Internet nirkabel, Xbox memiliki keuntungan leb
 
 **Pemenang:** Xbox 360
 
-## **NETWORKING**
+## NETWORKING
 
 | Xbox 360 | PS3 |
 | --- | --- |
@@ -170,7 +170,7 @@ Sayangnya, sementara model PS3 awal ditawarkan emulasi perangkat lunak untuk gam
 
 **Pemenang:** Xbox 360
 
-## **KESIMPULAN**
+## KESIMPULAN
 
 Pemenang akhir dari perbandingan ini adalah PlayStation 3, memenangkan tujuh dari keseluruhan kategori. Sekali lagi, kedua sistem memiliki kekuatan unik mereka sendiri. Tapi dari sudut pandang teknis, PS3 memiliki kekuatan yang lebih baik dan dukungan untuk rentang yang lebih tinggi untuk video resolusi dan audio. Tapi meskipun lebih tua, Xbox tetap kompetitif di beberapa kategori.
 

@@ -9,23 +9,23 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-# ![Frontpage Classeur](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-1.png)
+## ![Frontpage Classeur](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-1.png)
 
 Ada web app baru untuk menulis. Karena ini merupakan web app maka tidak ada yang perlu diinstall. Tinggal buka web nya Classeur di [http://classeur.io/](http://classeur.io/) maka bisa langsung menulis. Namun bila ingin melakukan install biar mantab gitu bisa juga kok, namun fitur itu saat ini belum tersedia.
 
 * * *
 
-## Apa sih yang menarik dari Classeur ini?
+### Apa sih yang menarik dari Classeur ini?
 
-### 1. Desain Menarik
+#### 1. Desain Menarik
 
 Iya, desain dari web app Classeur ini menarik, seperti [Medium](medium.com). Bersih yang membuat orang fokus untuk menulis
 
-### 2. Mendukung Markdown
+#### 2. Mendukung Markdown
 
 Markdown merupakan format penulisan yang memang lagi naik daun. Kita bisa fokus ke penulisan tanpa bingung mengenai bentuk bagaimana atas tulisan kita. Bagi yang belum tau apa itu markdown bisa dilihat di blog nya [Daring Fireball](https://daringfireball.net/projects/markdown/). Nah Classeur ini mendukung format itu langsung tanpa ada install apapun.
 
-### 3. Bisa Share dan Berkolaborasi
+#### 3. Bisa Share dan Berkolaborasi
 
 Setelah menulis, seperti di layanan cloud lain seperti Google Doc, tulisan di Classeur bisa langsung di share by link.
 
@@ -35,7 +35,7 @@ Atau jika tulisan tersebut merupakan tulisan bersama atau butuh di edit oleh ora
 
 ![Kolaboarsi](https://i0.wp.com/classeur.io/img/collaborate.gif?w=1200)
 
-### 4. Ekspor File ke Format Lain
+#### 4. Ekspor File ke Format Lain
 
 Selain bisa di share lain, dari Classeur bisa juga disimpan dengan format lain yang mungkin jika kita membutuhkan file secara lokal. Bisa format teks atau PDF.
 
@@ -43,7 +43,7 @@ Selain bisa di share lain, dari Classeur bisa juga disimpan dengan format lain y
 
 ![Ekspor PDF dan Format Lain](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/classeur-web-app-untuk-menulis-4.png)
 
-### 5. Langsung Posting ke Blog
+#### 5. Langsung Posting ke Blog
 
 Bila kita suka menulis blog, Classeur ini juga bisa melakukan langsung posting ke blog milik kita. Tentunya dengan di setting terlebih dulu
 

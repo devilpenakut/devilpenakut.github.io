@@ -34,7 +34,7 @@ sudah memperbaiki kualitas pads nya.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-4.png)
 
-#### Packaging
+## Packaging
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-5.jpg)
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-6.jpg)
@@ -47,7 +47,7 @@ mini USB.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-h2.jpg)
 
-#### Fisik
+## Fisik
 
 Ada tiga warna yang tersedia, Black, Gold, Blue dan Red.
 
@@ -100,7 +100,7 @@ kepala kita. Karena itu alasan kenapa ada kabel melengkung begitu.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-jabra-move-suara-bagus-nyaman-dipakai-h8.jpg)
 
-#### Fitur
+## Fitur
 
 Fitur yang diunggulkan dari Jabra Move ini adalah:
 
@@ -117,7 +117,7 @@ Mengusung teknologi bluetooth versi 4 yang mempunyai keunggulan kebutuhan daya
 yang rendah namun dengan jangkauan yang lebih jauh dan kecepatan transfer yang
 lebih cepat.
 
-#### Kualitas Suara
+## Kualitas Suara
 
 Kualitas suara sendiri khas on-ear headphone. Suara dari luar ngga terlalu
 banyak masuk, namun juga ngga _full isolated_.
@@ -140,7 +140,7 @@ Satu hari mungkin ngga cukup buat mencoba menelusuri suara Jabra Move ini.
 Karakter nya keliatan setelah dipakai rutin selama lebih dari satu minggu.
 Jabra Move ini lebih ke kejernihan suara, ngga fokus di bass.
 
-#### Kesimpulan
+## Kesimpulan
 
 > Keunggulan
 

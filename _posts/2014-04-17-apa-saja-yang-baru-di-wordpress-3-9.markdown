@@ -12,9 +12,9 @@ WordPress baru saja mengeluarkan versi nya yang paling baru, [WordPress 3.9](htt
 
 <!--more-->
 
-# Edit Media Lebih Mudah
+## Edit Media Lebih Mudah
 
-## Peningkatan Editing pada Tab Visual
+### Peningkatan Editing pada Tab Visual
 
 Editor visual telah diperbaraui dengan meningkatkan kecepatan, aksesibilitas, dan dukungan mobile. Kamu bisa langsung meng-_copy-paste&nbsp;_tulisan kamu di&nbsp;_[word&nbsp;processor](http://en.wikipedia.org/wiki/Word_processor "Word processor")&nbsp;_(seperti [Microsoft Word](http://office.microsoft.com/en-us/word/ "Microsoft Word")) tanpa kehilangan&nbsp;_formatting_ nya.
 
@@ -22,7 +22,7 @@ Editor visual telah diperbaraui dengan meningkatkan kecepatan, aksesibilitas, da
 
 Visual Editor
 
-## Mengedit Gambar Lebih Mudah
+### Mengedit Gambar Lebih Mudah
 
 Biasanya perlu waktu buat masuk ke menu edit gambar, namun sekarang sudah dibuat lebih cepat. Selain itu kamu bisa langsung memperbesar dan memperkecil gambar langsung dari&nbsp;_visual editor_&nbsp;tanpa harus masuk ke menu edit gambar. Jadi sudah seperti&nbsp;_word&nbsp;processor_ yang biasa kita pakai.
 
@@ -30,7 +30,7 @@ Biasanya perlu waktu buat masuk ke menu edit gambar, namun sekarang sudah dibuat
 
 Crop Gambar
 
-## _Drag and Drop_&nbsp;Gambarmu di Visual Editor
+### _Drag and Drop_&nbsp;Gambarmu di Visual Editor
 
 Jika sebelumnya kita harus masuk ke mnu upload untuk melakukan&nbsp;_drag and drop_ gambar. Maka untuk versi ini sudah bisa langsung&nbsp;_drag and drop&nbsp;_ke&nbsp;_visual editor_.
 
@@ -38,7 +38,7 @@ Jika sebelumnya kita harus masuk ke mnu upload untuk melakukan&nbsp;_drag and dr
 
 Drag and Drop Gambar di Visual Edito
 
-# Preview Galeri
+## Preview Galeri
 
  ![gallery](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-4.jpg)
 
@@ -46,15 +46,15 @@ Galeri Preview
 
 Preview galeri di&nbsp;_Visual Editor&nbsp;_ akan sama dengan tampilan ketika sudah dipublikasikan
 
-# Playlist Audio dan Video Bisa Langsung Ditampilkan
+## Playlist Audio dan Video Bisa Langsung Ditampilkan
 
 Seperti galeri gambar, maka audio dan video juga bisa ditampilkan dalam bentuk&nbsp;_playlist_
 
-# Preview Widget dan Header Secara Live
+## Preview Widget dan Header Secara Live
 
 Penambahan atau edit _widget_ di pengaturan&nbsp;_theme&nbsp;_tidak perlu menunggu untuk&nbsp;_reload_ dari blog kita. Namun pada pengaturan&nbsp;_widget&nbsp;_sekarang bisa melihat langsung secara live perubahan widget yang kita lakukan
 
-# Pencarian Tema&nbsp;yang Baru
+## Pencarian Tema&nbsp;yang Baru
 
  ![theme](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/apa-saja-yang-baru-di-wordpress-3-9-5.jpg)
 

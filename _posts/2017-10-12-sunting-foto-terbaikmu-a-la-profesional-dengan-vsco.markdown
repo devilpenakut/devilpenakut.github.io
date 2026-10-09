@@ -23,7 +23,7 @@ tersendiri yang tidak ditawarkan oleh aplikasi lainnya. Ingin tahu seperti apa
 kehebatannya? Berikut ulasan lengkap mengenai aplikasi besutan Visual Supply
 Company ini.
 
-### Fitur Dasar dan Kompatibilitas
+## Fitur Dasar dan Kompatibilitas
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h1.jpg)
 
@@ -41,7 +41,7 @@ akan ditampilkan di galeri tersendiri. Selain itu, fitur-fitur tersebut juga
 bisa Anda nikmati secara gratis. Ya, VSCO dapat Anda unduh secara gratis dan
 tersedia, baik untuk platform Android maupun iOS.
 
-### Pilihan Filter Unik
+## Pilihan Filter Unik
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h2.png)
 
@@ -72,7 +72,7 @@ jika Anda tidak menggunakan kartu kredit atau memiliki gift card atau voucer.
 Tidak perlu repot-repot mencari gerai pulsa karena sekarang Anda bisa
 mengunjungi situs penjualan seperti Traveloka untuk membeli pulsa.
 
-### Profil dan Fitur Journal
+## Profil dan Fitur Journal
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h3.png)
 
@@ -91,7 +91,7 @@ menjadi pilihan yang tepat jika Anda tidak dapat mengakses jaringan WiFi. Anda
 juga tidak perlu mengunjungi gerai pulsa karena Anda bisa membeli pulsa di
 [Traveloka](https://www.traveloka.com/connectivity). Praktis, bukan?
 
-### VSCO X dan VSCO Desktop
+## VSCO X dan VSCO Desktop
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/sunting-foto-terbaikmu-a-la-profesional-dengan-vsco-h4.jpg)
 
@@ -117,7 +117,7 @@ Adobe Photoshop dan Adobe Lightroom. Pilihan filter tersebut tentunya
 memberikan kemudahan bagi Anda yang ingin melakukan quick editing, terutama
 pada aspek warna dan kecerahan.
 
-### Transfer Pembelian yang Praktis
+## Transfer Pembelian yang Praktis
 
 Jika Anda menggunakan VSCO pada perangkat Android dan sudah membeli beberapa
 filter, Anda bisa mentransfer pembelian ke perangkat iOS (atau sebaliknya),

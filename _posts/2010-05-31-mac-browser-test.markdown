@@ -23,6 +23,7 @@ Halo Semua..
 Browser untuk Mac saat ini banyak pilihan, mulai Safari, Firefox, Chrome, Opera dan lainnya. Kadang kita sulit menentukan pilihan browser mana yg akan dipakai, saya pun demikian. Karenanya saya mencoba test kecil2an dari browser yg sering saya pakai, mana yang paling cepat, ringan, dan bisa membuka semua website dengan lengkap.
 
 Test kali ini saya menyertakan:  
+
 1. Safari 4.0.5  
 2. Firefox 3.6.3  
 3. Chrome 5.0.375.55
@@ -117,6 +118,7 @@ Safari unggul disini. Angka sempurna untuk cara merender halaman terbaik, salah 
 **Kesimpulan**
 
 Total keunggulan yang didapat adalah:  
+
 1. Chrome : 3 Test  
 2. Safari : 2 Test  
 3. Firefox : 0 Test

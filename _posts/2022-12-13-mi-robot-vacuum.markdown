@@ -55,7 +55,7 @@ mengatasi kekacauan kering dan basah di lantai mereka. Navigasinya yang cerdas
 dan masa pakai baterai yang lama menjadikannya pilihan yang nyaman untuk
 menjaga kebersihan rumah Anda tanpa merasa lelah.
 
-### Tempat beli:
+## Tempat beli:
 
   * [Shopee](https://invl.io/clfffww)
   * [Lazada](https://invol.co/clflo9d)

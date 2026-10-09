@@ -28,7 +28,7 @@ Hampir setiap pengguna iPhone mencintai iPhonenya, tetapi jika ada satu hal untu
 
 Tips ini akan memperpanjang masa pakai baterai untuk semua pengguna iPhone, tapi Anda mungkin tidak perlu repot-repot dengan semua ini kecuali baterai iPhone Anda benar-benar menderita.&nbsp;Ini biasanya cukup jelas ketika begitu, karena bagi kami dipengaruhi oleh menguras baterai akan memiliki baterai sebesar 30% -60% pada pertengahan hari meskipun sangat ringan sampai sedang penggunaan.&nbsp;Jika Anda tidak yakin, Anda harus menjalankan baterai turun menjadi sekitar 5%&nbsp;, jika apa yang Anda lihat adalah hanya beberapa jam penggunaan perangkat yang sebenarnya, maka Anda mungkin memiliki masalah pembuangan kelebihan yang dapat diselesaikan oleh trik diuraikan di bawah ini.
 
-### 1: Turunkan&nbsp;Brightness & Matikan Auto-Adjust
+## 1: Turunkan&nbsp;Brightness & Matikan Auto-Adjust
 
 Mengatur kecerahan layar menjadi rendah dan melumpuhkan penyesuaian otomatis dapat membuat perbedaan besar.&nbsp; **Jika Anda melakukan apa-apa lagi direkomendasikan di sini, lakukan ini** &nbsp;:
 
@@ -40,7 +40,7 @@ Mengatur kecerahan layar menjadi rendah dan melumpuhkan penyesuaian otomatis dap
 
 Ya, hal ini membuat lebih sulit untuk melihat layar saat berada di luar di bawah sinar matahari langsung, tapi itu harga kecil untuk membayar untuk dapat menggunakan iPhone jauh lebih lama.Pengaturan ini perubahan saja dapat dengan mudah menambahkan satu atau dua jam, jika tidak lebih, untuk hidup baterai.
 
-### 2: Matikan 3G/LTE
+## 2: Matikan 3G/LTE
 
 Mungkin kelihatan bodoh, dan memang ini hal bodoh untuk memperpanjang umur baterai, jadi hanya gunakan ketika baterai Anda sampai ke 5%.
 
@@ -48,7 +48,7 @@ Mungkin kelihatan bodoh, dan memang ini hal bodoh untuk memperpanjang umur bater
 
 ![](https://i2.wp.com/dl.dropboxusercontent.com/u/15623890/Blog/iPhone%20Batrai/turn-lte-off.jpg?resize=620%2C182&ssl=1)
 
-### 3: Matikan Layanan Lokasi yang tidak perlu
+## 3: Matikan Layanan Lokasi yang tidak perlu
 
 GPS menggunakan sedikit baterai, dan banyak aplikasi penggunaan lokasi untuk berbagai alasan.Jadi, setiap kali Anda membuka atau menggunakan aplikasi tergantung lokasi, hits hidup baterai Anda, itulah sebabnya mengapa mematikan karena banyak lokasi layanan mungkin membantu untuk memperpanjang baterai.&nbsp;Matikan ini untuk benar-benar segala sesuatu yang tidak benar-benar membutuhkannya (pada dasarnya, Cuaca, Maps, Google Maps, dan Find My iPhone, semua yang harus tetap di sini).
 
@@ -56,7 +56,7 @@ GPS menggunakan sedikit baterai, dan banyak aplikasi penggunaan lokasi untuk ber
 
 ![](https://i2.wp.com/dl.dropboxusercontent.com/u/15623890/Blog/iPhone%20Batrai/turn-off-app-location-services.jpg?resize=400%2C447&ssl=1)
 
-### 4: Nonaktifkan Seluler Data Usage yang Tidak Perlu
+## 4: Nonaktifkan Seluler Data Usage yang Tidak Perlu
 
 Tidak, Anda tidak mematikan data seluler benar-benar (meskipun itu akan membantu, tapi kemudian iPhone Anda jelas jauh kurang berguna), sebagai gantinya Anda akan mematikan penggunaan data seluler untuk item yang hanya tidak perlu, seperti memperbarui dokumen iCloud, Informasi iTunes, FaceTime, update Passbook, dan&nbsp;[Reading List](http://osxdaily.com/2013/02/20/use-safaris-reading-list-to-send-share-links-between-macs-ios-devices/)&nbsp;lintas-perangkat sinkronisasi.
 
@@ -66,7 +66,7 @@ Tidak, Anda tidak mematikan data seluler benar-benar (meskipun itu akan membantu
 
 Ini pada dasarnya berarti bahwa tidak ada layanan tersebut akan berfungsi atau memperbarui saat koneksi seluler dan sebagai gantinya akan mengandalkan wi-fi untuk memperbarui.&nbsp;Hal ini menyebabkan pengurangan penggunaan modem seluler, dan baterai meningkat.
 
-### 5: Nonaktifkan Push Mail dan Set Fetch ke Manual
+## 5: Nonaktifkan Push Mail dan Set Fetch ke Manual
 
 Ini berarti bahwa iPhone tidak akan lagi memeriksa email baru pada itu sendiri, yang berarti jika Anda ingin tahu apakah Anda memiliki email menunggu Anda, Anda akan perlu untuk memulai aplikasi Mail dan melakukan pull-to-refresh untuk memeriksa nya
 
@@ -77,7 +77,7 @@ Ini berarti bahwa iPhone tidak akan lagi memeriksa email baru pada itu sendiri, 
 
 Bagi kita yang perlu mendapatkan email baru secepat mungkin, ini tidak benar-benar pilihan yang layak.
 
-### 6: Matikan Bluetooth
+## 6: Matikan Bluetooth
 
 Siapa yang menggunakan Bluetooth sepanjang waktu?&nbsp;Hampir tidak ada, jadi mengapa Anda memilikinya di sepanjang waktu?&nbsp;Inilah yang harus Anda lakukan sebagai gantinya: mematikannya, dan hanya beralih pada saat Anda benar-benar menggunakannya untuk headset atau keyboard.Jika tidak, Anda berdua penyiaran sinyal Bluetooth dan mencari perangkat yang tersedia bahkan ketika itu tidak diperlukan, dan itu menguras baterai.
 

@@ -4,7 +4,7 @@ title: 'MNC Playbox Review'
 date: '2020-11-27 04:18:07'
 ---
 
-## **Kenapa harus bayar mahal kalau ada yang murah atau gratis?**
+## Kenapa harus bayar mahal kalau ada yang murah atau gratis?
 
 Saya sudah [mencoba beberapa layanan IPTV](**GHOST_URL**/2020/08/mencari-layanan-iptv-terbaik-di-indonesia/) untuk TV Box Android saya. Mulai yang
 gratis sampai dengan paket lengkap yang berbayar, tapi saya belum menemukan
@@ -20,7 +20,7 @@ dengan harga cukup terjangkau.
 Dengan paket yang diberikan oleh MNC PLaybox, layanan IPTV ini bisa memenuhi
 kebutuhan saya. Berikut review-nya.
 
-## **Apa itu MNC Playbox?**
+## Apa itu MNC Playbox?
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mnc-playbox-review-1.webp)
 
@@ -115,7 +115,7 @@ Planet, Net Geo Wild, History, Crime Investigation, Net Geo People
 **Lifestyle:**  Lifestyle & Fashion, ie, Asian Food Network, MNC Shop Trendy,
 MNC Shop Smart, HGTV, TLC
 
-## **Hardware: Cukup baik untuk TV Box Android**
+## Hardware: Cukup baik untuk TV Box Android
 
 Secara spesifikasi *hardware* saya rasa cukup baik untuk sebuah TV Box
 Android:
@@ -137,7 +137,7 @@ Two USB 2.0 host port
 Dengan RAM sebesar 2 *Gb* dan Android 9.1 secara *hardware* cukup gegas untuk
 berpindah-pindah menu dan *channel*.
 
-## **Harga: Bersaing dengan layanan sejenis**
+## Harga: Bersaing dengan layanan sejenis
 
 Harga PLAYBOX ini mulai dari Rp.949.000 sampai dengan Rp.1.594.000 tergantung
 dari *bundling* paket yang dipilih.
@@ -148,7 +148,7 @@ paket termurahnya.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/mnc-playbox-review-3.webp)
 
-## **The Good: Pilihan Channel, Hardware.**
+## The Good: Pilihan Channel, Hardware.
 
 Secara umum saya puas dengan PLAYBOX ini. Kembali ke kebutuhan saya yaitu
 channel anak lengkap dan bisa diulang 7 hari kebelakang. Pilihan channel nya
@@ -158,7 +158,7 @@ Secara hardware juga bagus membuat perpindahan channel, ganti-ganti menu tidak
 bermasalah dan cepat. Termasuk membuka aplikasi yang di download dari Google
 Playstore.
 
-## **The Bad: Delay Channel, Kualitas Channel.**
+## The Bad: Delay Channel, Kualitas Channel.
 
 Kekurangan yang saya rasakan selama pemakaian adalah delay yang dirasakan
 terutama untuk tayangan langsung seperti Bola, Formula 1 atau Moto GP. Disaat
@@ -171,7 +171,7 @@ yang pernah saya coba. Padahal dengan kecepatan internet yang sama.
 
 Oh iya, Netflix juga belum bisa dijalankan di TV Box ini.
 
-## **Apakah MNC Playbox pantas dibeli?**
+## Apakah MNC Playbox pantas dibeli?
 
 Untuk sebagian orang mungkin lebih baik membeli TV Box Android yang lebih
 murah dengan konten IPTV yang dipilih sendiri. Namun untuk untuk seperti saya

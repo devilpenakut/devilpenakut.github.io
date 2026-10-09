@@ -44,7 +44,7 @@ Metode lainnya adalah menggunakan solusi perangkat lunak yang bertindak sebagai 
 
 Secara keseluruhan, ada beberapa metode umum untuk mengimplementasikan pemblokiran iklan DNS, dan metode yang paling tepat akan tergantung pada kebutuhan dan preferensi spesifik pengguna.
 
-## Praktik terbaik untuk menerapkan pemblokiran iklan DNS, termasuk memperbarui daftar blokir secara teratur dan menggunakan beberapa metode untuk efektivitas maksimum.
+Praktik terbaik untuk menerapkan pemblokiran iklan DNS, termasuk memperbarui daftar blokir secara teratur dan menggunakan beberapa metode untuk efektivitas maksimum.
 
 Gunakan penyedia DNS pihak ketiga yang memiliki reputasi baik atau perangkat lunak pemblokiran iklan seperti [NextDNS](https://nextdns.io/?from=nhfym3nu), [ControlD](https://controld.com/). Ada banyak penyedia DNS dan program pemblokiran iklan yang tersedia, dan penting untuk memilih salah satu yang dapat diandalkan dan memiliki reputasi yang baik.
 

@@ -22,7 +22,7 @@ MK220
 
 Saya cari permasalahan di internet. Tidak ada yang mengalami masalah serupa. Saya coba cari dukungan kemungkinan ada update driver atau software yang harus di-install. Ternyata tidak ada untuk <u><a href="http://www.apple.com/macos/sierra/" target="_blank">MacOS</a></u>. Wah, saya berpikiran ini produk tidak bisa untuk MacOS. Saya sempat untuk mencari keyboard bluetooth lain karena berpikir ini pasti masalah dongle yang tidak cocok. Kalau langsung pakai bluetooth pasti cocok. Namun kemudian saya ingat masalah yang sering saya alami di PC.
 
-### Baterai.
+## Baterai.
 
 Yap, baterai keyboard MK220 yang saya punya ini dibilang cukup boros. Dikatakan bisa tahan sampai dengan 24 bulan, pengalaman saya dengan baterai _alkaline_ cuma bisa bertahan kemungkinan 1-2 bulan dengan penggunaan yang jarang. Dari beberapa cara yang saya coba tadi saya memang belum menyentuh baterai ini. Ternyata, baterainya habis dong. Ketika sudah diganti langsung bisa digunakan itu keyboard.
 

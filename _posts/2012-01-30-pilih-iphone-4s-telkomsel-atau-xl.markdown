@@ -19,12 +19,12 @@ Tanggal 27 Januari 2012 kemarin iPhone 4S launching di Indonesia oleh dua operat
 
 <!--more-->
 
-## **Telkomsel**
+## Telkomsel
 
 ![Telkomsel](https://i1.wp.com/images.all-free-download.com/images/graphicmedium/telkomsel_86698.jpg?w=1200)  
 Sebagai operator terbesar di Indonesia dan merupakan operator pertama yang meluncurkan iPhone di Indonesia, Telkomsel sepertinya tidak melakukan kesalahan harga kali ini ([ingat ketika iPhone 3G](http://www.detikinet.com/read/2009/03/12/183004/1098634/328/nih-harga-lengkap-iphone-3g-telkomsel "iphone 3g")). Mari kita lihat daftar harganya:
 
-#### Post Paid
+### Post Paid
 
 | **Paket iPhone 4S  
 _kartuHALO\*_ **|** Perfect Match 1\ ***|** Perfect Match 2\ ***|** Perfect Match 3\ ***|** Perfect Match 4\*** |
@@ -80,7 +80,7 @@ Bingung untuk yang post paid? Mari kita sederhanakan tanpa memperhatikan bonus:
 ![xl](https://i2.wp.com/www.penn-olson.com/wp-content/uploads/2011/05/XL-Blackberry-300x196.jpg?resize=300%2C196)  
 XL kedua kalinya mengeluarkan produk Apple setelah Iphone 4 sebelumnya. Bagimana dengan harga XL kali ini?
 
-#### Post Paid
+### Post Paid
 
 | Benefit Bulanan | Postpaid Plan 1 | Postpaid Plan 2 | Postpaid Plan 3 | Prepaid |
 | --- | --- | --- | --- | --- |

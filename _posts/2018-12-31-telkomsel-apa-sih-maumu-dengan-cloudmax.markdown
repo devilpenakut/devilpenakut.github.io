@@ -16,7 +16,7 @@ browser.
 Wah berani masuk ke pasar yang sudah terbentuk, terus apa keunggulan pakai
 CloudMAX? anehnya tidak ada, mari kita lihat.
 
-### Harga
+## Harga
 
 CloudMAX tidak gratis, untuk memakainya harus membayar. Tidak ada tier paket
 yang tidak berbayar.
@@ -28,7 +28,7 @@ bulan. Tidak beda jauh dengan CloudMAX kan? malah tier pertamanya gratis.
 Lalu untuk Dropbox 2 Gb pertama gratis, lalu tier selanjutnya 2 Tb dengan
 harga USD11.99 atau sekitar Rp180.000-an, lebih mahal dari Google Drive.
 
-### Fitur
+## Fitur
 
 Fitur untuk CloudMAX juga tidak ada yang istimewa, hanya:
 
@@ -46,21 +46,21 @@ offline.
 
 Sedang untuk Dropbox ada Dropbox Paper untuk kolaborasi pembuatan dokumen.
 
-### Harusnya jadi keunggulan CloudMAX
+## Harusnya jadi keunggulan CloudMAX
 
 Di website nya pun Telkomsel tidak berusaha untuk menampilkan keunggulan
 CloudMAX di banding layanan sejenis. Hanya sekedar layanan cloud untuk
 pengguna Telkomsel. Padahal bisa saja Telkomsel menonjolkan beberapa hal ini
 kalau mau serius masuk ke cloud.
 
-#### Kecepatan
+### Kecepatan
 
 Saya yakin kalau server CloudMAX itu didalam negeri, pakai jaringan Telkomsel
 sendiri pula, akan mengalahkan kecepatan upload dan download dari layanan
 sejenis yang kemungkinan besar tidak mempunyai server di Indonesia. Itu bisa
 menjadi keunggulan.
 
-#### Harga
+### Harga
 
 Oke bila tidak ada tier gratis nya, harusnya CloudMAX ada bonus khusus untuk
 pengguna Telkomsel bila berlangganan paket data internet, seperti yang sudah

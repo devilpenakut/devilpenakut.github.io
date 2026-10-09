@@ -17,7 +17,7 @@ Selain kita bisa melaporkan nomor ponsel tersebut ke operator, kita juga bisa me
 
 Masuk ke call log dimana disana terlihat panggilan masuk dan keluar. Dari log tersebut kita bisa melakukan blok.
 
-#### Pilih nomor yang ingin kamu blok, lalu pilih ‘more’ dikanan atas. Lalu pilih ‘Blok/unblock number’.
+### Pilih nomor yang ingin kamu blok, lalu pilih ‘more’ dikanan atas. Lalu pilih ‘Blok/unblock number’.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280268/Samsung%20Cloud/Screenshot_20161006-072922_bxgtvo.png)
 
@@ -29,7 +29,7 @@ Masuk ke call log dimana disana terlihat panggilan masuk dan keluar. Dari log te
 
 ## Blok melalui SMS
 
-#### Masuk ke sms/pesan dimana nomornya ingin kamu blok
+### Masuk ke sms/pesan dimana nomornya ingin kamu blok
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280305/Samsung%20Cloud/Screenshot_20161006-080346_uzpdn9.png)
 
@@ -41,7 +41,7 @@ Masuk ke call log dimana disana terlihat panggilan masuk dan keluar. Dari log te
 
 &nbsp;
 
-#### Disini kamu bisa memilih mau blok hanya panggilan atau sms saja atau dua-dua nya, plus bisa sekalian hapus pesan tersebut.
+Disini kamu bisa memilih mau blok hanya panggilan atau sms saja atau dua-dua nya, plus bisa sekalian hapus pesan tersebut.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280303/Samsung%20Cloud/Screenshot_20161006-080412_vbnd2v.png)
 
@@ -51,7 +51,7 @@ Masuk ke call log dimana disana terlihat panggilan masuk dan keluar. Dari log te
 
 Bagaimana kita melihat nomor yang sudah kamu&nbsp;blok, yang ternyata ada nomor yang ternyata kamu&nbsp;kenal tidak sengaja kamu blok.
 
-#### Masuk ke call log, lalu pilih ‘more’ dikanan atas dan pilih setting. Pilih ‘Call blocking’
+### Masuk ke call log, lalu pilih ‘more’ dikanan atas dan pilih setting. Pilih ‘Call blocking’
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280320/Samsung%20Cloud/Screenshot_20161006-073020_noojqp.png)
 
@@ -59,7 +59,7 @@ Bagaimana kita melihat nomor yang sudah kamu&nbsp;blok, yang ternyata ada nomor 
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280277/Samsung%20Cloud/Screenshot_20161006-073025_azkim7.png)
 
-#### Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingin menambahkan&nbsp;nomor baru secara manual juga bisa.
+Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingin menambahkan&nbsp;nomor baru secara manual juga bisa.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280269/Samsung%20Cloud/20161006_075838_fp4rka.png)
 
@@ -67,7 +67,7 @@ Bagaimana kita melihat nomor yang sudah kamu&nbsp;blok, yang ternyata ada nomor 
 
 ## Melihat nomor yang di blok di&nbsp;message/sms
 
-#### Masuk ke messages/sms, lalu pilih ‘more’ dikanan atas dan pilih setting. Pilih ‘Block messages’
+### Masuk ke messages/sms, lalu pilih ‘more’ dikanan atas dan pilih setting. Pilih ‘Block messages’
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280313/Samsung%20Cloud/Screenshot_20161006-083111_lkijxe.png)
 
@@ -79,7 +79,7 @@ Bagaimana kita melihat nomor yang sudah kamu&nbsp;blok, yang ternyata ada nomor 
 
 &nbsp;
 
-#### Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingin menambahkan&nbsp;nomor baru secara manual juga bisa.
+Disini bisa hapus nomor dari daftar blok dengan memilih tanda ( – ), atau ingin menambahkan&nbsp;nomor baru secara manual juga bisa.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1477280312/Samsung%20Cloud/20161006_083159_qyzvqj.png)
 

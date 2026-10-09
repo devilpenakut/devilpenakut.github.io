@@ -26,18 +26,22 @@ Setelah sebelumnya di informasikan perbandingan antara iPhone dan Nokia 5800, sa
 Jelas aplikasi iPhone lebih banyak dari pada dari Bold terutama dilihat dari persediaan aplikasi di App Store nya Apple dengan Blackberry
 
 2. Fisik
+{: start="2"}
 
 Dari segi fisik, keduanya mempunyai ukuran yang hampir mirip (dalam Inci) iPhone 4.5″ x 2.4″ x .46″ sedang Bold 4.48″ x 2.6″ x .55″
 
 3. Gaming
+{: start="3"}
 
 Okey, Bold merupakan ponsel bisnis, jadi game tidak begitu diperhatikan, berbeda dengan iPhone yang ditujukan untuk ponsel entertainment apalagi ditunjang dengan sensor gerak nya, karenanya iPhone menang telak disini.
 
 4. Jaringan
+{: start="4"}
 
 Jaringan yang saya bandingkan disini bukan jaringan GSM (karena sama2 HSDPA) namun pada jaringan yang digunakan untuk data, Bold punya keunggulan dengan BIS (push email, chatting, browsing tanpa batas) tapi dengan iPhone pun sebenarnya juga dapat melakukan hal tersebut, dnegan langganan internet unlimited seperti flash dengan biaya lebih murah (layanan BB Axis tidak diperhitungkan) dapat digunakan untuk segalanya termasuk streaming. dan sharing dengan komputer.
 
 5. Spek  
+{: start="5"}
 iPhone  
 General 2G Network GSM 850 / 900 / 1800 / 1900  
 3G Network HSDPA 850 / 1900 / 2100  
@@ -48,10 +52,10 @@ Weight 133 g
 Display Type TFT capacitive touchscreen, 16M colors  
 Size 320 x 480 pixels, 3.5 inches
 
-– Multi-touch input method  
-– Accelerometer sensor for auto-rotate  
-– Proximity sensor for auto turn-off  
-– Scratch-resistant surface  
+- Multi-touch input method  
+- Accelerometer sensor for auto-rotate  
+- Proximity sensor for auto turn-off  
+- Scratch-resistant surface  
 Sound Alert types Vibration; Downloadable polyphonic, MP3 ringtones  
 Speakerphone Yes
 
@@ -81,9 +85,9 @@ Colors Black(8/16 GB), White (16 GB)
 GPS Yes, with A-GPS support  
 Java No
 
-– Google Maps  
-– Audio/video player  
-– TV-out  
+- Google Maps  
+- Audio/video player  
+- TV-out  
 Battery  
 Standard battery, Li-Ion  
 Stand-by Up to 300 h  
@@ -99,9 +103,9 @@ Weight 133 g
 Display Type 65K colors  
 Size 480 x 320 pixels, 2.6 inches
 
-– Full QWERTY keyboard  
-– Trackball navigation  
-– Wallpapers  
+- Full QWERTY keyboard  
+- Trackball navigation  
+- Wallpapers  
 Sound Alert types Vibration; Downloadable polyphonic, MP3 ringtones  
 Speakerphone Yes
 
@@ -131,19 +135,20 @@ Colors Black
 GPS Yes, with A-GPS support, BlackBerry Maps  
 Java Yes
 
-– BlackBerry maps  
-– Document editor (Word, Excel, PowerPoint, PDF)  
-– Media player MP3/WMA/AAC+  
-– Video player DivX/WMV/XviD/3gp  
-– Organizer  
-– Voice dial  
-– Voice memo  
+- BlackBerry maps  
+- Document editor (Word, Excel, PowerPoint, PDF)  
+- Media player MP3/WMA/AAC+  
+- Video player DivX/WMV/XviD/3gp  
+- Organizer  
+- Voice dial  
+- Voice memo  
 Battery  
 Standard battery, Li-Ion 1500 mAh  
 Stand-by Up to 310 h  
 Talk time Up to 5 h
 
 6. Kesimpulan
+{: start="6"}
 
 Jika dibandingkan keduanya kembali lagi kepada pengguna, mau serius tapi santai (Bold) atau santai tapi serius (iPhone). Tanggapan sangat dipersilahkan.
 

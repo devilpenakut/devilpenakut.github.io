@@ -16,7 +16,7 @@ bisa bikin kita main game Steam di mana aja. Apa sih Steam Deck itu? Apa
 bedanya sama Switch atau laptop gaming? Apa aja kelebihan dan kekurangannya?
 Yuk, simak review Steam Deck berikut ini!
 
-# Apa itu Steam Deck
+## Apa itu Steam Deck
 
 Steam Deck adalah sebuah handheld PC yang bisa menjalankan semua game di
 library Steam kita. Jadi, kalau kita punya akun Steam dan udah beli banyak
@@ -37,7 +37,7 @@ kita. Jadi, kalau kita mau main game yang butuh gerak, kaya Just Dance, kita
 bisa pake fitur ini. Tapi hati-hati ya, jangan sampai jatuh atau nabrak barang
 di sekitar kita.
 
-# Spesifikasi
+## Spesifikasi
 
 Untuk spesifikasi hardware-nya, Steam Deck menggunakan prosesor AMD APU dengan
 CPU Zen 2 4 core/8 thread dan GPU RDNA 2 8 CU. RAM-nya 16 GB LPDDR5 dan
@@ -62,7 +62,7 @@ Untuk baterainya, Steam Deck punya kapasitas 40 Whr yang bisa bertahan antara
 Stardew Valley atau Among Us, bisa lebih lama. Tapi kalau main game berat
 kayak Cyberpunk 2077 atau Doom Eternal, cuma sebentar aja.
 
-# Kenapa beli Steam Deck
+## Kenapa beli Steam Deck
 
 Kalau saya pribadi sih tertarik banget sama Steam Deck. Saya pengen banget
 bisa main game-game favorit saya di mana aja tanpa ribet bawa laptop atau
@@ -72,7 +72,7 @@ mengisi waktu luang saya dengan main game dimana saja.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-steam-deck-h4.jpg)
 
-# Kelebihan dan Kekurangan
+## Kelebihan dan Kekurangan
 
 Tapi tentu saja ada beberapa hal yang perlu dipertimbangkan sebelum membeli
 Steam Deck. Saya berikan kekurangannya dulu:
@@ -91,7 +91,7 @@ Lalu apa secara singkat kelebihan Steam Deck ini:
   * Memiliki layar yang cukup luas dan berkualitas, dengan resolusi yang cukup tinggi dan refresh rate yang stabil
   * Memiliki pilihan storage yang bervariasi dan bisa diupgrade dengan microSD card
 
-# Kesimpulan
+## Kesimpulan
 
 Steam Deck merupakan gadget yang menarik untuk dibeli terutama bagi para gamer
 yang mobile dan fleksibel. Dengan harga yang terjangkau, akses ke ribuan game,

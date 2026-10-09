@@ -10,19 +10,19 @@ tags:
 
 ![Smartwatch by:Jose Izquierdo](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/4-alasan-kenapa-kamu-harus-memakai-smartwatch-1.jpg)
 
-### 1. Terganggu Dengan Notifikasi atau Selalu Melihat Ponsel untuk Melihat Notifikasi
+## 1. Terganggu Dengan Notifikasi atau Selalu Melihat Ponsel untuk Melihat Notifikasi
 
 Bila kebanyakan waktu kamu digunakan untuk mengecek ponsel apakah ada notifikasi masuk untuk email, pesan, kamu memang membutuhkan Smartwatch. Kenapa? kamu tidak harus membuka ponsel untuk melihat notifikasi pesan atau telepon masuk. Bila itu penting bisa diterima atau dibaca nanti namun bila tidak penting bisa dihilangkan notifikasi itu. Tentunya lebih mudah daripada dengan mengeluarkan ponsel dari kantong setiap kali ada notifikasi.
 
-### 2. Suka Ganti-ganti Jam Karena Bosan dengan Modelnya
+## 2. Suka Ganti-ganti Jam Karena Bosan dengan Modelnya
 
 Kalau kamu orangnya mudah bosan dan suka ganti-ganti jam karena model yang kamu pakai sudah ‘lama’, maka kamu harus menggunakan smartwatch. Dengan smartwatch kamu bisa mengganti watchface. Watchface adalah tampilan jam di smartwatch. Jadi tampilan bisa dirubah berupa analog atau digital atau apapun yang disediakan di Google Play. Bahkan bisa berupa mirip jam-jam merek ternama.
 
-### 3. Peduli Atas Step Gerakan Kamu
+## 3. Peduli Atas Step Gerakan Kamu
 
 Smartwatch pada umumnya memiliki sensor gerakan yang bisa menghitung step dan kalori kamu dalam 1 hari. Jadi smartwatch memang kamu butuhkan untuk kamu yang memantau sejauh mana diet kamu berhasil.
 
-### 4. Tampil Anti Mainstream
+## 4. Tampil Anti Mainstream
 
 Kalau kamu pengen tampil beda dalam arti beda dengan orang lain yang memakai jam yang tidak bisa berganti-ganti tampilan, tidak ada notifikasi, bisa menyala berarti kamu harus pakai smartwatch karena smartwatch bisa melakukan itu semua.
 

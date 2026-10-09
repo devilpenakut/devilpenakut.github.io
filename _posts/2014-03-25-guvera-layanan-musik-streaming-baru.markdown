@@ -10,21 +10,21 @@ tags:
 - hash-import-2024-05-05-07-58
 ---
 
-# Apa Ini?
+## Apa Ini?
 
 Layanan streaming musik seperti [Spotify](https://www.spotify.com/), [Deezer](http://www.deezer.com/en/)dan [kawan-kawannya](http://en.wikipedia.org/wiki/Streaming_media). Namun ada hal yang membedakan dengan layanan lainnya. [Guvera](https://www.guvera.com/)tidak (belum) menyediakan layanan ‘music discovery’ -layanan untuk mencari lagi berdasarkan lagu2 yang sering kita dengarkan. Namun lebih fokus pada playlist yang dibuat oleh tim Guvera Indonesia atau oleh artis yang bekerja sama dengan Guvera.
 
 <!--more--> ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/guvera-layanan-musik-streaming-baru-1.png)
 
-# Bayar?
+## Bayar?
 
 Iya, beda dengan Spotify yang dengan akun gratis tetap bisa menikmati lagu secara penuh melalui desktop, untuk Guvera agar bisa menikmati lagu penuh perlu mendaftar layanannya mulai dari Rp. 3000 untuk satu hari. ![53211c4e28fa63-10009888](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/guvera-layanan-musik-streaming-baru-2.png)
 
-# Terus Fitur Apa Lagi yang Bagus
+## Terus Fitur Apa Lagi yang Bagus
 
 Ada fitur di app iOS nya (tidak tau di android, belum mencobanya) bernama smart cache. Jadi setiap lagu yang kita dengar otomatis di unduh dan bisa kita dengarkan secara offline. Alias tidak memerlukan koneksi internet. Di layanan lainnya hal seperti ini juga bisa, namun harus dilakukan secara manual dimana kita memilih lagu/album mana yang ingin kita jadikan offline. Selain itu juga di-layanan lain fitur offline ini mengharuskan kita membayar lebih mahal.
 
-# Koneksi-nya Berat Ngga?
+## Koneksi-nya Berat Ngga?
 
 Ini penjelasan dari Marketing Director Guvera Indonesia:
 
@@ -32,7 +32,7 @@ Ini penjelasan dari Marketing Director Guvera Indonesia:
 
 Jadi kalau cuma 64 kbps pasti koneksi kamu semua mampu buat streaming lagu dari Guvera ini tanpa memakan kuota internet juga.
 
-# Kekurangan Ada Ngga?
+## Kekurangan Ada Ngga?
 
 Ada, yang pasti selain tidak ada fitur music discovery tadi, Guvera (juga dengan layanan [music streaming](http://en.wikipedia.org/wiki/Streaming_media "Streaming media") lainnya) adalah masih kurangnya tersedianya lagu-lagu Indonesia, terutama yang baru, dibandingkan dengan iTunes yang sama-sama dalam format digital.
 

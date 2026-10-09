@@ -11,13 +11,13 @@ tags:
 
 Sampai sekarang selalu ada perdebatan tentang isi konten di Netflix yang tidak sesuai dengan penonton Indonesia. Sepertinya masih pada belum paham apa itu Netflix, apa kontennya, bagaimana sensornya, bagaimana _filtering_-nya. Coba saya jelaskan.
 
-## **Apa itu Netflix**
+## Apa itu Netflix
 
 Pertama, Netflix itu apa. Netflix pada awalnya adalah layanan yang menyewakan DVD melayani layanan surat. Lalu Netflix menambah layanan _streaming_ dimana seperti stasiun TV yang menyiarkan film, serial atau apapun yang dihasilkan oleh _Production House_. Tapi, beda dengan TV biasa, Netflix ‘bersiaran’ di internet. Ngga pakai antena, ngga pakai kabel, ngga pakai satelit. Saat ini fokus Netflix dilayanan _streaming_ dan sukses mempunyai _Production House_ sendiri yang memproduksi serial/film.
 
 Oke, sudah dapat gambaran Netflix seperti apa?
 
-## **Sensor Netflix**
+## Sensor Netflix
 
 Apakah Netflix ada sensor? pastinya. Tapi sesuai dengan sensor yang berlaku umum di US walau sekarang juga sudah disesuaikan dengan sensor di Indonesia, dimana tergantung rating yang diberikan pada setiap film atau serial. Jadi bukan berarti karena bisa ditonton semua umur maka film dengan adegan kekerasan banyak di sensor. Bukan seperti itu.
 
@@ -35,7 +35,7 @@ Ada batas-batas tertentu setiap film dan serial jika ingin bisa ditonton semua u
 
 Netflix tidak seperti TV teritorial yang bisa diakses semua orang, sudah ada batasan-batasan bahkan sejak mendaftar Netflix.
 
-## **Batasan Netflix**
+## Batasan Netflix
 
 Pada awal daftar Netflix mensyaratkan alamat email. Seperti Google ada batasan minimal usia untuk bisa mendapatkan alamat email.
 

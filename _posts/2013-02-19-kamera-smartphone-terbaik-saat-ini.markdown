@@ -32,7 +32,7 @@ Kami menguji kemampuan masing-masing kamera di bawah beberapa situasi yang palin
 
 <!--more-->
 
-### **Cahaya rendah**
+## Cahaya rendah
 
 ![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/xlarge.jpg)
 
@@ -42,7 +42,7 @@ Pertama dalam kondisi yang sangat gelap dengan tidak ada flash, Lumia 920 mengam
 
 * * *
 
-### **Cahaya rendah dengan Flash**
+## Cahaya rendah dengan Flash
 
 ![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/low%20light%2Bflash.jpg)
 
@@ -54,7 +54,7 @@ Flash Z10 benar-benar bersinar dalam tes ini.&nbsp;Foto di atas adalah akurat, d
 
 * * *
 
-### Siang hari
+## Siang hari
 
 ![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/daylight.jpg)
 
@@ -66,7 +66,7 @@ Lumia menjadi yang terbaik.&nbsp;Pada gambar di atas, Anda dapat kita lihat bahw
 
 * * *
 
-### **Indoor Portrait**
+## Indoor Portrait
 
 ![](https://dl.dropbox.com/u/15623890/Blog/perbandingan%20kamera/indor%20potrait.jpg)
 
@@ -78,7 +78,7 @@ Galaxy S III melakukan yang terbaik dalam mewakili warna yang akurat dalam situa
 
 * * *
 
-### **Secara keseluruhan**
+## Secara keseluruhan
 
 - **Pemenang – Nokia Lumia 920:** &nbsp;Menggunakan hanya pengaturan otomatis, mendapat eksposur yang akurat dan gambar yang layak dalam segala kondisi pemotretan.&nbsp;Anda tidak bisa mengalahkan itu.
 - **Kedua – iPhone 5** &nbsp;Ini bukan yang terbaik, tetapi iPhone 5 melakukan cukup baik dalam pengaturan kebanyakan, namun flash membuat foto total berantakan.

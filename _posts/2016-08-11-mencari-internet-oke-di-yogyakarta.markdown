@@ -19,10 +19,12 @@ Nah, sekitar 2 minggu kemarin saya datang ke Plaza Telkom untuk mendaftarkan sam
 Alternatif pertama ini lebih murah dari Indihome 3P yang tadi 530 ribu. Saya cukup membayar 380 ribu untuk 10 mbps tanpa ada tambahan telepon dan TV kabel. Oh iya, ada biaya 125 ribu untuk biaya pemasangan. Normalnya 75 ribu.
 
 2. **Indihome Kuota 50 Gb (Perintis)**
+{: start="2"}
 
 Indihome ini menganut sistem 3P, ada telpon dan TV kabel. Walau dengan kecepatan internet yang sama yaitu 10 mbps namun terdapat batasan kuota sebesar 50 Gb dengan harga 335 ribu satu bulan. Permasalahannya adalah perlu biaya menambah tiang, yang bisa gratis kalau ada 4 rumah lain yang akan pasang.
 
 3. **Mifi Smartfren**
+{: start="3"}
 
 <figure id="41a9" class="graf--figure graf-after--p">
 <div class="aspectRatioPlaceholder is-locked">

@@ -24,10 +24,12 @@ Harga game Original sekitar Rp.300-500ribu berbanding dengan harga game JB yang 
 Jika menggunakan JB maka game yang kita gunakan dr beli sampai bosan memainkannya sama. Namun ketika pakai Original ada update dari pembuat game tersebut untuk membuat gamenya lebih baik. Misal untuk GT5, update terakhir memungkinkan kita mengoperasikan mode managerial (Spek-B) melalui web based system di internet tanpa membuka PS nya. Dan untuk Fifa 11 adalah daftar pemain klub yang selalu update sesuai dengan daftar transfer terakhir. Tinggal update, contohnya Cassano sudah berada di klub AC Milan. Itu berlaku untuk seluruh klub, bayangkan jika kita harus manual untuk edit satu persatu.
 
 2. Bermain Online
+{: start="2"}
 
 Hal yang menyenangkan dengan menggunakan Original adalah bisa bermain online. Hal yang biasa dilakukan bagi pemain PC dengan game onlinenya, bisa dilakukan di PS3. Pada GT5 dan Fifa 11 kita bisa bertanding dengan pemain lain di seluruh dunia bahkan dengan pemain yang tidak kita kenal. Bertanding dengan org yg tidak kita kenal merupakan pengalaman berbeda dalam bermain game, yang akhirnya membuat adik saya pun kecanduan.
 
 3. Konten Eksklusif
+{: start="3"}
 
 Selanjutnya mendapatkan konten2 eksklusif yang hanya bisa didownload melalui konsol tersebut, yang biasa disebut [DLC (Downloadable content)](http://en.wikipedia.org/wiki/Downloadable_content). Mode-mode baru atau level baru bisa didapatkan dari suatu game. Untuk Fifa 11 misalnya ada DLC Fifa Ultimate Team, dimana kita bisa membuat tim sesuai keinginan kita yang akan ditandingkan dengan pemain lain seluruh dunia.
 

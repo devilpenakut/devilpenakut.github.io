@@ -22,11 +22,11 @@ browsing pilihan saya mengecil pada tiga laptop gaming berikut, semoga juga
 berguna bagi kamu yang juga sedang mencari laptop gaming dengan budget 10-12
 juta.
 
-### Dell G3 3579
+## Dell G3 3579
 
-#### Harga : Rp 10.999.000,-
+### Harga : Rp 10.999.000,-
 
-#### **Detail**
+### Detail
 
 - Processor: Intel Core™ i5-8300H Processor (Quad-Core, 8MB Cache, up to 3.9GHz)
 
@@ -66,13 +66,13 @@ GTX1050. Bisa digunakan untuk gaming atau kerja yang cukup berat. Kelemahan 4
 Gb memang akan terasa bila menggunakan software yang membutuhkan RAM banyak.
 Seperti aplikasi edit video. Namun untuk main game saya rasa masih kuat.
 
-### ASUS TUF FX504GD
+## ASUS TUF FX504GD
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/memilih-laptop-gaming-murah-h1.jpg)
 
-#### Harga : Rp. 11.750.000,-
+### Harga : Rp. 11.750.000,-
 
-#### Detail
+### Detail
 
 - Intel Coffee Lake 8th Quad Core i5 8300H 2.8GHz up to 4.0GHz (8MB Cache), 8Threads - Intel" HM370 Express Chipsets - 8GB RAM DDR4 (1x Slot Available) - 1TB HDD 5400RPM + 8GB Cache - SSDHD Firecuda (SSD M.2 NVMe Available) - Intel UHD Grapchis 630 / nVidia GeForce GTX1050 4GB DDR5 - Windows 10 Home 64bit - 15.6″IPS Level WVA Matte LED Display with 60Hz Refresh Rate - Audio by SonicMaster with ICEPower - Single RED Backlit Keyboard - Integrated WiFi 802.11ac 2 x 2 + Bluetooth v.4.0 - HD Webcam - 1x RJ45 Gigabit LAN, 1x Audio Jack - 2x USB 3.0 Port, 1x USB 2.0 Port, 1x HDMI - 2.3kg included 3 cells battery 48Whr
 
@@ -86,13 +86,13 @@ Kelemahan laptop ini diantara yang lainnya adalah harganya yang paling mahal.
 Harga 11.7 juta itu yang paling murah, normalnya diatas 12 juta. Selain itu
 juga terlalu banyak aksen garis-garis merahnya.
 
-### Acer Nitro 5 AN515-51
+## Acer Nitro 5 AN515-51
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/memilih-laptop-gaming-murah-1.jpg)
 
-#### Harga: Rp. 11.400.000,-
+### Harga: Rp. 11.400.000,-
 
-#### Detail
+### Detail
 
   * Tipe Processor : Intel Core i5-8300HQ
   * Detail Processor : 3.00 GHz, 6 MB Cache

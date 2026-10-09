@@ -10,7 +10,7 @@ Namun menggunakan ojek online di bandara memang membutuhkan beberapa trik, karen
 
 Kali ini saya akan membagikan cara untuk menggunakan ojek online di Bandara I Gusti Ngurah Rai Bali.
 
-### Menuju bandara
+## Menuju bandara
 
 Asal keberangkatan saya kira tidak masalah ya bisa dari mana saja di wilayah Bali selama disitu terdapat driver ojek online. Tujuan juga bisa dipilih nama bandaranya, yang mungkin berbeda adalah lokasi turunnya yang berada di parkiran motor bandara.
 
@@ -22,7 +22,7 @@ Asal keberangkatan saya kira tidak masalah ya bisa dari mana saja di wilayah Bal
 
 Dari lokasi turun tersebut bisa menuju ke arah selatan mengikuti jalur pejalan kaki, memutari parkir mobil bertingkat, sudah deh bisa dipilih mau ke terminal domestik atau internasional.
 
-### Dari bandara
+## Dari bandara
 
 Dari bandara ke penjemputan ojek online sebetulnya juga tidak jauh beda dengan menuju bandara. Dari terminal kedatangan langsung aja menuju gedung parkir mobil yang baru atau lebih mudahnya temukan Solaria dulu, setelah di Solaria akan terlihat gedung parkir mobil. Putari gedung parkir tersebut mengikuti jalur pejalan kaki menuju tempat penurunan ojol yang menuju bandara.
 

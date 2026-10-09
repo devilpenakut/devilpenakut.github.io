@@ -16,23 +16,23 @@ Dengan banyaknya aplikasi yang tersedia, dan datang begitu banyak yang direkomen
 
 <!--more-->
 
-### Langkah Satu: Hapuskan Semua App!
+## Langkah Satu: Hapuskan Semua App!
 
 ![Bagaimana Saya Bisa Mengalahkan Ketergantungan App saya dan Clean Up Smartphone saya?](https://i2.wp.com/cache.gawker.com/assets/images/lifehacker/2012/01/1000-empty-app-screen.jpg?w=1200 "Bagaimana Saya Bisa Mengalahkan Ketergantungan App saya dan Clean Up Smartphone saya?")
 
 Jika Anda memiliki begitu banyak aplikasi&nbsp; membersihkan mereka semua tampaknya terlalu menakutkan, namun memusnahkan mereka semua keluar dan mulai dari awal akan jauh lebih mudah bagi Anda.&nbsp; Setelah perangkat mobile Anda hanya memiliki aplikasi penting Anda telah memilih, Anda dapat mulai mendapatkan terorganisir.
 
-### Langkah Dua: Masukkan 12 App yang Paling Sering Digunakan pada Satu Halaman
+## Langkah Dua: Masukkan 12 App yang Paling Sering Digunakan pada Satu Halaman
 
 ![Bagaimana Saya Bisa Mengalahkan Ketergantungan App saya dan Clean Up Smartphone saya?](https://i1.wp.com/cache.gawker.com/assets/images/lifehacker/2012/01/1000-12-apps.jpg?w=1200 "Bagaimana Saya Bisa Mengalahkan Ketergantungan App saya dan Clean Up Smartphone saya?")
 
 Layar Anda bisa muat lebih dari 12 aplikasi, tapi membatasi dari jumlah tersebut. Pilih yang Anda gunakan yang paling dan menempatkan mereka pada halaman utama Anda. Menjaga sedikit app pada layar akan membuat lebih mudah untuk menemukan app tersebut dan Anda akan mendapatkan kebiasaan menjaga aplikasi yang lebih sedikit pada telepon Anda.
 
-### Langkah Tiga: Membuat Halaman sekunder Anda
+## Langkah Tiga: Membuat Halaman sekunder Anda
 
 Dengan halaman pertama Anda penting sudah dibuat, saatnya untuk membuat halaman kedua dan terakhir. Ini adalah di mana Anda dapat menyimpan semua aplikasi lain yang ingin Anda gunakan, tetapi, mungkin, yang tidak digunakan terlalu sering. Menyimpannya dalam folder atau diluar terserah Anda. Anda hanya harus membatasi diri untuk 11 app. Setelah Anda punya 11 app lanjutkan ke langkah berikutnya untuk mengisi app ke-12.
 
-### Langkah Empat: Memaksakan Periode Tertentu pada Aplikasi Baru
+## Langkah Empat: Memaksakan Periode Tertentu pada Aplikasi Baru
 
 ![Bagaimana Saya Bisa Mengalahkan Ketergantungan App saya dan Clean Up Smartphone saya?](https://i2.wp.com/cache.gawker.com/assets/images/lifehacker/2012/01/1000-holding-bin.jpg?w=1200 "Bagaimana Saya Bisa Mengalahkan Ketergantungan App saya dan Clean Up Smartphone saya?")
 

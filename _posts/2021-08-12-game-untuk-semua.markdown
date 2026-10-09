@@ -4,7 +4,7 @@ title: 'Tidak ada game yang sesuai untuk semua orang.'
 date: '2021-08-12 05:14:49'
 ---
 
-### Apapun game kamu, yang penting bikin kamu terhibur
+## Apapun game kamu, yang penting bikin kamu terhibur
 
 Ketika ada game [Spider-Man: Miles Morales -
 Wikipedia](https://en.wikipedia.org/wiki/Spider-Man:_Miles_Morales) baru atau

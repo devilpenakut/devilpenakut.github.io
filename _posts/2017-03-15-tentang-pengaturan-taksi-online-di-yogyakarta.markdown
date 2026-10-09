@@ -46,7 +46,7 @@ aplikasi atau online. Saya ambil dua contoh aplikasi yaitu Saytaxi yang
 berkerjasama dengan taksi 373737 (Jas/Citra Taksi) lalu Taxies yang
 bekerjasama dengan taksi Pandawa, Indra Kelana, Setia Kawan dan Sadewa.
 
-### [Saytaxi](http://saytaxi.com/)
+## [Saytaxi](http://saytaxi.com/)
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-1.png)
 
@@ -64,7 +64,7 @@ pasti seperti layanan taksi online.
 Kalau mau lihat review penggunaan aplikasi ini coba intip halaman aplikasinya
 di Google Play Store.
 
-### [Taxies](https://taxies.co.id/)
+## [Taxies](https://taxies.co.id/)
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/tentang-pengaturan-taksi-online-di-yogyakarta-4.png)
 

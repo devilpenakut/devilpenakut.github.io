@@ -4,7 +4,7 @@ title: 'Indosat VPN'
 date: '2017-03-05 14:03:40'
 ---
 
-### Bagaimana pengaruhnya?
+## Bagaimana pengaruhnya?
 
 ![Screenshot_20170305-130816](https://i1.wp.com/devilpenakut.com/wp-content/uploads/2017/03/Screenshot_20170305-130816.png?resize=549%2C976)
 
@@ -23,7 +23,7 @@ Ternyata, dalam mode hemat data ini Indosat memakai VPN khusus. Jadi
 pronsipnya sama dengan mode hemat data [Opera
 MAX](http://www.opera.com/id/apps/max).
 
-### Kecepatan
+## Kecepatan
 
 Bagaimana dengan kecepatan menggunakan ‘Indosat VPN’ ini ? Tentunya dengan
 menggunakan VPN maka akan ada pengurangan kecepatan karena terjadi perputaran
@@ -51,14 +51,14 @@ Oh iya ini tambahan perbandingan ketika memakai Opera VPN
 
 Ternyata kecepatannya jauh menurun. Lebih baik menggunakan mode hemat data.
 
-### Hemat Data?
+## Hemat Data?
 
 ![Screenshot_20170305-131133](https://i0.wp.com/devilpenakut.com/wp-content/uploads/2017/03/Screenshot_20170305-131133-1.png?resize=548%2C974)
 
 Tadi saya sempat coba dari pagi, namun penghematan yang saya dapat cuma 0,05
 Mb atau 50 Kb. tidak terlalu signifikan. Mungkin perlu coba lebih lama lagi.
 
-### VPN di Indihome membuka akses Netflix?
+## VPN di Indihome membuka akses Netflix?
 
 Kalau memang penurunan kecepatan tidak terlalu banyak, bagaimana bisa VPN ini
 digunakan untuk membuka blokir Indihome terhadap aplikasi Netflix. Kita tahu,
@@ -69,7 +69,7 @@ Sekarang karena saya menggunakan jaringan MNC Play yang tidak memblokir
 Netflix baik menggunakan mode hemat data maupun tidak saya dapat mengakses
 Netflix. Nanti saya coba ketika saya berada dijaringan Indihome.
 
-#### Update
+### Update
 
 Ternyata tidak pengaruh. VPN ini hanya berguna untuk penghemat data saja
 seperti fungsi awalnya. IP masih merupakan IP asli, dan Netflix masih

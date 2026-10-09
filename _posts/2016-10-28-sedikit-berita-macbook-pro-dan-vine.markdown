@@ -11,7 +11,7 @@ tags:
 
 Mau ngomong apa ya hari ini. Oke, berita yang nge-hit aja deh.
 
-### Apple mengeluarkan MacBook Pro baru
+## Apple mengeluarkan MacBook Pro baru
 
 http://www.apple.com/pr/library/2016/10/27Apple-Unveils-Groundbreaking-New-MacBook-Pro.html
 
@@ -23,7 +23,7 @@ Lalu menghilangkan/mengganti semua port (kecuali headphone jack) dengan port Thu
 
 Mau nyambung ke iPhone pakai _dongle_, mau nyambung ke usb drive biasa pakai _dongle_, mau nyambung ke HDMI pakai _dongle_. Padahal tau sendiri _dongle_ asli Apple ngga ada yang murah.
 
-### [Vine “dimatikan” oleh Twitter](https://medium.com/@vine/important-news-about-vine-909c5f4ae7a7#.3pnekw2le)
+## [Vine “dimatikan” oleh Twitter](https://medium.com/@vine/important-news-about-vine-909c5f4ae7a7#.3pnekw2le)
 
 [Lihat di Medium.com](http://medium.com/@vine/important-news-about-vine-909c5f4ae7a7)
 

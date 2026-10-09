@@ -17,7 +17,7 @@ Disamping itu saya juga tidak jarang membeli majalah _Gamestation_dan _Hotgame_&
 
 Lepas dari hobi komputer dan game, saya mulai tertarik dengan elektronik. Majalah _Stuff Indonesia_&nbsp;menjadi panduan saya.
 
-### **Online mengalahkan fisik**
+## Online mengalahkan fisik
 
 Dari enam majalah diatas yang saya sebutkan berapa yang sekarang masih ada?
 
@@ -27,7 +27,7 @@ Iya cuma dua, empat lainnya sudah tidak terbit lagi. Chip Indonesia dan Gamestat
 
 Mereka yang tidak terbit dikalahkan oleh media atau majalah online. Dimana pembaca dapat langsung dapat berita yang baru dan selalu update, sehingga pembeli majalah yang sudah tidak ada itu tidak sesuai target.
 
-### **Keunggulan fisik**
+## Keunggulan fisik
 
 Apasih sebenarnya keunggulan majalah fisik?
 
@@ -41,7 +41,7 @@ Online sebenarnya juga sama tapi saya lebih nyaman membawa majalah fisik untuk d
 
 Bisa juga dibawa ke angkutan umum tanpa ketakutan menjadi sasaran copet. Tidak mungkin pencopet mengincar majalah. Kecuali dia nge-fans banget sama majalah itu. Tapi jarang, percaya deh.
 
-### **Nasib majalah sekarang**
+## Nasib majalah sekarang
 
 Kita lihat di toko buku seperti di Gramedia memang masih banyak majalah yang tersedia. Begitu juga dengan versi online dari majalah itu seperti di Scoop. Namun saya kok takut kalau akhirnya majalah hanya tersedia di platform online.
 

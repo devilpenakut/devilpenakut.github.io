@@ -19,14 +19,14 @@ tags:
 
 “iPhone jarang hang dibandingin Android”, itu yang sering orang katakan (atau pastinya para fanboy yang mengatakan). Namun namanya sebuah smartphone yang didalamnya terdapat sebuat sistem operasi tentunya tetap ada saat dimana terjadi masalah, terutama bagi pengguna iPhone baru _ehem yg baru beli iPhone 5_. Nah ada artikel dari PC World yang bisa kami share tentang 10 permasalahan iPhone yang umum terjadi dan bagaimana mengatasinya.
 
-## **1. iPhone Saya Tidak Mau Mati**
+## 1. iPhone Saya Tidak Mau Mati
 <figure class="kg-card kg-image-card"><img src="https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/v1614590058/permasalahaniphone/slide-to-turn-off-iphone1.jpg" class="kg-image" alt loading="lazy"></figure>
 
 Jika iPhone Anda menolak untuk dimatikan, disini tidak ada cara cabut batrai seperti smartphone lainnya kecuali membuka casing belakang dengan obeng. Anda mungkin dapat memaksa untuk mematikan dengan restart sederhana, dengan menekan dan menahan tombol Sleep / Wake (tombol, ramping persegi di sisi kanan atas telepon). Tahan tombol sampai melihat ‘slide to power off’. Setelah telepon dimatikan, Anda dapat menekan tombol Sleep / Wake lagi untuk menyalakannya kembali.
 
 Jika restart sederhana tersebut tidak tidak bekerja, coba reset, yang kira-kira sama dengan me-reboot PC Anda. Untuk mereset iPhone, tekan dan tahan kedua tombol Home (tombol bulat pada wajah iPhone) dan tombol Sleep / Wake pada saat yang sama, terus tahan walau keluar ‘slide to power off’. Setelah itu menghilang, terus memegang kedua tombol sampai Anda melihat ikon Silver Apple. Nah setelah nyala kembali, iPhone Anda dapat dimatikan secara normal.
 
-## **2. iPhone Saya Tidak Mau Hidup**
+## 2. iPhone Saya Tidak Mau Hidup
 
 Jika iPhone Anda menolak untuk dihidupkan, langkah pertama adalah di charge, atau dihubungkan dengan pengisi daya. Lalu, tunggu beberapa saat, dan mencoba untuk menyalakannya lagi. Jika layar ponsel akan menampilkan gambar ini, Anda akan tahu itu bahwa pengisian sedang berjalan:
 
@@ -36,7 +36,7 @@ Perhatikan bahwa jika iPhone Anda sangat rendah daya, layar seperti tadi mungkin
 
 
 
-## **3. iPhone Saya Tidak Mau Mengisi Daya**
+## 3. iPhone Saya Tidak Mau Mengisi Daya
 
 Jika iPhone Anda tidak mau mengisi daya sama sekali, hubungkan ke komputer Anda melalui USB, dan lihat apakah bisa mengisi daya. Jangan menggunakan port USB pada keyboard atau monitor, selalu menggunakan port USB yang ada di komputer, karena terdapat perbedaan daya untuk mengisi.
 
@@ -52,7 +52,7 @@ Selama proses pemulihan, Anda akan memiliki dua pilihan: restore iPhone Anda dar
 
 Jika restore iPhone Anda tidak memperbaikinya, atau jika Anda tidak dapat mengisi daya sama sekali, Anda mungkin perlu datang ke toko Apple untuk perbaikan. Paling tidak Anda sudah usaha :))
 
-## **4. iPhone Saya Tidak Mau Sambung ke Internet**
+## 4. iPhone Saya Tidak Mau Sambung ke Internet
 
 Jika iPhone Anda gagal untuk terhubung ke Internet melalui jaringan data selular Anda, coba reset ponsel. Tekan dan tahan kedua tombol Home dan tombol Sleep / Wake pada saat yang sama, dan tetep menahan bila ada pilihan ‘slide to power off’. Setelah itu menghilang, Anda akan melihat ikon Silver Apple, dan ponsel anda akan hidup kembali.
 
@@ -60,7 +60,7 @@ Jika itu tidak memecahkan masalah koneksi, coba ulang pengaturan jaringan iPhone
 
 
 
-## **5. iPhone Saya Tidak Mau Connect ke Wifi/Hotspot**
+## 5. iPhone Saya Tidak Mau Connect ke Wifi/Hotspot
 
 Jika iPhone Anda terhubung ke jaringan data seluler Anda, tetapi tidak untuk setiap jaringan Wi-Fi, Anda dapat mencoba ulang telepon dan pengaturan jaringan, seperti dijelaskan di atas. Anda juga dapat mencoba menghubungkan iPhone ke iTunes dan memperbarui perangkat lunak, atau restore iPhone.
 
@@ -70,7 +70,7 @@ Kemudian, reset ponsel, cari jaringan lagi, dan menambahkannya kembali. Pastikan
 
 Beberapa pengguna telah melaporkan bahwa kemampuan Bluetooth iPhone mengganggu radio Wi-Fi, jadi matikan Bluetooth bila itu menyelesaikan masalah. Jika tetap tidak berhasil bawa iPhone Anda ke toko Apple untuk perbaikan karena rusaknya antena Wi-Fi
 
-## **6. Kemera iPhone Saya Tidak Bekerja**
+## 6. Kemera iPhone Saya Tidak Bekerja
 
 Apple menawarkan beberapa saran untuk menyelesaikan masalah tersebut. Pertama, ia mengatakan untuk memverifikasi bahwa Anda belum menghidupkan _restrictions_. Anda dapat menemukan _restrictions_ dengan pergi ke _Settings, General, Restrictions_ . Sesampai di sana, pastikan bahwa opsi kamera diatur ke _On_ . Anda juga dapat tap _Disable Restrictions_ .
 
@@ -80,7 +80,7 @@ Jika tidak ada perbaikan yang bekerja, Anda mungkin harus mengambil iPhone ke to
 
 
 
-## **7. Home Button iPhone saya Tidak Bekerja**
+## 7. Home Button iPhone saya Tidak Bekerja
 
 Tombol Home iPhone diperlukan untuk reboot atau me-reset telepon, keduanya merupakan perbaikan yang cepat dan mudah untuk masalah iPhone. Tapi apa yang Anda lakukan ketika tombol Home iPhone Anda tidak bekerja? Dua saran umum adalah untuk memperbarui perangkat lunak iOS atau untuk restore iPhone melalui iTunes. Jika Anda restore, pilih opsi untuk mengatur perangkat sebagai sebuah iPhone baru, sehingga Anda tidak mengembalikan pengaturan bermasalah ke ponsel. (Dan pastikan untuk sync terlebih dahulu) Perbaikan ini dapat mengatasi gangguan perangkat lunak yang dapat menyebabkan masalah Anda, tapi masalah dengan tombol Home bisa hanya mungkin merupakan hasil dari masalah hardware.
 
@@ -90,7 +90,7 @@ Jika Anda sangat menantang, Anda bisa mencoba untuk membongkar iPhone Anda dan m
 
 Ada cara lain yaitu melakukan mengencangkan kembali posisi dari tombol Home itu _kami tidak bertanggung jawab atas kerusakan lanjut_. &nbsp;Pasang kabel USB ke iPhone Anda. Kemudian, tekan perlahan _ingat perlahan, jangan keras-keras_ pada konektor 30-pin, sehingga mendorong di belakang tombol home. Sementara Anda menekan ke atas, klik tombol home. Lepaskan kabel, dan melihat apakah memecahkan masalah masalah.
 
-## **8. Layar iPhone Saya Tidak Merespon Sentuhan**
+## 8. Layar iPhone Saya Tidak Merespon Sentuhan
 
 Jika layar sentuh iPhone Anda tidak merespons, menonaktifkan ponsel dan kemudian kembali. Jika itu tidak berhasil, ulang. &nbsp;Kami tahu ini diulang-ulang, tetapi kedua langkah benar-benar dapat memecahkan berbagai masalah iPhone. Jika mereka tidak memperbaiki masalah Anda, Anda akan ingin memperbarui perangkat lunak iOS di iTunes, dan kemudian Anda dapat mencoba restore di iTunes, pilih opsi untuk mengatur perangkat sebagai sebuah iPhone baru sehingga Anda tidak mengembalikan pengaturan buruk untuk telepon, dan ingat untuk melakukan sinkronisasi terlebih dahulu.
 
@@ -98,7 +98,7 @@ Jika layar tersebut masih tidak bekerja, masalahnya mungkin dengan perangkat ker
 
 
 
-## **9. Layar iPhone Saya Pecah \*duh\***
+## 9. Layar iPhone Saya Pecah \*duh\*
 
 Layar retak adalah kutukan keberadaan pemilik iPhone – dan sayangnya, itu adalah sesuatu yang tampaknya menjadi lebih umum pada iPhone 4/4S yang banyak dengan bahan kaca. Pilihan pertama Anda adalah i toko lokal Apple untuk melihat apakah mereka bisa memperbaikinya. Dalam beberapa kasus mereka dapat memperbaiki layar sementara Anda menunggu – dan tergantung pada penyebab kerusakan, garansi dapat mencakup layanan tersebut. Perlu diingat, meskipun, bahwa Apple tidak mencakup kerusakan akibat kecelakaan atau penyalahgunaan, perusahaan yang mengklaim dapat menyebabkan layar retak. Anda mungkin harus membayar untuk perbaikan.
 
@@ -106,7 +106,7 @@ Layar retak adalah kutukan keberadaan pemilik iPhone – dan sayangnya, itu adal
 
 Atau, Anda dapat mencoba memperbaiki layar sendiri, jika Anda berani. Cari &nbsp;“mengganti layar iPhone,” dan Anda akan menemukan banyak pilihan.
 
-## **10. iPhone Saya Bermasalah dengan iOS Baru**
+## 10. iPhone Saya Bermasalah dengan iOS Baru
 
 Menjalankan OS baru akan memberikan Anda banyak fitur yang ditemukan pada iPhone terbaru, dan Anda tidak akan harus berurusan dengan masalah-masalah yang telah terjadi. Tapi begitu Anda upgrade, mungkin Anda menemukan bahwa menjalankan iOS baru pada iPhone Anda tidak memuaskan Anda, Anda tidak sendirian. Banyak pengguna melaporkan bahwa OS baru menyebabkan iPhone berjalan lambat dan reboot secara acak, dan bahwa hal itu menyebabkan sejumlah masalah lain.
 

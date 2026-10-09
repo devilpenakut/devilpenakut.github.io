@@ -85,13 +85,13 @@ bagus/murah.
 
 ### A. Indihome/UseeTV
 
-1)Kualitas Gambar | 5
+1. Kualitas Gambar | 5
 
-2)Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 5
+2. Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 5
 
-3)Kelengkapan saluran TV | 5
+3. Kelengkapan saluran TV | 5
 
-4)Harga | 1
+4. Harga | 1
 
 **Total: 16**
 
@@ -102,13 +102,13 @@ internet nya.
 
 ### B. [Macan](https://invol.co/cl10pj4)
 
-1)Kualitas Gambar | 4
+1. Kualitas Gambar | 4
 
-2)Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 2
+2. Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 2
 
-3)Kelengkapan saluran TV | 4
+3. Kelengkapan saluran TV | 4
 
-4)Harga | 4
+4. Harga | 4
 
 **Total: 14**
 
@@ -119,13 +119,13 @@ pilihan termasuk VOD/TVoD atau tidak.
 
 ### C. [SVI](https://invol.co/cl10pjd)
 
-1)Kualitas Gambar | 4
+1. Kualitas Gambar | 4
 
-2)Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 2
+2. Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 2
 
-3)Kelengkapan saluran TV | 5
+3. Kelengkapan saluran TV | 5
 
-4)Harga | 3
+4. Harga | 3
 
 **Total: 14**
 
@@ -137,13 +137,13 @@ semahal Macan namun hanya mempunyai satu pilihan berlangganan.
 
 ### D. [Lancar](https://invol.co/cl10pjn)
 
-1)Kualitas Gambar | 2
+1. Kualitas Gambar | 2
 
-2)Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 4
+2. Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 4
 
-3)Kelengkapan saluran TV | 3
+3. Kelengkapan saluran TV | 3
 
-4)Harga | 3
+4. Harga | 3
 
 **Total: 12**
 
@@ -154,13 +154,13 @@ pilihannya hanya untuk siaran tv langsung saja.
 
 ### E. [ViTV](https://invol.co/cl10pjs)
 
-1)Kualitas Gambar | 2
+1. Kualitas Gambar | 2
 
-2)Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 4
+2. Kelancaran perpindahan saluran TV/minimal buffer/ketersediaan saluran | 4
 
-3)Kelengkapan saluran TV | 1
+3. Kelengkapan saluran TV | 1
 
-4)Harga | 5
+4. Harga | 5
 
 **Total: 12**
 

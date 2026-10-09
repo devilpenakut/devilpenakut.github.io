@@ -59,7 +59,7 @@ waktu-waktu tertentu seperti operator lain.
 
 ![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/review-xl-go-pantaskah-untuk-dipakai-2.png)
 
-### Pengaturan
+## Pengaturan
 
 Hal yang dilakukan ketika pertama kali untuk mengaktifkan modem ini adalah
 memasukkan SIM yang disediakan oleh XL. Langkah selanjutnya memasang baterai.
@@ -102,7 +102,7 @@ jaringan *wifi*. Kalau mau lebih aman ya *hide* SSID sehingga ketika kita mau
 yang kita setting tadi. Oh ya juga jangan lupa juga mengganti *password*
 ketika masuk ke *admin router.*
 
-### Kecepatan
+## Kecepatan
 
 Saya cukup puas dengan paket XL ini terutama dengan bonus yang diberikan.
 Jangkauan jaringan XL saat ini di Jogja juga sudah cukup baik.
