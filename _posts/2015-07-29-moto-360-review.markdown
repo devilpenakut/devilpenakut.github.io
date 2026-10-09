@@ -1,0 +1,71 @@
+---
+layout: post
+title: 'Moto 360 Review'
+date: '2015-07-29 13:32:29'
+tags:
+- review
+- smartwatch
+- android
+---
+
+> Jam Pintar dengan Desain Menarik
+
+### Hardware
+
+Motorola memang benar-benar membuat jam yang bisa disukai banyak orang. Terlalu elegan tidak, terlalu sporty juga tidak. Jadi berada ditengah-tengah.
+
+Body jam nya menggunakan bahan metal, sedang band nya menggunakan kulit. Bahan metal memang membuat gampang tergores tapi kalau dilihat menjadi tampak keren. Band kulit sangat nyaman dipakai. Halus, lembut, tapi tidak terlalu lemas. Bank kulit kelemahannya memang akan terlihat bekas penggunaan terutama tempat kunci nya yang tertekuk. Dimana bila terlalu lama maka bisa terkelupas.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/moto-360-review-m1.jpg)
+
+Ada satu tombol di sebelah kanan untuk menyalakan Moto 360 ini. Di update OS nya tombol kanan itu juga menjadi sortcut untuk mengaktifkan ‘Theatre Mode’ dimana notifikasi tetep masuk tapi layar tidak menyala.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/moto-360-review-m2.jpg)
+
+Layarnya cukup bagus, walau belum OLED. Dengan penggunaan watchface yang tepat bisa seperti menggunakan jam mahal beneran.
+
+Dibagian bawah ada sensor detak jantung dan disamping ada mic yang digunakan untuk perintah suara ‘ok Google’ dan membalas pesan menggunakan suara
+
+Baterai sebenernya tergantung user, mau dipakai dipegang disentuh terus-terus apa tidak. Kalau tidak dan penggunaan normal Moto 360 bisa bertahan pagi sampai sore/malam. Tapi kalau dimainkan terus ya sehari bisa charge dua kali. Satu hari charge menurut saya masih wajar.
+
+**Nilai 9/10**
+
+### Software
+
+Android Wear, OS yang digunakan pada Moto 360 ini memang masih terus dilakukan pengambangan. Pada saat awal penggunaan saya langsung mendapat dua kali update, pertama ke 5.0.2 dan yang kedua ke 5.1.1. Perubahan dalam hal UI dan UX memang membuat Android Wear ini semakin baik
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/moto-360-review-m3.jpg)
+
+Lag kadang memang terasa di Moto 360 ini, ya karena processor nya yang memang sudah tua, tapi lag itu masih dalam taraf sangat wajar. Buka notifikasi, buka aplikasi bisa berjalan dengan lancar.
+
+Notifikasi karena mengadopsi Android maka apa yang didapat untuk ‘actionable notification’ di ponsel Android juga bisa didapatkan di Moto 360 ini. Reply, Dismiss, Open in Phone, bahkan untuk email ada pilihan Archive, Delete, Read. Standar notifikasi Android.
+
+Perintah suara saya rasa cukup bagus ketika menjawab pesan, namun untuk ‘ok Google’ sepertinya tidak berjalan dengan lancar. Harusnya ketika dalam keadaan mati lalu kita bicara ‘ok Google’ maka jam ini akan menyala dan masuk ke mode search. Tapi beneran susah dalam kenyataannya. Mungkin karena aksen. Entahlah.
+
+![](https://res.cloudinary.com/setanwedinan/image/upload/f_auto,q_auto,c_limit,w_1400/devilpenakut/moto-360-review-m4.jpg)
+
+Ketika sudah masuk ke mode search atau dalam menjawab pesan, penggunaan bahasa Indonesia bisa dijalankan dengan lancar. Software bisa menerjemahkan ucapan saya kedalam tulisan atau perintah dengan baik.
+
+Watchface, sangat bagus. Untuk default bawaan dari Motorola-nya saja sudah cukup lengkap dan bagus. Apalagi ditambah dengan watchface pihak ketika. Bikin Moto 360 makin keren.
+
+Ada beberapa glitz lain yang kadang saya temui selain ‘ok google’ tadi, notifikasi tiba-tiba hilang semua, tiba-tiba menjadi silent atau priority. Tapi tidak terlalu sering.
+
+**Nilai 8/10**
+
+### Aplikasi
+
+Aplikasi yang dipakai pastinya Android Wear dan Motorola Connect. Motorola connect digunakan untuk fungsi tambahan dari Motorola misal untuk aplikasi kesehatan nya.
+
+Proses koneksi dari ponsel ke Moto 360 berjalan lancar. Nyalakan Android Wear app, disuruh nyalakan Bluetooth kalau belum nyala. Lalu dia akan mencari Android Wear device. Setelah ketemu sudah deh terjalin kasih sayang,eh,koneksi.
+
+Berbeda dengan Pebble yang membutuhkan aplikasi tambahan untuk Pebble device, untuk Moto 360 ini aplikasi yang sudah ada di ponsel Android, yang tentunya sudah support Android wear, akan tampil juga di daftar aplikasi di Moto 360.
+
+Nah untuk aplikasi yang belum support maka kita bisa cari di play store untuk mendukung aplikasi di Moto 360/Android Wear.
+
+**Nilai 8/10**
+
+### Kesimpulan
+
+Moto 360 merupakan jam pintar yang cantik dan ganteng (biar adil). Walau secara software dan hardware ada beberapa kekurangan namun hal tersebut tidak terlalu mengganggu.
+
+**Nilai Total 8.3/10**
