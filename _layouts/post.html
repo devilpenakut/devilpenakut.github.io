@@ -7,7 +7,7 @@ layout: default
     <h1 class="headline{% if page.title.size > 60 %} headline--long{% endif %}">{{ page.title }}</h1>
     <p class="byline">
       {% include tanggal.html date=page.date %}
-      {%- for tag in page.tags -%}{% unless tag contains "hash-" %}<span class="tag">{{ tag | replace: "-2", "" | replace: "-", " " }}</span>{% endunless %}{%- endfor -%}
+      {%- for tag in page.tags -%}{% unless tag contains "hash-" %}{% assign nama = tag | replace: "-2", "" | replace: "-", " " %}{% if site.tags[tag].size > 1 %}<a class="tag" href="{{ site.baseurl }}/topik/#{{ tag }}">{{ nama }}</a>{% else %}<span class="tag">{{ nama }}</span>{% endif %}{% endunless %}{%- endfor -%}
     </p>
   </header>
 
@@ -34,6 +34,31 @@ layout: default
   {% endif %}
 
   <p class="discuss">Ada pertanyaan atau masukan? Ngobrol di <a href="https://x.com/{{ site.footer-links.twitter }}">X</a> atau <a href="https://www.threads.com/@{{ site.footer-links.threads }}">Threads</a>.</p>
+
+  {% capture judul %}{{ page.title | cgi_escape }}{% endcapture %}
+  <p class="share">Bagikan tulisan ini ke
+    <a href="https://www.threads.com/intent/post?text={{ judul }}%20{{ site.url | append: page.url | append: '?utm_source=threads&utm_medium=share' | cgi_escape }}" target="_blank" rel="noopener">Threads</a> atau
+    <a href="https://x.com/intent/post?text={{ judul }}&amp;url={{ site.url | append: page.url | append: '?utm_source=x&utm_medium=share' | cgi_escape }}" target="_blank" rel="noopener">X</a>.</p>
+
+  {%- comment -%} Tulisan terkait: tag spesifik (≤15 post) dulu, baru tag umum seperti "opini". {%- endcomment -%}
+  {%- assign rel = "" | split: "" -%}
+  {%- capture sudah -%}|{{ page.url }}|{% if page.previous %}{{ page.previous.url }}|{% endif %}{% if page.next %}{{ page.next.url }}|{% endif %}{%- endcapture -%}
+  {%- for putaran in (1..2) -%}{%- if putaran == 1 -%}{%- assign batas = 15 -%}{%- else -%}{%- assign batas = 1000 -%}{%- endif -%}
+    {%- for tag in page.tags -%}{%- unless tag contains "hash-" -%}{%- if site.tags[tag].size <= batas -%}
+      {%- for p in site.tags[tag] -%}
+        {%- capture kunci -%}|{{ p.url }}|{%- endcapture -%}
+        {%- if rel.size < 3 -%}{%- unless sudah contains kunci -%}
+          {%- assign rel = rel | push: p -%}{%- capture sudah -%}{{ sudah }}{{ p.url }}|{%- endcapture -%}
+        {%- endunless -%}{%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}{%- endunless -%}{%- endfor -%}
+  {%- endfor -%}
+  {% if rel.size > 0 %}
+  <nav class="related" aria-label="Tulisan terkait">
+    <p class="related-title">Tulisan terkait</p>
+    <ul>{% for p in rel %}<li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a> <span>{{ p.date | date: "%Y" }}</span></li>{% endfor %}</ul>
+  </nav>
+  {% endif %}
 
   <p class="to-top"><a href="#main"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M8 13V3M3.5 7.5 8 3l4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>Kembali ke atas</a></p>
 

@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "broken-image",
+        "value": "*",
+        "files": [
+          "_layouts/post.html"
+        ],
+        "createdAt": "2026-10-11T03:51:41.581Z",
+        "reason": "Claude: match is the Liquid replace string '<img ' that adds loading=lazy, not a real img tag"
+      }
+    ]
+  }
+}

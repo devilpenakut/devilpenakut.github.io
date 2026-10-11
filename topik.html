@@ -1,0 +1,18 @@
+---
+layout: page
+title: Topik
+permalink: /topik/
+---
+
+{%- comment -%} Hanya topik yang punya 2 tulisan atau lebih. {%- endcomment -%}
+{% assign semua = site.tags | sort %}
+<ul class="topik-daftar">
+{%- for t in semua -%}{%- unless t[0] contains "hash-" -%}{%- if t[1].size > 1 -%}
+  <li><a href="#{{ t[0] }}">{{ t[0] | replace: "-2", "" | replace: "-", " " }}</a> <span>{{ t[1].size }}</span></li>
+{%- endif -%}{%- endunless -%}{%- endfor -%}
+</ul>
+
+{% for t in semua %}{% unless t[0] contains "hash-" %}{% if t[1].size > 1 %}
+<h2 id="{{ t[0] }}">{{ t[0] | replace: "-2", "" | replace: "-", " " }}</h2>
+<ul>{% for p in t[1] %}<li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a> · {{ p.date | date: "%Y" }}</li>{% endfor %}</ul>
+{% endif %}{% endunless %}{% endfor %}
