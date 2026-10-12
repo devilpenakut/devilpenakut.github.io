@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ide itu mahal, apalagi di zaman AI'
-date: '2026-10-13 09:00:00'
+date: '2026-10-13 00:30:00 +0700'
 tags:
 - opini
 - ai
