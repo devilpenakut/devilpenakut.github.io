@@ -2,14 +2,11 @@
 layout: post
 title: 'VoiceStudio: lima detik suara saya bikin penasaran'
 date: '2026-10-13 09:00:00 +0700'
-published: false
 tags:
 - panduan
 - ai
 - aplikasi
 ---
-
-<!-- Draft untuk ditinjau. Tanggal terbit sementara; sesuaikan saat publikasi. -->
 
 Saya baru menginstal VoiceStudio, dan yang bikin kagum justru hal kecil: sampel suara saya yang cuma lima detik.
 
