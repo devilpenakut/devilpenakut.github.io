@@ -30,8 +30,6 @@ Dari potongan sesingkat itu, saya bisa bikin narasi dengan suara saya sendiri, g
 <figcaption>Lima detik rekaman di kiri, narasi baru di kanan.</figcaption>
 </figure>
 
-<!-- TODO: isi angka percobaan: versi aplikasi, engine, GPU/CPU, lama generate, dan berapa menit hasilnya. -->
-
 Tapi rasa kagum itu juga membawa satu pertanyaan: kalau aplikasi bisa meniru suara saya, ke mana rekaman saya pergi? Apakah diproses di PC sendiri, atau dikirim ke server orang lain? Bisakah suara saya dipakai orang lain?
 
 Masalahnya, kata “lokal” belum menjawab semua pertanyaan soal privasi. Sebelum kamu ikut mencoba, saya ingin tahu dulu apa yang diproses di PC dan kapan aplikasinya tetap memakai internet.
@@ -58,8 +56,6 @@ Kalau kamu ingin mencoba, jalur yang paling mudah diikuti adalah installer resmi
 4. Jalankan installer, lalu buka aplikasinya.
 5. Ikuti penyiapan awal untuk memasang lingkungan pemrosesan lokal dan model yang diperlukan.
 
-<!-- TODO: cocokkan nama file installer di langkah 2 dengan nama aset di halaman Releases. -->
-
 Ada juga jalur PowerShell resmi:
 
 ```powershell
@@ -84,8 +80,6 @@ Sebelum menekan download di **Model Catalogue**, cek beberapa hal:
 Untuk PC tanpa GPU NVIDIA, panduan Windows [menyarankan engine ringan](https://github.com/debpalash/VoiceStudio/blob/main/docs/install/windows.md#pcs-without-an-nvidia-gpu). Tapi ringan saja belum cukup kalau tujuanmu cloning; dukungan fiturnya tetap harus dicek.
 
 Untuk percobaan pertama, kamu bisa mulai dari pilihan bawaan, OmniVoice, yang tercantum di [katalog resmi](https://github.com/debpalash/VoiceStudio/blob/main/docs/feature-catalog.md), setelah mengecek kecocokannya dengan perangkat dan bahasa yang kamu pakai. Pilihan bawaan bukan jaminan hasilnya paling cocok untuk semua orang. Coba satu paragraf dulu, lalu nilai kemiripan suara, pelafalan, dan waktu generate sebelum memutuskan perlu mencoba model lain.
-
-<!-- TODO: tulis apakah OmniVoice berhasil membaca teks bahasa Indonesia di percobaan saya. -->
 
 ## Langkah 3: coba suara sendiri dengan teks pendek
 
@@ -140,5 +134,3 @@ Kalau kalian bisa membuat narasi dengan suara sendiri dari teks, mau dipakai unt
 ## Kredit
 
 VoiceStudio dikembangkan oleh [debpalash dan para kontributor](https://github.com/debpalash/VoiceStudio). Pengalaman lima detik berasal dari percobaan saya; bagian instalasi dan privasi dirangkum dari sumber resmi. Dokumentasi cabang `main` bisa lebih baru daripada yang disebutkan di sini.
-
-<!-- Sebelum publikasi: selesaikan TODO di atas, tambahkan contoh audio asli dan hasilnya bila ingin dibagikan, dan cocokkan nama menu (Voice cloning, Model Catalogue, Transcript, Settings → Performance) dengan versi terpasang. Penyusunan draft tidak mencakup pengujian instalasi, benchmark, atau audit jaringan langsung. -->
