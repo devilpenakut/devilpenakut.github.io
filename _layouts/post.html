@@ -29,7 +29,7 @@ layout: default
   </div>
   {% else %}
   <div class="entry">
-    {{ content | replace: '<img ', '<img loading="lazy" decoding="async" ' | replace_first: '<img loading="lazy" ', '<img fetchpriority="high" ' }}
+    {{ content | remove: ' loading="lazy"' | replace: '<img ','<img loading="lazy" decoding="async" ' | replace_first: '<img loading="lazy" ', '<img fetchpriority="high" ' }}
   </div>
   {% endif %}
 
